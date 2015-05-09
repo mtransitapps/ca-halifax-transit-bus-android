@@ -172,7 +172,7 @@
 6175,'6175','St Margarets Bay Rd / Clearwater Dr',44.650944,-63.722794
 6176,'6176','St Margarets Bay Rd / Devonshire Dr',44.651218,-63.723522
 6177,'6177','St Margarets Bay Rd / Donovon Dr',44.639675,-63.705498
-6178,'6178','St Margarets Bay Rd / Governor''S Lake Rd',44.642475,-63.707287
+6178,'6178','St Margarets Bay Rd / Governor''s Lake Rd',44.642475,-63.707287
 6179,'6179','St Margarets Bay Rd / Sheppards Run',44.635818,-63.677128
 6180,'6180','St Margarets Bay Rd / Raines Mills Rd',44.637959,-63.69384
 6181,'6181','1440, St Margarets Bay Rd',44.637756,-63.694252
@@ -306,7 +306,7 @@
 6317,'6317','Brentwood Ave / St Margarets Bay Rd',44.654671,-63.733688
 6318,'6318','52, Brentwood Ave',44.653412,-63.73555
 6319,'6319','Broadholme Ln / Kearney Lake Rd',44.683674,-63.673592
-6320,'6320','Broadholme Ln / O''Hara Dr',44.682526,-63.671909
+6320,'6320','Broadholme Ln / O''hara Dr',44.682526,-63.671909
 6321,'6321','Brookfield Ave / Caldwell Rd',44.651428,-63.485104
 6322,'6322','Brookfield Ave / Willowdale Dr',44.652645,-63.483532
 6323,'6323','202 , Brownlow Ave',44.698395,-63.580662
@@ -536,7 +536,7 @@
 6551,'6551','94, Dartmouth Rd',44.728222,-63.646423
 6552,'6552','Dartmouth Rd / Eaglewood Dr',44.726418,-63.643677
 6553,'6553','Dartmouth Rd / North St',44.730419,-63.655663
-6554,'6554','Dartmouth Rd / O''Brine St',44.728214,-63.64941
+6554,'6554','Dartmouth Rd / O''brine St',44.728214,-63.64941
 6555,'6555','Dartmouth Rd / Dartmour Cr',44.72813,-63.646374
 6556,'6556','Dartmouth Rd / Ridgevale Dr',44.728386,-63.649559
 6557,'6557','Dartmouth Rd / Wardoor St',44.730259,-63.655842
@@ -560,7 +560,7 @@
 6576,'6576','Dorothea Dr / Regal Rd',44.67733,-63.514988
 6577,'6577','Downs Ave / Winter St',44.642899,-63.634129
 6578,'6578','Downs Ave / Milsom St',44.641651,-63.636845
-6579,'6579','Downsview / Wendy''S',44.771423,-63.693176
+6579,'6579','Downsview / Wendy''s',44.771423,-63.693176
 6580,'6580','Duffus St / Barrington St',44.670746,-63.60186
 6581,'6581','Duffus St / Isleville St',44.666641,-63.607098
 6582,'6582','Duffus St / Novalea Dr',44.667652,-63.605747
@@ -1137,7 +1137,7 @@
 7174,'7174','Main St / Mic Mac Parclo',44.68153,-63.541977
 7175,'7175','Main St / Major St',44.681892,-63.540161
 7176,'7176','Flamingo Dr / Swallow St',44.672428,-63.652382
-7177,'7177','Manor Dr / Peddar''S Way',44.669514,-63.543926
+7177,'7177','Manor Dr / Peddar''s Way',44.669514,-63.543926
 7178,'7178','67, Maplewood Ave',44.655067,-63.739319
 7179,'7179','Maplewood Ave / Eisener St',44.655113,-63.739117
 7180,'7180','Maplewood Ave / Norway Maple Dr',44.656082,-63.737453
@@ -1394,10 +1394,10 @@
 7438,'7438','51, Parkland Dr',44.659927,-63.670013
 7439,'7439','46, Pearl Dr',44.646572,-63.47562
 7440,'7440','Atholea Dr / Caldwell Rd',44.644726,-63.47987
-7441,'7441','Peddar''S Way / Bow St',44.670193,-63.544117
-7442,'7442','Peddar''S Way / Bow St',44.67028,-63.544052
-7443,'7443','47, Peddar''S Way',44.672031,-63.544907
-7444,'7444','47, Peddar''S Way',44.672092,-63.544754
+7441,'7441','Peddar''s Way / Bow St',44.670193,-63.544117
+7442,'7442','Peddar''s Way / Bow St',44.67028,-63.544052
+7443,'7443','47, Peddar''s Way',44.672031,-63.544907
+7444,'7444','47, Peddar''s Way',44.672092,-63.544754
 7445,'7445','Penhorn Terminal Metrolink',44.670776,-63.53809
 7446,'7446','Penhorn Terminal',44.670631,-63.538811
 7447,'7447','Pettipas Dr / Vidito Dr',44.711987,-63.610306
@@ -1535,12 +1535,12 @@
 8011,'8011','Pleasant St / Everette St',44.644451,-63.541286
 8012,'8012','Pleasant St / Howard Ave',44.623299,-63.510181
 8013,'8013','Pleasant St / Imperial Refn',44.641171,-63.534054
-8014,'8014','Pleasant St / Langille''S Lane',44.61417,-63.49741
+8014,'8014','Pleasant St / Langille''s Lane',44.61417,-63.49741
 8015,'8015','Pleasant St / Legion',44.616924,-63.500397
 8016,'8016','61, Pleasant St / Portland St',44.668045,-63.559071
 8017,'8017','Pleasant St / Nova Scotia Hospital',44.651722,-63.547382
 8018,'8018','Pleasant St / Nsp Sub Station',44.62957,-63.519402
-8019,'8019','Pleasant St / Shearwater Pmq''S',44.631687,-63.521645
+8019,'8019','Pleasant St / Shearwater Pmq''s',44.631687,-63.521645
 8020,'8020','Lake Major Rd / Hwy #7',44.703896,-63.467102
 8021,'8021','Point Pleasant Dr / Young St',44.627003,-63.571716
 8022,'8022','Point Pleasant Dr / Young St',44.626621,-63.572784
@@ -1638,7 +1638,7 @@
 8120,'8120','251, Purcells Cove Rd',44.623169,-63.599346
 8121,'8121','291, Purcells Cove Rd',44.62376,-63.594772
 8122,'8122','85, Purcells Cove Rd',44.633808,-63.615307
-8123,'8123','Purcells Cove Rd / Devil''S Hill Rd',44.60136,-63.561581
+8123,'8123','Purcells Cove Rd / Devil''s Hill Rd',44.60136,-63.561581
 8124,'8124','Purcells Cove Rd / Ferguson Cove Rd',44.606861,-63.563885
 8125,'8125','Purcells Cove Rd / Rnsys',44.620594,-63.582588
 8126,'8126','Quarry Rd / St Margarets Bay Rd',44.636421,-63.63134
@@ -1771,7 +1771,7 @@
 8271,'8271','Shore Rd / Romkey Dr',44.603527,-63.473415
 8273,'8273','1992, Shore Rd',44.602699,-63.471642
 8274,'8274','Shore Rd / Himmelman Dr',44.601254,-63.469185
-8275,'8275','Shore Rd / Quigley''S Corner',44.609806,-63.492531
+8275,'8275','Shore Rd / Quigley''s Corner',44.609806,-63.492531
 8276,'8276','1638, Shore Rd',44.607327,-63.490093
 8277,'8277','Shore Rd / Normans Lane',44.606205,-63.488235
 8278,'8278','Shrewsbury Rd / Huntington Dr',44.650928,-63.48074
@@ -1843,8 +1843,8 @@
 8346,'8346','24, Springvale Ave',44.646435,-63.632702
 8347,'8347','48, Springvale Ave',44.645794,-63.63483
 8348,'8348','Springvale Ave / Winter St',44.645546,-63.635616
-8349,'8349','104, St Paul''S Ave',44.570934,-63.562035
-8350,'8350','St Paul''S Ave / Vestry St',44.669334,-63.607456
+8349,'8349','104, St Paul''s Ave',44.570934,-63.562035
+8350,'8350','St Paul''s Ave / Vestry St',44.669334,-63.607456
 8351,'8351','Starboard Dr / Brigadier Ct',44.697342,-63.667248
 8352,'8352','Starboard Dr / Larry Uteck Blvd',44.697189,-63.66721
 8353,'8353','Stokil Dr / Beaver Bank Rd',44.790134,-63.691685
@@ -2340,7 +2340,7 @@
 8882,'8882','Larry Uteck Blvd / Starboard',44.699417,-63.667999
 8883,'8883','University Ave / Robie St',44.638134,-63.585026
 8884,'8884','5234, Morris St',44.641224,-63.572906
-8885,'8885','Morris St / O''Brien Hall',44.641464,-63.57254
+8885,'8885','Morris St / O''brien Hall',44.641464,-63.57254
 8886,'8886','Gary Martin Dr / Hammonds Plains Rd',44.726387,-63.703152
 8887,'8887','Gary Martin Dr / Hammonds Plains Rd',44.726551,-63.702801
 8889,'8889','Acadia St / Ragus Rd',44.656834,-63.545868
@@ -2397,7 +2397,7 @@
 9003,'9003','Aerotech Drive / Pratt And Whitney Dr',44.856224,-63.54406
 9004,'9004','Aerotech Drive / Pratt And Whitney Dr',44.85638,-63.544086
 9005,'9005','Millwood Dr / Millwood High',44.790592,-63.709187
-9006,'9006','Lower Water / Keith''S Brewery',44.644341,-63.569881
+9006,'9006','Lower Water / Keith''s Brewery',44.644341,-63.569881
 9011,'9011','Barnes Dr / Baldwin Dr',44.873165,-63.527603
 9012,'9012','Barnes Dr / Baldwin Dr',44.873264,-63.527798
 9013,'9013','Barnes Dr / Park And Fly Lot',44.875927,-63.524643
