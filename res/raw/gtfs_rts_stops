@@ -1,8 +1,4 @@
-1002,'1002','Hwy 101 / Magazine Hill / Bedford Bypass',44.726395,-63.642265
-1112,'1112','Prince Albert Rd / Celtic Dr',44.678875,-63.552429
-1125,'1125','Ragger Lake Transit Center Ramp',44.631912,-63.669395
 1126,'1126','Temp Ragged Lake Transit Cntr To Mumford',44.630165,-63.669228
-5916,'5916','Massachusetts / Lady Hammond',44.664833,-63.616199
 6000,'6000','Akerley Blvd / Burnside Dr',44.714821,-63.589775
 6001,'6001','95, Akerley Blvd',44.713818,-63.593662
 6002,'6002','Akerley Blvd / Joe Zatzman Ave',44.711449,-63.600536
@@ -106,7 +102,6 @@
 6105,'6105','Barrington St / Duke St',44.649757,-63.575546
 6106,'6106','Barrington St / George St',44.648411,-63.574604
 6107,'6107','Barrington St / Fleetclub',44.660114,-63.589634
-6108,'6108','Barrington St / Prince St',44.647335,-63.574303
 6109,'6109','Barrington St / Hanover St',44.66671,-63.597088
 6110,'6110','Barrington St / Hanover St',44.666676,-63.596874
 6111,'6111','Barrington St / Inglis St',44.636391,-63.569614
@@ -531,6 +526,7 @@
 6545,'6545','Cunard St / Hunter St',44.650295,-63.594128
 6546,'6546','Cunard St / Robie St',44.65097,-63.590237
 6547,'6547','Cutter Dr / Starboard Dr',44.695862,-63.671875
+6548,'6548','Chain Lake Dr / Otter Lake Crt',44.645676,-63.669617
 6549,'6549','Innovation Dr / Gary Martin Dr',44.723747,-63.703636
 6550,'6550','128, Dartmouth Rd',44.726551,-63.643574
 6551,'6551','94, Dartmouth Rd',44.728222,-63.646423
@@ -1237,6 +1233,7 @@
 7275,'7275','Mumford Rd / Chebucto Rd',44.645603,-63.615288
 7276,'7276','Mumford Rd / Chebucto Rd',44.645645,-63.615364
 7277,'7277','Mumford Rd / Olivet St',44.649483,-63.624313
+7278,'7278','331, Kearney Lake Rd',44.693249,-63.68935
 7279,'7279','Mumford Rd / Helmock St',44.649055,-63.626698
 7280,'7280','Mumford Rd / Ashburn Ave',44.649014,-63.627724
 7281,'7281','Mumford Rd / Ralston Ave',44.649529,-63.624264
@@ -1328,6 +1325,7 @@
 7369,'7369','Novalea Dr / Duffus St',44.667259,-63.605927
 7370,'7370','Novalea Dr / Duffus St',44.667435,-63.606373
 7371,'7371','Novalea Dr / Leeds St',44.670536,-63.610882
+7372,'7372','327, Kearney Lake Rd',44.693558,-63.690624
 7373,'7373','Novalea Dr / Vestry St',44.668697,-63.607803
 7374,'7374','Novalea Dr / Cabot Place',44.666424,-63.604561
 7376,'7376','Novalea Dr / Leeds St',44.670448,-63.610447
@@ -1379,7 +1377,6 @@
 7423,'7423','Oxford St / Young St',44.654369,-63.609966
 7424,'7424','512, Parkland Dr',44.671658,-63.676117
 7425,'7425','Parkland Dr / Carlina Ct',44.674179,-63.676121
-7426,'7426','Parkland Dr / Heathside Cr',44.673439,-63.675838
 7427,'7427','51, Parkland Dr',44.659546,-63.66967
 7428,'7428','Parkland Dr / Farnham Gate Rd',44.670513,-63.676075
 7429,'7429','Parkland Dr / Langbrae Dr',44.665524,-63.672176
@@ -1643,6 +1640,8 @@
 8125,'8125','Purcells Cove Rd / Rnsys',44.620594,-63.582588
 8126,'8126','Quarry Rd / St Margarets Bay Rd',44.636421,-63.63134
 8127,'8127','Windmill Rd / Best St',44.667469,-63.580658
+8128,'8128','Beaverbank Rd / Birch Rd',44.864365,-63.689301
+8129,'8129','Beaverbank Rd / Birch Rd',44.864899,-63.689312
 8130,'8130','Quinpool Rd / Horseshoe Island',44.640305,-63.613693
 8131,'8131','Quinpool Rd / South Armcrescent St',44.64196,-63.608833
 8132,'8132','Quinpool Rd / Armdale Rotary',44.641323,-63.619808
@@ -1851,6 +1850,7 @@
 8354,'8354','Stokil Dr / Grennan Dr',44.787449,-63.687714
 8355,'8355','Stokil Dr / Sampson Dr',44.785725,-63.685867
 8356,'8356','Stokil Dr / Grennan Dr',44.788136,-63.688148
+8357,'8357','Stokil Dr / Beaver Bank Rd',44.79002,-63.690933
 8358,'8358','Stokil Dr / Smokey Dr',44.785782,-63.686234
 8359,'8359','Stokil Dr / Spinner Cr',44.784016,-63.682076
 8360,'8360','Stokil Dr / Saratoga Dr',44.783928,-63.680946
@@ -1872,7 +1872,6 @@
 8379,'8379','192, Taranaki Dr',44.693558,-63.49469
 8380,'8380','278, Taranaki Dr',44.690754,-63.49398
 8381,'8381','171, Taranaki Dr',44.694466,-63.494549
-8382,'8382','Highfield Terminal Exit / Pinecrest Dr',44.684238,-63.588165
 8383,'8383','Thistle St / Beech St',44.674667,-63.56778
 8384,'8384','Thistle St / Chrichton Pk Rd',44.677689,-63.565147
 8385,'8385','Thistle St / Maple St',44.673515,-63.569035
@@ -2067,6 +2066,7 @@
 8581,'8581','Woodland Ave / Laurier St',44.681709,-63.574631
 8582,'8582','Woodland Ave / Laurier St',44.681839,-63.574211
 8583,'8583','Woodland Ave / Pine Hill Rd',44.68066,-63.575974
+8584,'8584','Woodland Ave / Sheridan St',44.679752,-63.577118
 8585,'8585','Woodland Ave / Slayter St',44.677803,-63.579529
 8586,'8586','Woodland Ave / Frederick St',44.680546,-63.575859
 8587,'8587','Woodland Ave / Slayter St',44.677711,-63.57938
@@ -2155,8 +2155,6 @@
 8680,'8680','Spring Ave / Clysdale Dr',44.672119,-63.518318
 8681,'8681','21, Glendale Ave',44.759045,-63.658707
 8682,'8682','Glendale Ave / Estates Rd',44.758549,-63.65353
-8687,'8687','160 To Sackville Terminal, Cobequid Rd',44.757957,-63.661491
-8688,'8688','112 To Sackville Terminal, Cobequid Rd',44.756187,-63.662071
 8691,'8691','127, Chain Lake Dr',44.640961,-63.660412
 8692,'8692','Parkland Dr / Castlepark Grove',44.682201,-63.677834
 8693,'8693','Young St / Robie St',44.65979,-63.602291
@@ -2438,7 +2436,6 @@
 9061,'9061','Albemarle St / Duke St (Metrox)',44.649933,-63.577614
 9066,'9066','Baker Dr / Lindenwood',44.661205,-63.530254
 9067,'9067','Baker Dr / Lindenwood',44.66135,-63.530064
-9070,'9070','Findlay Dr / Wright Ave',44.709255,-63.565815
 9073,'9073','36, Kelly St',44.633095,-63.628826
 9074,'9074','Kelly St / Halef Crt',44.633148,-63.628742
 9076,'9076','Tacoma Dr / Valleyfield',44.680428,-63.536716

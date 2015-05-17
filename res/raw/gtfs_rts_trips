@@ -1,75 +1,71 @@
 101,0,'Bridge Terminal',1
-100,0,'Mumford',1
+100,0,'Mumford Terminal',1
 200,0,'Downtown',2
 201,0,'Wedgewood',2
 400,0,'Downtown',4
-401,0,'Farnham Gate',4
+401,0,'Farnham Gt',4
 500,0,'Downtown',5
 501,0,'Springvale',5
 600,0,'Downtown',6
 601,0,'Stonehaven',6
 701,0,'Gottingen',7
 700,0,'Robie',7
-900,0,'Mumford',9
-901,0,'Point Pleasant',9
+900,0,'Mumford Terminal',9
+901,0,'Pt Pleasant',9
 1000,0,'Dalhousie',10
 1001,0,'Westphal',10
 1101,0,'Bridge Terminal',11
 1100,0,'Dockyard',11
 1400,0,'Dalhousie',14
-1401,0,'Scotia Square',14
+1401,0,'Scotia Sq',14
 1500,0,'Mumford',15
-1501,0,'Purcell''s Cove',15
+1501,0,'Purcell''s Cv',15
 1601,0,'Bridge Terminal',16
 1600,0,'Lacewood',16
-1700,0,'Lacewood',17
+1700,0,'Lacewood Terminal',17
 1701,0,'Saint Mary''s',17
-1800,0,'Lacewood',18
+1800,0,'Lacewood Terminal',18
 1801,0,'Universities',18
 1901,0,'Greystone',19
-1900,0,'Mumford',19
-2001,0,'Herring Cove',20
+1900,0,'Mumford Terminal',19
+2001,0,'Herring Cv',20
 2000,0,'Mumford-Downtown',20
 2100,0,'Lacewood-Halifax',21
 2101,0,'Timberlea',21
-2201,0,'Exhibition Park',22
+2201,0,'Exhibition Pk',22
 2200,0,'Mumford',22
 2300,0,'Mumford-Halifax',23
 2301,0,'Timberlea',23
-3101,0,'Lacewood',31
-3100,0,'Summer Street',31
-3200,0,'Scotia Square',32
-3201,0,'South Centre',32
+3101,0,'Lacewood Terminal',31
+3100,0,'Summer St',31
+3200,0,'Scotia Sq',32
+3201,0,'South Ctr',32
 3300,0,'Downtown',33
-3301,0,'Hubley Centre',33
+3301,0,'Hubley Ctr',33
 3401,0,'Glenbourne Express',34
-3400,0,'Summer Street',34
-3501,0,'Lacewood',35
-3500,0,'Train Station',35
-4101,0,'Bridge Terminal',41
-4100,0,'Dalhousie',41
-4201,0,'Dalhousie',42
-4200,0,'Lacewood',42
+3400,0,'Summer St',34
+3501,0,'Lacewood Terminal',35
+3500,0,'Train Sta',35
 5100,0,'Bridge Terminal',51
 5101,0,'Ocean Breeze-Burnside',51
 5201,0,'Bridge Terminal-Burnside',52
-5200,0,'Lacewood-Chain Lake Drive',52
+5200,0,'Lacewood-Chain Lk Dr',52
 5300,0,'Bridge Terminal-Halifax',53
 5301,0,'Highfield Terminal',53
 5400,0,'Alderney',54
 5401,0,'Montebello',54
 5500,0,'Bridge Terminal',55
 5501,0,'Port Wallace',55
-5601,0,'Dartmouth Crossing',56
-5600,0,'Portland Hills',56
-5701,0,'Portland Hills',57
+5601,0,'Dartmouth Xing',56
+5600,0,'Portland Hls Terminal',56
+5701,0,'Portland Hls',57
 5700,0,'Woodside',57
 5800,0,'Bridge Terminal',58
 5801,0,'Woodlawn',58
 5900,0,'Bridge Terminal-Halifax',59
-5901,0,'Colby Village',59
+5901,0,'Colby Vlg',59
 6000,0,'Bridge Terminal',60
-6001,0,'Eastern Passage-Heritage Hills',60
+6001,0,'Eastern Passage-Heritage Hls',60
 6100,0,'Bridge Terminal-Halifax',61
 6101,0,'Forest Hills-North Preston',61
 6200,0,'Bridge Terminal',62
@@ -79,71 +75,71 @@
 6401,0,'Akerley',64
 6400,0,'Bridge Terminal',64
 6501,0,'Astral',65
-6500,0,'Portland Hills',65
-6601,0,'Gaston Road',66
+6500,0,'Portland Hls',65
+6601,0,'Gaston Rd',66
 6600,0,'Highfield-Cobequid',66
 6800,0,'Bridge Terminal',68
-6801,0,'Cherry Brook',68
+6801,0,'Cherry Brk',68
 7200,0,'Dartmouth Crossing',72
-7201,0,'Portland Hills',72
-7801,0,'Mount Edward Express',78
-7800,0,'Woodside Ferry Express',78
+7201,0,'Portland Hls',72
+7801,0,'Mt Edward Express',78
+7800,0,'Woodside Ferry',78
 7901,0,'Cole Harbour Express',79
 7900,0,'Woodside Ferry',79
 8000,0,'Halifax',80
-8001,0,'Sackville',80
-8100,0,'Downtown',81
+8001,0,'Sackville Terminal',80
+8100,0,'Downtown Halifax',81
 8101,0,'Hemlock Ravine',81
 8200,0,'Halifax',82
 8201,0,'Sackville Terminal',82
 8300,0,'Sackville Terminal',83
 8301,0,'Springfield',83
-8401,0,'Sackville',84
-8400,0,'Summer Street',84
+8401,0,'Sackville Term''l',84
+8400,0,'Summer St',84
 8501,0,'Sackville',85
-8500,0,'Summer Street',85
-8601,0,'Rockmanor Drive',86
+8500,0,'Summer St',85
+8601,0,'Rockmanor Dr',86
 8600,0,'Summer St',86
 8700,0,'Bridge Terminal',87
 8701,0,'Sackville Terminal',87
 8801,0,'Bedford Commons',88
 8800,0,'Cobequid Terminal',88
-8901,0,'Cobequid',89
-8900,0,'Lacewood',89
+8901,0,'Cobequid Terminal',89
+8900,0,'Lacewood Terminal',89
 9001,0,'Larry Uteck',90
 9000,0,'Water St Terminal',90
 15900,0,'Halifax',159
-15901,0,'Portland Hills',159
+15901,0,'Portland Hls',159
 18500,0,'Halifax',185
 18501,0,'Sackville',185
 32001,0,'Airport',320
-32000,0,'Downtown Halifax',320
-33000,0,'Halifax',330
+32000,0,'Halifax',320
+33000,0,'Albemarle St',330
 33001,0,'Tantallon',330
 37000,0,'Downtown Halifax',370
-37001,0,'Porters Lake',370
+37001,0,'Porters Lk',370
 40001,0,'Beaver Bank',400
 40000,0,'Sackville Terminal',400
-40101,0,'Porters Lake & Seaforth',401
-40100,0,'Portland Hills',401
+40101,0,'Porters Lk & Seaforth',401
+40100,0,'Portland Hls Terminal',401
 40201,0,'Sambro',402
-40200,0,'South Centre Mall',402
-10000101,0,'Clayton Park Junior High',100001
+40200,0,'South Ctr Mall',402
+10000101,0,'Clayton Pk Junior High',100001
 10000100,0,'Dunbrack St / Langbrae Dr',100001
 10000201,0,'Mumford Terminal',100002
-10000200,0,'Ragged Lake Transit Centre',100002
+10000200,0,'Ragged Lake Transit Ctr',100002
 10000301,0,'Dartmouth Bridge Terminal',100003
 10000300,0,'Ilsley Ave',100003
 10000401,0,'Halifax West High School',100004
 10000400,0,'Mumford Terminal',100004
 10000501,1,'E',100005
 10000502,1,'W',100005
-10001401,0,'Herring Cove Rd',100014
+10001401,0,'Herring Cv Rd',100014
 10001400,0,'Mumford Terminal',100014
 10005300,0,'Dartmouth High School',100053
 10005301,0,'Highfield Terminal',100053
 10005800,0,'Prince Andrew High School',100058
-10006500,0,'Astral Junior High Sch',100065
+10006500,0,'Astral Junior High School',100065
 10010100,0,'Fairview Junior High School',100101
 10010101,0,'Parkland Dr',100101
 10010601,0,'School Special',100106
