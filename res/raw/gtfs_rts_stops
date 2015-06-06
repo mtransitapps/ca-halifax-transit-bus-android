@@ -1,4 +1,3 @@
-1126,'1126','Temp Ragged Lk Transit Cntr To Mumford',44.630165,-63.669228
 6000,'6000','Akerley Blvd / Burnside Dr',44.714821,-63.589775
 6001,'6001','95, Akerley Blvd',44.713818,-63.593662
 6002,'6002','Akerley Blvd / Joe Zatzman Ave',44.711449,-63.600536
@@ -101,7 +100,6 @@
 6104,'6104','Barrington St / Cornwallis St',44.654068,-63.58189
 6105,'6105','Barrington St / Duke St',44.649757,-63.575546
 6106,'6106','Barrington St / George St',44.648411,-63.574604
-6107,'6107','Barrington St / Fleetclub',44.660114,-63.589634
 6109,'6109','Barrington St / Hanover St',44.66671,-63.597088
 6110,'6110','Barrington St / Hanover St',44.666676,-63.596874
 6111,'6111','Barrington St / Inglis St',44.636391,-63.569614
@@ -544,6 +542,7 @@
 6563,'6563','Desmond Ave / Rear Entrance To Brsc',44.65451,-63.627884
 6564,'6564','Desmond Ave / Bayers Rd',44.654499,-63.628098
 6565,'6565','Desmond Ave / Scot St',44.656158,-63.627586
+6566,'6566','Inglis St / Mclean St',44.634541,-63.574966
 6567,'6567','Innovation Dr / Gary Martin Dr',44.723843,-63.703785
 6568,'6568','Valour Way - Dockyard 1st Stop',44.655708,-63.581364
 6569,'6569','Valour Way - Dockyard 1st Stop',44.659679,-63.587364
@@ -1033,7 +1032,7 @@
 7067,'7067','Lacewood Dr / Dunbrack St',44.663216,-63.654053
 7068,'7068','Lacewood Dr / Glenforest Dr',44.661144,-63.638283
 7069,'7069','Lacewood Dr / Gateway Rd',44.662971,-63.642937
-7070,'7070','Lacewood Dr / Radcliffe Dr',44.661598,-63.6628
+7070,'7070','Lacewood Dr / Radcliffe Dr',44.661644,-63.66283
 7071,'7071','Lacewood Dr / Radcliffe Dr',44.661087,-63.664402
 7072,'7072','Lacewood Dr / Willet St',44.662178,-63.658695
 7073,'7073','Lacewood Dr / Canada Games Ctr',44.659855,-63.665707
@@ -1105,7 +1104,7 @@
 7142,'7142','Leiblin Dr / Guildwood Cr',44.59877,-63.632706
 7143,'7143','Leiblin Dr / 2nd Juniper Cr',44.595203,-63.636829
 7144,'7144','Lemarchant St / South St',44.636543,-63.589779
-7145,'7145','Windmill Rd / Hare Ln',44.667465,-63.578201
+7145,'7145','Windmill Rd / Mott St',44.667465,-63.578201
 7146,'7146','Lexington Ave / Walnut Hall',44.701569,-63.537594
 7147,'7147','Hornes Rd / Cow Bay Rd',44.612522,-63.488064
 7148,'7148','62, Lucien Dr',44.680569,-63.508587
@@ -1152,6 +1151,7 @@
 7193,'7193','Meadowbrook Dr / Pleasant St',44.725834,-63.669807
 7194,'7194','Meadowbrook Dr / Pleasant St',44.725903,-63.670235
 7195,'7195','60, Meadowbrook Dr',44.72694,-63.673061
+7196,'7196','Windmill Rd / Hare Ln',44.667423,-63.576263
 7197,'7197','Victoria Rd / Shamrock',44.674507,-63.576153
 7198,'7198','Merrimac Dr / Forest Hls Pkwy',44.676884,-63.490902
 7199,'7199','Merrimac Dr / Silistria Dr',44.67593,-63.489796
@@ -1395,7 +1395,7 @@
 7442,'7442','Peddar''s Way / Bow St',44.67028,-63.544052
 7443,'7443','47, Peddar''s Way',44.672031,-63.544907
 7444,'7444','47, Peddar''s Way',44.672092,-63.544754
-7445,'7445','Penhorn Terminal Metrolink',44.670776,-63.53809
+7445,'7445','Penhorn Terminal',44.670776,-63.53809
 7446,'7446','Penhorn Terminal',44.670631,-63.538811
 7447,'7447','Pettipas Dr / Vidito Dr',44.711987,-63.610306
 7448,'7448','19, Pettipas Dr',44.710213,-63.612442
@@ -1846,7 +1846,7 @@
 8350,'8350','St Paul''s Ave / Vestry St',44.669334,-63.607456
 8351,'8351','Starboard Dr / Brigadier Ct',44.697342,-63.667248
 8352,'8352','Starboard Dr / Larry Uteck Blvd',44.697189,-63.66721
-8353,'8353','Stokil Dr / Beaver Bank Rd',44.790134,-63.691685
+8353,'8353','Stokil Dr / Beaver Bank Rd',44.789925,-63.691048
 8354,'8354','Stokil Dr / Grennan Dr',44.787449,-63.687714
 8355,'8355','Stokil Dr / Sampson Dr',44.785725,-63.685867
 8356,'8356','Stokil Dr / Grennan Dr',44.788136,-63.688148
@@ -2143,7 +2143,7 @@
 8668,'8668','535, Cow Bay Rd',44.61631,-63.466011
 8669,'8669','Samuel Danial Dr / Cow Bay Rd',44.617165,-63.464005
 8670,'8670','Melrose Cr / Samuel Danial Dr',44.615211,-63.462009
-8671,'8671','180, Melrose Cr',44.613022,-63.464809
+8671,'8671','Samuel Danial Dr / Melrose Cr',44.613022,-63.464809
 8672,'8672','Heritage Hls Dr / Serop Cr',44.611923,-63.468517
 8673,'8673','6, Heritage Hls Dr',44.613331,-63.470032
 8674,'8674','386, Cow Bay Rd',44.612259,-63.472836
@@ -2249,7 +2249,7 @@
 8786,'8786','4779, Hwy 7',44.742836,-63.300724
 8787,'8787','Hwy 7 / Cv Rd',44.747452,-63.299767
 8788,'8788','5072, Hwy 7',44.746403,-63.292133
-8789,'8789','Lakeview Shopping Ctr',44.744263,-63.283531
+8789,'8789','Lakeview Shopping Ctr',44.744122,-63.2836
 8790,'8790','7703, Hwy 207',44.737045,-63.275806
 8791,'8791','Hwy 207 / Les Collins',44.731987,-63.27269
 8792,'8792','Hwy 207 / Johnson Ave',44.729221,-63.270111
@@ -2404,7 +2404,6 @@
 9016,'9016','Dorothea Dr / Swanton Dr',44.677891,-63.5079
 9017,'9017','58, Dorothea Dr',44.676525,-63.505402
 9018,'9018','26, Dortohea Dr',44.67421,-63.503841
-9019,'9019','6050, Young St',44.659012,-63.603134
 9020,'9020','Lancaster Dr / St. Paul Ave',44.569363,-63.562489
 9021,'9021','Leiblin Dr / Sportsfield',44.600151,-63.630962
 9023,'9023','Bedford Hwy / Moirs Mill Rd',44.713749,-63.677414
@@ -2427,6 +2426,8 @@
 9040,'9040','Damascus Rd / Walmart',44.750355,-63.645641
 9041,'9041','Damascus Rd / Walmart',44.750095,-63.645504
 9042,'9042','Dutch Vlg Rd / Alma Cr',44.659275,-63.631207
+9050,'9050','Grassy Lk Dr / Rltc To Exhibition Pk',44.630161,-63.669228
+9051,'9051','Grassy Lk Dr / Rltc To Mumford',44.630165,-63.669231
 9052,'9052','Ragged Lk Transit Ctr',44.630165,-63.669365
 9053,'9053','Windmill Rd / Fernhill',44.681946,-63.596615
 9054,'9054','Kearney Lk Rd / Blue Mtn Rd',44.715462,-63.720165
