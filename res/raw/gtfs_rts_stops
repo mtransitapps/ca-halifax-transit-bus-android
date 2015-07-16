@@ -736,7 +736,7 @@
 6764,'6764','Glenforest Dr / Southill Dr',44.65863,-63.643593
 6765,'6765','Gloria Mccluskey Ave / Akerley Blvd',44.718098,-63.583153
 6766,'6766','80, Gloria Mccluskey Ave',44.719917,-63.586456
-6767,'6767','Gloria Mccluskey Ave / Colford Ave',44.719711,-63.589794
+6767,'6767','Colford Ave / Gloria Mccluskey Ave',44.719711,-63.589794
 6768,'6768','Gottingen St / Almon',44.660248,-63.595268
 6769,'6769','Gottingen St / North St',44.657761,-63.591732
 6770,'6770','Gottingen St / Young St',44.662216,-63.598549
@@ -2427,8 +2427,8 @@
 9041,'9041','Damascus Rd / Walmart',44.750095,-63.645504
 9042,'9042','Dutch Vlg Rd / Alma Cr',44.659275,-63.631207
 9050,'9050','Grassy Lk Dr / Rltc To Exhibition Pk',44.630161,-63.669228
-9051,'9051','Grassy Lk Dr / Rltc To Mumford',44.630165,-63.669231
-9052,'9052','Ragged Lk Transit Ctr',44.630165,-63.669365
+9051,'9051','Grassy Lk Dr / Rltc To Mumford',44.630173,-63.669205
+9052,'9052','Ragged Lk Transit Ctr (To Ex Pk)',44.630165,-63.669365
 9053,'9053','Windmill Rd / Fernhill',44.681946,-63.596615
 9054,'9054','Kearney Lk Rd / Blue Mtn Rd',44.715462,-63.720165
 9055,'9055','Kearney Lk Rd / Blue Mtn Rd',44.71579,-63.720688
