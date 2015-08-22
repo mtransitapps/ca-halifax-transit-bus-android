@@ -143,6 +143,7 @@
 6152,'6152','2404, St Margarets Bay Rd',44.65863,-63.738319
 6153,'6153','St Margarets Bay Rd / County Ind. Pk Entr.',44.638039,-63.689541
 6154,'6154','St Margarets Bay Rd / Beech Tree Run',44.636257,-63.681747
+6155,'6155','100, Horseshoe Lk Dr',44.642719,-63.674191
 6156,'6156','St Margarets Bay Rd / Greenhead Rd',44.637112,-63.700184
 6157,'6157','1075, St Margarets Bay Rd',44.635757,-63.677231
 6158,'6158','St Margarets Bay Rd / Keating Rd',44.640923,-63.624115
@@ -282,7 +283,6 @@
 6293,'6293','35, Bellevista Dr',44.679958,-63.514866
 6294,'6294','71, Bellevista Dr',44.678711,-63.517765
 6296,'6296','Berts Dr / Main Ave',44.659065,-63.637104
-6301,'6301','Blue Thistle Rd / Moss Ct',44.672989,-63.673702
 6302,'6302','Boland Rd / Cairn St',44.672997,-63.580532
 6303,'6303','Boland Rd / Victoria Rd',44.674988,-63.578133
 6304,'6304','Boland Rd / And / Cairn St',44.673527,-63.579792
@@ -482,6 +482,7 @@
 6502,'6502','Cornwallis St / Gottingen St',44.652218,-63.584309
 6503,'6503','Cornwallis St / Gottingen St',44.652435,-63.583664
 6504,'6504','Cornwallis St / G.B.Isnor Mnr',44.651596,-63.585285
+6505,'6505','59, Horseshoe Lk Dr',44.643948,-63.674641
 6506,'6506','Cornwallis St / Bauer St',44.650875,-63.586102
 6507,'6507','Cornwallis St / Brunswick St',44.653259,-63.58247
 6508,'6508','Cornwallis St / North Pk St',44.650826,-63.586468
@@ -620,17 +621,19 @@
 6643,'6643','Fairview Overpass / Windsor St',44.662312,-63.622929
 6644,'6644','Fairview Overpass / Main Ave',44.661987,-63.628826
 6645,'6645','Farnham Gt / Dunbrack St',44.673298,-63.664371
-6646,'6646','Farnham Gt / Dunbrack St',44.673306,-63.664551
 6647,'6647','Farnham Gt / Landsdowne Dr',44.672775,-63.666176
 6648,'6648','Farnham Gt / Chelton Woods Ln',44.671959,-63.667763
 6649,'6649','220, Farnham Gt',44.672176,-63.669552
 6650,'6650','Farnham Gt / Glenbourne Ct',44.671593,-63.671906
-6651,'6651','Farnham Gt / Ross',44.672836,-63.666275
 6652,'6652','Farnham Gt / Ross',44.672955,-63.666161
 6653,'6653','Farnham Gt / Redfern Terr',44.671291,-63.674168
 6654,'6654','185, Farnham Gt',44.672291,-63.669125
 6655,'6655','Farnham Gt / Scotchpine',44.672188,-63.670853
 6656,'6656','Farnham Gt / Aster Ct',44.671387,-63.674942
+6657,'6657','Radcliffe Dr / Dunbrack St',44.665565,-63.659611
+6658,'6658','Radcliffe Dr / Raleigh Ct',44.664188,-63.665306
+6659,'6659','Radcliffe Dr / Stratford Way',44.66254,-63.665249
+6660,'6660','Lacewood Dr / Willet St',44.66243,-63.65675
 6661,'6661','Fenwood Rd / St Margarets Bay Rd',44.636703,-63.630512
 6662,'6662','23, Fenwood Rd',44.636253,-63.628448
 6663,'6663','Fenwood Rd / Edgehill Rd',44.636009,-63.626617
@@ -807,8 +810,6 @@
 6838,'6838','Hawthorne St / Prince Albert Rd',44.673042,-63.561413
 6839,'6839','113, Hawthorne St',44.673763,-63.562988
 6840,'6840','23, Bluewater',44.725548,-63.707798
-6841,'6841','Heathside Cr / Parkland Dr',44.674877,-63.675972
-6842,'6842','Heathside Cr / Blue Thistle Rd',44.674351,-63.673798
 6843,'6843','78, Hebridean Dr',44.570961,-63.564087
 6844,'6844','65, Herring Cv Rd',44.633781,-63.619694
 6845,'6845','Herring Cv Rd / Clovis St',44.618481,-63.615314
@@ -1032,8 +1033,6 @@
 7067,'7067','Lacewood Dr / Dunbrack St',44.663216,-63.654053
 7068,'7068','Lacewood Dr / Glenforest Dr',44.661144,-63.638283
 7069,'7069','Lacewood Dr / Gateway Rd',44.662971,-63.642937
-7070,'7070','Lacewood Dr / Radcliffe Dr',44.661644,-63.66283
-7071,'7071','Lacewood Dr / Radcliffe Dr',44.661087,-63.664402
 7072,'7072','Lacewood Dr / Willet St',44.662178,-63.658695
 7073,'7073','Lacewood Dr / Canada Games Ctr',44.659855,-63.665707
 7074,'7074','159, Lacewood Dr',44.663311,-63.643612
@@ -1049,7 +1048,6 @@
 7084,'7084','Lacewood Dr / Braeside Ln',44.661625,-63.640762
 7085,'7085','Lacewood Dr / Cedarbrae Ln',44.6642,-63.648468
 7086,'7086','Lacewood Terminal',44.661499,-63.657337
-7087,'7087','Lacewood Terminal',44.661251,-63.656727
 7088,'7088','Lady Hammond Rd / Basinview Dr',44.665028,-63.615635
 7089,'7089','Lady Hammond Rd / Mackintosh St',44.664097,-63.619225
 7091,'7091','Lady Hammond Rd / High St',44.665295,-63.612797
@@ -1066,6 +1064,7 @@
 7102,'7102','North Preston Rd / Nelson Whynder School',44.742844,-63.464642
 7103,'7103','Lk Major Rd / Chamberlain Dr',44.705044,-63.467384
 7104,'7104','148, Lk Major Rd',44.710697,-63.467876
+7105,'7105','237, Lk Major Rd',44.714073,-63.467419
 7106,'7106','Lk Major Rd / Hwy #7',44.704319,-63.466904
 7107,'7107','1032, North Preston Rd',44.744678,-63.464558
 7108,'7108','137, Lk Major Rd',44.709908,-63.467804
@@ -1450,6 +1449,21 @@
 7498,'7498','Pleasant St / Shirley St',44.645676,-63.543335
 7499,'7499','Pleasant St / Trunk 111',44.648018,-63.545311
 7500,'7500','Pleasant St / Ultramar Facility',44.618423,-63.502213
+7502,'7502','Lacewood Terminal-Bay 2',44.661022,-63.662598
+7503,'7503','Lacewood Terminal-Bay 3',44.660854,-63.662895
+7504,'7504','Lacewood Terminal-Bay 4',44.660759,-63.663105
+7505,'7505','Lacewood Terminal-Bay 5',44.660633,-63.663349
+7506,'7506','Lacewood Terminal-Bay 6',44.660484,-63.663651
+7507,'7507','Lacewood Terminal-Bay 7',44.660385,-63.663883
+7508,'7508','Lacewood Terminal-Bay 8',44.660564,-63.664009
+7509,'7509','Lacewood Terminal-Bay 9',44.660675,-63.663795
+7510,'7510','Lacewood Terminal-Bay 10',44.660824,-63.663502
+7511,'7511','Lacewood Terminal-Bay 11',44.660938,-63.663284
+7512,'7512','Lacewood Terminal-Bay 12',44.661064,-63.663036
+7513,'7513','Lacewood Terminal-Bay 13',44.661213,-63.662758
+7514,'7514','Lacewood Terminal-Bay 14',44.661282,-63.662601
+7515,'7515','Lacewood Terminal-Bay 9 To Downtown',44.660652,-63.663834
+7516,'7516','Lacewood Terminal-Bay 13 To Downtown',44.661182,-63.662819
 7601,'7601','Dartmouth Bridge Terminal - Bay 1',44.671036,-63.575092
 7602,'7602','Dartmouth Bridge Terminal - Bay 2',44.670925,-63.574894
 7603,'7603','Dartmouth Bridge Terminal - Bay 3',44.670803,-63.574684
@@ -1757,7 +1771,6 @@
 8258,'8258','30, Russell Lk Dr',44.662804,-63.520214
 8259,'8259','Sackville Dr / Downsview Entrance',44.772106,-63.691719
 8260,'8260','Sackville Transit Terminal',44.76786,-63.69957
-8261,'8261','Scotch Pine Terr / Farnham Gt Rd',44.67215,-63.67181
 8262,'8262','Scot St / Desmond Ave',44.656425,-63.627945
 8263,'8263','Sea King Dr / Lancaster Dr',44.68708,-63.572399
 8264,'8264','6, Sea King Dr',44.685783,-63.575687
@@ -1850,7 +1863,6 @@
 8354,'8354','Stokil Dr / Grennan Dr',44.787449,-63.687714
 8355,'8355','Stokil Dr / Sampson Dr',44.785725,-63.685867
 8356,'8356','Stokil Dr / Grennan Dr',44.788136,-63.688148
-8357,'8357','Stokil Dr / Beaver Bank Rd',44.79002,-63.690933
 8358,'8358','Stokil Dr / Smokey Dr',44.785782,-63.686234
 8359,'8359','Stokil Dr / Spinner Cr',44.784016,-63.682076
 8360,'8360','Stokil Dr / Saratoga Dr',44.783928,-63.680946
@@ -2066,7 +2078,6 @@
 8581,'8581','Woodland Ave / Laurier St',44.681709,-63.574631
 8582,'8582','Woodland Ave / Laurier St',44.681839,-63.574211
 8583,'8583','Woodland Ave / Pine Hl Rd',44.68066,-63.575974
-8584,'8584','Woodland Ave / Sheridan St',44.679752,-63.577118
 8585,'8585','Woodland Ave / Slayter St',44.677803,-63.579529
 8586,'8586','Woodland Ave / Frederick St',44.680546,-63.575859
 8587,'8587','Woodland Ave / Slayter St',44.677711,-63.57938
@@ -2163,12 +2174,7 @@
 8697,'8697','Barnes Dr / Red Wing Dr',44.879692,-63.521465
 8698,'8698','Pratt And Whitney Dr / Hotels',44.861267,-63.543961
 8699,'8699','Pratt And Whitney Dr / Hotels',44.861004,-63.543297
-8700,'8700','Gesner St / Fairview Junior High',44.64962,-63.647175
 8701,'8701','1815, Sackville Dr',44.799061,-63.735077
-8702,'8702','Astral Jr High School',44.655746,-63.478016
-8703,'8703','Halifax West High School',44.656029,-63.663879
-8706,'8706','Kearney Lk Rd / St Peters Church',44.681782,-63.661087
-8708,'8708','Clayton Pk Junior High',44.661301,-63.643085
 8709,'8709','Beaverbank Rd / Glendale Dr',44.783287,-63.691654
 8710,'8710','Beaverbank Rd / Stokil Dr',44.790909,-63.692215
 8711,'8711','273, Beaverbank Rd',44.79636,-63.690071
@@ -2259,7 +2265,6 @@
 8796,'8796','Hwy 207 / Bellefontaine Rd',44.708164,-63.259205
 8797,'8797','6551, Hwy 207',44.689774,-63.25769
 8798,'8798','Hwy 207 / Country Store',44.678398,-63.258823
-8799,'8799','Cunard Jr High',44.621277,-63.602604
 8800,'8800','36, Stonehaven Rd',44.635059,-63.62949
 8801,'8801','26, Alton Dr',44.634228,-63.629417
 8802,'8802','21, Walter Havill Dr',44.631836,-63.62957
@@ -2298,12 +2303,10 @@
 8841,'8841','59, Baker Dr',44.667542,-63.531387
 8842,'8842','76, Baker Dr',44.66539,-63.53019
 8843,'8843','105, Baker Dr',44.663597,-63.529972
-8844,'8844','144, Baker Dr',44.660812,-63.530388
 8845,'8845','Baker Dr / Kent Bldg Supplies',44.658779,-63.530338
 8846,'8846','Baker Dr / Basswood',44.656361,-63.529144
 8847,'8847','Baker Dr / Basswood',44.656239,-63.528572
 8848,'8848','Baker Dr / Kent Bldg Supplies',44.65892,-63.529842
-8849,'8849','Baker Dr / Lindenwood',44.661766,-63.529797
 8850,'8850','105, Baker Dr',44.663555,-63.52948
 8851,'8851','Baker Dr / Coldstream',44.666439,-63.530334
 8852,'8852','35, Baker Dr',44.668705,-63.531242
@@ -2401,9 +2404,6 @@
 9013,'9013','Barnes Dr / Pk And Fly Lot',44.875927,-63.524643
 9014,'9014','Barnes Dr / Red Wing Dr',44.879658,-63.521282
 9015,'9015','Barnes Dr / Pk And Fly Lot',44.875702,-63.525402
-9016,'9016','Dorothea Dr / Swanton Dr',44.677891,-63.5079
-9017,'9017','58, Dorothea Dr',44.676525,-63.505402
-9018,'9018','26, Dortohea Dr',44.67421,-63.503841
 9020,'9020','Lancaster Dr / St. Paul Ave',44.569363,-63.562489
 9021,'9021','Leiblin Dr / Sportsfield',44.600151,-63.630962
 9023,'9023','Bedford Hwy / Moirs Mill Rd',44.713749,-63.677414

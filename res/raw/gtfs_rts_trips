@@ -22,7 +22,7 @@
 1501,0,'Purcell''s Cv',15
 1601,0,'Bridge Terminal',16
 1600,0,'Lacewood',16
-1700,0,'Lacewood Terminal',17
+1700,0,'Lacewood',17
 1701,0,'Saint Mary''s',17
 1800,0,'Lacewood Terminal',18
 1801,0,'Universities',18
@@ -46,6 +46,10 @@
 3400,0,'Summer St',34
 3501,0,'Lacewood Terminal',35
 3500,0,'Train Sta',35
+4101,0,'Bridge Terminal / Scotia Sq',41
+4100,0,'Dalhousie',41
+4201,0,'Dalhousie',42
+4200,0,'Lacewood',42
 5100,0,'Bridge Terminal',51
 5101,0,'Ocean Breeze-Burnside',51
 5201,0,'Bridge Terminal-Burnside',52
@@ -90,8 +94,8 @@
 8001,0,'Sackville Terminal',80
 8100,0,'Downtown Halifax',81
 8101,0,'Hemlock Ravine',81
+8201,0,'Cobequid - Bedford - Halifax / Sackville Terminal',82
 8200,0,'Halifax',82
-8201,0,'Sackville Terminal',82
 8300,0,'Sackville Terminal',83
 8301,0,'Springfield',83
 8401,0,'Sackville Term''l',84
@@ -124,24 +128,9 @@
 40100,0,'Portland Hls Terminal',401
 40201,0,'Sambro',402
 40200,0,'South Ctr Mall',402
-10000101,0,'Clayton Pk Junior High',100001
-10000100,0,'Dunbrack St / Langbrae Dr',100001
 10000201,0,'Mumford Terminal',100002
 10000200,0,'Ragged Lake Transit Ctr',100002
 10000301,0,'Dartmouth Bridge Terminal',100003
 10000300,0,'Ilsley Ave',100003
-10000401,0,'Halifax West High School',100004
-10000400,0,'Mumford Terminal',100004
 10000501,1,'E',100005
 10000502,1,'W',100005
-10001401,0,'Herring Cv Rd',100014
-10001400,0,'Mumford Terminal',100014
-10005300,0,'Dartmouth High School',100053
-10005301,0,'Highfield Terminal',100053
-10005800,0,'Prince Andrew High School',100058
-10006500,0,'Astral Junior High School',100065
-10010100,0,'Fairview Junior High School',100101
-10010101,0,'Parkland Dr',100101
-10010601,0,'School Special',100106
-10011401,0,'Cunard Junior High School',100114
-10011400,0,'Mumford Terminal',100114
