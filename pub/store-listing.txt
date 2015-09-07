@@ -5,7 +5,7 @@ Halifax Transit buses for MonTransit.
 Schedule. News. Major Disruptions.
 ----------
 What's new in this version?:
-Schedule from August 24, 2015 to November 29, 2015.
+Schedule from September 3, 2015 to November 29, 2015.
 Tweets from @hfxtransit.
 ----------
 Full description:
