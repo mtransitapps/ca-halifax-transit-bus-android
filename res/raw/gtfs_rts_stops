@@ -25,11 +25,11 @@
 6024,'6024','Albro Lk Rd / Sheridan St',44.682381,-63.580963
 6025,'6025','Alderney Dr / Alderney Mnr',44.666321,-63.571434
 6026,'6026','Alderney Dr / Alderney Mnr',44.66621,-63.571548
-6027,'6027','Alderney Dr Metrolink',44.664196,-63.568386
+6027,'6027','Alderney Terminal Bay 2 (6027)',44.664196,-63.568386
 6028,'6028','Alderney Dr / Prince St',44.664143,-63.565468
 6029,'6029','Alderney Dr / Prince St',44.664116,-63.565933
-6030,'6030','Alderney Dr / Terminal',44.665257,-63.569698
-6031,'6031','Alderney Dr / Terminal',44.664566,-63.568863
+6030,'6030','Alderney Terminal Bay 1 (6030)',44.665257,-63.569698
+6031,'6031','Alderney Terminal Bay 3 (6031)',44.664566,-63.568863
 6032,'6032','Alma Cr / Titus St',44.658962,-63.632751
 6033,'6033','Arklow Dr / Ashley',44.677906,-63.483395
 6035,'6035','Arklow Dr / John Stewart Dr',44.676556,-63.48024
@@ -79,8 +79,8 @@
 6083,'6083','Baffin Blvd / Hudson Way',44.682629,-63.60667
 6084,'6084','Barrington St / Prince St',44.64727,-63.574257
 6085,'6085','1663, Barrington St',44.646755,-63.573837
-6086,'6086','Barrington St / Scotia Sq',44.650291,-63.575794
-6087,'6087','Barrington St / Scotia Sq',44.650246,-63.575569
+6086,'6086','Barrington St At Scotia Sq Bay 3 (6086)',44.650291,-63.575794
+6087,'6087','Barrington St / Duke St Bay 1 (6087)',44.650246,-63.575569
 6088,'6088','Barrington St / Artz St',44.657078,-63.585773
 6089,'6089','Barrington St / Cornwallis St',44.654202,-63.581802
 6090,'6090','Barrington St / Devonshire St',44.66362,-63.593262
@@ -98,7 +98,7 @@
 6102,'6102','Barrington St / Blowers St',44.645473,-63.573353
 6103,'6103','1656, Barrington St',44.64669,-63.573967
 6104,'6104','Barrington St / Cornwallis St',44.654068,-63.58189
-6105,'6105','Barrington St / Duke St',44.649757,-63.575546
+6105,'6105','Barrington St / Duke St Bay 2 (6105)',44.649757,-63.575546
 6106,'6106','Barrington St / George St',44.648411,-63.574604
 6109,'6109','Barrington St / Hanover St',44.66671,-63.597088
 6110,'6110','Barrington St / Hanover St',44.666676,-63.596874
@@ -422,8 +422,8 @@
 6442,'6442','Cobequid Rd / Hillside Ave',44.756367,-63.66193
 6443,'6443','Cobequid Rd / Judy Anne Ct',44.761814,-63.652187
 6444,'6444','276, Cobequid Rd',44.76083,-63.656811
-6445,'6445','Cobequid Terminal To Sackville',44.754345,-63.663273
-6446,'6446','Cobequid Terminal',44.753975,-63.663113
+6445,'6445','Cobequid Terminal Bay 1 (6445)',44.754345,-63.663273
+6446,'6446','Cobequid Terminal Bay 2 (6446)',44.753975,-63.663113
 6447,'6447','Coburg Rd / Dunn Bldg',44.638031,-63.59462
 6448,'6448','Coburg Rd / Henry St',44.639656,-63.588783
 6449,'6449','Coburg Rd / Lemarchant',44.638916,-63.591228
@@ -894,8 +894,8 @@
 6926,'6926','80, Highfield Pk Dr',44.687256,-63.590778
 6927,'6927','21, Highfield Pk Dr',44.689636,-63.586021
 6928,'6928','15, Highfield Pk Dr',44.690754,-63.584354
-6929,'6929','Highfield Terminal',44.684364,-63.589336
-6930,'6930','Highfield Terminal',44.684418,-63.589169
+6929,'6929','Highfield Terminal Bay 2 (6929)',44.684364,-63.589336
+6930,'6930','Highfield Terminal Bay 1 (6930)',44.684418,-63.589169
 6931,'6931','Highfield St / Punch Bowl Dr',44.626793,-63.617626
 6932,'6932','12, Hillsboro Dr',44.693733,-63.491898
 6933,'6933','15, Hillsboro Dr',44.693428,-63.491928
@@ -1047,7 +1047,7 @@
 7083,'7083','Lacewood Dr / Glenforest Dr',44.661102,-63.638687
 7084,'7084','Lacewood Dr / Braeside Ln',44.661625,-63.640762
 7085,'7085','Lacewood Dr / Cedarbrae Ln',44.6642,-63.648468
-7086,'7086','Lacewood Terminal',44.661499,-63.657337
+7086,'7086','Willet St / Lacewood Dr (7086)',44.661499,-63.657337
 7088,'7088','Lady Hammond Rd / Basinview Dr',44.665028,-63.615635
 7089,'7089','Lady Hammond Rd / Mackintosh St',44.664097,-63.619225
 7091,'7091','Lady Hammond Rd / High St',44.665295,-63.612797
@@ -1172,8 +1172,8 @@
 7215,'7215','Micmac Blvd / Woodland Ave',44.685165,-63.568176
 7216,'7216','155, Bluewater Rd',44.721069,-63.713524
 7217,'7217','217, Bluewater Rd',44.718658,-63.715073
-7218,'7218','Micmac Terminal',44.686131,-63.561821
-7219,'7219','Micmac Terminal',44.68618,-63.561489
+7218,'7218','Micmac Terminal Bay 2 (7218)',44.686131,-63.561821
+7219,'7219','Micmac Terminal Bay 1 (7219)',44.68618,-63.561489
 7220,'7220','Millwood Dr / Lumberman Dr',44.788429,-63.709362
 7221,'7221','Millwood Dr / Barque Crt',44.781906,-63.708504
 7222,'7222','Millwood Dr / Beaver Bank Rd',44.790329,-63.693279
@@ -1238,8 +1238,8 @@
 7281,'7281','Mumford Rd / Ralston Ave',44.649529,-63.624264
 7282,'7282','Mumford Rd / St Agnes School',44.646736,-63.61824
 7283,'7283','Mumford Rd / St Agnes School',44.646652,-63.618114
-7284,'7284','Mumford Terminal Downtown',44.648315,-63.621231
-7285,'7285','Mumford Terminal Downtown',44.648453,-63.621464
+7284,'7284','Mumford Terminal Bay 3 (7284)',44.648315,-63.621231
+7285,'7285','Mumford Terminal Bay 1 (7285)',44.648453,-63.621464
 7286,'7286','59, Nappan Dr',44.782612,-63.675564
 7287,'7287','Nappan Dr / Nictaux Dr',44.7845,-63.676952
 7288,'7288','Nappan Dr / Newcombe Dr',44.782265,-63.674988
@@ -1449,21 +1449,6 @@
 7498,'7498','Pleasant St / Shirley St',44.645676,-63.543335
 7499,'7499','Pleasant St / Trunk 111',44.648018,-63.545311
 7500,'7500','Pleasant St / Ultramar Facility',44.618423,-63.502213
-7502,'7502','Lacewood Terminal-Bay 2',44.661022,-63.662598
-7503,'7503','Lacewood Terminal-Bay 3',44.660854,-63.662895
-7504,'7504','Lacewood Terminal-Bay 4',44.660759,-63.663105
-7505,'7505','Lacewood Terminal-Bay 5',44.660633,-63.663349
-7506,'7506','Lacewood Terminal-Bay 6',44.660484,-63.663651
-7507,'7507','Lacewood Terminal-Bay 7',44.660385,-63.663883
-7508,'7508','Lacewood Terminal-Bay 8',44.660564,-63.664009
-7509,'7509','Lacewood Terminal-Bay 9',44.660675,-63.663795
-7510,'7510','Lacewood Terminal-Bay 10',44.660824,-63.663502
-7511,'7511','Lacewood Terminal-Bay 11',44.660938,-63.663284
-7512,'7512','Lacewood Terminal-Bay 12',44.661064,-63.663036
-7513,'7513','Lacewood Terminal-Bay 13',44.661213,-63.662758
-7514,'7514','Lacewood Terminal-Bay 14',44.661282,-63.662601
-7515,'7515','Lacewood Terminal-Bay 9 To Downtown',44.660652,-63.663834
-7516,'7516','Lacewood Terminal-Bay 13 To Downtown',44.661182,-63.662819
 7601,'7601','Dartmouth Bridge Terminal - Bay 1',44.671036,-63.575092
 7602,'7602','Dartmouth Bridge Terminal - Bay 2',44.670925,-63.574894
 7603,'7603','Dartmouth Bridge Terminal - Bay 3',44.670803,-63.574684
@@ -2127,9 +2112,9 @@
 8637,'8637','Pehnorn Terminal 159 Metrolink',44.670254,-63.538906
 8638,'8638','Macdonald Bridge Exit Ramp',44.658581,-63.589745
 8639,'8639','Cogswell St / Albermarle St',44.651142,-63.577911
-8643,'8643','Mumford Terminal',44.648102,-63.620819
+8643,'8643','Mumford Terminal Bay 2 (8643)',44.648102,-63.620819
 8645,'8645','Penhorn Terminal',44.670742,-63.538647
-8646,'8646','Cobequid Terminall',44.754219,-63.663387
+8646,'8646','Cobequid Terminal Bay 1 (8646)',44.754219,-63.663387
 8647,'8647','Dunbrack St / Lacewood Dr',44.662601,-63.65453
 8648,'8648','Pt Pleasant Pk 1st Canteen',44.627415,-63.566193
 8649,'8649','Pt Pleasant Pk Lower Lot',44.626015,-63.564739
@@ -2454,4 +2439,19 @@
 9089,'9089','Regency Pk Dr / Greenpark Close',44.654995,-63.665451
 9090,'9090','Regency Pk Dr / Solutions Dr',44.656662,-63.66877
 9091,'9091','Regency Pk Dr / Lacewood Dr',44.658127,-63.669163
-9092,'9092','Starboard Dr / Peakview Way',44.699265,-63.68568
+9092,'9092','Starboard Dr / Peakview Way',44.699261,-63.685677
+9102,'9102','Lacewood Terminal-Bay 2',44.661022,-63.662598
+9103,'9103','Lacewood Terminal-Bay 3',44.660854,-63.662895
+9104,'9104','Lacewood Terminal-Bay 4',44.660759,-63.663105
+9105,'9105','Lacewood Terminal-Bay 5',44.660633,-63.663349
+9106,'9106','Lacewood Terminal-Bay 6',44.660484,-63.663651
+9107,'9107','Lacewood Terminal-Bay 7',44.660385,-63.663883
+9108,'9108','Lacewood Terminal-Bay 8',44.660564,-63.664009
+9109,'9109','Lacewood Terminal-Bay 9',44.660675,-63.663795
+9110,'9110','Lacewood Terminal-Bay 10',44.660824,-63.663502
+9111,'9111','Lacewood Terminal-Bay 11',44.660938,-63.663284
+9112,'9112','Lacewood Terminal-Bay 12',44.661064,-63.663036
+9113,'9113','Lacewood Terminal-Bay 13',44.661213,-63.662758
+9114,'9114','Lacewood Terminal-Bay 14',44.661282,-63.662601
+9115,'9115','Lacewood Terminal-Bay 9 To Downtown',44.660652,-63.663834
+9116,'9116','Lacewood Terminal-Bay 13 To Downtown',44.661182,-63.662819

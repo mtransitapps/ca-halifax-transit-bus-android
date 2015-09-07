@@ -22,7 +22,7 @@
 1501,0,'Purcell''s Cv',15
 1601,0,'Bridge Terminal',16
 1600,0,'Lacewood',16
-1700,0,'Lacewood',17
+1700,0,'Lacewood Terminal',17
 1701,0,'Saint Mary''s',17
 1800,0,'Lacewood Terminal',18
 1801,0,'Universities',18
@@ -94,8 +94,8 @@
 8001,0,'Sackville Terminal',80
 8100,0,'Downtown Halifax',81
 8101,0,'Hemlock Ravine',81
-8201,0,'Cobequid - Bedford - Halifax / Sackville Terminal',82
 8200,0,'Halifax',82
+8201,0,'Sackville Terminal',82
 8300,0,'Sackville Terminal',83
 8301,0,'Springfield',83
 8401,0,'Sackville Term''l',84
