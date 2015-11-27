@@ -79,7 +79,7 @@
 6083,'6083','Baffin Blvd / Hudson Way',44.682629,-63.60667
 6084,'6084','Barrington St / Prince St',44.64727,-63.574257
 6085,'6085','1663, Barrington St',44.646755,-63.573837
-6086,'6086','Barrington St At Scotia Sq Bay 3',44.650291,-63.575794
+6086,'6086','Barrington St @ Scotia Sq Bay 3',44.650291,-63.575794
 6087,'6087','Barrington St / Duke St Bay 1',44.650246,-63.575569
 6088,'6088','Barrington St / Artz St',44.657078,-63.585773
 6089,'6089','Barrington St / Cornwallis St',44.654202,-63.581802
@@ -177,7 +177,7 @@
 6186,'6186','1697, St Margarets Bay Rd',44.64246,-63.707363
 6187,'6187','46, St Margarets Bay Rd',44.639637,-63.626881
 6188,'6188','St Margarets Bay Rd / Lakeside Ind Pk Entr.',44.637848,-63.688499
-6189,'6189','1025, St Margarets Bay Rd / And',44.634743,-63.674889
+6189,'6189','1025, St Margarets Bay Rd',44.634743,-63.674889
 6190,'6190','St Margarets Bay Rd / James St',44.659409,-63.739929
 6191,'6191','Bayers Rd / Windsor St',44.656532,-63.607964
 6192,'6192','Bayers Rd / Windsor St',44.656467,-63.608181
@@ -285,7 +285,7 @@
 6296,'6296','Berts Dr / Main Ave',44.659065,-63.637104
 6302,'6302','Boland Rd / Cairn St',44.672997,-63.580532
 6303,'6303','Boland Rd / Victoria Rd',44.674988,-63.578133
-6304,'6304','Boland Rd / And / Cairn St',44.673527,-63.579792
+6304,'6304','Boland Rd / Cairn St',44.673527,-63.579792
 6305,'6305','21, Booth St',44.687714,-63.525497
 6306,'6306','5, Booth St',44.685898,-63.524166
 6307,'6307','98, Bradorian Dr',44.689167,-63.485504
@@ -678,7 +678,7 @@
 6703,'6703','Flamingo Dr / Starling St',44.674732,-63.649853
 6704,'6704','Flamingo Dr / Skylark St',44.674149,-63.649834
 6705,'6705','Flamingo Dr / Dove St',44.670837,-63.652618
-6706,'6706','Flamingo Dr / And / Meadowlark Dr',44.669415,-63.655933
+6706,'6706','Flamingo Dr / Meadowlark Dr',44.669415,-63.655933
 6707,'6707','39, Flying Cloud Dr',44.679901,-63.493084
 6708,'6708','157, Flying Cloud Dr',44.684723,-63.493721
 6709,'6709','265, Flying Cloud Dr',44.688339,-63.494793
@@ -796,8 +796,8 @@
 6825,'6825','Hammonds Plains Rd / Lk Dr',44.718769,-63.685623
 6826,'6826','Hammonds Plains Rd / Northwood Rd',44.722141,-63.823368
 6827,'6827','Hammonds Plains Rd / Nottingham Dr',44.710072,-63.84301
-6828,'6828','1881, Hammonds Plains Rd / And',44.733776,-63.772934
-6829,'6829','2465, Hammonds Plains Rd / And',44.72451,-63.820744
+6828,'6828','1881, Hammonds Plains Rd',44.733776,-63.772934
+6829,'6829','2465, Hammonds Plains Rd',44.72451,-63.820744
 6830,'6830','Hammonds Plains Rd / Gatehouse Run',44.725079,-63.738174
 6831,'6831','Hammonds Plains Rd / Rockcliffe Cr',44.713955,-63.834698
 6832,'6832','7, Harris Rd',44.680519,-63.545071
@@ -954,7 +954,7 @@
 6989,'6989','Joseph Zatzman Dr / Topple Dr',44.715271,-63.604389
 6990,'6990','293, John Stewart Dr',44.680431,-63.48267
 6991,'6991','John Stewart Dr / Auburn Dr',44.686005,-63.486141
-6992,'6992','John Stewart Dr / And / Tamara Dr',44.682224,-63.483849
+6992,'6992','John Stewart Dr / Tamara Dr',44.682224,-63.483849
 6993,'6993','John Stewart Dr / 2nd Inglewood Cr',44.682068,-63.483559
 6994,'6994','John Stewart Dr / Halo Ln',44.678162,-63.480389
 6995,'6995','John Stewart Dr / Gammon Cr',44.684643,-63.484726
@@ -991,9 +991,9 @@
 7026,'7026','Kearney Lk Rd / Bluewater Rd',44.714115,-63.71608
 7027,'7027','Kearney Lk Rd / K.L. Ests',44.704857,-63.706337
 7028,'7028','Kearney Lk Rd / Cambria Pk',44.683014,-63.671082
-7029,'7029','Kearney Lk Rd / And / Fraser Construction',44.721661,-63.728867
+7029,'7029','Kearney Lk Rd / Fraser Construction',44.721661,-63.728867
 7030,'7030','Kearney Lk Rd / Re Group',44.688171,-63.683365
-7031,'7031','377, Kearney Lk Rd / And',44.696663,-63.696075
+7031,'7031','377, Kearney Lk Rd',44.696663,-63.696075
 7032,'7032','Kearney Lk Rd / Hammonds Plains Rd',44.723473,-63.730873
 7033,'7033','Kearney Lk Rd / Hammonds Plains Rd',44.723465,-63.730736
 7034,'7034','79, Valleyfield Rd',44.673759,-63.530159
@@ -1041,7 +1041,7 @@
 7078,'7078','Lacewood Dr / Dunbrack St',44.662498,-63.65554
 7079,'7079','Lacewood Dr / Evans Ave',44.660351,-63.635254
 7080,'7080','Lacewood Dr / Parkland Dr',44.659035,-63.668919
-7081,'7081','Lacewood Dr / And / Parkland Dr',44.658825,-63.668537
+7081,'7081','Lacewood Dr / Parkland Dr',44.658825,-63.668537
 7082,'7082','Lacewood Dr / Willett St',44.661964,-63.658775
 7083,'7083','Lacewood Dr / Glenforest Dr',44.661102,-63.638687
 7084,'7084','Lacewood Dr / Braeside Ln',44.661625,-63.640762
@@ -1193,7 +1193,7 @@
 7237,'7237','144, Millwood Dr',44.791233,-63.708729
 7238,'7238','424, Millwood Dr',44.790226,-63.69733
 7239,'7239','55, Millwood Dr',44.786541,-63.709564
-7240,'7240','Millwood Dr / And / Rossing Dr',44.792633,-63.704441
+7240,'7240','Millwood Dr / Rossing Dr',44.792633,-63.704441
 7241,'7241','Milsom Ave / Arlington Ave',44.64315,-63.638565
 7242,'7242','Montague Rd / Hwy #107',44.698559,-63.493252
 7243,'7243','Montague Rd / Serpentine Ave',44.705631,-63.499123
@@ -1545,8 +1545,8 @@
 8026,'8026','117, Poplar Dr',44.676571,-63.498199
 8027,'8027','Poplar Dr / Evergreen Dr',44.674622,-63.497364
 8028,'8028','Portland St / Joffre St',44.668449,-63.543957
-8029,'8029','Fall River Pk And Ride',44.802696,-63.597649
-8030,'8030','Fall River Pk And Ride',44.802776,-63.597458
+8029,'8029','Fall River Pk & Ride',44.802696,-63.597649
+8030,'8030','Fall River Pk & Ride',44.802776,-63.597458
 8031,'8031','51, Portland Ests Blvd West',44.664886,-63.51627
 8034,'8034','Portland Ests Blvd West / Old Birch Rd',44.663387,-63.517662
 8035,'8035','Portland St / Canal St',44.667671,-63.563049
@@ -1652,7 +1652,7 @@
 8143,'8143','Quinpool Rd / Macdonald St',44.641243,-63.610905
 8145,'8145','Quinpool Rd / Newton St',44.642845,-63.606167
 8146,'8146','Quinpool Rd / Poplar St',44.643463,-63.603954
-8147,'8147','Quinpool Rd / And / Preston St',44.645069,-63.598057
+8147,'8147','Quinpool Rd / & / Preston St',44.645069,-63.598057
 8148,'8148','Quinpool Rd / Preston St',44.64534,-63.597752
 8149,'8149','Quinpool Rd / Vernon St',44.646305,-63.59362
 8150,'8150','Quinpool Rd / Windsor St',44.646839,-63.591663
@@ -1727,7 +1727,7 @@
 8227,'8227','Rockmanor Dr / Rocky Lk Dr',44.737854,-63.651829
 8228,'8228','Rockmanor Dr / Rocky Lk Dr',44.737637,-63.651974
 8229,'8229','122, Rockmanor Dr',44.741367,-63.648926
-8230,'8230','Rockmanor Dr / And / Birchwood Crt',44.740318,-63.649231
+8230,'8230','Rockmanor Dr / Birchwood Crt',44.740318,-63.649231
 8231,'8231','25, Rockingstone Rd',44.608204,-63.623318
 8232,'8232','25, Rockingstone Rd',44.608395,-63.623417
 8238,'8238','James St / St Margarets Bay Rd',44.659645,-63.741112
@@ -1858,7 +1858,7 @@
 8370,'8370','Tamarack Dr / Medina Ct',44.629826,-63.628765
 8371,'8371','Tamarack Dr / Mtn Rd',44.62833,-63.62748
 8372,'8372','Tamarack Dr / Medina Ct',44.629574,-63.628582
-8373,'8373','Tamarack Dr / And / Mtn Rd',44.62817,-63.627419
+8373,'8373','Tamarack Dr / Mtn Rd',44.62817,-63.627419
 8375,'8375','171, Taranaki Dr',44.694565,-63.494545
 8376,'8376','238, Taranaki Dr',44.691868,-63.493572
 8377,'8377','251, Taranaki Dr',44.691986,-63.49382
@@ -2151,8 +2151,8 @@
 8695,'8695','Halifax International Airport / Silver Dart Dr',44.885895,-63.515945
 8696,'8696','Barnes Dr / Cygnet',44.882645,-63.518215
 8697,'8697','Barnes Dr / Red Wing Dr',44.879692,-63.521465
-8698,'8698','Pratt And Whitney Dr / Hotels',44.861267,-63.543961
-8699,'8699','Pratt And Whitney Dr / Hotels',44.861004,-63.543297
+8698,'8698','Pratt & Whitney Dr / Hotels',44.861267,-63.543961
+8699,'8699','Pratt & Whitney Dr / Hotels',44.861004,-63.543297
 8701,'8701','1815, Sackville Dr',44.799061,-63.735077
 8702,'8702','Astral Jr High School',44.655746,-63.478016
 8709,'8709','Beaverbank Rd / Glendale Dr',44.783287,-63.691654
@@ -2388,15 +2388,15 @@
 9000,'9000','Downsview Dr / Sobeys',44.772072,-63.69574
 9001,'9001','Downsview Dr / Sobeys',44.772106,-63.695969
 9002,'9002','21, Glendale Ave',44.759068,-63.658329
-9003,'9003','Aerotech Dr / Pratt And Whitney Dr',44.856224,-63.54406
-9004,'9004','Aerotech Dr / Pratt And Whitney Dr',44.85638,-63.544086
+9003,'9003','Aerotech Dr / Pratt & Whitney Dr',44.856224,-63.54406
+9004,'9004','Aerotech Dr / Pratt & Whitney Dr',44.85638,-63.544086
 9005,'9005','Millwood Dr / Millwood High',44.790592,-63.709187
 9006,'9006','Lower Water / Keith''s Brewery',44.644341,-63.569881
 9011,'9011','Barnes Dr / Baldwin Dr',44.873165,-63.527603
 9012,'9012','Barnes Dr / Baldwin Dr',44.873264,-63.527798
-9013,'9013','Barnes Dr / Pk And Fly Lot',44.875927,-63.524643
+9013,'9013','Barnes Dr / Pk & Fly Lot',44.875927,-63.524643
 9014,'9014','Barnes Dr / Red Wing Dr',44.879658,-63.521282
-9015,'9015','Barnes Dr / Pk And Fly Lot',44.875702,-63.525402
+9015,'9015','Barnes Dr / Pk & Fly Lot',44.875702,-63.525402
 9020,'9020','Lancaster Dr / St. Paul Ave',44.569363,-63.562489
 9021,'9021','Leiblin Dr / Sportsfield',44.600151,-63.630962
 9023,'9023','Bedford Hwy / Moirs Mill Rd',44.713749,-63.677414
