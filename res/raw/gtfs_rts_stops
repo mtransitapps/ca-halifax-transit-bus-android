@@ -437,7 +437,6 @@
 6457,'6457','Cogswell St / Robie St',44.647324,-63.589695
 6458,'6458','Cogswell St / Common',44.648422,-63.587959
 6459,'6459','Cogswell St / Gottingen St',44.650265,-63.581352
-6460,'6460','Cogswell St / North Pk St',44.649696,-63.584702
 6461,'6461','Cogswell St / Oval',44.648701,-63.58807
 6462,'6462','Cogswell St / Maynard St',44.649841,-63.583447
 6463,'6463','Colby Dr Becks & Greenwich',44.660622,-63.478577
@@ -1563,8 +1562,6 @@
 8045,'8045','Portland St / Settle',44.671024,-63.529366
 8046,'8046','Portland St / Spg Ave',44.671619,-63.518124
 8047,'8047','Portland St / Spg Ave',44.67194,-63.518848
-8048,'8048','Portland Hls Terminal',44.670219,-63.505966
-8049,'8049','Portland Hls Terminal',44.669933,-63.505589
 8050,'8050','Portland St / Woodlawn Rd',44.670784,-63.531178
 8051,'8051','254, Portland St',44.668587,-63.559452
 8052,'8052','308, Portland St',44.66814,-63.55439
@@ -2083,8 +2080,6 @@
 8602,'8602','Woodlawn Rd / Bruce St',44.672836,-63.531307
 8603,'8603','Woodlawn Rd / Spikenard St',44.681675,-63.527695
 8604,'8604','49, Woodlawn Rd',44.680672,-63.526928
-8605,'8605','Woodside Ferry Terminal',44.649124,-63.548306
-8606,'8606','Woodside Ferry Terminal',44.649078,-63.548195
 8608,'8608','Wright Ave / Burley Ct',44.703655,-63.598057
 8609,'8609','Wright Ave / Windmill Rd',44.698536,-63.604
 8610,'8610','Wright Ave / Fielding Ave',44.703793,-63.59819
@@ -2153,13 +2148,13 @@
 8682,'8682','Glendale Ave / Ests Rd',44.758549,-63.65353
 8691,'8691','127, Chain Lk Dr',44.640961,-63.660412
 8692,'8692','Parkland Dr / Castlepark Grv',44.682201,-63.677834
-8693,'8693','Young St / Robie St',44.65979,-63.602291
 8695,'8695','Halifax International Airport / Silver Dart Dr',44.885895,-63.515945
 8696,'8696','Barnes Dr / Cygnet',44.882645,-63.518215
 8697,'8697','Barnes Dr / Red Wing Dr',44.879692,-63.521465
 8698,'8698','Pratt And Whitney Dr / Hotels',44.861267,-63.543961
 8699,'8699','Pratt And Whitney Dr / Hotels',44.861004,-63.543297
 8701,'8701','1815, Sackville Dr',44.799061,-63.735077
+8702,'8702','Astral Jr High School',44.655746,-63.478016
 8709,'8709','Beaverbank Rd / Glendale Dr',44.783287,-63.691654
 8710,'8710','Beaverbank Rd / Stokil Dr',44.790909,-63.692215
 8711,'8711','273, Beaverbank Rd',44.79636,-63.690071
@@ -2377,6 +2372,19 @@
 8937,'8937','389, Ross Rd',44.684643,-63.45385
 8938,'8938','Cole Harbour Rd / Old Lawrencetown Rd',44.682423,-63.454514
 8939,'8939','Cole Harbour Rd / Bisset Rd',44.672623,-63.477306
+8949,'8949','Portland Hls Terminal Bay 1',44.670185,-63.505707
+8951,'8951','Portland Hls Terminal Bay 3',44.669849,-63.505558
+8952,'8952','Portland Hls Terminal Bay 4',44.669712,-63.505501
+8953,'8953','Portland Hls Terminal Bay 5',44.669662,-63.505749
+8954,'8954','Portland Hls Terminal Bay 6',44.669807,-63.505817
+8955,'8955','Portland Hls Terminal Bay 7',44.669991,-63.505878
+8956,'8956','Portland Hls Terminal Bay 8',44.670155,-63.505932
+8957,'8957','Portland Hls Terminal Bay 8',44.670143,-63.505966
+8962,'8962','Woodside Ferry Terminal Bay 1',44.649174,-63.548416
+8963,'8963','Woodside Ferry Terminal Bay 1',44.649158,-63.548439
+8964,'8964','Woodside Ferry Terminal Bay 2',44.649101,-63.548344
+8965,'8965','Woodside Ferry Terminal Bay 3',44.649059,-63.548222
+8966,'8966','Woodside Ferry Terminal Bay 4',44.649052,-63.548111
 9000,'9000','Downsview Dr / Sobeys',44.772072,-63.69574
 9001,'9001','Downsview Dr / Sobeys',44.772106,-63.695969
 9002,'9002','21, Glendale Ave',44.759068,-63.658329
