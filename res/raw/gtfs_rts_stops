@@ -98,7 +98,7 @@
 6102,'6102','Barrington St / Blowers St',44.645473,-63.573353
 6103,'6103','1656, Barrington St',44.64669,-63.573967
 6104,'6104','Barrington St / Cornwallis St',44.654068,-63.58189
-6105,'6105','Barrington St / Duke St Bay 2 (6105)',44.649757,-63.575546
+6105,'6105','Barrington St / Duke St Bay 2',44.649757,-63.575546
 6106,'6106','Barrington St / George St',44.648411,-63.574604
 6109,'6109','Barrington St / Hanover St',44.66671,-63.597088
 6110,'6110','Barrington St / Hanover St',44.666676,-63.596874
@@ -576,7 +576,7 @@
 6597,'6597','Dunbrack St / Main Ave',44.65295,-63.649796
 6598,'6598','Dunbrack St / Lincoln Cross',44.666386,-63.658783
 6599,'6599','Dunbrack St / Radcliffe Dr',44.665611,-63.658188
-6600,'6600','Dunbrack St / Rock Haven Dr',44.677101,-63.663113
+6600,'6600','Dunbrack St / Wentworth Dr',44.677101,-63.663113
 6601,'6601','Dunbrack St / Ross St',44.676891,-63.66346
 6602,'6602','Dunbrack St / Willet St',44.65686,-63.650936
 6603,'6603','Dunbrack St / Northcliffe',44.660664,-63.652473
@@ -763,6 +763,7 @@
 6790,'6790','2128, Gottingen St',44.651844,-63.583302
 6792,'6792','Gregory Dr / Flying Cloud Dr',44.685867,-63.494934
 6793,'6793','Gregory Dr / Joseph Giles Sch',44.685749,-63.49485
+6794,'6794','Gregory Dr / Wildwood Blvd',44.684856,-63.497841
 6795,'6795','146, Greystone Dr',44.599735,-63.612728
 6796,'6796','146, Greystone Dr',44.599689,-63.612789
 6797,'6797','192, Greystone Dr',44.599342,-63.614296
@@ -1138,7 +1139,6 @@
 7182,'7182','Margaret Rd / Mtn Rd',44.632957,-63.621788
 7183,'7183','4, Margaret Rd',44.633362,-63.62027
 7184,'7184','Margaret Rd / Knobhill Cr',44.633198,-63.621368
-7185,'7185','Albemarle St / Duke St',44.649193,-63.577198
 7186,'7186','16, Osborne St',44.633305,-63.625854
 7187,'7187','7, Mayo St',44.634277,-63.624756
 7188,'7188','Mayo St / Withrod Dr',44.634251,-63.624668
@@ -1158,7 +1158,7 @@
 7202,'7202','87, Merrimac Dr',44.675911,-63.489597
 7203,'7203','8, Merrimac Dr',44.675461,-63.486679
 7204,'7204','Metropolitan Ave / Polara Dr',44.781235,-63.673283
-7205,'7205','Ilsley Transit Ctr',44.693928,-63.583134
+7205,'7205','Ilsley Ave / Burnside Transit Ctr',44.693928,-63.583134
 7206,'7206','Metropolitan Ave / Polara Dr',44.781422,-63.673042
 7207,'7207','Metropolitan Ave / Met Ball Field',44.778667,-63.674191
 7208,'7208','Metropolitan Ave / Met Ball Field',44.778614,-63.674015
@@ -1845,6 +1845,7 @@
 8354,'8354','Stokil Dr / Grennan Dr',44.787449,-63.687714
 8355,'8355','Stokil Dr / Sampson Dr',44.785725,-63.685867
 8356,'8356','Stokil Dr / Grennan Dr',44.788136,-63.688148
+8357,'8357','Stokil Dr / Beaver Bank Rd',44.79002,-63.690933
 8358,'8358','Stokil Dr / Smokey Dr',44.785782,-63.686234
 8359,'8359','Stokil Dr / Spinner Cr',44.784016,-63.682076
 8360,'8360','Stokil Dr / Saratoga Dr',44.783928,-63.680946
@@ -2021,7 +2022,7 @@
 8541,'8541','Windmill Rd / Parkstone Rd',44.68047,-63.595425
 8542,'8542','Windmill Rd / Pelzant St',44.669712,-63.583534
 8543,'8543','Windmill Rd / Ralston Ave',44.700638,-63.607162
-8544,'8544','Windmill Rd / Shannon Plz Entrance',44.684933,-63.598549
+8544,'8544','Windmill Rd / Shannon Plz Entr.',44.684933,-63.598549
 8545,'8545','Windmill Rd / Sunnydale Ave',44.677834,-63.592213
 8546,'8546','Windmill Rd / Wallace St',44.674759,-63.590366
 8547,'8547','Windmill Rd / Wright Ave Metrolink',44.69865,-63.605282
@@ -2153,8 +2154,12 @@
 8697,'8697','Barnes Dr / Red Wing Dr',44.879692,-63.521465
 8698,'8698','Pratt & Whitney Dr / Hotels',44.861267,-63.543961
 8699,'8699','Pratt & Whitney Dr / Hotels',44.861004,-63.543297
+8700,'8700','Gesner St / Fairview Junior High',44.64962,-63.647175
 8701,'8701','1815, Sackville Dr',44.799061,-63.735077
 8702,'8702','Astral Jr High School',44.655746,-63.478016
+8703,'8703','Halifax West High School',44.656029,-63.663879
+8706,'8706','Kearney Lk Rd / St Peters Church',44.681782,-63.661087
+8708,'8708','Clayton Pk Junior High',44.661301,-63.643085
 8709,'8709','Beaverbank Rd / Glendale Dr',44.783287,-63.691654
 8710,'8710','Beaverbank Rd / Stokil Dr',44.790909,-63.692215
 8711,'8711','273, Beaverbank Rd',44.79636,-63.690071
@@ -2245,6 +2250,7 @@
 8796,'8796','Hwy 207 / Bellefontaine Rd',44.708164,-63.259205
 8797,'8797','6551, Hwy 207',44.689774,-63.25769
 8798,'8798','Hwy 207 / Country Store',44.678398,-63.258823
+8799,'8799','Cunard Jr High',44.621277,-63.602604
 8800,'8800','36, Stonehaven Rd',44.635059,-63.62949
 8801,'8801','26, Alton Dr',44.634228,-63.629417
 8802,'8802','21, Walter Havill Dr',44.631836,-63.62957
@@ -2385,7 +2391,7 @@
 8964,'8964','Woodside Ferry Terminal Bay 2',44.649101,-63.548344
 8965,'8965','Woodside Ferry Terminal Bay 3',44.649059,-63.548222
 8966,'8966','Woodside Ferry Terminal Bay 4',44.649052,-63.548111
-9000,'9000','Downsview Dr / Sobeys',44.772072,-63.69574
+9000,'9000','Downsview Dr / Sobeys',44.771961,-63.696007
 9001,'9001','Downsview Dr / Sobeys',44.772106,-63.695969
 9002,'9002','21, Glendale Ave',44.759068,-63.658329
 9003,'9003','Aerotech Dr / Pratt & Whitney Dr',44.856224,-63.54406
@@ -2397,6 +2403,9 @@
 9013,'9013','Barnes Dr / Pk & Fly Lot',44.875927,-63.524643
 9014,'9014','Barnes Dr / Red Wing Dr',44.879658,-63.521282
 9015,'9015','Barnes Dr / Pk & Fly Lot',44.875702,-63.525402
+9016,'9016','Dorothea Dr / Swanton Dr',44.677891,-63.5079
+9017,'9017','58, Dorothea Dr',44.676525,-63.505402
+9018,'9018','26, Dortohea Dr',44.67421,-63.503841
 9020,'9020','Lancaster Dr / St. Paul Ave',44.569363,-63.562489
 9021,'9021','Leiblin Dr / Sportsfield',44.600151,-63.630962
 9023,'9023','Bedford Hwy / Moirs Mill Rd',44.713749,-63.677414
@@ -2430,11 +2439,12 @@
 9061,'9061','Albemarle St / Duke St (Metrox)',44.649933,-63.577614
 9066,'9066','Baker Dr / Lindenwood',44.661205,-63.530254
 9067,'9067','Baker Dr / Lindenwood',44.66135,-63.530064
+9068,'9068','201 To Gaston Rd, Eileen Stubbs Ave',44.698658,-63.578651
 9073,'9073','36, Kelly St',44.633095,-63.628826
 9074,'9074','Kelly St / Halef Crt',44.633148,-63.628742
-9076,'9076','Tacoma Dr / Valleyfield',44.680428,-63.536716
-9078,'9078','Hwy 7 / William Porter Connector',44.744553,-63.286034
-9079,'9079','Hwy 7 / William Porter Connector',44.74469,-63.286007
+9076,'9076','Tacoma Dr / Valleyfield Rd',44.680428,-63.536716
+9078,'9078','Hwy #7 / William Porter Connector',44.744553,-63.286034
+9079,'9079','Hwy #7 / William Porter Connector',44.74469,-63.286007
 9080,'9080','Regency Pk Dr / Lacewood',44.65786,-63.669506
 9081,'9081','Regency Pk Dr / Solutions Dr',44.656414,-63.668957
 9082,'9082','Regency Pk Dr / Greenpark Close',44.654858,-63.665688

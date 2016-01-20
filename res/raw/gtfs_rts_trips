@@ -128,10 +128,24 @@
 40100,0,'Portland Hls Terminal',401
 40201,0,'Sambro',402
 40200,0,'South Ctr Mall',402
+10000101,0,'Clayton Pk Jr High',100001
+10000100,0,'Dunbrack St / Langbrae Dr',100001
 10000201,0,'Mumford Terminal',100002
 10000200,0,'Ragged Lk Transit Ctr',100002
 10000301,0,'Dartmouth Bridge Terminal',100003
 10000300,0,'Ilsley Ave',100003
+10000401,0,'Halifax West High School',100004
+10000400,0,'Mumford Terminal',100004
 10000501,1,'E',100005
 10000502,1,'W',100005
+10001401,0,'Herring Cv Rd',100014
+10001400,0,'Mumford Terminal',100014
+10005300,0,'Dartmouth High School',100053
+10005301,0,'Highfield Terminal',100053
+10005800,0,'School Special',100058
 10006500,0,'School Special',100065
+10010100,0,'Fairview Jr High',100101
+10010101,0,'Parkland Dr',100101
+10010601,0,'School Special',100106
+10011401,0,'Cunard Jr High',100114
+10011400,0,'Mumford Terminal',100114
