@@ -25,11 +25,9 @@
 6024,'6024','Albro Lk Rd / Sheridan St',44.682381,-63.580963
 6025,'6025','Alderney Dr / Alderney Mnr',44.666321,-63.571434
 6026,'6026','Alderney Dr / Alderney Mnr',44.66621,-63.571548
-6027,'6027','Alderney Terminal Bay 2',44.664196,-63.568386
 6028,'6028','Alderney Dr / Prince St',44.664143,-63.565468
 6029,'6029','Alderney Dr / Prince St',44.664116,-63.565933
 6030,'6030','Alderney Terminal Bay 1',44.665257,-63.569698
-6031,'6031','Alderney Terminal Bay 3',44.664566,-63.568863
 6032,'6032','Alma Cr / Titus St',44.658962,-63.632751
 6033,'6033','Arklow Dr / Ashley',44.677906,-63.483395
 6035,'6035','Arklow Dr / John Stewart Dr',44.676556,-63.48024
@@ -59,6 +57,8 @@
 6059,'6059','Astral Dr / Spence Dr',44.657726,-63.485813
 6060,'6060','Astral Dr / Spence Dr',44.657913,-63.485683
 6061,'6061','Pearl Dr / Amethyst Cr',44.645145,-63.477474
+6063,'6063','Alderney Terminal Bay 2',44.664177,-63.568405
+6064,'6064','Alderney Terminal Bay 3',44.664814,-63.569321
 6065,'6065','Atlantic St / Pleasant St',44.649376,-63.546677
 6066,'6066','Atlantic St / Pleasant St',44.649349,-63.546764
 6067,'6067','Bluewater Rd / Seaway Distributors',44.715813,-63.715969
@@ -283,6 +283,9 @@
 6293,'6293','35, Bellevista Dr',44.679958,-63.514866
 6294,'6294','71, Bellevista Dr',44.678711,-63.517765
 6296,'6296','Berts Dr / Main Ave',44.659065,-63.637104
+6297,'6297','Cobequid Terminal Bay 1',44.754337,-63.66325
+6298,'6298','Cobequid Terminal Bay 1',44.754211,-63.663376
+6299,'6299','Cobequid Terminal Bay 2',44.753983,-63.663147
 6302,'6302','Boland Rd / Cairn St',44.672997,-63.580532
 6303,'6303','Boland Rd / Victoria Rd',44.674988,-63.578133
 6304,'6304','Boland Rd / Cairn St',44.673527,-63.579792
@@ -422,8 +425,6 @@
 6442,'6442','Cobequid Rd / Hillside Ave',44.756367,-63.66193
 6443,'6443','Cobequid Rd / Judy Anne Ct',44.761814,-63.652187
 6444,'6444','276, Cobequid Rd',44.76083,-63.656811
-6445,'6445','Cobequid Terminal Bay 1',44.754345,-63.663273
-6446,'6446','Cobequid Terminal Bay 2',44.753975,-63.663113
 6447,'6447','Coburg Rd / Dunn Bldg',44.638031,-63.59462
 6448,'6448','Coburg Rd / Henry St',44.639656,-63.588783
 6449,'6449','Coburg Rd / Lemarchant',44.638916,-63.591228
@@ -894,8 +895,6 @@
 6926,'6926','80, Highfield Pk Dr',44.687256,-63.590778
 6927,'6927','21, Highfield Pk Dr',44.689636,-63.586021
 6928,'6928','15, Highfield Pk Dr',44.690754,-63.584354
-6929,'6929','Highfield Terminal Bay 2',44.684364,-63.589336
-6930,'6930','Highfield Terminal Bay 1',44.684418,-63.589169
 6931,'6931','Highfield St / Punch Bowl Dr',44.626793,-63.617626
 6932,'6932','12, Hillsboro Dr',44.693733,-63.491898
 6933,'6933','15, Hillsboro Dr',44.693428,-63.491928
@@ -1171,8 +1170,6 @@
 7215,'7215','Micmac Blvd / Woodland Ave',44.685165,-63.568176
 7216,'7216','155, Bluewater Rd',44.721069,-63.713524
 7217,'7217','217, Bluewater Rd',44.718658,-63.715073
-7218,'7218','Micmac Terminal Bay 2',44.686131,-63.561821
-7219,'7219','Micmac Terminal Bay 1',44.68618,-63.561489
 7220,'7220','Millwood Dr / Lumberman Dr',44.788429,-63.709362
 7221,'7221','Millwood Dr / Barque Crt',44.781906,-63.708504
 7222,'7222','Millwood Dr / Beaver Bank Rd',44.790329,-63.693279
@@ -1393,8 +1390,6 @@
 7442,'7442','Peddar''s Way / Bow St',44.67028,-63.544052
 7443,'7443','47, Peddar''s Way',44.672031,-63.544907
 7444,'7444','47, Peddar''s Way',44.672092,-63.544754
-7445,'7445','Penhorn Terminal',44.670776,-63.53809
-7446,'7446','Penhorn Terminal',44.670631,-63.538811
 7447,'7447','Pettipas Dr / Vidito Dr',44.711987,-63.610306
 7448,'7448','19, Pettipas Dr',44.710213,-63.612442
 7449,'7449','Pinecrest Dr / Albro Lk Rd',44.683487,-63.580101
@@ -1517,7 +1512,6 @@
 7667,'7667','Old Sambro Rd / Duggan Ln',44.581715,-63.640202
 7668,'7668','702, Old Sambro Rd',44.585533,-63.641132
 7669,'7669','Old Sambro Rd / Leiblen Dr',44.594044,-63.638489
-8000,'8000','Pleasant St / Stephen St',44.660202,-63.552113
 8001,'8001','Pleasant St / Albacore Pl',44.632221,-63.522026
 8002,'8002','Pleasant St / Bayden Powell Ctr',44.628567,-63.517715
 8003,'8003','Pleasant St / Cameron St',44.661743,-63.553497
@@ -1573,6 +1567,7 @@
 8059,'8059','Portland St / Lakefront Rd',44.667339,-63.548767
 8060,'8060','Portland St / St. Georges Ln',44.669029,-63.557453
 8062,'8062','350, Portland St',44.667652,-63.550816
+8064,'8064','Portland Ests Blvd West / Old Birch Rd',44.663967,-63.517811
 8065,'8065','11, Primrose St',44.681885,-63.586285
 8066,'8066','Prince Albert Rd / Superstore',44.68008,-63.548458
 8067,'8067','Sinclair St / Prince Albert Rd',44.67804,-63.555275
@@ -1648,6 +1643,8 @@
 8137,'8137','Quinpool Rd / Oxford St',44.644405,-63.600838
 8138,'8138','Quinpool Rd / Vernon St',44.646469,-63.593666
 8139,'8139','7137, Quinpool Rd',44.641449,-63.617172
+8140,'8140','Highfield Terminal Bay 1',44.684441,-63.589165
+8141,'8141','Highfield Terminal Bay 2',44.684383,-63.589333
 8142,'8142','Quinpool Rd / Bloomingdale Terr',44.64262,-63.606087
 8143,'8143','Quinpool Rd / Macdonald St',44.641243,-63.610905
 8145,'8145','Quinpool Rd / Newton St',44.642845,-63.606167
@@ -1675,6 +1672,8 @@
 8168,'8168','Rdg Vly Rd / Bromley Rd',44.629822,-63.621174
 8169,'8169','Rdg Vly Rd / Highfield St',44.627693,-63.619133
 8170,'8170','46, Riverview Cr',44.741486,-63.651211
+8171,'8171','Micmac Terminal Bay 1',44.686157,-63.561554
+8172,'8172','Micmac Terminal Bay 2',44.686157,-63.561806
 8173,'8173','Riverview Cr / Rockmanor Dr',44.743362,-63.650814
 8174,'8174','Riverview Cr / Rockmanor Dr',44.740074,-63.650448
 8176,'8176','Robert Burns Dr / Primrose St',44.682934,-63.586304
@@ -1752,7 +1751,6 @@
 8257,'8257','Russell Lk Dr / Georgian Ct',44.662205,-63.519379
 8258,'8258','30, Russell Lk Dr',44.662804,-63.520214
 8259,'8259','Sackville Dr / Downsview Entrance',44.772106,-63.691719
-8260,'8260','Sackville Transit Terminal',44.76786,-63.69957
 8262,'8262','Scot St / Desmond Ave',44.656425,-63.627945
 8263,'8263','Sea King Dr / Lancaster Dr',44.68708,-63.572399
 8264,'8264','6, Sea King Dr',44.685783,-63.575687
@@ -2025,8 +2023,6 @@
 8544,'8544','Windmill Rd / Shannon Plz Entr.',44.684933,-63.598549
 8545,'8545','Windmill Rd / Sunnydale Ave',44.677834,-63.592213
 8546,'8546','Windmill Rd / Wallace St',44.674759,-63.590366
-8547,'8547','Windmill Rd / Wright Ave Metrolink',44.69865,-63.605282
-8548,'8548','Windmill Rd / Wright Ave Metrolink',44.698521,-63.605427
 8549,'8549','Windsor St / Maxwell St',44.659439,-63.611431
 8550,'8550','Windsor St / Willow Pk',44.657833,-63.608788
 8551,'8551','Windsor St / Connolly St',44.660286,-63.618965
@@ -2109,8 +2105,6 @@
 8638,'8638','Macdonald Bridge Exit Ramp',44.658581,-63.589745
 8639,'8639','Cogswell St / Albermarle St',44.651142,-63.577911
 8643,'8643','Mumford Terminal Bay 2',44.648102,-63.620819
-8645,'8645','Penhorn Terminal',44.670742,-63.538647
-8646,'8646','Cobequid Terminal Bay 1',44.754219,-63.663387
 8647,'8647','Dunbrack St / Lacewood Dr',44.662601,-63.65453
 8648,'8648','Pt Pleasant Pk 1st Canteen',44.627415,-63.566193
 8649,'8649','Pt Pleasant Pk Lower Lot',44.626015,-63.564739
@@ -2378,6 +2372,14 @@
 8937,'8937','389, Ross Rd',44.684643,-63.45385
 8938,'8938','Cole Harbour Rd / Old Lawrencetown Rd',44.682423,-63.454514
 8939,'8939','Cole Harbour Rd / Bisset Rd',44.672623,-63.477306
+8940,'8940','Penhorn Terminal Bay 1',44.670708,-63.538975
+8941,'8941','Penhorn Terminal Bay 2',44.670734,-63.538761
+8942,'8942','Penhorn Terminal Bay 2',44.670734,-63.538727
+8943,'8943','Penhorn Terminal Bay 3',44.670761,-63.538494
+8944,'8944','Penhorn Terminal Bay 4',44.67078,-63.538235
+8945,'8945','Penhorn Terminal Bay 5',44.670666,-63.5382
+8946,'8946','Penhorn Terminal Bay 6',44.670643,-63.538479
+8948,'8948','Penhorn Terminal Bay 8',44.670601,-63.53896
 8949,'8949','Portland Hls Terminal Bay 1',44.670185,-63.505707
 8951,'8951','Portland Hls Terminal Bay 3',44.669849,-63.505558
 8952,'8952','Portland Hls Terminal Bay 4',44.669712,-63.505501
@@ -2386,11 +2388,17 @@
 8955,'8955','Portland Hls Terminal Bay 7',44.669991,-63.505878
 8956,'8956','Portland Hls Terminal Bay 8',44.670155,-63.505932
 8957,'8957','Portland Hls Terminal Bay 8',44.670143,-63.505966
+8958,'8958','Sackville Terminal Bay 1',44.767925,-63.698944
+8959,'8959','Sackville Terminal Bay 3 (8959)',44.767899,-63.6992
+8960,'8960','Sackville Terminal Bay 4 (8960)',44.767879,-63.699364
+8961,'8961','Sackville Terminal Bay 5 (8961)',44.767876,-63.699482
 8962,'8962','Woodside Ferry Terminal Bay 1',44.649174,-63.548416
 8963,'8963','Woodside Ferry Terminal Bay 1',44.649158,-63.548439
 8964,'8964','Woodside Ferry Terminal Bay 2',44.649101,-63.548344
 8965,'8965','Woodside Ferry Terminal Bay 3',44.649059,-63.548222
 8966,'8966','Woodside Ferry Terminal Bay 4',44.649052,-63.548111
+8967,'8967','Sackville Terminal Bay 2',44.767906,-63.699051
+8968,'8968','Sackville Terminal Bay 2',44.767918,-63.699055
 9000,'9000','Downsview Dr / Sobeys',44.771961,-63.696007
 9001,'9001','Downsview Dr / Sobeys',44.772106,-63.695969
 9002,'9002','21, Glendale Ave',44.759068,-63.658329
@@ -2398,6 +2406,7 @@
 9004,'9004','Aerotech Dr / Pratt & Whitney Dr',44.85638,-63.544086
 9005,'9005','Millwood Dr / Millwood High',44.790592,-63.709187
 9006,'9006','Lower Water / Keith''s Brewery',44.644341,-63.569881
+9007,'9007','Pleasant St / Stephen St',44.660202,-63.552113
 9011,'9011','Barnes Dr / Baldwin Dr',44.873165,-63.527603
 9012,'9012','Barnes Dr / Baldwin Dr',44.873264,-63.527798
 9013,'9013','Barnes Dr / Pk & Fly Lot',44.875927,-63.524643
@@ -2437,6 +2446,7 @@
 9056,'9056','Hammonds Plains Rd / Innovation Dr',44.725639,-63.692883
 9057,'9057','Hammonds Plains Rd / Innovation Dr',44.725677,-63.692802
 9061,'9061','Albemarle St / Duke St (Metrox)',44.649933,-63.577614
+9064,'9064','Cobequid Rd / Hwy #1',44.752632,-63.664333
 9066,'9066','Baker Dr / Lindenwood',44.661205,-63.530254
 9067,'9067','Baker Dr / Lindenwood',44.66135,-63.530064
 9068,'9068','201 To Gaston Rd, Eileen Stubbs Ave',44.698658,-63.578651
