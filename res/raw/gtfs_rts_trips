@@ -1,5 +1,5 @@
 101,0,'Bridge Terminal',1
-100,0,'Mumford Terminal',1
+100,0,'Mumford Term',1
 200,0,'Water St Terminal',2
 201,0,'Wedgewood',2
 401,0,'Farnham Gt',4
@@ -10,7 +10,7 @@
 600,0,'Water St Terminal',6
 701,0,'Gottingen',7
 700,0,'Robie',7
-901,0,'Mumford Terminal',9
+901,0,'Mumford Term',9
 900,0,'Pt Pleasant',9
 1000,0,'Dalhousie',10
 1001,0,'Westphal',10
@@ -19,7 +19,7 @@
 1401,0,'Leiblin Pk',14
 1400,0,'Scotia Sq',14
 1500,0,'Bayers Rd',15
-1501,0,'Purcell''s Cv',15
+1501,0,'Purcells Cv',15
 1600,0,'Bridge Terminal',16
 1601,0,'Lacewood Terminal',16
 1701,0,'Lacewood Terminal',17
@@ -33,19 +33,19 @@
 2100,0,'Downtown',21
 2101,0,'Timberlea',21
 2201,0,'Exhibition Pk',22
-2200,0,'Mumford',22
+2200,0,'Mumford Terminal',22
 2300,0,'Downtown',23
 2301,0,'Timberlea',23
-3101,0,'Lacewood Terminal',31
+3101,0,'Lacewood Term',31
 3100,0,'Summer St',31
+3201,0,'Cowie Hl',32
 3200,0,'Scotia Sq',32
-3201,0,'South Ctr',32
-3301,0,'Hubley Ctr',33
 3300,0,'Summer St',33
+3301,0,'Tantallon',33
 3401,0,'Glenbourne',34
 3400,0,'Summer St',34
-3501,0,'Lacewood Terminal',35
-3500,0,'Train Sta',35
+3501,0,'Lacewood',35
+3500,0,'Via Rail',35
 4101,0,'Bridge Terminal / Scotia Sq',41
 4100,0,'Dalhousie',41
 4200,0,'Dalhousie',42
@@ -54,15 +54,15 @@
 5101,0,'Burnside',51
 5201,0,'Bayers Lk',52
 5200,0,'Burnside',52
-5301,0,'Highfield Terminal',53
+5301,0,'Highfield Term',53
 5300,0,'Summer St',53
-5400,0,'Alderney',54
+5400,0,'Alderney Gt',54
 5401,0,'Montebello',54
 5500,0,'Bridge Terminal',55
 5501,0,'Port Wallace',55
 5600,0,'Dartmouth Xing',56
 5601,0,'Portland Hls Terminal',56
-5701,0,'Portland Hls',57
+5701,0,'Portland Hls Terminal',57
 5700,0,'Woodside',57
 5800,0,'Bridge Terminal',58
 5801,0,'Woodlawn',58
@@ -72,14 +72,14 @@
 6001,0,'Eastern Passage',60
 6101,0,'North Preston',61
 6100,0,'Scotia Sq',61
-6200,0,'Bridge Terminal',62
+6200,0,'Bridge Term',62
 6201,0,'Wildwood',62
 6300,0,'Bridge Terminal',63
 6301,0,'Woodside',63
 6400,0,'63 Bridge Terminal',64
 6401,0,'Akerley',64
 6501,0,'Astral',65
-6500,0,'Portland Hls',65
+6500,0,'Portland Hls Terminal',65
 6601,0,'Cobequid Terminal',66
 6600,0,'Gaston Rd',66
 6800,0,'Bridge Terminal',68
@@ -92,41 +92,41 @@
 7900,0,'Woodside Ferry',79
 8000,0,'Downtown Halifax',80
 8001,0,'Sackville Terminal',80
-8100,0,'Downtown Halifax',81
+8100,0,'Downtown',81
 8101,0,'Hemlock Ravine',81
-8201,0,'Sackville Terminal',82
+8201,0,'Millwood',82
 8200,0,'Water St Terminal',82
 8300,0,'Sackville Terminal',83
 8301,0,'Springfield',83
-8401,0,'Sackville Term''l',84
+8401,0,'Sackville',84
 8400,0,'Summer St',84
-8501,0,'Sackville',85
+8501,0,'Downsview Sackville',85
 8500,0,'Summer St',85
-8601,0,'Rockmanor Dr',86
+8601,0,'Basinview Rockmanor',86
 8600,0,'Summer St',86
 8700,0,'Bridge Terminal',87
-8701,0,'Sackville Terminal',87
+8701,0,'Sackville Term',87
 8801,0,'Bedford Commons',88
 8800,0,'Cobequid Terminal',88
 8901,0,'Cobequid Terminal',89
 8900,0,'Lacewood Terminal',89
 9001,0,'Larry Uteck',90
-9000,0,'Water St Terminal',90
-15900,0,'Downtown Halifax',159
-15901,0,'Portland Hls',159
-18500,0,'Downtown Halifax',185
+9000,0,'Water St',90
+15900,0,'Halifax',159
+15901,0,'Portland Hls Terminal',159
+18500,0,'Halifax',185
 18501,0,'Sackville Terminal',185
 32001,0,'Airport',320
 32000,0,'Downtown Halifax',320
-33000,0,'Albemarle St',330
+33000,0,'Halifax',330
 33001,0,'Tantallon',330
-37000,0,'Downtown Halifax',370
+37000,0,'Downtown Hfx',370
 37001,0,'Porters Lk',370
 40001,0,'Beaver Bank',400
 40000,0,'Sackville Terminal',400
 40101,0,'Porters Lk & Seaforth',401
 40100,0,'Portland Hls Terminal',401
-40201,0,'Sambro',402
+40201,0,'Sambro Loop',402
 40200,0,'South Ctr Mall',402
 10000101,0,'Clayton Pk Jr High',100001
 10000100,0,'Dunbrack St / Langbrae Dr',100001
@@ -136,8 +136,8 @@
 10000300,0,'Ilsley Ave',100003
 10000401,0,'Halifax West High School',100004
 10000400,0,'Mumford Terminal',100004
-10000501,1,'E',100005
-10000502,1,'W',100005
+10000500,0,'Bridge Terminal',100005
+10000501,0,'Scotia Sq',100005
 10001401,0,'Herring Cv Rd',100014
 10001400,0,'Mumford Terminal',100014
 10005300,0,'Dartmouth High School',100053
