@@ -76,12 +76,12 @@
 6201,0,'Wildwood',62
 6300,0,'Bridge Terminal',63
 6301,0,'Woodside',63
-6400,0,'63 Bridge Terminal',64
 6401,0,'Akerley',64
+6400,0,'Bridge Terminal',64
 6501,0,'Astral',65
 6500,0,'Portland Hls Terminal',65
 6601,0,'Cobequid Terminal',66
-6600,0,'Gaston Rd',66
+6600,0,'Gaston',66
 6800,0,'Bridge Terminal',68
 6801,0,'Cherry Brk',68
 7200,0,'Dartmouth Xing',72
@@ -94,7 +94,7 @@
 8001,0,'Sackville Terminal',80
 8100,0,'Downtown',81
 8101,0,'Hemlock Ravine',81
-8201,0,'Millwood',82
+8201,0,'Sackville Term',82
 8200,0,'Water St Terminal',82
 8300,0,'Sackville Terminal',83
 8301,0,'Springfield',83
@@ -112,13 +112,13 @@
 8900,0,'Lacewood Terminal',89
 9001,0,'Larry Uteck',90
 9000,0,'Water St',90
-15900,0,'Halifax',159
-15901,0,'Portland Hls Terminal',159
-18500,0,'Halifax',185
-18501,0,'Sackville Terminal',185
+15900,0,'Downtown Halifax',159
+15901,0,'Portland Hls',159
+18500,0,'Downtown Halifax',185
+18501,0,'Sackville',185
 32001,0,'Airport',320
 32000,0,'Downtown Halifax',320
-33000,0,'Halifax',330
+33000,0,'Albemarle St',330
 33001,0,'Tantallon',330
 37000,0,'Downtown Hfx',370
 37001,0,'Porters Lk',370
@@ -126,5 +126,7 @@
 40000,0,'Sackville Terminal',400
 40101,0,'Porters Lk & Seaforth',401
 40100,0,'Portland Hls Terminal',401
-40201,0,'Sambro Loop',402
+40201,0,'Sambro',402
 40200,0,'South Ctr Mall',402
+10000500,0,'Bridge Term',100005
+10000501,0,'Scotia Sq',100005

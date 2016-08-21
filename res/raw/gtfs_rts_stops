@@ -12,7 +12,6 @@
 6011,'6011','Akerley Blvd / Joseph Zatzman Dr (6011)',44.711185,-63.600934
 6012,'6012','Akerley Blvd / Morris Dr (6012)',44.705844,-63.609697
 6013,'6013','Akerley Blvd / Mosher Dr (6013)',44.707867,-63.60754
-6014,'6014','Akerley Blvd Ns Windmill Rd',44.704123,-63.611446
 6015,'6015','Akerley Blvd / Civic 30 (6015)',44.708979,-63.606205
 6016,'6016','Akerley Blvd / Burnside Dr (6016)',44.713273,-63.594769
 6017,'6017','Albro Lk Rd / Cedar Ct (6017)',44.684154,-63.578836
@@ -894,6 +893,7 @@
 6926,'6926','Highfield Pk Dr / Civic 45 (6926)',44.687449,-63.590586
 6927,'6927','Highfield Pk Dr @ Civic 72 (6927)',44.689633,-63.585944
 6928,'6928','Highfield Pk Dr / True N Cr (6928)',44.6907,-63.584366
+6929,'6929','Duffus St / Robie St (6929)',44.66523,-63.609889
 6931,'6931','Highfield St / Punch Bowl Dr (6931)',44.626847,-63.61764
 6932,'6932','Hillsboro Dr / Auburn Dr (6932)',44.69374,-63.491881
 6933,'6933','Hillsboro Dr / Auburn Dr (6933)',44.69352,-63.491799
@@ -1050,7 +1050,6 @@
 7091,'7091','Lady Hammond Rd / High St (7091)',44.665254,-63.613113
 7092,'7092','Barrington St / Hollis St (7092)',44.638953,-63.569911
 7093,'7093','Lady Hammond Rd / MacKintosh St (7093)',44.66407,-63.619653
-7094,'7094','Lady Hammond Rd Eb Fs Robie St',44.66543,-63.609683
 7095,'7095','Lady Hammond Rd / Basinview Dr (7095)',44.665196,-63.615049
 7096,'7096','Lady Hammond Rd / Robie St (7096)',44.665356,-63.610056
 7097,'7097','Lady Hammond Rd / Robie St (7097)',44.665307,-63.611605
@@ -1305,6 +1304,7 @@
 7356,'7356','North St / Oxford St (7356)',44.649242,-63.602477
 7357,'7357','North St / Windsor St (7357)',44.652088,-63.598521
 7358,'7358','North St / Windsor St (7358)',44.65236,-63.598205
+7359,'7359','Sackville Dr / Rosemary Dr (7359)',44.796993,-63.732223
 7360,'7360','North Rdg Rd / Novalea Dr (7360)',44.673207,-63.615425
 7361,'7361','Novalea Dr / Kencrest Ave (7361)',44.673208,-63.614702
 7362,'7362','Novalea Dr @ Cabot Pl (7362)',44.666551,-63.604917
@@ -1473,7 +1473,6 @@
 7633,'7633','Ketch Harbour Rd / Pork Ave (7633)',44.497103,-63.543164
 7634,'7634','Ketch Harbour Rd / Grace Ave (7634)',44.494415,-63.546003
 7635,'7635','Ketch Harbour Rd / East Side Rd (7635)',44.492998,-63.548968
-7636,'7636','Ketch Harbour Rd @ 1st Pond Dr',44.492933,-63.550735
 7637,'7637','Ketch Harbour Rd / Martins Ln (7637)',44.491317,-63.555769
 7638,'7638','Ketch Harbour Rd / Sable Rd (7638)',44.487736,-63.558249
 7639,'7639','Ketch Harbour Rd / Crystal Dr (7639)',44.482082,-63.564935
@@ -1503,7 +1502,6 @@
 7663,'7663','Old Sambro Rd / Harriet Ln (7663)',44.570162,-63.634232
 7664,'7664','Old Sambro Rd / Bonavista Dr (7664)',44.574738,-63.633794
 7665,'7665','Old Sambro Rd @ Civic 1000 (7665)',44.579605,-63.638175
-7666,'7666','Old Sambro Rd @ Weavers Lk Dr',44.579605,-63.638175
 7667,'7667','Old Sambro Rd / Duggan Ln (7667)',44.582131,-63.640723
 7668,'7668','Old Sambro Rd @ Civic 702 (7668)',44.58558,-63.641424
 7669,'7669','Old Sambro Rd / Leiblen Dr (7669)',44.594903,-63.638536
@@ -1555,6 +1553,7 @@
 8051,'8051','Portland St / Hawthorne St (8051)',44.668633,-63.559542
 8052,'8052','Portland St / Old Ferry Rd (8052)',44.668211,-63.554148
 8053,'8053','Portland St / Rodney Rd (8053)',44.667723,-63.550637
+8054,'8054','Lamont Ter / Lemlair Row (8054)',44.698021,-63.567084
 8055,'8055','Portland St / Eisener Blvd (8055)',44.671094,-63.528433
 8056,'8056','Bluewater Rd / Kearney Lk Rd (8056)',44.716338,-63.716121
 8057,'8057','Portland St / Canal St (8057)',44.66784,-63.562585
@@ -1675,7 +1674,6 @@
 8177,'8177','Robert Burns Dr / Primrose St (8177)',44.682777,-63.585844
 8178,'8178','Robie St / Charles St (8178)',44.653156,-63.593691
 8179,'8179','Robie St / Veterans Memorial Ln (8179)',44.644376,-63.588793
-8180,'8180','Robie St Nb Fs Lady Hammond Rd',44.665493,-63.610983
 8181,'8181','Robie St / North St (8181)',44.654875,-63.595067
 8182,'8182','Robie St / May St (8182)',44.656177,-63.596826
 8183,'8183','Robie St / Pepperell St (8183)',44.646179,-63.589983
@@ -1685,6 +1683,7 @@
 8187,'8187','Robie St / University Ave (8187)',44.638629,-63.585782
 8188,'8188','Robie St / University Ave (8188)',44.637772,-63.58556
 8190,'8190','Robie St / Welsford St (8190)',44.648643,-63.591236
+8191,'8191','Robie St / Lady Hammond Rd (8191)',44.665482,-63.610904
 8192,'8192','Robie St / Young St (8192)',44.66001,-63.60276
 8193,'8193','Robie St / Young St (8193)',44.658966,-63.601332
 8194,'8194','Robie St / Bliss St (8194)',44.64159,-63.587522
@@ -2115,7 +2114,6 @@
 8655,'8655','Country Vw Dr / McClure Cl (8655)',44.702773,-63.565689
 8656,'8656','Gale Terr / Commodore Dr (8656)',44.699229,-63.564915
 8657,'8657','Finnian Row / Lamont Terr (8657)',44.696856,-63.566354
-8658,'8658','Lamont Terr Op Walmart',44.698062,-63.567004
 8659,'8659','Commodore Dr / Lamont Terr (8659)',44.700268,-63.566399
 8660,'8660','Hornes Rd @ Civic 65 (8660)',44.614282,-63.485924
 8661,'8661','Hornes Rd / Scott Dr (8661)',44.616207,-63.483643
@@ -2148,6 +2146,8 @@
 8698,'8698','Pratt & Whitney Dr @ Civic 200 (8698)',44.861844,-63.543672
 8699,'8699','Pratt & Whitney Dr / Civic 189 (8699)',44.860908,-63.543376
 8701,'8701','Sackville Dr / Civic 1815 (8701)',44.798512,-63.734375
+8704,'8704','Pratt & Whitney Dr / Baldwin Dr (8704)',44.871719,-63.534202
+8705,'8705','Pratt & Whitney Dr / Baldwin Dr (8705)',44.87175,-63.534511
 8709,'8709','Beaver Bank Rd / Glendale Dr (8709)',44.783036,-63.691605
 8710,'8710','Beaver Bank Rd / Stokil Dr (8710)',44.791092,-63.692293
 8711,'8711','Beaver Bank Rd / Windgate Dr (8711)',44.796844,-63.689804
@@ -2208,7 +2208,6 @@
 8766,'8766','Ross Rd / Main St (8766)',44.703838,-63.465199
 8767,'8767','Hwy 7 / Old Tk 7 Rd (8767)',44.709002,-63.439487
 8768,'8768','Hwy 7 / Lower Governor St (8768)',44.71532,-63.43463
-8769,'8769','Brooks Dr Op East Preston Rec Ctr',44.719718,-63.433447
 8770,'8770','Brooks Dr @ Civic 253 (8770)',44.726807,-63.426767
 8771,'8771','Brooks Dr / Brian St (8771)',44.728142,-63.420496
 8772,'8772','Upper Partridge River Rd @ Civic 52 (8772)',44.724943,-63.418686
