@@ -765,7 +765,7 @@
 6811,'6811','Hammonds Plains Rd / Lucasville Rd (6811)',44.732776,-63.76099
 6812,'6812','Hammonds Plains Rd / Crestfield Dr (6812)',44.724724,-63.737558
 6813,'6813','Hammonds Plains Rd / Northwood Rd (6813)',44.722018,-63.823288
-6814,'6814','Hammonds Plains Rd / Rockcliffe Cr (6814)',44.714058,-63.834127
+6814,'6814','Hammonds Plains Rd / Rockcliffe Cr (6814)',44.714063,-63.834172
 6815,'6815','Hammonds Plains Rd / Stillwater Lk Dr (6815)',44.707438,-63.848752
 6816,'6816','Hammonds Plains Rd / St George Blvd (6816)',44.726194,-63.741187
 6817,'6817','Hammonds Plains Rd / St George Blvd (6817)',44.727042,-63.744401
@@ -775,14 +775,14 @@
 6821,'6821','Hammonds Plains Rd / Civic 2465 (6821)',44.734041,-63.805602
 6822,'6822','Hammonds Plains Rd / Nottingham Dr (6822)',44.710148,-63.84267
 6823,'6823','Hammonds Plains Rd / Ellard Ln (6823)',44.730944,-63.754784
-6824,'6824','Hammonds Plains Rd / Winslow Dr (6824)',44.707379,-63.849158
+6824,'6824','Hammonds Plains Rd / Winslow Dr (6824)',44.707138,-63.849605
 6825,'6825','Hammonds Plains Rd / Lk Dr (6825)',44.718902,-63.685692
 6826,'6826','Hammonds Plains Rd / Northwood Dr (6826)',44.722162,-63.823328
 6827,'6827','Hammonds Plains Rd / Nottingham Dr (6827)',44.709602,-63.843963
-6828,'6828','Hammonds Plains Rd @ Civic 1858 (6828)',44.733826,-63.77177
-6829,'6829','Hammonds Plains Rd / Civic 2465 (6829)',44.727653,-63.816899
+6828,'6828','Hammonds Plains Rd @ Civic 1858 (6828)',44.733776,-63.772933
+6829,'6829','Hammonds Plains Rd / Civic 2465 (6829)',44.72451,-63.820743
 6830,'6830','Hammonds Plains Rd / Gatehouse Run (6830)',44.724578,-63.737069
-6831,'6831','Hammonds Plains Rd / Rockcliffe Cr (6831)',44.714184,-63.834319
+6831,'6831','Hammonds Plains Rd / Rockcliffe Cr (6831)',44.71411,-63.834206
 6832,'6832','Harris Rd / Curley Dr (6832)',44.680494,-63.545015
 6833,'6833','Harris Rd / Curley Dr (6833)',44.68034,-63.544747
 6834,'6834','Hartlen St / Main St (6834)',44.681719,-63.537395
@@ -1448,10 +1448,10 @@
 7635,'7635','Ketch Harbour Rd / East Side Rd (7635)',44.492998,-63.548968
 7637,'7637','Ketch Harbour Rd / Martins Ln (7637)',44.491317,-63.555769
 7638,'7638','Ketch Harbour Rd / Sable Rd (7638)',44.487736,-63.558249
-7639,'7639','Ketch Harbour Rd / Crystal Hl Dr (7639)',44.482082,-63.564935
-7640,'7640','Ketch Harbour Rd / Willow Rd (7640)',44.481028,-63.575776
-7641,'7641','Ketch Harbour Rd / Atlantic Vw Dr (7641)',44.482241,-63.579842
-7642,'7642','Ketch Harbour Rd / Civic 1571 (7642)',44.485154,-63.583868
+7639,'7639','Ketch Harbour Rd / Crystal Hl Dr (7639)',44.481136,-63.576713
+7640,'7640','Ketch Harbour Rd / Willow Rd (7640)',44.482376,-63.579616
+7641,'7641','Ketch Harbour Rd / Atlantic Vw Dr (7641)',44.485119,-63.58348
+7642,'7642','Ketch Harbour Rd / Civic 1571 (7642)',44.486534,-63.590957
 7643,'7643','Ketch Harbour Rd / Coastal Ln (7643)',44.484159,-63.595731
 7644,'7644','Ketch Harbour Rd / Lennys Ln (7644)',44.480726,-63.600283
 7645,'7645','Ketch Harbour Rd / Civic 1727 (7645)',44.478723,-63.603172
@@ -1475,7 +1475,7 @@
 7663,'7663','Old Sambro Rd / Harriet Ln (7663)',44.570162,-63.634232
 7664,'7664','Old Sambro Rd / Civic 990 (7664)',44.574738,-63.633794
 7665,'7665','Old Sambro Rd @ Civic 1000 (7665)',44.579605,-63.638175
-7666,'7666','Ketch Harbour Rd / Sandy Cv Rd (7666)',44.48214,-63.565181
+7666,'7666','Ketch Harbour Rd / Sandy Cv Rd (7666)',44.482167,-63.564889
 7667,'7667','Old Sambro Rd / Duggan Ln (7667)',44.582131,-63.640723
 7668,'7668','Old Sambro Rd @ Civic 702 (7668)',44.58558,-63.641424
 7669,'7669','Old Sambro Rd / Leiblin Dr (7669)',44.594903,-63.638536
@@ -1649,7 +1649,7 @@
 8179,'8179','Robie St / Veterans Memorial Ln (8179)',44.644376,-63.588793
 8181,'8181','Robie St / North St (8181)',44.654875,-63.595067
 8182,'8182','Robie St / May St (8182)',44.656177,-63.596826
-8183,'8183','Robie St / Pepperell St (8183)',44.646259,-63.590003
+8183,'8183','Robie St / Pepperell St (8183)',44.646179,-63.589983
 8184,'8184','Robie St / Quinpool Rd (8184)',44.648003,-63.590664
 8185,'8185','Robie St / Spg Gdn Rd (8185)',44.640812,-63.58703
 8186,'8186','Robie St / Spg Gdn Rd (8186)',44.639726,-63.586655
@@ -1689,7 +1689,7 @@
 8222,'8222','Robie St / Charles St (8222)',44.653588,-63.594017
 8223,'8223','Robie St / Quinpool Rd (8223)',44.646336,-63.589784
 8225,'8225','Robie St / South St (8225)',44.636144,-63.584789
-8226,'8226','Rockmanor Dr / Redbank Rd (8226)',44.738814,-63.65125
+8226,'8226','Rockmanor Dr / Redbank Rd (8226)',44.738846,-63.651363
 8227,'8227','Rockmanor Dr / Rocky Lk Dr (8227)',44.737943,-63.651813
 8228,'8228','Rockmanor Dr / Rocky Lk Dr (8228)',44.737902,-63.651864
 8229,'8229','Rockmanor Dr @ Civic 125 (8229)',44.74148,-63.648928
@@ -1746,7 +1746,7 @@
 8288,'8288','Somerset St / Glenwood Ave (8288)',44.675263,-63.544608
 8289,'8289','Somerset St / Glenwood Ave (8289)',44.675026,-63.544842
 8290,'8290','Somerset St / Penhorn Dr (8290)',44.676979,-63.54267
-8291,'8291','South St / Studley Ave (8291)',44.634755,-63.592466
+8291,'8291','South St / Studley Ave (8291)',44.634767,-63.592483
 8292,'8292','South St / Queen St (8292)',44.638978,-63.574528
 8293,'8293','South St / Barrington St (8293)',44.639745,-63.571706
 8294,'8294','South St / Church St (8294)',44.639517,-63.572408
@@ -1759,7 +1759,7 @@
 8301,'8301','South St / Tower Rd (8301)',44.637966,-63.578573
 8302,'8302','South St / Cartaret St (8302)',44.635686,-63.588579
 8303,'8303','South St / I.W.K Hosp (8303)',44.637292,-63.581961
-8304,'8304','South St / Studley Ave (8304)',44.634857,-63.592538
+8304,'8304','South St / Studley Ave (8304)',44.634841,-63.592528
 8305,'8305','South St / Tower Rd (8305)',44.637886,-63.579562
 8306,'8306','South Pk St / Fenwick St (8306)',44.63725,-63.577261
 8307,'8307','South Pk St / South St (8307)',44.638417,-63.577799
@@ -1900,7 +1900,7 @@
 8455,'8455','Waverley Rd / Twilight Ln (8455)',44.719903,-63.545153
 8456,'8456','Waverley Rd @ Civic 732 (8456)',44.724552,-63.542159
 8457,'8457','Waverley Rd / Montague Rd (8457)',44.726134,-63.541642
-8458,'8458','Waverley Rd / Lk Charles Dr (8458)',44.728841,-63.545331
+8458,'8458','Waverley Rd / Lk Charles Dr (8458)',44.728825,-63.545335
 8459,'8459','Waverley Rd @ Turning Loop (8459)',44.743193,-63.559871
 8460,'8460','Braemar Dr / Braeside Ct (8460)',44.686319,-63.547233
 8461,'8461','Waverley Rd / Civic 1053 (8461)',44.74097,-63.557202
@@ -2186,7 +2186,7 @@
 8768,'8768','Hwy 7 / Lower Governor St (8768)',44.715309,-63.434592
 8769,'8769','Brooks Dr / East Preston Rec Ctr (8769)',44.719744,-63.433394
 8770,'8770','Brooks Dr @ Civic 253 (8770)',44.726775,-63.426732
-8771,'8771','Brooks Dr @ Civic 344 (8771)',44.727452,-63.418997
+8771,'8771','Brooks Dr @ Civic 344 (8771)',44.72788,-63.419408
 8772,'8772','Upper Partridge River Rd @ Civic 52 (8772)',44.724971,-63.418671
 8773,'8773','Hwy 7 / Lower Partridge River Rd (8773)',44.722303,-63.416329
 8774,'8774','Hwy 7 / 2nd Diggs Dr (8774)',44.721002,-63.407702
@@ -2262,7 +2262,7 @@
 8846,'8846','Baker Dr / Basswood Run (8846)',44.655783,-63.529274
 8847,'8847','Baker Dr / Basswood Run (8847)',44.655561,-63.529258
 8848,'8848','Baker Dr / Civic 220 (8848)',44.658266,-63.529535
-8849,'8849','Larry Uteck Blvd / Bedford Hwy (8849)',44.699155,-63.663439
+8849,'8849','Larry Uteck Blvd / Bedford Hwy (8849)',44.699133,-63.663511
 8850,'8850','Baker Dr / Freshwater Tr (8850)',44.663508,-63.529755
 8851,'8851','Baker Dr / Coldstream Run (8851)',44.666174,-63.530216
 8852,'8852','Baker Dr / Norm Newman Dr (8852)',44.6683,-63.531317
@@ -2348,29 +2348,29 @@
 8937,'8937','Ross Rd / Greenvale Cr (8937)',44.684742,-63.453621
 8938,'8938','Cole Harbour Rd @ Old Lawrencetown Rd (8938)',44.682428,-63.454345
 8939,'8939','Cole Harbour Rd / Bisset Rd (8939)',44.672541,-63.476722
-8940,'8940','Penhorn Terminal Bay 1 (8940)',44.670628,-63.538845
-8941,'8941','Penhorn Terminal Bay 2 (8941)',44.670643,-63.538615
-8943,'8943','Penhorn Terminal Bay 3 (8943)',44.670664,-63.53836
-8944,'8944','Penhorn Terminal Bay 4 (8944)',44.670682,-63.538197
-8945,'8945','Penhorn Terminal Bay 5 (8945)',44.670662,-63.538756
-8946,'8946','Penhorn Terminal Bay 6 (8946)',44.670819,-63.538511
-8948,'8948','Penhorn Terminal Bay 8 (8948)',44.670837,-63.538204
-8949,'8949','Portland Hls Terminal Bay 1 (8949)',44.670118,-63.505543
-8951,'8951','Portland Hls Terminal Bay 3 (8951)',44.669933,-63.505467
-8952,'8952','Portland Hls Terminal Bay 4 (8952)',44.669704,-63.505377
-8953,'8953','Portland Hls Terminal Bay 5 (8953)',44.669686,-63.505767
-8954,'8954','Portland Hls Terminal Bay 6 (8954)',44.669843,-63.505799
-8955,'8955','Portland Hls Terminal Bay 7 (8955)',44.669918,-63.50586
-8957,'8957','Portland Hls Terminal Bay 8 (8957)',44.670032,-63.505908
-8958,'8958','Sackville Terminal Bay 1 (8958)',44.767966,-63.698679
-8959,'8959','Sackville Terminal Bay 3 (8959)',44.767928,-63.698882
-8960,'8960','Sackville Terminal Bay 4 (8960)',44.767901,-63.699039
-8961,'8961','Sackville Terminal Bay 5 (8961)',44.767888,-63.699158
+8940,'8940','Penhorn Terminal Bay 1 (8940)',44.670797,-63.538763
+8941,'8941','Penhorn Terminal Bay 2 (8941)',44.670811,-63.538585
+8943,'8943','Penhorn Terminal Bay 3 (8943)',44.670822,-63.538426
+8944,'8944','Penhorn Terminal Bay 4 (8944)',44.67084,-63.538243
+8945,'8945','Penhorn Terminal Bay 5 (8945)',44.670639,-63.538738
+8946,'8946','Penhorn Terminal Bay 6 (8946)',44.670646,-63.53861
+8948,'8948','Penhorn Terminal Bay 8 (8948)',44.670696,-63.538268
+8949,'8949','Portland Hls Terminal Bay 1 (8949)',44.670002,-63.505507
+8951,'8951','Portland Hls Terminal Bay 3 (8951)',44.669859,-63.505441
+8952,'8952','Portland Hls Terminal Bay 4 (8952)',44.669726,-63.505385
+8953,'8953','Portland Hls Terminal Bay 5 (8953)',44.669665,-63.505756
+8954,'8954','Portland Hls Terminal Bay 6 (8954)',44.669795,-63.505814
+8955,'8955','Portland Hls Terminal Bay 7 (8955)',44.669892,-63.50586
+8957,'8957','Portland Hls Terminal Bay 8 (8957)',44.670007,-63.505898
+8958,'8958','Sackville Terminal Bay 1 (8958)',44.767969,-63.698686
+8959,'8959','Sackville Terminal Bay 3 (8959)',44.767939,-63.698845
+8960,'8960','Sackville Terminal Bay 4 (8960)',44.767918,-63.698944
+8961,'8961','Sackville Terminal Bay 5 (8961)',44.767899,-63.699062
 8962,'8962','Woodside Ferry Terminal Bay 1 (8962)',44.649174,-63.548415
 8964,'8964','Woodside Ferry Terminal Bay 2 (8964)',44.649101,-63.548343
 8965,'8965','Woodside Ferry Terminal Bay 3 (8965)',44.649059,-63.548221
 8966,'8966','Woodside Ferry Terminal Bay 4 (8966)',44.649052,-63.54811
-8967,'8967','Sackville Terminal Bay 2 (8967)',44.767947,-63.698801
+8967,'8967','Sackville Terminal Bay 2 (8967)',44.76795,-63.698782
 9000,'9000','Downsview Dr / Touchstone Ct (9000)',44.772293,-63.695697
 9001,'9001','Downsview Dr / Touchstone Ct (9001)',44.772683,-63.695086
 9002,'9002','Glendale Ave / Civic 19 (9002)',44.759059,-63.657799
