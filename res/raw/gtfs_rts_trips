@@ -60,8 +60,8 @@
 5401,0,'Montebello',54
 5500,0,'Bridge Terminal',55
 5501,0,'Port Wallace',55
-5600,0,'Dartmouth Xing',56
-5601,0,'Portland Hls Terminal',56
+5600,0,'Bridge Terminal',56
+5601,0,'Dartmouth Xing',56
 5701,0,'Portland Hls Terminal',57
 5700,0,'Woodside',57
 5800,0,'Bridge Terminal',58
@@ -130,3 +130,5 @@
 40200,0,'South Ctr Mall',402
 10000500,0,'Bridge Term',100005
 10000501,0,'Scotia Sq',100005
+10000600,0,'Bridge Term',100006
+10000601,0,'Scotia Sq',100006
