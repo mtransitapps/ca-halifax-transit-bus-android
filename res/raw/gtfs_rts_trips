@@ -1,13 +1,13 @@
-101,0,'Bridge Terminal',1
+101,0,'Bridge Term',1
 100,0,'Mumford Term',1
 200,0,'Water St Terminal',2
 201,0,'Wedgewood',2
 401,0,'Farnham Gt',4
 400,0,'Water St Terminal',4
 501,0,'Springvale',5
-500,0,'Water St Terminal',5
+500,0,'Water St Term',5
 601,0,'Stonehaven',6
-600,0,'Water St Terminal',6
+600,0,'Water St Term',6
 701,0,'Gottingen',7
 700,0,'Robie',7
 901,0,'Mumford Term',9
@@ -28,7 +28,7 @@
 1800,0,'St Mary''s',18
 1901,0,'Greystone',19
 1900,0,'Mumford Terminal',19
-2000,0,'Dockyard',20
+2000,0,'Downtown',20
 2001,0,'Herring Cv',20
 2100,0,'Downtown',21
 2101,0,'Timberlea',21
@@ -46,7 +46,7 @@
 3400,0,'Summer St',34
 3501,0,'Lacewood',35
 3500,0,'Via Rail',35
-4101,0,'Bridge Terminal / Scotia Sq',41
+4101,0,'Bridge Terminal',41
 4100,0,'Dalhousie',41
 4200,0,'Dalhousie',42
 4201,0,'Lacewood Terminal',42
@@ -70,7 +70,7 @@
 5901,0,'Colby',59
 6000,0,'Bridge Terminal',60
 6001,0,'Eastern Passage',60
-6101,0,'North Preston',61
+6101,0,'N Preston',61
 6100,0,'Scotia Sq',61
 6200,0,'Bridge Term',62
 6201,0,'Wildwood',62
@@ -90,12 +90,12 @@
 7800,0,'Woodside Ferry',78
 7901,0,'Cole Harbour',79
 7900,0,'Woodside Ferry',79
-8000,0,'Downtown Halifax',80
+8000,0,'Downtown',80
 8001,0,'Sackville Terminal',80
 8100,0,'Downtown',81
 8101,0,'Hemlock Ravine',81
 8201,0,'Sackville Term',82
-8200,0,'Water St Terminal',82
+8200,0,'Water St Term',82
 8300,0,'Sackville Terminal',83
 8301,0,'Springfield',83
 8401,0,'Sackville',84
@@ -117,7 +117,7 @@
 18500,0,'Downtown Halifax',185
 18501,0,'Sackville',185
 32001,0,'Airport',320
-32000,0,'Downtown Halifax',320
+32000,0,'Downtown Hfx',320
 33000,0,'Albemarle St',330
 33001,0,'Tantallon',330
 37000,0,'Downtown Hfx',370
