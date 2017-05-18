@@ -723,7 +723,7 @@
 6765,'6765','Gloria McCluskey Ave / Akerley Blvd',44.718097,-63.582942
 6766,'6766','Gloria McCluskey Ave / Civic 80',44.720017,-63.586826
 6767,'6767','Colford Ave / Gloria McCluskey Ave',44.719586,-63.589641
-6768,'6768','Gottingen St / Almon St',44.65974,-63.594584
+6768,'6768','Gottingen St / Almon St',44.659721,-63.594549
 6769,'6769','Gottingen St / North St',44.657475,-63.591293
 6770,'6770','Gottingen St / Young St',44.662292,-63.598409
 6771,'6771','Gottingen St / Cogswell St',44.651177,-63.581794
@@ -888,8 +888,8 @@
 6938,'6938','Hollis St / Barrington St',44.639088,-63.569355
 6940,'6940','Hubley Ctr',44.702829,-63.858269
 6941,'6941','Main St @ Civic 802',44.698271,-63.490028
-6942,'6942','Main St / Cherry Brk Rd',44.702759,-63.471965
-6943,'6943','Main St / Cherry Brk Rd',44.702742,-63.471154
+6942,'6942','Main St / Cherry Brk Rd',44.702753,-63.472029
+6943,'6943','Main St / Cherry Brk Rd',44.702778,-63.471089
 6944,'6944','Main St / Maclaughlin Rd',44.698384,-63.489332
 6945,'6945','Main St / Westphal Way',44.701635,-63.478022
 6946,'6946','Main St / Riley Rd',44.700015,-63.483751
@@ -1105,7 +1105,7 @@
 7170,'7170','Main Ave / Gebhardt St',44.657095,-63.639854
 7171,'7171','Main Ave / Homeward Ave',44.655825,-63.642717
 7172,'7172','Main Ave / Willett St',44.654282,-63.646248
-7173,'7173','Main St / Gordon Ave',44.681744,-63.540267
+7173,'7173','Main St / Gordon Ave',44.68176,-63.540238
 7175,'7175','Main St / Major St',44.681785,-63.540903
 7176,'7176','Flamingo Dr / Swallow St',44.672321,-63.652366
 7177,'7177','Mnr Dr / Peddars Way',44.669464,-63.543806
@@ -1421,8 +1421,8 @@
 7605,'7605','Bridge Terminal Bay 5',44.670554,-63.574202
 7606,'7606','Bridge Terminal Bay 6',44.670413,-63.573955
 7607,'7607','Bridge Terminal Bay 7',44.670323,-63.573781
-7608,'7608','Bridge Terminal Bay 8',44.670202,-63.573567
-7609,'7609','Bridge Terminal Bay 9',44.670062,-63.57385
+7608,'7608','Bridge Terminal Bay 8',44.670171,-63.573509
+7609,'7609','Bridge Terminal Bay 9',44.67001,-63.573843
 7610,'7610','Bridge Terminal Bay 10',44.670166,-63.57403
 7611,'7611','Bridge Terminal Bay 11',44.670282,-63.574279
 7612,'7612','Bridge Terminal Bay 12',44.670384,-63.574569
@@ -1612,7 +1612,7 @@
 8137,'8137','Quinpool Rd / Oxford St',44.644405,-63.600837
 8138,'8138','Quinpool Rd / Quingate Pl',44.646257,-63.594554
 8139,'8139','Quinpool Rd @ Civic 7137',44.641355,-63.616819
-8140,'8140','Highfield Terminal Bay 1',44.684441,-63.589164
+8140,'8140','Highfield Terminal Bay 1',44.684446,-63.589066
 8141,'8141','Highfield Terminal Bay 2',44.684383,-63.589332
 8142,'8142','Quinpool Rd / Bloomingdale Terr',44.642621,-63.60626
 8143,'8143','Quinpool Rd / Macdonald St',44.641275,-63.610848
@@ -1843,7 +1843,7 @@
 8390,'8390','Thistle St / Beech St',44.674559,-63.567946
 8391,'8391','Thistle St / Crichton Pk Rd',44.677669,-63.565073
 8393,'8393','Thistle St / Victoria Rd',44.670975,-63.571915
-8394,'8394','Porters Lk Pk & Ride',44.735039,-63.286537
+8394,'8394','Porters Lk Pk & Ride',44.735084,-63.286586
 8396,'8396','Titus St / Evans Ave',44.659957,-63.634734
 8398,'8398','Topple Dr @ Civic 21',44.714065,-63.605954
 8399,'8399','Topple Dr / Vidito Dr',44.712077,-63.608005
@@ -2352,7 +2352,7 @@
 8939,'8939','Cole Harbour Rd / Bisset Rd',44.672541,-63.476722
 8940,'8940','Penhorn Terminal Bay 1',44.670797,-63.538763
 8941,'8941','Penhorn Terminal Bay 2',44.670811,-63.538585
-8943,'8943','Penhorn Terminal Bay 3',44.670822,-63.538426
+8943,'8943','Penhorn Terminal Bay 3',44.670755,-63.538368
 8944,'8944','Penhorn Terminal Bay 4',44.67084,-63.538243
 8945,'8945','Penhorn Terminal Bay 5',44.670639,-63.538738
 8946,'8946','Penhorn Terminal Bay 6',44.670646,-63.53861
