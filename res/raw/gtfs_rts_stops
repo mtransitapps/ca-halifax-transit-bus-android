@@ -24,6 +24,7 @@
 6024,'6024','Albro Lk Rd / Sheridan St',44.682275,-63.581048
 6025,'6025','Alderney Dr / Church St',44.666408,-63.571457
 6026,'6026','Alderney Dr / Church St',44.666321,-63.571468
+6027,'6027','Larry Uteck Blvd / Amesbury Gt',44.702375,-63.702674
 6028,'6028','Alderney Dr / Prince St',44.663831,-63.566201
 6029,'6029','Alderney Dr / Prince St',44.66411,-63.565852
 6030,'6030','/ Alderney Gt Ferry Terminal Bay 1',44.665158,-63.569422
@@ -95,6 +96,7 @@
 6102,'6102','Barrington St / Blowers St',44.645642,-63.573333
 6103,'6103','Barrington St / Prince St',44.646662,-63.573876
 6104,'6104','Barrington St / Cornwallis St',44.654356,-63.582022
+6105,'6105','Barrington St / Cogswell St Bay 4',44.650823,-63.575955
 6106,'6106','Barrington St / Duke St',44.648682,-63.575068
 6107,'6107','Barrington St / Duke St Bay 2',44.649784,-63.575561
 6108,'6108','Barrington St @ Scotia Sq Bay 3',44.650276,-63.575778
@@ -280,7 +282,9 @@
 6294,'6294','Belle Vista Dr / Spg Ave',44.678722,-63.517836
 6296,'6296','Berts Dr / Main Ave',44.659321,-63.637013
 6297,'6297','Cobequid Terminal Bay 1',44.754302,-63.663286
+6298,'6298','Larry Uteck Blvd / Kearney Lk Rd',44.699572,-63.698174
 6299,'6299','Cobequid Terminal Bay 2',44.754071,-63.663091
+6301,'6301','Broad St / Larry Uteck Blvd',44.714243,-63.712635
 6302,'6302','Boland Rd / Ranya Ln',44.672769,-63.580716
 6303,'6303','Boland Rd / Victoria Rd',44.675088,-63.578109
 6304,'6304','Boland Rd / Cairn St',44.673627,-63.579696
@@ -301,9 +305,13 @@
 6321,'6321','Brookfield Ave / Caldwell Rd',44.651527,-63.485158
 6322,'6322','Brookfield Ave / Willowdale Dr',44.65254,-63.483694
 6323,'6323','Brownlow Ave / Commodore Dr',44.698618,-63.580567
+6324,'6324','Broad St / Gary Martin Dr',44.716376,-63.707278
 6325,'6325','Brownlow Ave @ Civic 250',44.695114,-63.577621
 6326,'6326','Brownlow Ave @ Civic 260',44.695471,-63.575634
+6327,'6327','Gary Martin Dr / Utopia Ln',44.720473,-63.707178
 6328,'6328','Brownlow Ave @ Civic 236',44.695598,-63.578916
+6329,'6329','Gary Martin Dr / Larkview Terr',44.717992,-63.706223
+6330,'6330','Gary Martin Dr / Lasalle Ct',44.722895,-63.705553
 6331,'6331','Cain St / Churchill Terr',44.74348,-63.465647
 6332,'6332','Caldwell Rd / Cherrywood Dr',44.662593,-63.494575
 6333,'6333','Caldwell Rd / Cow Bay Rd',44.611242,-63.473122
@@ -338,6 +346,7 @@
 6362,'6362','Caledonia Rd / Gourok Ave',44.695947,-63.535378
 6363,'6363','Caledonia Rd / Strath Ln',44.690699,-63.532367
 6364,'6364','Caledonia Rd / Stanfield Ave',44.698141,-63.53666
+6365,'6365','Larry Uteck Blvd / Kearney Lk Rd',44.69968,-63.69742
 6366,'6366','Caledonia Rd / Roleika Dr',44.687521,-63.530789
 6367,'6367','Caledonia Rd / Dumbarton Ave',44.69357,-63.533867
 6368,'6368','Caledonia Rd / Main St',44.68536,-63.529852
@@ -355,6 +364,7 @@
 6380,'6380','Chain Lk Dr / McQuade Lk Cr',44.637713,-63.666451
 6381,'6381','Horseshoe Lk Dr / Hobsons Lk Dr',44.6387,-63.671739
 6382,'6382','Chain Lk Dr @ Civic 225',44.654822,-63.677997
+6383,'6383','Larry Uteck Blvd / Civic 1181',44.701785,-63.702133
 6384,'6384','Horseshoe Lk Dr / Civic 174',44.640908,-63.672189
 6385,'6385','Chain Lk Dr / Susie Lk Cr',44.646098,-63.672501
 6386,'6386','Chain Lk Dr / Oland Cr',44.648515,-63.674881
@@ -456,8 +466,11 @@
 6484,'6484','Colonna Pl / Montebello Dr',44.699604,-63.539863
 6485,'6485','Colonna Pl / Appian Way',44.7015,-63.541131
 6486,'6486','Commodore Dr / Eileen Stubbs Ave',44.700331,-63.580128
+6487,'6487','Gary Martin Dr / Utopia Ln',44.720463,-63.707141
 6488,'6488','Commodore Dr / Brownlow Ave',44.699977,-63.581782
+6489,'6489','Gary Martin Dr / Lasalle Ct',44.72282,-63.705559
 6490,'6490','Commodore Dr / Brownlow Ave',44.699792,-63.581922
+6491,'6491','Gary Martin Dr / Capstone Cr',44.718069,-63.706216
 6492,'6492','Connaught Ave / Chisholm Ave',44.658075,-63.618895
 6493,'6493','Connaught Ave / Regent Rd',44.655866,-63.617622
 6494,'6494','Connaught Ave / 3rd St',44.644769,-63.606153
@@ -554,6 +567,7 @@
 6586,'6586','Duffus St / Albert St',44.66923,-63.603691
 6587,'6587','Duffus St / Barrington St',44.670508,-63.601958
 6588,'6588','Duffus St / Dartmouth Ave',44.669674,-63.603143
+6589,'6589','Broad St / Larry Uteck Blvd',44.71435,-63.712428
 6590,'6590','Duke St / Albemarle St',44.648898,-63.57658
 6591,'6591','Dunbarton Ave / Caledonia Rd',44.693093,-63.534285
 6592,'6592','Dunbarton Ave / Kincardine Dr',44.692456,-63.536747
@@ -607,6 +621,7 @@
 6643,'6643','Bedford Windsor Ramp / Windsor St',44.662334,-63.622576
 6644,'6644','Fairview Overpass / Main Ave',44.66204,-63.628587
 6645,'6645','Farnham Gt Rd / Dunbrack St',44.673318,-63.664826
+6646,'6646','Broad St / Gary Martin Dr',44.716323,-63.707264
 6647,'6647','Farnham Gt Rd / Ross St',44.672663,-63.666256
 6648,'6648','Farnham Gt Rd / Chelton Woods Ln',44.671994,-63.66823
 6649,'6649','Farnham Gt Rd / Montgomery Ct',44.672276,-63.66993
@@ -1431,55 +1446,6 @@
 7615,'7615','Bridge Terminal Bay 15',44.67077,-63.57516
 7616,'7616','Bridge Terminal Bay 16',44.670872,-63.575321
 7618,'7618','Sheldrake Lk Pk & Ride',44.672797,-63.782669
-7620,'7620','Ketch Harbour Rd / Vlg Rd',44.562818,-63.564082
-7621,'7621','Ketch Harbour Rd / Florence St',44.560224,-63.563011
-7622,'7622','Ketch Harbour Rd / Ashley Dr',44.549403,-63.5571
-7623,'7623','Ketch Harbour Rd / Kittiwake Rdg',44.545706,-63.553668
-7624,'7624','Ketch Harbour Rd / Kestrel Ct',44.542669,-63.55024
-7625,'7625','Ketch Harbour Rd / Civic 438',44.540098,-63.547702
-7626,'7626','Ketch Harbour Rd / Bullfrog Ln',44.536141,-63.544816
-7627,'7627','Ketch Harbour Rd / Harbour Vw Dr',44.532471,-63.540594
-7628,'7628','Ketch Harbour Rd / Seaview Dr',44.524051,-63.535896
-7629,'7629','Ketch Harbour Rd / Camperdown Rd',44.521581,-63.535259
-7630,'7630','Ketch Harbour Rd / Civic 737',44.518872,-63.535675
-7631,'7631','Ketch Harbour Rd / Portovista Dr',44.514781,-63.537327
-7632,'7632','Ketch Harbour Rd / Civic 868',44.508379,-63.542567
-7633,'7633','Ketch Harbour Rd @ Pork Ave',44.497103,-63.543164
-7634,'7634','Ketch Harbour Rd / Grace Ave',44.494415,-63.546003
-7635,'7635','Ketch Harbour Rd / East Side Rd',44.492998,-63.548968
-7637,'7637','Ketch Harbour Rd / Martins Ln',44.491317,-63.555769
-7638,'7638','Ketch Harbour Rd / Sable Rd',44.487736,-63.558249
-7639,'7639','Ketch Harbour Rd / Crystal Hl Dr',44.480997,-63.576713
-7640,'7640','Ketch Harbour Rd / Willow Rd',44.482318,-63.579725
-7641,'7641','Ketch Harbour Rd / Atlantic Vw Dr',44.485041,-63.583522
-7642,'7642','Ketch Harbour Rd / Civic 1571',44.486368,-63.590885
-7643,'7643','Ketch Harbour Rd / Coastal Ln',44.484159,-63.595731
-7644,'7644','Ketch Harbour Rd / Lennys Ln',44.480726,-63.600283
-7645,'7645','Ketch Harbour Rd / Civic 1727',44.478723,-63.603172
-7646,'7646','Old Sambro Rd / West Pennant Rd',44.479733,-63.606481
-7647,'7647','Old Sambro Rd / Kelly Dr',44.481868,-63.608439
-7648,'7648','Old Sambro Rd / Civic 3395',44.486754,-63.613947
-7649,'7649','Old Sambro Rd @ Civic 3330',44.48852,-63.618488
-7650,'7650','Old Sambro Rd @ Civic 3172',44.492668,-63.624967
-7651,'7651','Old Sambro Rd / Gusty Ln',44.496923,-63.629711
-7652,'7652','Old Sambro Rd / Acres Rd',44.506131,-63.638288
-7653,'7653','Old Sambro Rd / Honey Ct',44.510075,-63.639846
-7654,'7654','Old Sambro Rd / Grover Dr',44.517057,-63.641629
-7655,'7655','Old Sambro Rd / Hazel Dr',44.520277,-63.641724
-7656,'7656','Old Sambro Rd / Steven Murphy Dr',44.528345,-63.641782
-7657,'7657','Old Sambro Rd / Francie Dr',44.532419,-63.64215
-7658,'7658','Old Sambro Rd / Pk Lk Ave',44.538529,-63.641008
-7659,'7659','Old Sambro Rd / Fraser Rd',44.543806,-63.640884
-7660,'7660','Old Sambro Rd / Fancyview Dr',44.546086,-63.641103
-7661,'7661','Old Sambro Rd / Whitehead Rd',44.564633,-63.637214
-7662,'7662','Old Sambro Rd / Venus Dr',44.566872,-63.635954
-7663,'7663','Old Sambro Rd / Harriet Ln',44.570162,-63.634232
-7664,'7664','Old Sambro Rd / Civic 990',44.574738,-63.633794
-7665,'7665','Old Sambro Rd @ Civic 1000',44.579605,-63.638175
-7666,'7666','Ketch Harbour Rd / Sandy Cv Rd',44.48211,-63.564891
-7667,'7667','Old Sambro Rd / Duggan Ln',44.582131,-63.640723
-7668,'7668','Old Sambro Rd @ Civic 702',44.58558,-63.641424
-7669,'7669','Old Sambro Rd / Leiblin Dr',44.594903,-63.638536
 8001,'8001','Main Rd / Corsair Dr',44.632233,-63.521902
 8002,'8002','Main Rd / Labrador Ave',44.628241,-63.517203
 8003,'8003','Pleasant St / Cameron St',44.661542,-63.553134
@@ -1777,6 +1743,7 @@
 8319,'8319','Spikenard St / Valleyfield Rd',44.679663,-63.533601
 8320,'8320','Spikenard St / Farquharson St',44.680911,-63.528425
 8321,'8321','Spikenard St / Weyburn Rd',44.680508,-63.530544
+8322,'8322','Spg Gdn Rd / South Pk St',44.64217,-63.580436
 8323,'8323','Spikenard St / Louisburg Ln',44.680257,-63.531533
 8324,'8324','Spg Ave / Grandview Dr',44.675677,-63.516659
 8325,'8325','Spg Ave / Pembroke Ct',44.672206,-63.518036

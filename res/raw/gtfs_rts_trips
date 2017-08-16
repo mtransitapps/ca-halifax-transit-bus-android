@@ -116,6 +116,8 @@
 15901,0,'Portland Hls',159
 18500,0,'Downtown Halifax',185
 18501,0,'Sackville',185
+19400,0,'Summer St',194
+19401,0,'West Bedford',194
 32001,0,'Airport',320
 32000,0,'Downtown Hfx',320
 33000,0,'Albemarle St',330
@@ -126,9 +128,5 @@
 40000,0,'Sackville Terminal',400
 40101,0,'Porters Lk & Seaforth',401
 40100,0,'Portland Hls Terminal',401
-40201,0,'Sambro',402
-40200,0,'South Ctr Mall',402
 10000500,0,'Bridge Term',100005
 10000501,0,'Scotia Sq',100005
-10000600,0,'Bridge Term',100006
-10000601,0,'Scotia Sq',100006

@@ -4,7 +4,7 @@
     <bool name="gtfs_rts_schedule_available">true</bool>
     <bool name="gtfs_rts_frequency_available">false</bool>
     <string name="gtfs_rts_timezone">America/Halifax</string>
-    <string name="gtfs_rts_area_min_lat">44.478723</string>
+    <string name="gtfs_rts_area_min_lat">44.565046</string>
     <string name="gtfs_rts_area_max_lat">44.903683</string>
     <string name="gtfs_rts_area_min_lng">-63.858269</string>
     <string name="gtfs_rts_area_max_lng">-63.255847</string>
