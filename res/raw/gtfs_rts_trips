@@ -6,12 +6,8 @@
 400,0,'Water St Terminal',4
 501,0,'Springvale',5
 500,0,'Water St Term',5
-601,0,'Stonehaven',6
-600,0,'Water St Term',6
 701,0,'Gottingen',7
 700,0,'Robie',7
-901,0,'Mumford Term',9
-900,0,'Pt Pleasant',9
 1000,0,'Dalhousie',10
 1001,0,'Westphal',10
 1101,0,'Bridge Terminal',11
@@ -26,16 +22,14 @@
 1700,0,'St Mary''s',17
 1801,0,'Lacewood Terminal',18
 1800,0,'St Mary''s',18
-1901,0,'Greystone',19
-1900,0,'Mumford Terminal',19
-2000,0,'Downtown',20
-2001,0,'Herring Cv',20
 2100,0,'Downtown',21
 2101,0,'Timberlea',21
-2201,0,'Exhibition Pk',22
 2200,0,'Mumford Terminal',22
+2201,0,'Ragged Lk',22
 2300,0,'Downtown',23
 2301,0,'Timberlea',23
+2901,0,'Bayers Rd Ctr',29
+2900,0,'Pt Pleasant Pk',29
 3101,0,'Lacewood Term',31
 3100,0,'Summer St',31
 3201,0,'Cowie Hl',32
@@ -128,5 +122,7 @@
 40000,0,'Sackville Terminal',400
 40101,0,'Porters Lk & Seaforth',401
 40100,0,'Portland Hls Terminal',401
-10000500,0,'Bridge Term',100005
-10000501,0,'Scotia Sq',100005
+100000900,0,'Downtown',1000009
+100000901,0,'Greystone- Fotherby',1000009
+200000900,0,'Downtown',2000009
+200000901,0,'Herring Cv',2000009
