@@ -1123,8 +1123,8 @@
 7183,'7183','Margaret Rd / Civic 43',44.633272,-63.619947
 7184,'7184','Margaret Rd / Knob Hl Cr',44.633267,-63.621338
 7186,'7186','Osborne St / Marriott St',44.633311,-63.625895
-7187,'7187','Mayo St / Withrod Dr',44.634393,-63.624705
-7188,'7188','Mayo St / Withrod Dr',44.63428,-63.624783
+7187,'7187','Osborne St / Withrod Dr',44.634393,-63.624705
+7188,'7188','Osborne St / Withrod Dr',44.63428,-63.624783
 7189,'7189','Meadowbrook Dr / Basinview Dr',44.72817,-63.680156
 7190,'7190','Meadowbrook Dr / Beech St',44.726994,-63.677104
 7191,'7191','Meadowbrook Dr / Beech St',44.727234,-63.677544
@@ -1751,7 +1751,7 @@
 8347,'8347','Springvale Ave / Winter St',44.645744,-63.635186
 8348,'8348','Springvale Ave / Winter St',44.645717,-63.635184
 8349,'8349','St Pauls Ave / Hebridean Dr',44.571035,-63.561969
-8350,'8350','St Pauls Ave / Vestry St',44.669568,-63.607633
+8350,'8350','St Pauls St / Vestry St',44.669568,-63.607633
 8351,'8351','Starboard Dr / Brigadier Ct',44.697526,-63.666988
 8352,'8352','Starboard Dr / Larry Uteck Blvd',44.697516,-63.666784
 8353,'8353','Stokil Dr / Beaver Bank Rd',44.78981,-63.690652
@@ -1963,8 +1963,8 @@
 8575,'8575','Windward Ave / Lea St',44.682192,-63.511597
 8576,'8576','Windward Ave / Lucien Dr',44.682106,-63.510419
 8577,'8577','Winter St / Piers Ave',44.64445,-63.634813
-8578,'8578','Withrod Dr / Sullivan Terr',44.635793,-63.622525
-8579,'8579','Withrod Dr / Sullivan Terr',44.635837,-63.622403
+8578,'8578','Osborne St / Sullivan Terr',44.635793,-63.622525
+8579,'8579','Osborne St / Sullivan Terr',44.635837,-63.622403
 8580,'8580','Woodland Ave / Clarke St',44.679728,-63.577008
 8581,'8581','Woodland Ave / Laurier St',44.681738,-63.574553
 8582,'8582','Woodland Ave / Laurier St',44.68206,-63.57409
@@ -2184,7 +2184,7 @@
 8823,'8823','Hollis St / Sackville St',44.646264,-63.572221
 8824,'8824','Hollis St / Bishop St',44.643927,-63.571075
 8825,'8825','Hollis St / Morris St',44.642566,-63.57031
-8826,'8826','Hollis St / Marginal Rd',44.640818,-63.569441
+8826,'8826','Hollis St / Terminal Rd',44.640818,-63.569441
 8827,'8827','Brooks Dr @ Lk Eagle Dr',44.724714,-63.430387
 8828,'8828','Portland Hls Dr / Leland Grv',44.668504,-63.507933
 8829,'8829','Portland Hls Dr / Summer Field Way',44.666703,-63.508139
