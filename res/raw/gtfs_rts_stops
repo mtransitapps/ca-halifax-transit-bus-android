@@ -754,8 +754,8 @@
 6793,'6793','Gregory Dr / Flying Cloud Dr',44.685733,-63.495105
 6794,'6794','Gregory Dr / Wildwood Blvd',44.684856,-63.49784
 6795,'6795','Greystone Dr / Cranberry Ct',44.599741,-63.612658
-6796,'6796','Countryview Dr / Shubie Dr',44.709277,-63.562394
-6797,'6797','Countryview Dr / Shubie Dr',44.706509,-63.56327
+6796,'6796','Countryview Dr / Shubie Dr',44.709435,-63.562317
+6797,'6797','Countryview Dr / Shubie Dr',44.706016,-63.563569
 6798,'6798','Greystone Dr / Cobalt Walk',44.599429,-63.614578
 6799,'6799','Greystone Dr @ Cranberry Ct',44.599962,-63.61247
 6800,'6800','Herring Cv Rd / Bronson Ave',44.590938,-63.59558
@@ -800,13 +800,13 @@
 6839,'6839','Hawthorne St / Prince Albert Rd',44.674113,-63.563313
 6840,'6840','Bluewater Rd / Hammonds Plains Rd',44.725959,-63.707577
 6841,'6841','Countryview Dr / McClure Cl',44.702686,-63.565388
-6842,'6842','Countryview Dr / Ferindonald Cl',44.705009,-63.564199
+6842,'6842','Countryview Dr / Ferindonald Cl',44.704992,-63.564222
 6843,'6843','Hebridean Dr / Brackett Ct',44.570946,-63.564107
 6844,'6844','Herring Cv Rd / Winchester Ave',44.634124,-63.619915
 6845,'6845','Herring Cv Rd / Spry Ave',44.618678,-63.615415
 6846,'6846','Herring Cv Rd / Grn Acres Rd',44.595806,-63.600796
 6847,'6847','Herring Cv Rd / Fotherby Ave',44.588752,-63.593362
-6848,'6848','Herring Cv Rd / Highfield St',44.625486,-63.617053
+6848,'6848','Herring Cv Rd / Highfield St',44.625641,-63.616991
 6849,'6849','Herring Cv Rd / Lynnett Rd',44.602529,-63.61
 6850,'6850','Herring Cv Rd / Brighton Ave',44.630277,-63.618136
 6852,'6852','Herring Cv Rd / Catamaran Rd',44.620034,-63.616556
@@ -1877,7 +1877,7 @@
 8487,'8487','Wildwood Blvd / Gregory Dr',44.684418,-63.498422
 8488,'8488','Willett St / Chadwick Pl',44.660243,-63.656392
 8489,'8489','Willett St / Chelsea Ln',44.657334,-63.65201
-8490,'8490','Willett St / Cornation Ave',44.65195,-63.644986
+8490,'8490','Willett St / Coronation Ave',44.65195,-63.644986
 8491,'8491','Willett St / Dunbrack St',44.657558,-63.652515
 8492,'8492','Willett St / Glenforest Dr',44.656623,-63.649451
 8493,'8493','Willett St / Main Ave',44.653792,-63.646569
@@ -2028,7 +2028,7 @@
 8651,'8651','St Margarets Bay Rd @ Long Lk Pk',44.632298,-63.658198
 8652,'8652','St Margarets Bay Rd @ Civic 701',44.636623,-63.635506
 8653,'8653','St Margarets Bay Rd / Long Lk Pk',44.632326,-63.658549
-8654,'8654','Countryview Dr / Ferindonald Cl',44.706108,-63.563788
+8654,'8654','Countryview Dr / Ferindonald Cl',44.706065,-63.563785
 8655,'8655','Countryview Dr / McClure Cl',44.702752,-63.565642
 8656,'8656','Gale Terr / Commodore Dr',44.699134,-63.564872
 8657,'8657','Finnian Row / Lamont Terr',44.69689,-63.566299
@@ -2060,7 +2060,7 @@
 8687,'8687','Hwy 7 / Civic 4225',44.740932,-63.329738
 8688,'8688','Hwy 7 / 2nd Parker Ln',44.73989,-63.3472
 8691,'8691','Chain Lk Dr @ Civic 127',44.641799,-63.660834
-8692,'8692','Parkland Dr / Castlepark Grv',44.681173,-63.678208
+8692,'8692','Parkland Dr / Castlepark Grv',44.681224,-63.67818
 8693,'8693','Hwy 7 / Civic 2491',44.721834,-63.410829
 8695,'8695','Silver Dart Dr @ Halifax Airport',44.886253,-63.515709
 8696,'8696','Barnes Dr @ Civic 573',44.881436,-63.519536
@@ -2346,7 +2346,7 @@
 9031,'9031','Kearney Lk Rd / Pinewood Terr',44.681682,-63.664576
 9032,'9032','Kearney Lk Rd / Birch Cv Ln',44.681722,-63.662102
 9033,'9033','Kearney Lk Rd / Dakin Dr',44.681833,-63.662509
-9035,'9035','Parkland Dr / Civic 767',44.679378,-63.678439
+9035,'9035','Parkland Dr / Civic 767',44.679414,-63.678418
 9036,'9036','Parkland Dr / Civic 680',44.67684,-63.678005
 9037,'9037','Sackville Dr / Beaver Bank Rd',44.775542,-63.695141
 9038,'9038','Cobequid Rd / Sackville Dr',44.752738,-63.664247
@@ -2354,7 +2354,7 @@
 9040,'9040','Damascus Rd @ Civic 141',44.751058,-63.643611
 9041,'9041','Damascus Rd @ Civic 150',44.750517,-63.644845
 9042,'9042','Dutch Vlg Rd / Alma Cr',44.659184,-63.631336
-9043,'9043','Parkland Dr / Kearney Lk Rd',44.68307,-63.676308
+9043,'9043','Parkland Dr / Kearney Lk Rd',44.683117,-63.676237
 9051,'9051','Grassy Lk Dr / Transit Ctr',44.630173,-63.669204
 9053,'9053','Windmill Rd / Fernhill Dr',44.681934,-63.596603
 9054,'9054','Larry Uteck Blvd / Blue Mtn Dr',44.715562,-63.720099
