@@ -19,6 +19,8 @@
 2018,'2018','Roslyn Rd / Connolly St',44.654236,-63.613022
 2019,'2019','Hammonds Plains Rd / Lewis Dr',44.72665,-63.712379
 2020,'2020','Hammonds Plains Rd / Lewis Dr',44.726668,-63.712765
+2021,'2021','Barrington St / North St',44.65819,-63.586855
+2022,'2022','Main St / Gordon Ave',44.681406,-63.543304
 6000,'6000','Akerley Blvd / Burnside Dr',44.715124,-63.589031
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.711193,-63.601377
@@ -85,24 +87,24 @@
 6067,'6067','Bluewater Rd / Larry Uteck Blvd',44.715867,-63.715976
 6069,'6069','Auburn Dr / Auburn Ct',44.69317,-63.489183
 6070,'6070','Auburn Dr / Forest Hls Pkwy',44.68715,-63.490524
-6071,'6071','Auburn Dr / Leander Dr',44.692924,-63.485745
-6072,'6072','Auburn Dr / Bradorian Dr',44.693613,-63.487526
+6071,'6071','Auburn Dr / Leander Dr',44.692228,-63.485206
+6072,'6072','Auburn Dr / Bradorian Dr',44.693627,-63.48751
 6073,'6073','Auburn Dr @ Auburn Dr High School',44.688255,-63.48365
-6074,'6074','Auburn Dr / Auburn Ct',44.693398,-63.488405
+6074,'6074','Auburn Dr / Auburn Ct',44.693329,-63.488393
 6075,'6075','Auburn Dr @ Auburn Dr High School',44.687943,-63.483991
-6076,'6076','Auburn Dr @ Civic 200',44.691071,-63.484504
-6077,'6077','Auburn Dr / Civic 187',44.691533,-63.484833
+6076,'6076','Auburn Dr @ Civic 200',44.691036,-63.48444
+6077,'6077','Auburn Dr / Civic 187',44.691445,-63.484757
 6078,'6078','Auburn Dr @ Civic 243',44.689984,-63.483848
 6079,'6079','Auburn Dr / Civic 426',44.68657,-63.488518
 6080,'6080','Auburn Dr / John Stewart Dr',44.686786,-63.485269
-6081,'6081','Auburn Dr / Leander Dr',44.693044,-63.485849
+6081,'6081','Auburn Dr / Leander Dr',44.692452,-63.485442
 6082,'6082','Madeline Pl / Ave Du Portage',44.701648,-63.535107
 6083,'6083','Baffin Blvd / Hudson Way',44.682919,-63.606328
-6084,'6084','Barrington St / Prince St',44.647664,-63.574358
+6084,'6084','Barrington St / Prince St',44.647661,-63.574333
 6085,'6085','Barrington St / Prince St',44.646958,-63.573947
-6087,'6087','Barrington St / Duke St Bay 1',44.650598,-63.57577
+6087,'6087','Barrington St / Duke St Bay 1',44.650525,-63.575628
 6088,'6088','Barrington St / Artz St',44.656794,-63.585186
-6089,'6089','Barrington St / Upper Water St',44.6544,-63.581862
+6089,'6089','Barrington St / Upper Water St',44.654394,-63.581778
 6090,'6090','Barrington St / Devonshire Ave',44.663279,-63.592738
 6091,'6091','Barrington St / Marjorie Russell Ln',44.660418,-63.589754
 6092,'6092','Barrington St / Grn St',44.637344,-63.569575
@@ -114,12 +116,11 @@
 6098,'6098','Barrington St / Vestry St',44.672289,-63.605105
 6099,'6099','Barrington St / Glebe St',44.672425,-63.605288
 6100,'6100','Barrington St @ Civic 3356',44.668625,-63.599985
-6101,'6101','Barrington St / Artz St',44.657108,-63.58537
 6102,'6102','Barrington St / Blowers St',44.645822,-63.573401
-6103,'6103','Barrington St / Prince St',44.64673,-63.573941
+6103,'6103','Barrington St / Prince St',44.646741,-63.573896
 6104,'6104','Barrington St / Cornwallis St',44.654351,-63.582049
 6105,'6105','Barrington St / Cogswell St Bay 4',44.650935,-63.576036
-6106,'6106','Barrington St / Duke St',44.648715,-63.574784
+6106,'6106','Barrington St / Duke St',44.648707,-63.574768
 6107,'6107','Barrington St / Duke St Bay 2',44.649617,-63.575343
 6108,'6108','Barrington St @ Scotia Sq Bay 3',44.650276,-63.575778
 6109,'6109','Barrington St / Hanover St',44.66672,-63.597116
@@ -129,15 +130,14 @@
 6113,'6113','Barrington St / Morris St',44.641547,-63.571195
 6114,'6114','Barrington St / Morris St',44.641845,-63.571464
 6115,'6115','Barrington St / North St',44.659348,-63.588683
-6116,'6116','Barrington St / North St',44.658777,-63.587688
 6119,'6119','Barrington St / Richmond St',44.668023,-63.598417
 6120,'6120','Barrington St / Richmond St',44.667963,-63.598776
-6121,'6121','Barrington St / Sackville St',44.645632,-63.573222
-6122,'6122','Barrington St / Spg Gdn Rd',44.64453,-63.572719
-6123,'6123','Barrington St / Spg Gdn Rd',44.644038,-63.572436
+6121,'6121','Barrington St / Sackville St',44.645626,-63.573218
+6122,'6122','Barrington St / Spg Gdn Rd',44.644733,-63.572851
+6123,'6123','Barrington St / Spg Gdn Rd',44.644039,-63.572433
 6124,'6124','Barrington St / Spg Gdn Rd',44.643996,-63.572464
 6125,'6125','Barrington St / Cornwallis St',44.653472,-63.580814
-6127,'6127','Barrington St / Devonshire Ave',44.663094,-63.592432
+6127,'6127','Barrington St / Devonshire Ave',44.663858,-63.593243
 6128,'6128','Colby Dr / Avondale Rd',44.667529,-63.488708
 6129,'6129','Basinview Dr / Atlee Ct',44.723444,-63.681277
 6130,'6130','Basinview Dr / Gln Moir Terr',44.718514,-63.681039
@@ -192,7 +192,7 @@
 6180,'6180','St Margarets Bay Rd / Raines Mill Rd',44.637987,-63.693812
 6181,'6181','St Margarets Bay Rd / Raines Mill Rd',44.637744,-63.696863
 6182,'6182','St Margarets Bay Rd @ Wilbert Devoe Cr',44.644264,-63.708729
-6183,'6183','St Margarets Bay Rd Opposide Bakers Dr',44.638693,-63.629101
+6183,'6183','St Margarets Bay Rd / Bakers Dr',44.638693,-63.629101
 6184,'6184','St Margarets Bay Rd / Civic 1264',44.637732,-63.687112
 6185,'6185','St Margarets Bay Rd @ Civic 1262',44.637582,-63.686795
 6186,'6186','St Margarets Bay Rd / Governors Lk Dr',44.642288,-63.70718
@@ -580,8 +580,8 @@
 6597,'6597','Dunbrack St / Main Ave',44.65313,-63.649964
 6598,'6598','Dunbrack St / Lincoln Cross',44.66641,-63.658802
 6599,'6599','Dunbrack St / Radcliffe Dr',44.665755,-63.658208
-6600,'6600','Dunbrack St / Wentworth Dr',44.677621,-63.663642
-6601,'6601','Dunbrack St / Ross St',44.676931,-63.663315
+6600,'6600','Dunbrack St / Wentworth Dr',44.677608,-63.663666
+6601,'6601','Dunbrack St / Ross St',44.676918,-63.663349
 6602,'6602','Dunbrack St / Willett St',44.656736,-63.650925
 6604,'6604','Dunbrack St / Main Ave',44.653185,-63.650303
 6605,'6605','Dunbrack St / Birkdale Cr',44.655553,-63.651346
@@ -742,14 +742,14 @@
 6773,'6773','Gottingen St / Cogswell St',44.650813,-63.581585
 6774,'6774','Gottingen St / Charles St',44.655709,-63.588748
 6775,'6775','Gottingen St / Prince William St',44.653993,-63.586354
-6776,'6776','Gottingen St / Almon St',44.659877,-63.594851
-6777,'6777','Gottingen St / Black St',44.65857,-63.592888
+6776,'6776','Gottingen St / Almon St',44.660341,-63.595493
+6777,'6777','Gottingen St / Black St',44.658503,-63.592832
 6778,'6778','Gottingen St / Cornwallis St',44.651859,-63.583232
 6779,'6779','Gottingen St / Cunard St',44.653198,-63.585164
 6780,'6780','Gottingen St / Buddy Daye St',44.654944,-63.58767
 6781,'6781','Gottingen St / North St',44.657734,-63.591727
 6782,'6782','Gottingen St / Russell St',44.661185,-63.596618
-6783,'6783','Gottingen St / Russell St',44.6619,-63.59767
+6783,'6783','Gottingen St / Russell St',44.661856,-63.597696
 6784,'6784','Hammonds Plains Rd / Doyle St',44.716076,-63.681342
 6785,'6785','Gottingen St / Black St',44.658446,-63.592486
 6786,'6786','Gottingen St / Prince William St',44.653706,-63.58584
@@ -972,19 +972,19 @@
 7012,'7012','Karen Dr / Hillsboro Dr',44.695425,-63.492927
 7013,'7013','Karen Dr / Hillsboro Dr',44.695288,-63.492944
 7014,'7014','Larry Uteck Blvd / Bluewater Rd',44.714126,-63.715769
-7015,'7015','Kearney Lk Rd / Broadholme Ln',44.683809,-63.673054
-7016,'7016','Kearney Lk Rd / Castle Hl Dr',44.684101,-63.673678
+7015,'7015','Kearney Lk Rd / Broadholme Ln',44.683801,-63.67304
+7016,'7016','Kearney Lk Rd / Castle Hl Dr',44.684105,-63.673686
 7017,'7017','Kearney Lk Rd / Civic 377',44.697013,-63.69637
-7019,'7019','Kearney Lk Rd / Grosvenor Rd',44.68203,-63.668217
+7019,'7019','Kearney Lk Rd / Grosvenor Rd',44.682019,-63.668239
 7020,'7020','Kearney Lk Rd / Hamshaw Dr',44.686961,-63.680888
 7021,'7021','Kearney Lk Rd / Hamshaw Dr',44.688513,-63.684038
 7022,'7022','Larry Uteck Blvd / Abbington Ave',44.704783,-63.705978
-7023,'7023','Kearney Lk Rd / Wedgewood Ave',44.681305,-63.667378
-7024,'7024','Kearney Lk Rd / Castle Hl Dr',44.683096,-63.670656
+7023,'7023','Kearney Lk Rd / Wedgewood Ave',44.681303,-63.667416
+7024,'7024','Kearney Lk Rd / Castle Hl Dr',44.683097,-63.670621
 7025,'7025','Kearney Lk Rd / Dunbrack St',44.68141,-63.66605
 7026,'7026','Larry Uteck Blvd / Bluewater Rd',44.714076,-63.715938
 7027,'7027','Larry Uteck Blvd / Belle St',44.705579,-63.707138
-7028,'7028','Kearney Lk Rd / Civic 83',44.683047,-63.670809
+7028,'7028','Kearney Lk Rd / Civic 83',44.683021,-63.670821
 7030,'7030','Kearney Lk Rd / Hamshaw Dr',44.688061,-63.682941
 7031,'7031','Kearney Lk Rd / Civic 387',44.696963,-63.696465
 7034,'7034','Valleyfield Rd / Woodlawn Rd',44.673779,-63.530171
@@ -1018,7 +1018,7 @@
 7067,'7067','Lacewood Dr / Dunbrack St',44.663355,-63.653762
 7068,'7068','Lacewood Dr / Glenforest Dr',44.661145,-63.638333
 7069,'7069','Lacewood Dr / Gateway Rd',44.66302,-63.642736
-7072,'7072','Lacewood Dr / Willett St',44.662304,-63.660414
+7072,'7072','Lacewood Dr / Willett St',44.662297,-63.660413
 7073,'7073','Lacewood Dr / Thomas Raddall Dr',44.659878,-63.665699
 7074,'7074','Lacewood Dr / Gateway Rd',44.663375,-63.643535
 7075,'7075','Lacewood Dr / Bayview Rd',44.66392,-63.645333
@@ -1028,7 +1028,7 @@
 7079,'7079','Titus St / Evans Ave',44.660599,-63.635458
 7080,'7080','Lacewood Dr / Parkland Dr',44.659043,-63.668787
 7081,'7081','Lacewood Dr / Parkland Dr',44.658905,-63.668662
-7082,'7082','Lacewood Dr / Willett St',44.662064,-63.658629
+7082,'7082','Lacewood Dr / Willett St',44.662043,-63.658663
 7083,'7083','Lacewood Dr / Glenforest Dr',44.661244,-63.638327
 7084,'7084','Lacewood Dr @ Braeside Ln',44.661829,-63.640882
 7085,'7085','Lacewood Dr / Briarwood Cr',44.664291,-63.648416
@@ -1104,7 +1104,7 @@
 7170,'7170','Main Ave / Gebhardt St',44.657174,-63.639871
 7171,'7171','Main Ave / Homeward Ave',44.655911,-63.642758
 7172,'7172','Main Ave / Willett St',44.654345,-63.64629
-7173,'7173','Main St / Gordon Ave',44.68176,-63.540238
+7173,'7173','Main St / Gordon Ave',44.68173,-63.540277
 7175,'7175','Main St / Major St',44.681921,-63.539987
 7176,'7176','Flamingo Dr / Swallow St',44.672305,-63.652331
 7177,'7177','Mnr Dr / Peddars Way',44.669464,-63.543806
@@ -1139,7 +1139,7 @@
 7207,'7207','Metropolitan Ave / 1st Lk Dr',44.779392,-63.673561
 7208,'7208','Metropolitan Ave / 1st Lk Dr',44.779464,-63.673434
 7209,'7209','Micmac Blvd / Brookdale Cr',44.684623,-63.557266
-7210,'7210','Micmac Blvd @ Civic 10',44.684598,-63.556819
+7210,'7210','Micmac Blvd @ Civic 10',44.684574,-63.556806
 7211,'7211','Micmac Blvd / Horizon Ct',44.686759,-63.563629
 7212,'7212','Bluewater Rd / Topsail Ct',44.723097,-63.70966
 7213,'7213','Micmac Blvd / Horizon Ct',44.686693,-63.56355
@@ -1269,9 +1269,9 @@
 7345,'7345','North St / Dublin St',44.650186,-63.60115
 7346,'7346','North St / Gottingen St',44.6571,-63.591495
 7347,'7347','North St / Gottingen St',44.657059,-63.591419
-7348,'7348','North St / Lorne Terr',44.658329,-63.590294
+7348,'7348','North St / Lorne Terr',44.658305,-63.590248
 7349,'7349','North St / Agricola St',44.65521,-63.594145
-7350,'7350','North St / Fuller Terr',44.65614,-63.592812
+7350,'7350','North St / Fuller Terr',44.656133,-63.592824
 7351,'7351','North St / Brunswick St',44.65819,-63.589728
 7352,'7352','North St / Clifton St',44.653627,-63.596306
 7353,'7353','North St / Clifton St',44.653862,-63.596147
@@ -1570,7 +1570,6 @@
 8153,'8153','Quinpool Rd @ Civic 7111',44.641174,-63.616329
 8156,'8156','Radcliffe Dr / Dunbrack St',44.665486,-63.659427
 8157,'8157','Radcliffe Dr / Stockleigh Pl',44.664925,-63.664581
-8158,'8158','Radcliffe Dr / Lacewood Dr',44.662069,-63.664652
 8159,'8159','Radcliffe Dr / Barkton Ln',44.665798,-63.661221
 8160,'8160','Raymoor Dr / Strath Ln',44.687218,-63.535945
 8161,'8161','Raymoor Dr @ Civic 22',44.685599,-63.533318
@@ -1724,15 +1723,15 @@
 8327,'8327','Spg Gdn Rd / Queen St',44.6435,-63.575384
 8328,'8328','Spg Gdn Rd / Carlton St',44.640694,-63.585578
 8329,'8329','Spg Gdn Rd / Carlton St',44.64098,-63.584834
-8330,'8330','Spg Gdn Rd / Dresden Row',44.642937,-63.577501
-8331,'8331','Spg Gdn Rd / Queen St',44.644143,-63.57353
+8330,'8330','Spg Gdn Rd / Dresden Row',44.643001,-63.577546
+8331,'8331','Spg Gdn Rd / Queen St',44.643423,-63.57567
 8332,'8332','Spg Gdn Rd / Robie St',44.640529,-63.586475
 8333,'8333','Spg Gdn Rd / South Pk St',44.642144,-63.580006
 8334,'8334','Spg Gdn Rd / South Pk St',44.642487,-63.579346
 8335,'8335','Spg Gdn Rd / Summer St',44.641453,-63.583128
 8336,'8336','Spg Gdn Rd / Dresden Row',44.642985,-63.57737
 8337,'8337','Spg Gdn Rd / Summer St',44.64138,-63.582888
-8338,'8338','Spg Gdn Rd / Barrington St',44.644029,-63.573242
+8338,'8338','Spg Gdn Rd / Barrington St',44.64413,-63.573214
 8339,'8339','Spg Ave / Ellenvale Ave',44.677157,-63.51748
 8340,'8340','Springfield Ave / Sackville Dr',44.799535,-63.737471
 8341,'8341','Springfield Ave / Sackville Dr',44.799405,-63.737424
@@ -1800,7 +1799,7 @@
 8411,'8411','University Ave / Summer St',44.639085,-63.581909
 8412,'8412','Upper Water St / Purdys Ln',44.651486,-63.57524
 8413,'8413','Upper Water St / Valour Way',44.653519,-63.579449
-8414,'8414','Upper Water St / Valour Way',44.654232,-63.579935
+8414,'8414','Upper Water St / Valour Way',44.654298,-63.579958
 8415,'8415','Flamingo Dr / Oriole St',44.672842,-63.652358
 8416,'8416','Valleyfield Rd / Oakwood Ave',44.679362,-63.53459
 8418,'8418','Victoria Rd / Albro Lk Rd',44.679889,-63.584694
