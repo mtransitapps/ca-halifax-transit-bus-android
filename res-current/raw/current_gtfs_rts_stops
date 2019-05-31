@@ -31,6 +31,7 @@
 2030,'2030','Broad St / Tilbury Ave',44.712005,-63.701301
 2031,'2031','Broad St / Samaa Ct',44.714073,-63.702239
 2032,'2032','Broad St / Gary Martin Dr',44.716005,-63.705021
+2035,'2035','St Margarets Bay Rd / Cr Ave',44.637611,-63.629764
 6000,'6000','Akerley Blvd / Burnside Dr',44.715124,-63.589031
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.711193,-63.601377
@@ -109,7 +110,7 @@
 6080,'6080','Auburn Dr / John Stewart Dr',44.686786,-63.485269
 6081,'6081','Auburn Dr / Leander Dr',44.692452,-63.485442
 6082,'6082','Madeline Pl / Ave Du Portage',44.701648,-63.535107
-6083,'6083','Baffin Blvd / Hudson Way',44.682919,-63.606328
+6083,'6083','Hudson Way / Baffin Blvd',44.682839,-63.60661
 6084,'6084','Barrington St / Prince St',44.647661,-63.574333
 6085,'6085','Barrington St / Prince St',44.646958,-63.573947
 6087,'6087','Barrington St / Duke St Bay 1',44.650525,-63.575628
@@ -620,7 +621,7 @@
 6634,'6634','Ellenvale Ave / Waltdale Dr',44.676281,-63.525689
 6635,'6635','Ellenvale Ave / Alberta St',44.676566,-63.522959
 6636,'6636','Ellenvale Ave / Spg Ave',44.677705,-63.518466
-6637,'6637','Endeavour Dr / Navicula Ln',44.681619,-63.610985
+6637,'6637','Endeavour Dr / Navicula Ln',44.681628,-63.611014
 6638,'6638','Dutch Vlg Rd / Sunnybrae Ave',44.654417,-63.632055
 6639,'6639','Eisener Blvd / Woodlawn Public Library',44.66788,-63.521373
 6640,'6640','Everette St / Pleasant St',44.644799,-63.540517
@@ -700,7 +701,7 @@
 6719,'6719','Washmill Lk Dr / Bently Dr',44.649763,-63.656135
 6720,'6720','Franklyn St / Everette St',44.646356,-63.539445
 6721,'6721','Franklyn St / Irving St',44.64754,-63.54145
-6722,'6722','Washmill Lk Dr / Abercrombie Ln',44.649842,-63.652545
+6722,'6722','Washmill Lk Dr / Abercrombie Ln',44.649521,-63.652263
 6723,'6723','Gaston Rd / Macrae Ave',44.666356,-63.541956
 6724,'6724','Gaston Rd / Regency Dr',44.666357,-63.54208
 6725,'6725','Gaston Rd / Lacomb Dr',44.664453,-63.533622
@@ -968,7 +969,7 @@
 7003,'7003','Johnson Rd @ Civic 60',44.740524,-63.466405
 7004,'7004','Joseph Howe Dr / Craigmore Dr',44.643645,-63.623839
 7005,'7005','Joseph Howe Dr / Ascot Ave',44.645486,-63.627343
-7006,'7006','Joseph Howe Dr / / Clinton Ave',44.642585,-63.621267
+7006,'7006','Joseph Howe Dr / Clinton Ave',44.642585,-63.621267
 7007,'7007','Joseph Howe Dr / Lexington Ave',44.643562,-63.62345
 7008,'7008','Joseph Howe Dr @ Civic 2668',44.642728,-63.621786
 7009,'7009','Joseph Howe Dr / Springvale Ave',44.64788,-63.629627
@@ -1040,7 +1041,7 @@
 7086,'7086','Willett St / Lacewood Dr',44.661663,-63.657338
 7088,'7088','Lady Hammond Rd / Basinview Dr',44.665144,-63.615271
 7089,'7089','Lady Hammond Rd / MacKintosh St',44.66413,-63.619217
-7091,'7091','Lady Hammond Rd / Bright Pl',44.665338,-63.613369
+7091,'7091','Lady Hammond Rd / High St',44.665338,-63.613369
 7093,'7093','Lady Hammond Rd / MacKintosh St',44.664127,-63.619705
 7095,'7095','Lady Hammond Rd / Basinview Dr',44.665286,-63.615212
 7096,'7096','Duffus St / Robie St',44.665349,-63.610105
@@ -1366,7 +1367,7 @@
 7442,'7442','Peddars Way / Bow St',44.670508,-63.543913
 7443,'7443','Peddars Way / Bow St',44.672021,-63.544717
 7444,'7444','Peddars Way / Civic 45',44.671852,-63.544407
-7445,'7445','Washmill Lk / Abercrombie Ln',44.649666,-63.651984
+7445,'7445','Washmill Lk / Abercrombie Ln',44.649843,-63.652111
 7446,'7446','Washmill Lk Dr / Bently Dr',44.649829,-63.656364
 7447,'7447','Pettipas Dr / Vidito Dr',44.71205,-63.61003
 7448,'7448','Pettipas Dr / Mosher Dr',44.710563,-63.61191
@@ -1498,19 +1499,19 @@
 8067,'8067','Sinclair St / Prince Albert Rd',44.677807,-63.555208
 8068,'8068','Prince Albert Rd / Celtic Dr',44.678795,-63.552223
 8069,'8069','Prince Albert Rd / Celtic Dr',44.678937,-63.552228
-8070,'8070','Princess Margaret Blvd / Baffin Blvd',44.686074,-63.603104
+8070,'8070','Princess Margaret Blvd / Hudson Way',44.686074,-63.603104
 8071,'8071','Princess Margaret Blvd @ Civic 40',44.686807,-63.606501
 8072,'8072','Princess Margaret Blvd @ Civic 55',44.688265,-63.607041
 8073,'8073','Princess Margaret Blvd / Civic 320',44.687133,-63.609287
 8074,'8074','Princess Margaret Blvd / Killkee Gt',44.689236,-63.610242
 8075,'8075','Princess Margaret Blvd / Windmill Rd',44.686355,-63.599434
-8076,'8076','Princess Margaret Blvd / Baffin Blvd',44.686275,-63.603808
+8076,'8076','Princess Margaret Blvd / Hudson Way',44.686201,-63.603216
 8077,'8077','Princess Margaret Blvd / Iroquois Dr',44.68602,-63.601407
 8078,'8078','Princess Margaret Blvd / Windmill Rd',44.686234,-63.599637
 8079,'8079','Princess Margaret Blvd / Ryan Gt',44.686338,-63.606986
-8080,'8080','Purcells Cv Rd / Civic 360',44.622376,-63.584898
+8080,'8080','Purcells Cv Rd / Civic 2310',44.622376,-63.584898
 8081,'8081','Purcells Cv Rd / Colindale St',44.630328,-63.60892
-8082,'8082','Purcells Cv Rd / Civic 360',44.62206,-63.584462
+8082,'8082','Purcells Cv Rd / Civic 2310',44.62206,-63.584462
 8083,'8083','Purcells Cv Rd @ Braeburn Rd',44.63618,-63.619932
 8084,'8084','Purcells Cv Rd @ Ferguson Cv Rd',44.606734,-63.563536
 8086,'8086','Purcells Cv Rd / Anchor Dr',44.637237,-63.619703
@@ -1525,17 +1526,17 @@
 8095,'8095','Purcells Cv Rd @ St Cecelia Dr',44.612965,-63.575151
 8096,'8096','Purcells Cv Rd @ Melvin Rd',44.618251,-63.577926
 8097,'8097','Purcells Cv Rd / Colindale St',44.630288,-63.60879
-8098,'8098','Purcells Cv Rd @ Civic 46',44.634194,-63.618356
+8098,'8098','Purcells Cv Rd @ Civic 1162',44.634194,-63.618356
 8099,'8099','Purcells Cv Rd / Ramsgate Ln',44.633183,-63.610613
 8100,'8100','Purcells Cv Rd / Pinehaven Dr',44.632548,-63.609659
-8101,'8101','Purcells Cv Rd / Civic 45',44.634254,-63.618669
-8102,'8102','Purcells Cv Rd @ Civic 527',44.609732,-63.572465
-8103,'8103','Purcells Cv Rd @ Civic 533',44.609505,-63.572158
+8101,'8101','Purcells Cv Rd @ Rosborough Loop',44.634254,-63.618669
+8102,'8102','Purcells Cv Rd @ Civic 2903',44.609732,-63.572465
+8103,'8103','Purcells Cv Rd @ Civic 2907',44.609505,-63.572158
 8104,'8104','Purcells Cv Rd / Battery Dr',44.608835,-63.568555
-8105,'8105','Purcells Cv Rd / Civic 611',44.607638,-63.566181
-8106,'8106','Purcells Cv Rd @ Civic 603',44.607706,-63.567057
+8105,'8105','Purcells Cv Rd / Civic 3101',44.607638,-63.566181
+8106,'8106','Purcells Cv Rd @ Civic 3081',44.607706,-63.567057
 8107,'8107','Purcells Cv Rd / Sailboat Ln',44.633768,-63.614977
-8108,'8108','Purcells Cv Rd @ Civic 376',44.620862,-63.582654
+8108,'8108','Purcells Cv Rd @ Civic 2372',44.620862,-63.582654
 8109,'8109','Purcells Cv Rd / Battery Dr',44.608701,-63.568553
 8110,'8110','Purcells Cv Rd / Country Cr',44.600368,-63.560246
 8111,'8111','Purcells Cv Rd / Homestead Rd',44.600331,-63.560188
@@ -1552,7 +1553,7 @@
 8122,'8122','Purcells Cv Rd / Sailboat Ln',44.633848,-63.615219
 8123,'8123','Purcells Cv Rd / Devil''s Hl Rd',44.601536,-63.561583
 8124,'8124','Purcells Cv Rd / Ferguson Cv Rd',44.606806,-63.563599
-8125,'8125','Purcells Cv Rd / Civic 376',44.620727,-63.582619
+8125,'8125','Purcells Cv Rd / Civic 2372',44.620727,-63.582619
 8126,'8126','Quarry Rd / St Margarets Bay Rd',44.636439,-63.631358
 8127,'8127','Windmill Rd / Lyle St',44.667594,-63.581027
 8128,'8128','Beaver Bank Rd / Birch Rd',44.864291,-63.689024
@@ -2232,7 +2233,7 @@
 8889,'8889','Acadia St / Ragus Rd',44.656974,-63.546003
 8890,'8890','Acadia St / Pleasant St',44.656246,-63.548201
 8891,'8891','Mt Hope Ave / Ests Rd',44.655719,-63.543123
-8892,'8892','Mt Hope Ave / Neptune Cr',44.656989,-63.540845
+8892,'8892','Mt Hope Ave / Neptune Cr',44.6572,-63.540609
 8893,'8893','Mt Hope Ave / Neptune Cr',44.656677,-63.54113
 8894,'8894','Shubie Dr / Kiltearn Row',44.706968,-63.565013
 8895,'8895','Back Rd / Hwy 207',44.672535,-63.258868

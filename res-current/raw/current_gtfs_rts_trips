@@ -82,8 +82,6 @@
 8400,0,'Summer St',84
 8501,0,'Downsview Sackville',85
 8500,0,'Summer St',85
-8601,0,'Basinview Rockmanor',86
-8600,0,'Summer St',86
 8700,0,'Bridge Term',87
 8701,0,'Sackville Term',87
 8801,0,'Bedford Commons',88
@@ -108,6 +106,8 @@
 18501,0,'Sackville',185
 19400,0,'Summer St',194
 19401,0,'West Bedford',194
+19601,0,'Basinview Rockmanor',196
+19600,0,'Summer St',196
 32001,0,'Airport',320
 32000,0,'Downtown Hfx',320
 33000,0,'Albemarle St',330
