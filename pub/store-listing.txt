@@ -6,6 +6,7 @@ Schedule. News. Major Disruptions.
 ----------
 What's new in this version?:
 Schedule from August 19, 2019 to November 24, 2019.
+Real-time service alerts from halifax.ca.
 Tweets from @hfxtransit.
 ----------
 Full description:
