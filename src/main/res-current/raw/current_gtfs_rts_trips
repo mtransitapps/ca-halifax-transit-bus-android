@@ -10,18 +10,20 @@
 500,0,'Water St Term',5
 701,0,'Gottingen',7
 700,0,'Robie',7
+800,0,'Downtown Halifax',8
+801,0,'Sackville Term',8
 1000,0,'Dalhousie',10
 1001,0,'Westphal',10
 1101,0,'Bridge Term',11
 1100,0,'Dockyard',11
 1401,0,'Leiblin Pk',14
 1400,0,'Scotia Sq',14
-1500,0,'Bayers Rd',15
-1501,0,'Purcells Cv',15
 2100,0,'Lacewood Term',21
 2101,0,'Timberlea',21
 2200,0,'Mumford Term',22
 2201,0,'Ragged Lk',22
+2501,0,'Governors Brk',25
+2500,0,'Mumford Term',25
 2801,0,'Lacewood Term',28
 2800,0,'Mumford Term',28
 2901,0,'Bayers Rd Ctr',29
@@ -56,12 +58,12 @@
 6201,0,'Wildwood',62
 6300,0,'Bridge Term',63
 6301,0,'Woodside',63
-6401,0,'Akerley',64
-6400,0,'Bridge Term',64
+6400,0,'Highfield Term',64
+6401,0,'Wrights Cv',64
 6501,0,'Astral',65
 6500,0,'Portland Hls Term',65
-6601,0,'Cobequid Term',66
-6600,0,'Gaston',66
+6600,0,'Cobequid Term',66
+6601,0,'Gaston',66
 6800,0,'Bridge Term',68
 6801,0,'Cherry Brk',68
 7200,0,'Dartmouth Xing',72
@@ -70,26 +72,26 @@
 7800,0,'Woodside Ferry',78
 7901,0,'Cole Harbour',79
 7900,0,'Woodside Ferry',79
-8000,0,'Downtown',80
-8001,0,'Sackville Term',80
-8100,0,'Downtown',81
-8101,0,'Hemlock Ravine',81
+8200,0,'Cobequid Term',82
 8201,0,'Sackville Term',82
-8200,0,'Water St Term',82
 8300,0,'Sackville Term',83
 8301,0,'Springfield',83
-8401,0,'Sackville',84
-8400,0,'Summer St',84
-8501,0,'Downsview Sackville',85
-8500,0,'Summer St',85
-8701,0,'Bridge Term',87
-8700,0,'Sackville Term',87
+8401,0,'Sackville Term',84
+8400,0,'Scotia Sq',84
+8501,0,'Millwood',85
+8500,0,'Sackville Term',85
+8601,0,'Beaver Bank',86
+8600,0,'Sackville Term',86
+8700,0,'Bridge Term',87
+8701,0,'Sackville Term',87
 8801,0,'Bedford Commons',88
-8800,0,'Cobequid Term',88
-8901,0,'Cobequid Term',89
-8900,0,'Lacewood Term',89
-9001,0,'Larry Uteck',90
-9000,0,'Water St',90
+8800,0,'Sackville Term',88
+9000,0,'Water St Term',90
+9001,0,'West Bedford',90
+9100,0,'Mumford Term',91
+9101,0,'West Bedford',91
+9301,0,'Cobequid Term',93
+9300,0,'Downtown Halifax',93
 12300,0,'Scotia Sq',123
 12301,0,'Timberlea',123
 13501,0,'Flamingo',135
@@ -102,8 +104,14 @@
 13800,0,'University Ave',138
 15900,0,'Downtown Halifax',159
 15901,0,'Portland Hls',159
-18500,0,'Downtown Halifax',185
-18501,0,'Sackville',185
+18201,0,'First Lk',182
+18200,0,'Summer St',182
+18301,0,'Springfield',183
+18300,0,'Summer St',183
+18501,0,'Millwood',185
+18500,0,'Summer St',185
+18601,0,'Beaver Bank',186
+18600,0,'Summer St',186
 19400,0,'Summer St',194
 19401,0,'West Bedford',194
 19601,0,'Basinview Rockmanor',196
@@ -114,10 +122,10 @@
 33001,0,'Sheldrake Lk & Tantallon',330
 37000,0,'Downtown Hfx',370
 37001,0,'Porters Lk',370
-40001,0,'Beaver Bank',400
-40000,0,'Sackville Term',400
 40101,0,'Porters Lk & Seaforth',401
 40100,0,'Portland Hls Term',401
+41500,0,'Mumford Term',415
+41501,0,'Purcells Cv',415
 43300,0,'Lacewood Term',433
 43301,0,'Tantallon',433
 100000900,0,'Downtown',1000009
