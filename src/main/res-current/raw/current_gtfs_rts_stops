@@ -120,16 +120,6 @@
 2121,'2121','Sackville Dr / Jubilee Ln',44.781693,-63.703987
 2122,'2122','Mumford Rd / Mumford Terminal Bay 4',44.647938,-63.620143
 2123,'2123','Beaver Bank Rd / Kinsac Rd',44.849038,-63.685399
-2124,'2124','Bedford Hwy / Hammonds Plains Rd',44.714466,-63.677978
-2125,'2125','Moirs Mill Rd / Civic 20',44.713488,-63.678262
-2126,'2126','Moirs Mill Rd / Civic 59',44.712432,-63.680896
-2127,'2127','Amin St @ Civic 54',44.711262,-63.680256
-2128,'2128','Amin St / Oceanview Dr',44.709746,-63.678494
-2129,'2129','Oceanview Dr @ Civic 49',44.708937,-63.680048
-2130,'2130','Oceanview Dr / Civic 140',44.707139,-63.684
-2131,'2131','Oceanview Dr / Nine Mile Dr',44.706213,-63.686679
-2132,'2132','Nine Mile Dr @ Nine Mile Dr Community Pk',44.703963,-63.687094
-2133,'2133','Nine Mile Dr / Larry Uteck Blvd',44.702111,-63.687093
 2134,'2134','Starboard Dr @ Civic 530',44.697319,-63.68362
 2135,'2135','Starboard Dr / Friesian Ct',44.695916,-63.681453
 2136,'2136','Starboard Dr @ Civic 350',44.694887,-63.678174
@@ -142,15 +132,6 @@
 2143,'2143','Starboard Dr @ Civic 357',44.694982,-63.67865
 2144,'2144','Starboard Dr / Friesian Ct',44.695961,-63.681426
 2145,'2145','Starboard Dr / Civic 530',44.698031,-63.684277
-2146,'2146','Nine Mile Dr / William Barrett Terr',44.702144,-63.687007
-2147,'2147','Nine Mile Dr / Civic 552',44.703929,-63.687018
-2148,'2148','Oceanview Dr / Nine Mile Dr',44.70585,-63.687404
-2149,'2149','Oceanview Dr / Peverill Ct',44.707115,-63.683602
-2150,'2150','Oceanview Dr Near Civic 82',44.7084,-63.680857
-2151,'2151','Amin St / Nelsons Lndg Blvd',44.710145,-63.678562
-2152,'2152','Amin St @ Amin St Pk',44.711169,-63.680074
-2153,'2153','Moirs Mill Rd / Amin St',44.712302,-63.681267
-2154,'2154','Moirs Mill Rd / Bedford Hwy',44.713433,-63.678285
 2155,'2155','Hammonds Plains Rd / Bedford Hwy',44.715674,-63.679989
 2156,'2156','Williams Lk Rd / Purcells Cv Rd',44.623043,-63.601706
 2157,'2157','Williams Lk Rd / Wyndrock Dr',44.620404,-63.604951
@@ -185,6 +166,14 @@
 2186,'2186','Beaver Bank Rd / Woodbine Dr',44.798172,-63.68867
 2188,'2188','Parkland Dr / Bethany Way',44.662186,-63.670615
 2189,'2189','Titanium Cr / Alabaster Way',44.604563,-63.601505
+2190,'2190','Southgate Dr / Ravines Dr',44.703505,-63.678944
+2191,'2191','Southgate Dr @ Civic 204',44.707037,-63.674216
+2192,'2192','Southgate Dr / Bedford Hwy',44.710851,-63.67281
+2193,'2193','Southgate Dr / Bedford Hwy',44.710796,-63.673283
+2194,'2194','Southgate Dr / Windstone Cl',44.709208,-63.675244
+2195,'2195','Southgate Dr / Stockton Rg',44.705592,-63.679954
+2196,'2196','Southgate Dr / Windridge Ln',44.703547,-63.679055
+2197,'2197','Hammonds Plains Rd / Bedford Hwy',44.715257,-63.67889
 6000,'6000','Akerley Blvd / Burnside Dr',44.715166,-63.588997
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.711193,-63.601377
@@ -269,7 +258,6 @@
 6088,'6088','Barrington St / Artz St',44.656794,-63.585186
 6089,'6089','Barrington St / Upper Water St',44.654394,-63.581778
 6090,'6090','Barrington St / Devonshire Ave',44.663279,-63.592738
-6091,'6091','Barrington St / Marjorie Russell Ln',44.660418,-63.589754
 6092,'6092','Barrington St / Grn St',44.637344,-63.569575
 6093,'6093','Barrington St / Grn St',44.637382,-63.569725
 6094,'6094','Barrington St / Young St',44.665191,-63.594958
@@ -799,7 +787,7 @@
 6668,'6668','Forest Hls Pky / Taranaki Dr',44.688158,-63.492228
 6669,'6669','Forest Hls Pky @ Cole Harbour Pl',44.683595,-63.490901
 6670,'6670','Forest Hls Pky / Circassion Dr',44.677246,-63.491943
-6671,'6671','Forest Hls Pky / CHP',44.683397,-63.490963
+6671,'6671','Forest Hls Pky / Cole Harbour Pl',44.683397,-63.490963
 6679,'6679','1st Lk Dr / Cabot Cr',44.773084,-63.659017
 6680,'6680','1st Lk Dr / Crimson Dr',44.771214,-63.657688
 6681,'6681','1st Lk Dr / Cobequid Rd',44.768912,-63.644617
@@ -1912,7 +1900,7 @@
 8407,'8407','Tower Rd / Harbourview Dr',44.628038,-63.576323
 8408,'8408','Tower Rd / Inglis St',44.633229,-63.57811
 8409,'8409','Tower Rd @ Tower Rd Turning Loop',44.625848,-63.574319
-8410,'8410','University Ave / Summer St',44.639227,-63.581943
+8410,'8410','University Ave / Summer St',44.639042,-63.58295
 8411,'8411','University Ave / Summer St',44.639085,-63.581909
 8412,'8412','Upper Water St / Purdys Ln',44.651486,-63.57524
 8413,'8413','Upper Water St / Valour Way',44.653519,-63.579449
