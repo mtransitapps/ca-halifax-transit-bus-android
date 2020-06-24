@@ -27,9 +27,9 @@
 3900,0,'Bridge Term',39
 3901,0,'Lacewood Term',39
 5100,0,'Bridge Term',51
-5101,0,'Ocean Breeze',51
-5300,0,'Bridge Term',53
+5101,0,'Burnside',51
 5301,0,'Highfield Term',53
+5300,0,'Summer St',53
 5400,0,'Alderney Gt',54
 5401,0,'Montebello',54
 5500,0,'Bridge Term',55
@@ -54,8 +54,8 @@
 6401,0,'Wrights Cv',64
 6501,0,'Astral',65
 6500,0,'Portland Hls Term',65
+6600,0,'Cobequid Term',66
 6601,0,'Gaston',66
-6600,0,'Highfield Term',66
 6800,0,'Bridge Term',68
 6801,0,'Cherry Brk',68
 7200,0,'Dartmouth Xing',72
@@ -78,6 +78,10 @@
 9001,0,'West Bedford',90
 9100,0,'Mumford Term',91
 9101,0,'West Bedford',91
+12300,0,'Scotia Sq',123
+12301,0,'Timberlea',123
+13501,0,'Flamingo',135
+13500,0,'University Ave',135
 13601,0,'Farnham Gt Exp',136
 13600,0,'University Ave',136
 18501,0,'Millwood',185

@@ -12,9 +12,11 @@
 2011,'2011','Charles Rd @ Civic 193',44.657254,-63.749958
 2012,'2012','Charles Rd / Dixon Ct',44.655601,-63.747712
 2013,'2013','Charles Rd @ Charles Rd Pk',44.656054,-63.746112
+2014,'2014','Knightsridge Dr / Dunbrack St',44.670646,-63.661637
 2015,'2015','Windsor St / Young St',44.657157,-63.60774
 2016,'2016','Windsor St / Bayers Rd',44.657226,-63.607932
 2017,'2017','Wright Ave / MacDonald Ave',44.702064,-63.600373
+2018,'2018','Roslyn Rd / Connolly St',44.654236,-63.613022
 2019,'2019','Hammonds Plains Rd / Lewis Dr',44.72665,-63.712379
 2020,'2020','Hammonds Plains Rd / Lewis Dr',44.726668,-63.712765
 2021,'2021','Barrington St / North St',44.65819,-63.586855
@@ -250,6 +252,7 @@
 6080,'6080','Auburn Dr / John Stewart Dr',44.686786,-63.485269
 6081,'6081','Auburn Dr / Leander Dr',44.692452,-63.485442
 6082,'6082','Madeline Pl / Ave Du Portage',44.701648,-63.535107
+6083,'6083','Hudson Way / Baffin Blvd',44.682839,-63.60661
 6084,'6084','Barrington St / Prince St',44.647661,-63.574333
 6085,'6085','Barrington St / Prince St',44.646958,-63.573947
 6087,'6087','Barrington St / Duke St Bay 1',44.650525,-63.575628
@@ -716,6 +719,7 @@
 6634,'6634','Ellenvale Ave / Waltdale Dr',44.676281,-63.525689
 6635,'6635','Ellenvale Ave / Alberta St',44.676566,-63.522959
 6636,'6636','Ellenvale Ave / Spg Ave',44.677705,-63.518466
+6637,'6637','Endeavour Dr / Navicula Ln',44.681628,-63.611014
 6638,'6638','Dutch Vlg Rd / Sunnybrae Ave',44.654417,-63.632055
 6639,'6639','Eisener Blvd / Woodlawn Public Library',44.66788,-63.521373
 6640,'6640','Everette St / Pleasant St',44.644799,-63.540517
@@ -734,6 +738,9 @@
 6654,'6654','Farnham Gt Rd / Montgomery Ct',44.672116,-63.668333
 6655,'6655','Farnham Gt Rd / Scotch Pine Terr',44.672333,-63.670387
 6656,'6656','Farnham Gt Rd / Parkland Dr',44.671401,-63.674874
+6657,'6657','Radcliffe Dr / Dunbrack St',44.665776,-63.660686
+6658,'6658','Radcliffe Dr / Raleigh Ct',44.664765,-63.66488
+6659,'6659','Radcliffe Dr / Stratford Way',44.662362,-63.665013
 6660,'6660','Lacewood Dr / Willett St',44.662395,-63.656837
 6664,'6664','Forest Hls Pky / Cole Harbour Rd',44.67332,-63.490588
 6665,'6665','Forest Hls Pky / Merrimac Dr',44.67758,-63.491781
@@ -845,6 +852,7 @@
 6786,'6786','Gottingen St / Prince William St',44.653515,-63.585596
 6787,'6787','Gottingen St / Uniacke St',44.655624,-63.588716
 6788,'6788','Dutch Vlg Rd / Central Ave',44.654173,-63.631701
+6789,'6789','Caldwell Rd / Kaleigh Dr',44.614616,-63.476073
 6790,'6790','Gottingen St / Cornwallis St',44.652132,-63.583591
 6792,'6792','Gregory Dr / Flying Cloud Dr',44.685819,-63.495007
 6793,'6793','Gregory Dr / Flying Cloud Dr',44.685733,-63.495105
@@ -1032,6 +1040,9 @@
 6984,'6984','Joseph Howe Dr / Dutch Vlg Rd',44.658272,-63.629059
 6985,'6985','Joseph Howe Dr / Scot St',44.656953,-63.629568
 6986,'6986','Joseph Howe Dr / Scot St',44.655695,-63.629753
+6987,'6987','Joseph Zatzman Dr / Akerley Blvd',44.71203,-63.600292
+6988,'6988','Joseph Zatzman Dr / Simmonds Dr',44.713721,-63.601433
+6989,'6989','Joseph Zatzman Dr / Topple Dr',44.715207,-63.604107
 6990,'6990','John Stewart Dr / Inglewood Cr',44.680451,-63.4826
 6991,'6991','John Stewart Dr / Auburn Dr',44.685965,-63.485827
 6992,'6992','John Stewart Dr / Tamara Dr',44.681777,-63.483445
@@ -1092,6 +1103,9 @@
 7057,'7057','Kincardine Dr / Greenoch Dr',44.689933,-63.536133
 7058,'7058','King St / Portland St',44.66582,-63.567039
 7059,'7059','King St / Ochterloney St',44.666429,-63.568128
+7060,'7060','Knightsridge Dr / Dunbrack St',44.67038,-63.661952
+7061,'7061','Knightsridge Dr / Flamingo Dr',44.671802,-63.660189
+7062,'7062','Knightsridge Dr / Flamingo Dr',44.671333,-63.660245
 7063,'7063','Lacewood Dr / Vimy Ave',44.661364,-63.636569
 7064,'7064','Lacewood Dr / Stratford Way',44.65951,-63.666816
 7065,'7065','Lacewood Dr / Braeside Ln',44.662012,-63.641056
@@ -1168,6 +1182,7 @@
 7144,'7144','Lemarchant St / University Ave',44.636652,-63.58978
 7145,'7145','Windmill Rd / Mott St',44.667517,-63.57839
 7146,'7146','Lexington Ave @ Walnut Hall',44.701544,-63.537432
+7147,'7147','Hornes Rd / Cow Bay Rd',44.612685,-63.48798
 7148,'7148','Lucien Dr / Whynette Pl',44.680577,-63.508416
 7150,'7150','Macdonald Bridge Ramp @ Barrington St',44.658924,-63.588731
 7156,'7156','Cherry Brk Rd / Riley Rd',44.708518,-63.485454
@@ -1231,6 +1246,9 @@
 7245,'7245','Montague Rd / Gander Ave',44.70259,-63.497725
 7246,'7246','Morris St / Birmingham St',44.640667,-63.57551
 7247,'7247','Morris St / Birmingham St',44.640714,-63.575515
+7248,'7248','Mosher Dr / Pettipas Dr',44.709152,-63.612197
+7249,'7249','Mosher Dr / Akerley Blvd',44.708036,-63.608746
+7250,'7250','Mosher Dr / Gurholt Dr',44.708703,-63.610977
 7251,'7251','Mtn Rd / Knob Hl Cr',44.632199,-63.622168
 7252,'7252','Mtn Rd / Sunset Ave',44.630814,-63.623853
 7253,'7253','Mtn Rd / Civic 17',44.631589,-63.62304
@@ -1405,6 +1423,8 @@
 7444,'7444','Peddars Way / Civic 45',44.671852,-63.544407
 7445,'7445','Washmill Lk / Abercrombie Ln',44.649843,-63.652111
 7446,'7446','Washmill Lk Dr / Bently Dr',44.649829,-63.656364
+7447,'7447','Pettipas Dr / Vidito Dr',44.71205,-63.61003
+7448,'7448','Pettipas Dr / Mosher Dr',44.710563,-63.61191
 7449,'7449','Pinecrest Dr / Albro Lk Rd',44.683435,-63.580023
 7450,'7450','Pinecrest Dr / Albro Lk Rd',44.683457,-63.58008
 7451,'7451','Pinecrest Dr / Brule St',44.68364,-63.587232
@@ -1602,6 +1622,9 @@
 8148,'8148','Quinpool Rd @ Preston St',44.645382,-63.597708
 8149,'8149','Quinpool Rd / Vernon St',44.646223,-63.594229
 8150,'8150','Quinpool Rd / Windsor St',44.646925,-63.591706
+8156,'8156','Radcliffe Dr / Dunbrack St',44.665486,-63.659427
+8157,'8157','Radcliffe Dr / Stockleigh Pl',44.664925,-63.664581
+8159,'8159','Radcliffe Dr / Barkton Ln',44.665798,-63.661221
 8160,'8160','Raymoor Dr / Strath Ln',44.687218,-63.535945
 8161,'8161','Raymoor Dr @ Civic 22',44.685599,-63.533318
 8162,'8162','Raymoor Dr / Main St',44.684334,-63.531604
@@ -1799,6 +1822,8 @@
 8393,'8393','Thistle St / Victoria Rd',44.670975,-63.571915
 8394,'8394','Porters Lk Pk & Ride',44.735084,-63.286586
 8396,'8396','Titus St / Evans Ave',44.659993,-63.634733
+8398,'8398','Topple Dr @ Civic 21',44.714065,-63.605954
+8399,'8399','Topple Dr / Vidito Dr',44.712077,-63.608005
 8400,'8400','Topsail Blvd / Plz Dr',44.682673,-63.514023
 8401,'8401','Tower Rd / Rogers Dr',44.629538,-63.577351
 8402,'8402','Tower Rd / Atlantic St',44.631569,-63.577933
@@ -1895,18 +1920,23 @@
 8508,'8508','Windmill Rd / Akerley Blvd',44.703711,-63.612394
 8509,'8509','Windmill Rd / Albro Lk Rd',44.676097,-63.590635
 8510,'8510','Windmill Rd / Dawson St',44.66889,-63.582913
+8511,'8511','Windmill Rd / Waddell Ave',44.687313,-63.599013
 8512,'8512','Windmill Rd / Nootka Ave',44.684602,-63.598563
 8513,'8513','Windmill Rd / Trinity Ave',44.67957,-63.594586
 8514,'8514','Windmill Rd / Victoria Rd',44.695043,-63.60059
 8515,'8515','Windmill Rd / Wright Ave',44.698722,-63.60524
 8516,'8516','Windmill Rd / Parkstone Rd',44.680653,-63.595432
 8517,'8517','Windmill Rd / Wright Ave',44.697739,-63.604145
+8518,'8518','Windmill Rd @ Civic 520',44.691154,-63.599903
+8519,'8519','Windmill Rd / Victoria Rd',44.693423,-63.600411
+8520,'8520','Windmill Rd / Wright Ave',44.697626,-63.603655
 8521,'8521','Windmill Rd / Fernhill Dr',44.682354,-63.597089
 8522,'8522','Windmill Rd / Dawn Dr',44.702237,-63.60821
 8523,'8523','Windmill Rd / Elmwood Ave',44.672607,-63.588845
 8524,'8524','Windmill Rd / Henry St',44.671656,-63.586972
 8525,'8525','Windmill Rd / Jamieson St',44.670761,-63.584117
 8526,'8526','Windmill Rd / Nivens Ave',44.676438,-63.590924
+8527,'8527','Windmill Rd / Waddell Ave',44.687176,-63.59911
 8528,'8528','Windmill Rd / Ralston Ave',44.700536,-63.606718
 8529,'8529','Windmill Rd / Sunnydale Ave',44.678185,-63.592719
 8530,'8530','Windmill Rd / Victoria Rd',44.694815,-63.600647
@@ -1914,6 +1944,8 @@
 8532,'8532','Windmill Rd / Wright Ave',44.698569,-63.605412
 8533,'8533','Windmill Rd / Akerley Blvd',44.703185,-63.611537
 8534,'8534','Windmill Rd / Nootka Ave',44.68298,-63.597397
+8535,'8535','Windmill Rd / Civic 520',44.690679,-63.599942
+8536,'8536','Windmill Rd / Wrights Cv Rd',44.693386,-63.600595
 8537,'8537','Windmill Rd / Dawn Dr',44.702115,-63.608353
 8538,'8538','Windmill Rd / Dawson St',44.668597,-63.582904
 8539,'8539','Windmill Rd / Elmwood Ave',44.673196,-63.589237
@@ -2012,6 +2044,26 @@
 8657,'8657','Finnian Row / Lamont Terr',44.69689,-63.566299
 8658,'8658','Hwy 207 @ Civic 6774',44.697965,-63.255847
 8659,'8659','Commodore Dr / Lamont Terr',44.70025,-63.566356
+8660,'8660','Hornes Rd @ Civic 65',44.614282,-63.485924
+8661,'8661','Hornes Rd @ Civic 41',44.616207,-63.483643
+8662,'8662','Hornes Rd / Scott Dr',44.617999,-63.481512
+8663,'8663','Caldwell Rd / Hornes Rd',44.618854,-63.479933
+8664,'8664','Caldwell Rd / Briarwood Dr',44.616615,-63.478147
+8665,'8665','Caldwell Rd / Aubrey Terr',44.612853,-63.474559
+8666,'8666','Cow Bay Rd / Caldwell Rd',44.612302,-63.472516
+8667,'8667','Cow Bay Rd / Heritage Hls Dr',44.613626,-63.470211
+8668,'8668','Cow Bay Rd / Forestgate Dr',44.616427,-63.465891
+8669,'8669','Samuel Danial Dr / Cow Bay Rd',44.617169,-63.463777
+8670,'8670','Samuel Danial Dr / Melrose Cr',44.615615,-63.461945
+8671,'8671','Melrose Cr @ Civic 180',44.613301,-63.464253
+8672,'8672','Heritage Hls Dr / Serop Cr',44.611903,-63.468465
+8673,'8673','Heritage Hls Dr / Cow Bay Rd',44.613309,-63.469996
+8674,'8674','Cow Bay Rd / Caldwell Rd',44.612425,-63.472348
+8675,'8675','Cow Bay Rd / Aubrey Terr',44.611736,-63.475466
+8676,'8676','Cow Bay Rd / Garrison Dr',44.611408,-63.479948
+8677,'8677','Cow Bay Rd / Ridding Rd',44.610868,-63.483227
+8678,'8678','Cow Bay Rd / Hornes Rd',44.612207,-63.487944
+8679,'8679','Cow Bay Rd / Disciples Way',44.612103,-63.492439
 8680,'8680','Spg Ave / Portland St',44.672147,-63.518118
 8681,'8681','Glendale Ave @ Civic 21',44.758989,-63.65841
 8682,'8682','Glendale Ave / Ests Rd',44.758557,-63.653619
@@ -2241,6 +2293,7 @@
 8959,'8959','Sackville Terminal Bay 3',44.76798,-63.698699
 8960,'8960','Sackville Terminal Bay 4',44.767917,-63.698899
 8961,'8961','Sackville Terminal Bay 5',44.767844,-63.699201
+8962,'8962','Woodside Ferry Terminal Bay 1',44.649174,-63.548415
 8964,'8964','Woodside Ferry Terminal Bay 2',44.649101,-63.548343
 8967,'8967','Sackville Terminal Bay 2',44.768001,-63.698449
 9000,'9000','Downsview Dr / Touchstone Ct',44.772293,-63.695697
