@@ -79,7 +79,7 @@
 2080,'2080','Old Sackville Rd / Meadowlands Pk Dr',44.772871,-63.700589
 2081,'2081','Old Sackville Rd / Peter Buckley Dr',44.770888,-63.698972
 2082,'2082','Commodore Dr / Eileen Stubbs Ave',44.700495,-63.578596
-2083,'2083','John Savage Ave / Commodore Dr',44.703214,-63.574981
+2083,'2083','John Savage Ave / Commodore Dr',44.703752,-63.575274
 2084,'2084','John Savage Ave / Garland Ave',44.705777,-63.576075
 2085,'2085','Garland Ave / John Savage Ave',44.706659,-63.577783
 2086,'2086','Garland Ave / Civic 110',44.706005,-63.580851
@@ -105,7 +105,7 @@
 2106,'2106','Brownlow Ave / Commodore Dr',44.698406,-63.580426
 2107,'2107','Colford Ave / Akerley Blvd',44.717125,-63.586986
 2108,'2108','Colford Ave / Gloria McCluskey Ave',44.719197,-63.589077
-2109,'2109','Gloria McCluskey Ave / Colford Ave',44.719972,-63.586922
+2109,'2109','Gloria McCluskey Ave / Colford Ave',44.719956,-63.586631
 2110,'2110','Gloria McCluskey Ave / Akerley Blvd',44.718156,-63.583254
 2111,'2111','Millwood Dr / Jackladder Dr',44.792474,-63.707707
 2112,'2112','Jackladder Dr / Slicers Ln',44.794879,-63.70908
@@ -371,7 +371,7 @@
 6209,'6209','Beaufort Ave / Oakland Rd',44.632769,-63.593085
 6210,'6210','Beaufort Ave / Oakland Rd',44.632546,-63.592304
 6211,'6211','Beaufort Ave / South St',44.633935,-63.595035
-6212,'6212','Beaver Bank Rd / Judy Ave',44.777409,-63.695324
+6212,'6212','Beaver Bank Rd / Judy Ave',44.777311,-63.695473
 6213,'6213','Beaver Bank Rd / Gloria Ave',44.780439,-63.693004
 6214,'6214','Beaver Bank Rd / Gloria Ave',44.780541,-63.692867
 6215,'6215','Beaver Bank Rd / Douglas Ave',44.777348,-63.695206
@@ -730,7 +730,7 @@
 6604,'6604','Dunbrack St / Main Ave',44.653185,-63.650303
 6605,'6605','Dunbrack St / Birkdale Cr',44.655553,-63.651346
 6607,'6607','Dunbrack St / Farnham Gt Rd',44.673675,-63.66381
-6608,'6608','Old Sambro Rd / Schnare St',44.617629,-63.621793
+6608,'6608','Old Sambro Rd / Schnare St',44.617168,-63.621687
 6609,'6609','Dutch Vlg Rd / Andrew St',44.656563,-63.631944
 6610,'6610','Joseph Howe Dr / Mumford Rd',44.649041,-63.62989
 6612,'6612','Joseph Howe Dr / Mumford Rd',44.649288,-63.630284
@@ -788,7 +788,7 @@
 6668,'6668','Forest Hls Pky / Taranaki Dr',44.688158,-63.492228
 6669,'6669','Forest Hls Pky @ Cole Harbour Pl',44.683595,-63.490901
 6670,'6670','Forest Hls Pky / Circassion Dr',44.677246,-63.491943
-6671,'6671','Forest Hls Pky / Cole Harbour Pl',44.683397,-63.490963
+6671,'6671','Forest Hls Pky / Cole Harbour Pl',44.682771,-63.49112
 6679,'6679','1st Lk Dr / Cabot Cr',44.773084,-63.659017
 6680,'6680','1st Lk Dr / Crimson Dr',44.771214,-63.657688
 6681,'6681','1st Lk Dr / Cobequid Rd',44.768912,-63.644617
@@ -1165,7 +1165,7 @@
 7081,'7081','Lacewood Dr / Parkland Dr',44.658905,-63.668662
 7082,'7082','Lacewood Dr / Willett St',44.662043,-63.658663
 7083,'7083','Lacewood Dr / Glenforest Dr',44.661244,-63.638327
-7084,'7084','Lacewood Dr @ Braeside Ln',44.661829,-63.640882
+7084,'7084','Lacewood Dr @ Braeside Ln',44.661478,-63.640552
 7085,'7085','Lacewood Dr / Briarwood Cr',44.664291,-63.648416
 7086,'7086','Willett St / Lacewood Dr',44.661663,-63.657338
 7088,'7088','Lady Hammond Rd / Basinview Dr',44.665144,-63.615271
@@ -1597,7 +1597,7 @@
 8060,'8060','Portland St / St Georges Ln',44.669193,-63.557561
 8062,'8062','Portland St / Rodney Rd',44.667746,-63.550569
 8064,'8064','Portland Ests Blvd West / Civic 64',44.663967,-63.51781
-8065,'8065','Primrose St / Victoria Rd',44.6819,-63.586278
+8065,'8065','Primrose St / Victoria Rd',44.682327,-63.585784
 8066,'8066','Prince Albert Rd / Bartlin Rd',44.680375,-63.5479
 8067,'8067','Sinclair St / Prince Albert Rd',44.677807,-63.555208
 8068,'8068','Prince Albert Rd / Celtic Dr',44.678795,-63.552223
@@ -1762,7 +1762,7 @@
 8257,'8257','Russell Lk Dr / Georgian Ct',44.662327,-63.51949
 8258,'8258','Russell Lk Dr @ Civic 50',44.663583,-63.520493
 8259,'8259','Sackville Dr / Civic 745',44.772137,-63.69165
-8261,'8261','Quinpool Rd / Windsor St',44.647212,-63.591228
+8261,'8261','Quinpool Rd / Windsor St',44.646829,-63.592538
 8262,'8262','Scot St / Desmond Ave',44.656425,-63.628106
 8263,'8263','Sea King Dr / Lancaster Dr',44.687187,-63.572207
 8264,'8264','Sea King Dr / Ernest Ave',44.68587,-63.575734
@@ -2236,7 +2236,6 @@
 8817,'8817','Hwy 7 / Hummingbird Dr',44.724459,-63.395791
 8818,'8818','Hwy 7 / Civic 4212',44.740833,-63.329153
 8819,'8819','Lower Water St / Bishop St',44.643132,-63.569258
-8820,'8820','Monarch Dr Elementary School',44.811432,-63.681303
 8821,'8821','Lower Water St / Sackville St',44.646501,-63.571092
 8822,'8822','Hollis St / Prince St',44.647629,-63.572918
 8823,'8823','Hollis St / Sackville St',44.646264,-63.572221
