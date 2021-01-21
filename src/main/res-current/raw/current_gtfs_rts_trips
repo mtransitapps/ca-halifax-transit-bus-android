@@ -48,11 +48,11 @@
 5700,0,'Woodside',57
 5800,0,'Bridge Term',58
 5801,0,'Woodlawn',58
-5900,0,'Bridge Term',59
 5901,0,'Colby',59
+5900,0,'Summer St',59
 6000,0,'Bridge Term',60
 6001,0,'Eastern Passage',60
-6101,0,'N Preston',61
+6101,0,'Auburn - N Preston',61
 6100,0,'Scotia Sq',61
 6200,0,'Bridge Term',62
 6201,0,'Wildwood',62
@@ -62,10 +62,10 @@
 6401,0,'Wrights Cv',64
 6501,0,'Astral',65
 6500,0,'Portland Hls Term',65
-6600,0,'Cobequid Term',66
 6601,0,'Gaston',66
-6800,0,'Bridge Term',68
+6600,0,'Highfield Term',66
 6801,0,'Cherry Brk',68
+6800,0,'Summer St',68
 7200,0,'Dartmouth Xing',72
 7201,0,'Portland Hls',72
 7801,0,'Mt Edward',78
