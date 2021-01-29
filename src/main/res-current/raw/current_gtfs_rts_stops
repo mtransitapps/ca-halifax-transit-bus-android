@@ -118,7 +118,7 @@
 2119,'2119','Beaver Bank Cross Rd @ Civic 190',44.787671,-63.703133
 2120,'2120','Beaver Bank Cross Rd / Loggen Rd',44.785329,-63.702434
 2121,'2121','Sackville Dr / Jubilee Ln',44.781693,-63.703987
-2122,'2122','Mumford Rd / Mumford Term Bay 4',44.647938,-63.620143
+2122,'2122','Mumford Rd / Mumford Term B:4',44.647938,-63.620143
 2123,'2123','Beaver Bank Rd / Kinsac Rd',44.849038,-63.685399
 2134,'2134','Starboard Dr @ Civic 530',44.697319,-63.68362
 2135,'2135','Starboard Dr / Friesian Ct',44.695916,-63.681453
@@ -204,7 +204,7 @@
 6027,'6027','Larry Uteck Blvd / Amesbury Gt',44.702478,-63.70281
 6028,'6028','Alderney Dr / Prince St',44.663831,-63.566201
 6029,'6029','Alderney Dr / Prince St',44.66411,-63.565852
-6030,'6030','/ Alderney Gt Ferry Term Bay 1',44.665158,-63.569422
+6030,'6030','/ Alderney Gt Ferry Term B:1',44.665158,-63.569422
 6032,'6032','Alma Cr / Titus St',44.658987,-63.632656
 6033,'6033','Arklow Dr / Ashley Dr',44.678021,-63.483331
 6035,'6035','Arklow Dr / John Stewart Dr',44.676611,-63.480068
@@ -234,8 +234,8 @@
 6059,'6059','Astral Dr / Spence Dr',44.6578,-63.485785
 6060,'6060','Astral Dr / Spence Dr',44.65803,-63.485417
 6061,'6061','Pearl Dr / Amethyst Cr',44.6452,-63.477417
-6063,'6063','Alderney Gt Ferry Term Bay 2',44.664476,-63.568661
-6064,'6064','Alderney Gt Ferry Term Bay 3',44.664814,-63.56932
+6063,'6063','Alderney Gt Ferry Term B:2',44.664476,-63.568661
+6064,'6064','Alderney Gt Ferry Term B:3',44.664814,-63.56932
 6066,'6066','Atlantic St / Pleasant St',44.649367,-63.546559
 6067,'6067','Bluewater Rd / Larry Uteck Blvd',44.715867,-63.715976
 6069,'6069','Auburn Dr / Auburn Ct',44.69317,-63.489183
@@ -255,7 +255,7 @@
 6083,'6083','Hudson Way / Baffin Blvd',44.682839,-63.60661
 6084,'6084','Barrington St / Prince St',44.647661,-63.574333
 6085,'6085','Barrington St / Prince St',44.646958,-63.573947
-6087,'6087','Barrington St / Duke St Bay 1',44.650525,-63.575628
+6087,'6087','Barrington St / Duke St B:1',44.650525,-63.575628
 6088,'6088','Barrington St / Artz St',44.656794,-63.585186
 6089,'6089','Barrington St / Upper Water St',44.654394,-63.581778
 6090,'6090','Barrington St / Devonshire Ave',44.663279,-63.592738
@@ -271,10 +271,10 @@
 6102,'6102','Barrington St / Blowers St',44.645822,-63.573401
 6103,'6103','Barrington St / Prince St',44.646741,-63.573896
 6104,'6104','Barrington St / Cornwallis St',44.654351,-63.582049
-6105,'6105','Barrington St / Cogswell St Bay 4',44.650935,-63.576036
+6105,'6105','Barrington St / Cogswell St B:4',44.650935,-63.576036
 6106,'6106','Barrington St / Duke St',44.648707,-63.574768
-6107,'6107','Barrington St / Duke St Bay 2',44.649617,-63.575343
-6108,'6108','Barrington St @ Scotia Sq Bay 3',44.650276,-63.575778
+6107,'6107','Barrington St / Duke St B:2',44.649617,-63.575343
+6108,'6108','Barrington St @ Scotia Sq B:3',44.650276,-63.575778
 6109,'6109','Barrington St / Hanover St',44.66672,-63.597116
 6110,'6110','Barrington St / Hanover St',44.666633,-63.596704
 6111,'6111','Barrington St / Inglis St',44.636396,-63.569411
@@ -453,9 +453,9 @@
 6292,'6292','Belle Vista Dr / Woodlawn Rd',44.677393,-63.527154
 6293,'6293','Belle Vista Dr @ Civic 35',44.680307,-63.515089
 6294,'6294','Belle Vista Dr / Spg Ave',44.678722,-63.517836
-6297,'6297','Cobequid Term Bay 1',44.754448,-63.663056
+6297,'6297','Cobequid Term B:1',44.754448,-63.663056
 6298,'6298','Larry Uteck Blvd / Kearney Lk Rd',44.699548,-63.698404
-6299,'6299','Cobequid Term Bay 2',44.754168,-63.66296
+6299,'6299','Cobequid Term B:2',44.754168,-63.66296
 6302,'6302','Boland Rd / Ranya Ln',44.672786,-63.580744
 6303,'6303','Boland Rd / Victoria Rd',44.675119,-63.577988
 6304,'6304','Boland Rd / Cairn St',44.67363,-63.579687
@@ -1327,7 +1327,7 @@
 7280,'7280','Mumford Rd / Ashburn Ave',44.649113,-63.627507
 7281,'7281','Mumford Rd / Ralston Ave',44.649643,-63.624388
 7283,'7283','Mumford Rd / St Agnes School',44.646848,-63.618414
-7285,'7285','Mumford Term Bay 1',44.648466,-63.62132
+7285,'7285','Mumford Term B:1',44.648466,-63.62132
 7286,'7286','Nappan Dr / Newcombe Dr',44.782572,-63.675367
 7287,'7287','Nappan Dr / Nictaux Dr',44.784807,-63.677058
 7288,'7288','Nappan Dr / Newcombe Dr',44.782272,-63.674998
@@ -1526,15 +1526,15 @@
 7498,'7498','Pleasant St / Shirley St',44.64575,-63.543343
 7499,'7499','Pleasant St / Hwy 111',44.647241,-63.544745
 7500,'7500','Main Rd @ Civic 1350',44.618467,-63.502244
-7601,'7601','Bridge Term Bay 1',44.671047,-63.575111
-7602,'7602','Bridge Term Bay 2',44.670943,-63.57492
-7603,'7603','Bridge Term Bay 3',44.670834,-63.574727
-7604,'7604','Bridge Term Bay 4',44.670662,-63.57443
-7605,'7605','Bridge Term Bay 5',44.670554,-63.574202
-7606,'7606','Bridge Term Bay 6',44.670413,-63.573955
-7607,'7607','Bridge Term Bay 7',44.670323,-63.573781
-7608,'7608','Bridge Term Bay 8',44.670242,-63.573631
-7609,'7609','Bridge Term Bay 9',44.67001,-63.573843
+7601,'7601','Bridge Term B:1',44.671047,-63.575111
+7602,'7602','Bridge Term B:2',44.670943,-63.57492
+7603,'7603','Bridge Term B:3',44.670834,-63.574727
+7604,'7604','Bridge Term B:4',44.670662,-63.57443
+7605,'7605','Bridge Term B:5',44.670554,-63.574202
+7606,'7606','Bridge Term B:6',44.670413,-63.573955
+7607,'7607','Bridge Term B:7',44.670323,-63.573781
+7608,'7608','Bridge Term B:8',44.670242,-63.573631
+7609,'7609','Bridge Term B:9',44.67001,-63.573843
 7610,'7610','Bridge Term Bay 10',44.670166,-63.57403
 7611,'7611','Bridge Term Bay 11',44.670282,-63.574279
 7612,'7612','Bridge Term Bay 12',44.670384,-63.574569
@@ -1542,7 +1542,7 @@
 7614,'7614','Bridge Term Bay 14',44.670682,-63.574982
 7615,'7615','Bridge Term Bay 15',44.67077,-63.57516
 7616,'7616','Bridge Term Bay 16',44.670872,-63.575321
-7618,'7618','Sheldrake Lk Pk & Ride',44.672797,-63.782669
+7618,'7618','Sheldrake Lk P&R',44.672797,-63.782669
 8001,'8001','Main Rd / Corsair Dr',44.632233,-63.521902
 8002,'8002','Main Rd / Labrador Ave',44.628241,-63.517203
 8003,'8003','Pleasant St / Cameron St',44.661542,-63.553134
@@ -1566,7 +1566,7 @@
 8026,'8026','Poplar Dr @ Civic 113',44.676587,-63.498114
 8027,'8027','Poplar Dr / Evergreen Dr',44.674513,-63.497274
 8028,'8028','Portland St / Joffre St',44.668536,-63.543808
-8030,'8030','Fall River Pk & Ride',44.802721,-63.597466
+8030,'8030','Fall River P&R',44.802721,-63.597466
 8031,'8031','Portland Ests Blvd West @ Civic 51',44.66497,-63.516236
 8034,'8034','Portland Ests Blvd West @ Civic 69',44.663204,-63.517542
 8035,'8035','Portland St / Canal St',44.667727,-63.563007
@@ -1667,8 +1667,8 @@
 8137,'8137','Quinpool Rd / Oxford St',44.644475,-63.600693
 8138,'8138','Quinpool Rd / Quingate Pl',44.646242,-63.594602
 8139,'8139','Quinpool Rd @ Civic 7137',44.641355,-63.616819
-8140,'8140','Highfield Term Bay 1',44.684455,-63.589038
-8141,'8141','Highfield Term Bay 2',44.684353,-63.589345
+8140,'8140','Highfield Term B:1',44.684455,-63.589038
+8141,'8141','Highfield Term B:2',44.684353,-63.589345
 8146,'8146','Quinpool Rd / Poplar St',44.643565,-63.603819
 8147,'8147','Quinpool Rd / Preston St',44.645305,-63.59757
 8148,'8148','Quinpool Rd @ Preston St',44.645382,-63.597708
@@ -1687,8 +1687,8 @@
 8168,'8168','Ridgevalley Rd / Bromley Rd',44.629881,-63.621131
 8169,'8169','Ridgevalley Rd / Highfield St',44.627978,-63.619029
 8170,'8170','Riverview Cr @ Civic 46',44.741652,-63.651038
-8171,'8171','Micmac Term Bay 1',44.685386,-63.560823
-8172,'8172','Micmac Term Bay 2',44.685684,-63.561247
+8171,'8171','Micmac Term B:1',44.685386,-63.560823
+8172,'8172','Micmac Term B:2',44.685684,-63.561247
 8173,'8173','Riverview Cr / Rockmanor Dr',44.743413,-63.650716
 8174,'8174','Riverview Cr / Rockmanor Dr',44.740246,-63.650413
 8176,'8176','Robert Burns Dr / Brule St',44.683093,-63.586467
@@ -1887,7 +1887,7 @@
 8390,'8390','Thistle St / Beech St',44.674559,-63.567946
 8391,'8391','Thistle St / Crichton Pk Rd',44.677669,-63.565073
 8393,'8393','Thistle St / Victoria Rd',44.670975,-63.571915
-8394,'8394','Porters Lk Pk & Ride',44.735084,-63.286586
+8394,'8394','Porters Lk P&R',44.735084,-63.286586
 8396,'8396','Titus St / Evans Ave',44.659993,-63.634733
 8398,'8398','Topple Dr @ Civic 21',44.714065,-63.605954
 8399,'8399','Topple Dr / Vidito Dr',44.712077,-63.608005
@@ -2104,8 +2104,8 @@
 8637,'8637','Penhorn Term Metrolink',44.670316,-63.538762
 8638,'8638','Macdonald Bridge Exit Ramp',44.658481,-63.589847
 8639,'8639','Cogswell St / Albemarle St',44.651203,-63.577711
-8640,'8640','Mumford Term Bay 2',44.648008,-63.620622
-8641,'8641','Mumford Term Bay 3',44.648318,-63.621251
+8640,'8640','Mumford Term B:2',44.648008,-63.620622
+8641,'8641','Mumford Term B:3',44.648318,-63.621251
 8643,'8643','Hwy 207 @ Shr Rd',44.719829,-63.266078
 8645,'8645','Hwy 207 @ Civic 7396',44.725416,-63.266403
 8646,'8646','Hwy 207 / Keller Ln',44.729835,-63.270398
@@ -2349,29 +2349,29 @@
 8937,'8937','Ross Rd / Greenvale Cr',44.684742,-63.453621
 8938,'8938','Cole Harbour Rd @ Old Lawrencetown Rd',44.682428,-63.454345
 8939,'8939','Cole Harbour Rd / Bisset Rd',44.672541,-63.476722
-8940,'8940','Penhorn Term Bay 1',44.670797,-63.538763
-8941,'8941','Penhorn Term Bay 2',44.670811,-63.538585
-8943,'8943','Penhorn Term Bay 3',44.670755,-63.538368
-8944,'8944','Penhorn Term Bay 4',44.67084,-63.538243
-8945,'8945','Penhorn Term Bay 5',44.670639,-63.538738
-8946,'8946','Penhorn Term Bay 6',44.670694,-63.538208
-8948,'8948','Penhorn Term Bay 8',44.670696,-63.538268
-8949,'8949','Portland Hls Term Bay 1',44.670002,-63.505507
-8951,'8951','Portland Hls Term Bay 3',44.669859,-63.505441
-8952,'8952','Portland Hls Term Bay 4',44.669726,-63.505385
-8953,'8953','Portland Hls Term Bay 5',44.669665,-63.505756
-8954,'8954','Portland Hls Term Bay 6',44.669795,-63.505814
-8955,'8955','Portland Hls Term Bay 7',44.669892,-63.50586
-8957,'8957','Portland Hls Term Bay 8',44.670007,-63.505898
-8958,'8958','Sackville Term Bay 1',44.768127,-63.698096
-8959,'8959','Sackville Term Bay 3',44.76798,-63.698699
-8960,'8960','Sackville Term Bay 4',44.767917,-63.698899
-8961,'8961','Sackville Term Bay 5',44.767844,-63.699201
-8962,'8962','Woodside Ferry Term Bay 1',44.649174,-63.548415
-8964,'8964','Woodside Ferry Term Bay 2',44.649101,-63.548343
-8965,'8965','Woodside Ferry Term Bay 3',44.649059,-63.548221
-8966,'8966','Woodside Ferry Term Bay 4',44.649052,-63.54811
-8967,'8967','Sackville Term Bay 2',44.768001,-63.698449
+8940,'8940','Penhorn Term B:1',44.670797,-63.538763
+8941,'8941','Penhorn Term B:2',44.670811,-63.538585
+8943,'8943','Penhorn Term B:3',44.670755,-63.538368
+8944,'8944','Penhorn Term B:4',44.67084,-63.538243
+8945,'8945','Penhorn Term B:5',44.670639,-63.538738
+8946,'8946','Penhorn Term B:6',44.670694,-63.538208
+8948,'8948','Penhorn Term B:8',44.670696,-63.538268
+8949,'8949','Portland Hls Term B:1',44.670002,-63.505507
+8951,'8951','Portland Hls Term B:3',44.669859,-63.505441
+8952,'8952','Portland Hls Term B:4',44.669726,-63.505385
+8953,'8953','Portland Hls Term B:5',44.669665,-63.505756
+8954,'8954','Portland Hls Term B:6',44.669795,-63.505814
+8955,'8955','Portland Hls Term B:7',44.669892,-63.50586
+8957,'8957','Portland Hls Term B:8',44.670007,-63.505898
+8958,'8958','Sackville Term B:1',44.768127,-63.698096
+8959,'8959','Sackville Term B:3',44.76798,-63.698699
+8960,'8960','Sackville Term B:4',44.767917,-63.698899
+8961,'8961','Sackville Term B:5',44.767844,-63.699201
+8962,'8962','Woodside Ferry Term B:1',44.649174,-63.548415
+8964,'8964','Woodside Ferry Term B:2',44.649101,-63.548343
+8965,'8965','Woodside Ferry Term B:3',44.649059,-63.548221
+8966,'8966','Woodside Ferry Term B:4',44.649052,-63.54811
+8967,'8967','Sackville Term B:2',44.768001,-63.698449
 9000,'9000','Downsview Dr / Touchstone Ct',44.772293,-63.695697
 9001,'9001','Downsview Dr / Touchstone Ct',44.772683,-63.695086
 9002,'9002','Glendale Ave / Civic 21',44.759059,-63.657799
@@ -2431,12 +2431,12 @@
 9090,'9090','Regency Pk Dr / Solutions Dr',44.656765,-63.668896
 9091,'9091','Regency Pk Dr / Lacewood Dr',44.6584,-63.669281
 9092,'9092','Starboard Dr / Peakview Way',44.699487,-63.685818
-9102,'9102','Lacewood Term Bay 2',44.661066,-63.662594
-9103,'9103','Lacewood Term Bay 3',44.660912,-63.662852
-9104,'9104','Lacewood Term Bay 4',44.66079,-63.663071
-9105,'9105','Lacewood Term Bay 5',44.660656,-63.663311
-9106,'9106','Lacewood Term Bay 6',44.660576,-63.663455
-9109,'9109','Lacewood Term Bay 9',44.660718,-63.663797
+9102,'9102','Lacewood Term B:2',44.661066,-63.662594
+9103,'9103','Lacewood Term B:3',44.660912,-63.662852
+9104,'9104','Lacewood Term B:4',44.66079,-63.663071
+9105,'9105','Lacewood Term B:5',44.660656,-63.663311
+9106,'9106','Lacewood Term B:6',44.660576,-63.663455
+9109,'9109','Lacewood Term B:9',44.660718,-63.663797
 9110,'9110','Lacewood Term Bay 10',44.660783,-63.663592
 9111,'9111','Lacewood Term Bay 11',44.661037,-63.663204
 9112,'9112','Lacewood Term Bay 12',44.661096,-63.662924
