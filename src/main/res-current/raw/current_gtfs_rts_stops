@@ -242,9 +242,9 @@
 6070,'6070','Auburn Dr / Forest Hls Pkwy',44.68715,-63.490524
 6071,'6071','Auburn Dr / Leander Dr',44.692228,-63.485206
 6072,'6072','Auburn Dr / Bradorian Dr',44.693627,-63.48751
-6073,'6073','Auburn Dr @ Auburn Dr High School',44.688255,-63.48365
+6073,'6073','Auburn Dr @ Auburn Dr HS',44.688255,-63.48365
 6074,'6074','Auburn Dr / Auburn Ct',44.693329,-63.488393
-6075,'6075','Auburn Dr @ Auburn Dr High School',44.687943,-63.483991
+6075,'6075','Auburn Dr @ Auburn Dr HS',44.687943,-63.483991
 6076,'6076','Auburn Dr @ Civic 200',44.691036,-63.48444
 6077,'6077','Auburn Dr / Civic 187',44.691445,-63.484757
 6078,'6078','Auburn Dr @ Civic 243',44.689984,-63.483848
@@ -1326,7 +1326,7 @@
 7279,'7279','Mumford Rd / Hemlock St',44.649085,-63.626741
 7280,'7280','Mumford Rd / Ashburn Ave',44.649113,-63.627507
 7281,'7281','Mumford Rd / Ralston Ave',44.649643,-63.624388
-7283,'7283','Mumford Rd / St Agnes School',44.646848,-63.618414
+7283,'7283','Mumford Rd / St Agnes S',44.646848,-63.618414
 7285,'7285','Mumford Term B:1',44.648466,-63.62132
 7286,'7286','Nappan Dr / Newcombe Dr',44.782572,-63.675367
 7287,'7287','Nappan Dr / Nictaux Dr',44.784807,-63.677058
@@ -2377,7 +2377,7 @@
 9002,'9002','Glendale Ave / Civic 21',44.759059,-63.657799
 9003,'9003','Aerotech Dr / Pratt & Whitney Dr',44.856359,-63.54374
 9004,'9004','Aerotech Dr / Pratt & Whitney Dr',44.856411,-63.543849
-9005,'9005','Millwood Dr @ Millwood High School',44.790126,-63.70942
+9005,'9005','Millwood Dr @ Millwood HS',44.790126,-63.70942
 9006,'9006','Lower Water St / Salter St',44.644899,-63.570258
 9007,'9007','Pleasant St / Prince Arthur Ave',44.660202,-63.552112
 9008,'9008','Hwy 207 / Back Rd',44.673683,-63.256858
