@@ -109,7 +109,7 @@
 2110,'2110','Gloria McCluskey Ave / Akerley Blvd',44.718156,-63.583254
 2111,'2111','Millwood Dr / Jackladder Dr',44.792474,-63.707707
 2112,'2112','Jackladder Dr / Slicers Ln',44.794879,-63.70908
-2113,'2113','Jackladder Dr / Gallery Cr',44.797968,-63.708994
+2113,'2113','Jackladder Dr / Rossing Dr',44.797968,-63.708994
 2114,'2114','Rossing Dr @ Civic 270',44.798455,-63.705873
 2115,'2115','Rossing Dr / Larrigan Dr',44.796376,-63.702736
 2116,'2116','Rossing Dr @ Civic 72',44.793979,-63.700468
@@ -595,7 +595,7 @@
 6452,'6452','Coburg Rd / Robie St',44.64009,-63.587361
 6453,'6453','Coburg Rd / Oxford St',44.638006,-63.595912
 6454,'6454','Coburg Rd / Henry St',44.639512,-63.589156
-6455,'6455','Cogswell St / Gottingen St',44.650944,-63.579761
+6455,'6455','Cogswell St / Gottingen St',44.650684,-63.58068
 6460,'6460','Breeze Dr / Appian Way',44.702225,-63.539453
 6463,'6463','Colby Dr / Becks Way',44.660948,-63.47807
 6464,'6464','Colby Dr @ Civic 239',44.66523,-63.478022
@@ -1165,7 +1165,7 @@
 7081,'7081','Lacewood Dr / Parkland Dr',44.658905,-63.668662
 7082,'7082','Lacewood Dr / Willett St',44.662043,-63.658663
 7083,'7083','Lacewood Dr / Glenforest Dr',44.661244,-63.638327
-7084,'7084','Lacewood Dr @ Braeside Ln',44.661478,-63.640552
+7084,'7084','Lacewood Dr / Braeside Ln',44.661478,-63.640552
 7085,'7085','Lacewood Dr / Briarwood Cr',44.664291,-63.648416
 7086,'7086','Willett St / Lacewood Dr',44.661663,-63.657338
 7088,'7088','Lady Hammond Rd / Basinview Dr',44.665144,-63.615271
@@ -2307,7 +2307,7 @@
 8892,'8892','Mt Hope Ave / Neptune Cr',44.6572,-63.540609
 8893,'8893','Mt Hope Ave / Neptune Cr',44.656677,-63.54113
 8894,'8894','Shubie Dr / Kiltearn Row',44.706968,-63.565013
-8895,'8895','Back Rd / Hwy 207',44.672535,-63.258868
+8895,'8895','Back Rd / Hwy 207',44.672642,-63.258941
 8896,'8896','Back Rd / Gaetz Lk Dr',44.668965,-63.260857
 8897,'8897','Back Rd / Hwy 207',44.665979,-63.257867
 8898,'8898','Hwy 207 @ Civic 6060',44.669512,-63.255915
