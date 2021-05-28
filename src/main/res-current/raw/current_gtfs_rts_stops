@@ -175,6 +175,9 @@
 2196,'2196','Southgate Dr / Windridge Ln',44.703547,-63.679055
 2197,'2197','Hammonds Plains Rd / Bedford Hwy',44.715257,-63.67889
 2202,'2202','Bedford Hwy @ Civic 656',44.701256,-63.66125
+2227,'2227','Forest Hls Pky / 2nd Flying Cloud Dr',44.679312,-63.491751
+2228,'2228','Forest Hls Pky / Merrimac Dr',44.676187,-63.491681
+2229,'2229','Forest Hls Pky / 1st Chameau Cr',44.678377,-63.491734
 6000,'6000','Akerley Blvd / Burnside Dr',44.715166,-63.588997
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.711193,-63.601377
@@ -286,7 +289,7 @@
 6120,'6120','Barrington St / Richmond St',44.667963,-63.598776
 6121,'6121','Barrington St / Sackville St',44.645626,-63.573218
 6122,'6122','Barrington St / Spg Gdn Rd',44.644733,-63.572851
-6123,'6123','Barrington St / Spg Gdn Rd',44.644039,-63.572433
+6123,'6123','Barrington St / Spg Gdn Rd',44.643277,-63.571999
 6124,'6124','Barrington St / Spg Gdn Rd',44.643996,-63.572464
 6125,'6125','Barrington St / Cornwallis St',44.653472,-63.580814
 6127,'6127','Barrington St / Devonshire Ave',44.663858,-63.593243
@@ -353,7 +356,7 @@
 6189,'6189','St Margarets Bay Rd / Sheppards Run',44.634854,-63.675001
 6191,'6191','Bayers Rd / Windsor St',44.656483,-63.607983
 6192,'6192','Bayers Rd / Windsor St',44.656272,-63.608483
-6193,'6193','Bayers Rd / Coleman Ct',44.651692,-63.617848
+6193,'6193','Bayers Rd / Coleman Ct',44.652022,-63.619342
 6194,'6194','Bayers Rd @ Bayers Rd Ctr',44.653769,-63.62661
 6195,'6195','Bayers Rd / Oxford St',44.655026,-63.610019
 6196,'6196','Bayers Rd / Oxford St',44.655018,-63.610154
@@ -782,12 +785,10 @@
 6659,'6659','Radcliffe Dr / Stratford Way',44.662362,-63.665013
 6660,'6660','Lacewood Dr / Willett St',44.662395,-63.656837
 6664,'6664','Forest Hls Pky / Cole Harbour Rd',44.67332,-63.490588
-6665,'6665','Forest Hls Pky / Merrimac Dr',44.67758,-63.491781
-6666,'6666','Forest Hls Pky / Chameau Cr',44.681076,-63.491308
+6666,'6666','Forest Hls Pky / 2nd Chameau Cr',44.681076,-63.491308
 6667,'6667','Forest Hls Pky / Cole Harbour Rd',44.6733,-63.490789
 6668,'6668','Forest Hls Pky / Taranaki Dr',44.688158,-63.492228
 6669,'6669','Forest Hls Pky @ Cole Harbour Pl',44.683595,-63.490901
-6670,'6670','Forest Hls Pky / Circassion Dr',44.677246,-63.491943
 6671,'6671','Forest Hls Pky / Cole Harbour Pl',44.682771,-63.49112
 6679,'6679','1st Lk Dr / Cabot Cr',44.773084,-63.659017
 6680,'6680','1st Lk Dr / Crimson Dr',44.771214,-63.657688
