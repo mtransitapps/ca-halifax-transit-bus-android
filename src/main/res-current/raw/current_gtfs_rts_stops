@@ -178,6 +178,8 @@
 2227,'2227','Forest Hls Pky / 2nd Flying Cloud Dr',44.679312,-63.491751
 2228,'2228','Forest Hls Pky / Merrimac Dr',44.676187,-63.491681
 2229,'2229','Forest Hls Pky / 1st Chameau Cr',44.678377,-63.491734
+2254,'2254','Flamingo Dr / Oriole St',44.67336,-63.651974
+2270,'2270','Portland Hls Dr / Summer Field Way',44.66628,-63.508084
 6000,'6000','Akerley Blvd / Burnside Dr',44.715166,-63.588997
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.711193,-63.601377
@@ -287,7 +289,7 @@
 6115,'6115','Barrington St / North St',44.659348,-63.588683
 6119,'6119','Barrington St / Richmond St',44.668023,-63.598417
 6120,'6120','Barrington St / Richmond St',44.667963,-63.598776
-6121,'6121','Barrington St / Sackville St',44.645626,-63.573218
+6121,'6121','Barrington St / Sackville St',44.645599,-63.573307
 6122,'6122','Barrington St / Spg Gdn Rd',44.644733,-63.572851
 6123,'6123','Barrington St / Spg Gdn Rd',44.643277,-63.571999
 6124,'6124','Barrington St / Spg Gdn Rd',44.643996,-63.572464
@@ -814,7 +816,7 @@
 6700,'6700','Flamingo Dr / Bedford Hwy',44.675075,-63.648439
 6701,'6701','Flamingo Dr / Dove St',44.670931,-63.652562
 6702,'6702','Flamingo Dr / Meadowlark Cr',44.66941,-63.656064
-6703,'6703','Flamingo Dr / Starling St',44.674805,-63.649791
+6703,'6703','Flamingo Dr / Starling St',44.674453,-63.649884
 6704,'6704','Flamingo Dr / Skylark St',44.674118,-63.649779
 6705,'6705','Flamingo Dr / Canary Cr',44.671197,-63.652383
 6706,'6706','Flamingo Dr / Meadowlark Cr',44.669454,-63.655897
@@ -1862,7 +1864,7 @@
 8359,'8359','Stokil Dr / Spinner Cr',44.78399,-63.682017
 8360,'8360','Stokil Dr / Saratoga Dr',44.783977,-63.681428
 8361,'8361','Stonehaven Rd / Glenmore Ave',44.635173,-63.629919
-8363,'8363','Summer St / Bell Rd',44.645812,-63.585765
+8363,'8363','Summer St / Bell Rd',44.645065,-63.585439
 8364,'8364','Summer St / Bell Rd',44.646125,-63.585793
 8365,'8365','Summer St / Veterans Memorial Ln',44.644664,-63.585038
 8366,'8366','Susie Lk Cr / Chain Lk Dr',44.645864,-63.674374
@@ -1907,7 +1909,6 @@
 8412,'8412','Upper Water St / Purdys Ln',44.651486,-63.57524
 8413,'8413','Upper Water St / Valour Way',44.653519,-63.579449
 8414,'8414','Upper Water St / Valour Way',44.654298,-63.579958
-8415,'8415','Flamingo Dr / Oriole St',44.672842,-63.652358
 8416,'8416','Valleyfield Rd / Oakwood Ave',44.679362,-63.53459
 8418,'8418','Victoria Rd / Albro Lk Rd',44.679889,-63.584694
 8419,'8419','Victoria Rd / Boland Rd',44.675243,-63.577294
@@ -2245,7 +2246,6 @@
 8826,'8826','Hollis St / Term Rd',44.640818,-63.569441
 8827,'8827','Brooks Dr @ Lk Eagle Dr',44.724714,-63.430387
 8828,'8828','Portland Hls Dr / Leland Grv',44.668504,-63.507933
-8829,'8829','Portland Hls Dr / Summer Field Way',44.666703,-63.508139
 8830,'8830','Portland Hls Dr / Surrey Way',44.665435,-63.506119
 8831,'8831','Portland Hls Dr / Bellbrook Cr',44.663962,-63.503984
 8832,'8832','Portland Hls Dr / Waterside Terr',44.66331,-63.506755
