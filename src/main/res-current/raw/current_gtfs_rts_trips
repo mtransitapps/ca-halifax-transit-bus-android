@@ -128,11 +128,11 @@
 41501,0,'Purcells Cv',415
 43300,0,'Lacewood Term',433
 43301,0,'Tantallon',433
-100000900,0,'Downtown',1000009
-100000901,0,'Greystone- Fotherby',1000009
-100003000,0,'Lacewood Term',1000030
-100003001,0,'Parkland',1000030
-200000900,0,'Downtown',2000009
-200000901,0,'Herring Cv',2000009
-200003001,0,'Dunbrack',2000030
-200003000,0,'Lacewood Term',2000030
+1000900,0,'Downtown',10009
+1000901,0,'Greystone- Fotherby',10009
+1003000,0,'Lacewood Term',10030
+1003001,0,'Parkland',10030
+2000900,0,'Downtown',20009
+2000901,0,'Herring Cv',20009
+2003001,0,'Dunbrack',20030
+2003000,0,'Lacewood Term',20030
