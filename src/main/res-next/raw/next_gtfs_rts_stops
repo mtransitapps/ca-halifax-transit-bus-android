@@ -340,7 +340,7 @@
 6105,'6105','Barrington St / Cogswell St B:4',44.650935,-63.576036
 6106,'6106','Barrington St / Duke St',44.648302,-63.575146
 6107,'6107','Barrington St / Duke St B:2',44.649617,-63.575343
-6108,'6108','Barrington St @ Scotia Sq B:3',44.650368,-63.575622
+6108,'6108','Barrington St @ Scotia Sq B:3',44.650366,-63.575616
 6109,'6109','Barrington St / Hanover St',44.66672,-63.597116
 6110,'6110','Barrington St / Hanover St',44.666633,-63.596704
 6111,'6111','Barrington St / Inglis St',44.636396,-63.569411
@@ -419,7 +419,7 @@
 6189,'6189','St Margarets Bay Rd / Sheppards Run',44.634854,-63.675001
 6191,'6191','Bayers Rd / Windsor St',44.656483,-63.607983
 6192,'6192','Bayers Rd / Windsor St',44.656272,-63.608483
-6193,'6193','Bayers Rd / Coleman Ct',44.652022,-63.619342
+6193,'6193','Bayers Rd / Coleman Ct',44.651692,-63.617848
 6194,'6194','Bayers Rd @ Bayers Rd Ctr',44.653769,-63.62661
 6195,'6195','Bayers Rd / Oxford St',44.655026,-63.610019
 6196,'6196','Bayers Rd / Oxford St',44.655018,-63.610154
@@ -651,7 +651,7 @@
 6452,'6452','Coburg Rd / Robie St',44.64009,-63.587361
 6453,'6453','Coburg Rd / Oxford St',44.638006,-63.595912
 6454,'6454','Coburg Rd / Henry St',44.639512,-63.589156
-6455,'6455','Cogswell St / Gottingen St',44.650719,-63.580536
+6455,'6455','Cogswell St / Gottingen St',44.650819,-63.580475
 6463,'6463','Colby Dr / Becks Way',44.660948,-63.47807
 6464,'6464','Colby Dr @ Civic 239',44.66523,-63.478022
 6465,'6465','Colby Dr / Bellroyal Ct',44.663598,-63.477689
@@ -670,7 +670,7 @@
 6478,'6478','Cole Harbour Rd / Otago Dr',44.67136,-63.499489
 6479,'6479','Cole Harbour Rd / Hugh Allen Dr',44.67149,-63.495297
 6480,'6480','Cole Harbour Rd / Hugh Allen Dr',44.671659,-63.49196
-6481,'6481','Cole Harbour Rd / Dorothea Dr',44.67119,-63.501583
+6481,'6481','Cole Harbour Rd / Dorothea Dr',44.671184,-63.501568
 6482,'6482','Cole Harbour Rd / Cumberland Dr',44.671504,-63.492626
 6483,'6483','Colford Ave / Akerley Blvd',44.716841,-63.586919
 6484,'6484','Colonna Pl / Montebello Dr',44.699604,-63.539863
@@ -1594,17 +1594,17 @@
 8030,'8030','Fall River P&R',44.802721,-63.597466
 8031,'8031','Portland Ests Blvd West @ Civic 51',44.66497,-63.516236
 8034,'8034','Portland Ests Blvd West @ Civic 69',44.663204,-63.517542
-8035,'8035','Portland St / Canal St',44.667793,-63.562988
+8035,'8035','Portland St / Canal St',44.667775,-63.562987
 8036,'8036','Portland St / Chestnut Ln',44.669386,-63.542678
 8037,'8037','Portland St / Eisener Blvd',44.671857,-63.524824
 8038,'8038','Portland St / Gaston Rd',44.667591,-63.544273
 8039,'8039','Portland St / Pleasant St',44.668841,-63.559173
-8040,'8040','Portland St / Jersey Dr',44.672031,-63.521774
+8040,'8040','Portland St / Jersey Dr',44.672038,-63.52175
 8041,'8041','Portland St / Jersey Dr',44.672127,-63.523839
 8042,'8042','Portland St / Lakefront Rd',44.667422,-63.548746
 8043,'8043','Portland St / Maynard St',44.668043,-63.553658
 8044,'8044','Portland St / Prince Arthur Ave',44.667165,-63.546335
-8045,'8045','Portland St / Settle St',44.671068,-63.529306
+8045,'8045','Portland St / Settle St',44.671064,-63.529302
 8046,'8046','Portland St / Portland Ests Blvd',44.671524,-63.517435
 8047,'8047','Portland St / Spg Ave',44.671977,-63.519016
 8048,'8048','Upper Partridge River Rd / Brooks Dr',44.727431,-63.419071
@@ -1614,11 +1614,11 @@
 8052,'8052','Portland St / Old Ferry Rd',44.668211,-63.554148
 8053,'8053','Portland St / Rodney Rd',44.667723,-63.550637
 8054,'8054','Lamont Ter / Lemlair Row',44.698148,-63.567061
-8055,'8055','Portland St / Settle St',44.671103,-63.528425
+8055,'8055','Portland St / Settle St',44.6711,-63.528414
 8056,'8056','Bluewater Rd / Larry Uteck Blvd',44.716349,-63.716101
 8057,'8057','Portland St / Canal St',44.66784,-63.562585
 8058,'8058','Portland St / James St',44.669089,-63.55762
-8059,'8059','Portland St / Lakefront Rd',44.667423,-63.548781
+8059,'8059','Portland St / Lakefront Rd',44.667413,-63.548785
 8060,'8060','Portland St / St Georges Ln',44.669193,-63.557561
 8062,'8062','Portland St / Rodney Rd',44.667746,-63.550569
 8064,'8064','Portland Ests Blvd West / Civic 64',44.663967,-63.51781
@@ -2311,7 +2311,7 @@
 8937,'8937','Ross Rd / Greenvale Cr',44.684742,-63.453621
 8938,'8938','Cole Harbour Rd @ Old Lawrencetown Rd',44.682428,-63.454345
 8939,'8939','Cole Harbour Rd / Bisset Rd',44.672541,-63.476722
-8940,'8940','Penhorn Term B:1',44.670774,-63.538848
+8940,'8940','Penhorn Term B:1',44.670762,-63.538848
 8941,'8941','Penhorn Term B:2',44.670745,-63.538625
 8943,'8943','Penhorn Term B:3',44.670755,-63.538368
 8944,'8944','Penhorn Term B:4',44.670819,-63.538108
@@ -2319,8 +2319,8 @@
 8947,'8947','Penhorn Term B:7',44.670661,-63.538651
 8948,'8948','Penhorn Term B:8',44.670624,-63.538883
 8949,'8949','Portland Hls Term B:1',44.670201,-63.505755
-8950,'8950','Portland Hls Term B:2',44.670063,-63.505681
-8951,'8951','Portland Hls Term B:3',44.669844,-63.505529
+8950,'8950','Portland Hls Term B:2',44.670047,-63.505653
+8951,'8951','Portland Hls Term B:3',44.66983,-63.505606
 8952,'8952','Portland Hls Term B:4',44.669692,-63.505502
 8953,'8953','Portland Hls Term B:5',44.669665,-63.505756
 8954,'8954','Portland Hls Term B:6',44.669794,-63.505799
