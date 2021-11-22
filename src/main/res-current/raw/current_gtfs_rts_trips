@@ -6,72 +6,64 @@
 301,0,'Lacewood Term',3
 401,0,'Lacewood Term',4
 400,0,'St Marys & Dalhousie',4
-501,0,'Springvale',5
-500,0,'Water St Term',5
-701,0,'Gottingen',7
-700,0,'Robie',7
+501,0,'Portland Hls Term',5
+500,0,'Scotia Sq',5
 800,0,'Downtown Halifax',8
 801,0,'Sackville Term',8
 1000,0,'Dalhousie',10
 1001,0,'Westphal',10
 1101,0,'Bridge Term',11
 1100,0,'Dockyard',11
-1401,0,'Leiblin Pk',14
-1400,0,'Scotia Sq',14
 2100,0,'Lacewood Term',21
 2101,0,'Timberlea',21
 2200,0,'Mumford Term',22
 2201,0,'Ragged Lk',22
+2401,0,'Leiblin Pk',24
+2400,0,'St Marys',24
 2501,0,'Governors Brk',25
 2500,0,'Mumford Term',25
+2600,0,'Mumford Term',26
+2601,0,'Springvale',26
 2801,0,'Lacewood Term',28
 2800,0,'Mumford Term',28
 2901,0,'Bayers Rd Ctr',29
 2900,0,'Pt Pleasant Pk',29
-3201,0,'Cowie Hl',32
-3200,0,'Scotia Sq',32
 3900,0,'Bridge Term',39
 3901,0,'Lacewood Term',39
 4101,0,'Bridge Term',41
 4100,0,'Dalhousie',41
 5100,0,'Bridge Term',51
 5101,0,'Burnside',51
+5300,0,'Alderney',53
 5301,0,'Highfield Term',53
-5300,0,'Summer St',53
-5400,0,'Alderney Gt',54
+5400,0,'Bridge Term',54
 5401,0,'Montebello',54
 5500,0,'Bridge Term',55
 5501,0,'Port Wallace',55
 5600,0,'Bridge Term',56
 5601,0,'Dartmouth Xing',56
+5700,0,'Penhorn Term',57
 5701,0,'Portland Hls Term',57
-5700,0,'Woodside',57
-5800,0,'Bridge Term',58
-5801,0,'Woodlawn',58
-5901,0,'Colby',59
-5900,0,'Summer St',59
-6000,0,'Bridge Term',60
-6001,0,'Eastern Passage',60
-6101,0,'Auburn - N Preston',61
-6100,0,'Scotia Sq',61
+5800,0,'Penhorn Term',58
+5801,0,'Portland Hls Term',58
+5901,0,'Colby Vlg',59
+5900,0,'Portland Hls Term',59
+6101,0,'North Preston',61
+6100,0,'Portland Hls',61
 6200,0,'Bridge Term',62
-6201,0,'Wildwood',62
-6300,0,'Bridge Term',63
-6301,0,'Woodside',63
+6201,0,'Gaston',62
+6300,0,'Penhorn Term',63
+6301,0,'Portland Hls',63
 6400,0,'Highfield Term',64
 6401,0,'Wrights Cv',64
-6501,0,'Astral',65
+6501,0,'Astral Dr',65
 6500,0,'Portland Hls Term',65
-6601,0,'Gaston',66
-6600,0,'Highfield Term',66
+6700,0,'Micmac',67
+6701,0,'Woodside',67
 6801,0,'Cherry Brk',68
-6800,0,'Summer St',68
+6800,0,'Portland Hls Term',68
 7200,0,'Dartmouth Xing',72
 7201,0,'Portland Hls',72
-7801,0,'Mt Edward',78
-7800,0,'Woodside Ferry',78
-7901,0,'Cole Harbour',79
-7900,0,'Woodside Ferry',79
 8200,0,'Cobequid Term',82
 8201,0,'Sackville Term',82
 8300,0,'Sackville Term',83
@@ -94,6 +86,8 @@
 9300,0,'Downtown Halifax',93
 12300,0,'Scotia Sq',123
 12301,0,'Timberlea',123
+12701,0,'Cowie Hl',127
+12700,0,'Scotia Sq',127
 13501,0,'Flamingo',135
 13500,0,'University Ave',135
 13601,0,'Farnham Gt Exp',136
@@ -102,8 +96,18 @@
 13700,0,'University Ave',137
 13801,0,'Parkland',138
 13800,0,'University Ave',138
-15900,0,'Downtown Halifax',159
-15901,0,'Portland Hls',159
+15800,0,'University Ave',158
+15801,0,'Woodlawn',158
+15901,0,'Colby',159
+15900,0,'University Ave',159
+16101,0,'North Preston',161
+16100,0,'University Ave',161
+16501,0,'Caldwell',165
+16500,0,'University Ave',165
+17801,0,'Mt Edward',178
+17800,0,'Woodside Ferry',178
+17901,0,'Cole Harbour',179
+17900,0,'Woodside Ferry',179
 18201,0,'First Lk',182
 18200,0,'Summer St',182
 18301,0,'Springfield',183
@@ -122,17 +126,31 @@
 33001,0,'Sheldrake Lk & Tantallon',330
 37000,0,'Downtown Hfx',370
 37001,0,'Porters Lk',370
-40101,0,'Porters Lk & Seaforth',401
+40101,0,'Porters Lk',401
 40100,0,'Portland Hls Term',401
 41500,0,'Mumford Term',415
 41501,0,'Purcells Cv',415
 43300,0,'Lacewood Term',433
 43301,0,'Tantallon',433
+1000600,0,'Bridge Term',10006
+1000601,0,'Woodside',10006
+1000701,0,'Robie',10007
+1000700,0,'Scotia Sq',10007
 1000900,0,'Downtown',10009
 1000901,0,'Greystone- Fotherby',10009
 1003000,0,'Lacewood Term',10030
 1003001,0,'Parkland',10030
+1016801,0,'Auburn',10168
+1016800,0,'University Ave',10168
+2000600,0,'Bridge Term',20006
+2000601,0,'Eastern Passage',20006
+2000701,0,'Gottingen',20007
+2000700,0,'Scotia Sq',20007
 2000900,0,'Downtown',20009
 2000901,0,'Herring Cv',20009
 2003001,0,'Dunbrack',20030
 2003000,0,'Lacewood Term',20030
+2016801,0,'Cherry Brk',20168
+2016800,0,'University Ave',20168
+3000600,0,'Bridge Term',30006
+3000601,0,'Heritage Hls',30006
