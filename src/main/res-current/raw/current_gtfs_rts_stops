@@ -302,7 +302,7 @@
 6058,'6058','Astral Dr / Shrewsbury Rd',44.651751,-63.47674
 6059,'6059','Astral Dr / Spence Dr',44.657757,-63.485803
 6060,'6060','Astral Dr / Spence Dr',44.65803,-63.485417
-6063,'6063','Alderney Gt Ferry Term B:2',44.664495,-63.56856
+6063,'6063','Alderney Gt Ferry Term B:2',44.664451,-63.568622
 6064,'6064','Alderney Gt Ferry Term B:3',44.664961,-63.569255
 6066,'6066','Atlantic St / Pleasant St',44.649367,-63.546575
 6067,'6067','Bluewater Rd / Larry Uteck Blvd',44.715867,-63.715976
@@ -543,7 +543,7 @@
 6328,'6328','Brownlow Ave @ Civic 236',44.695598,-63.578916
 6329,'6329','Gary Martin Dr / Larkview Terr',44.717929,-63.706236
 6330,'6330','Gary Martin Dr / Lasalle Ct',44.722913,-63.705505
-6331,'6331','Cain St / Churchill Terr',44.74348,-63.465647
+6331,'6331','Cain St / Churchill Terr',44.743462,-63.465581
 6332,'6332','Caldwell Rd / Cherrywood Dr',44.662593,-63.494575
 6333,'6333','Caldwell Rd / Cow Bay Rd',44.611242,-63.473122
 6334,'6334','Caldwell Rd / Himmelman Dr',44.602641,-63.466563
@@ -1134,10 +1134,10 @@
 6997,'6997','John Stewart Dr @ Civic 153',44.67912,-63.481243
 6998,'6998','John Stewart Dr / Auburn Dr',44.686054,-63.485892
 6999,'6999','John Stewart Dr / Civic 153',44.679095,-63.481401
-7000,'7000','Johnson Rd / North Preston Rd',44.739275,-63.465032
-7001,'7001','Johnson Rd / Clarence St',44.742485,-63.468214
-7002,'7002','Johnson Rd @ Civic 80',44.741438,-63.467331
-7003,'7003','Johnson Rd @ Civic 60',44.740497,-63.466428
+7000,'7000','Johnson Rd / North Preston Rd',44.739295,-63.465022
+7001,'7001','Johnson Rd / Clarence St',44.742501,-63.468189
+7002,'7002','Johnson Rd @ Civic 80',44.74146,-63.467335
+7003,'7003','Johnson Rd @ Civic 60',44.740513,-63.466414
 7004,'7004','Joseph Howe Dr / Craigmore Dr',44.643645,-63.623839
 7005,'7005','Joseph Howe Dr / Ascot Ave',44.645486,-63.627343
 7006,'7006','Joseph Howe Dr / Clinton Ave',44.642585,-63.621267
@@ -1217,7 +1217,7 @@
 7104,'7104','Lk Major Rd @ Civic 148',44.709847,-63.467834
 7105,'7105','Lk Major Rd / Old German Rd',44.714602,-63.467254
 7106,'7106','Lk Major Rd / Main St',44.704164,-63.46685
-7107,'7107','North Preston Rd / Beals Cr',44.744877,-63.464367
+7107,'7107','North Preston Rd / Beals Cr',44.744897,-63.464342
 7108,'7108','Lk Major Rd @ Civic 137',44.709845,-63.467768
 7109,'7109','Lk Major Rd / Old German Rd',44.711552,-63.467559
 7110,'7110','Lk Major Rd / Old German Rd',44.714369,-63.467207
@@ -1228,7 +1228,7 @@
 7115,'7115','Lk Major Rd / Reddy Dr',44.716672,-63.467263
 7116,'7116','North Preston Rd / Smith Ln',44.741264,-63.464731
 7117,'7117','North Preston Rd / Johnson Rd',44.738156,-63.463951
-7118,'7118','North Preston Rd / Ernie Ln',44.73832,-63.464186
+7118,'7118','North Preston Rd / Ernie Ln',44.738314,-63.464178
 7119,'7119','Lakelands Blvd / St Margarets Bay Rd',44.636448,-63.66909
 7120,'7120','Lakelands Blvd / St Margarets Bay Rd',44.636303,-63.669379
 7121,'7121','Lancaster Dr / Dragonfly Ln',44.565961,-63.561919
@@ -1799,8 +1799,8 @@
 8276,'8276','Shr Rd / Normans Ln',44.607185,-63.489864
 8277,'8277','Shr Rd / Normans Ln',44.606185,-63.48811
 8280,'8280','Simmonds Rd / North Preston Rd',44.746218,-63.465123
-8281,'8281','Simmonds Rd / North Preston Rd',44.74622,-63.465001
-8282,'8282','Simmonds Rd @ Community Ctr',44.745716,-63.467111
+8281,'8281','Simmonds Rd / North Preston Rd',44.746181,-63.464972
+8282,'8282','Simmonds Rd @ Community Ctr',44.745724,-63.46709
 8284,'8284','Sinclair St / Highwood St',44.674466,-63.558841
 8285,'8285','Sinclair St / Prince Albert Rd',44.677976,-63.555343
 8286,'8286','Sinclair St / Highwood St',44.674511,-63.558855
@@ -1980,8 +1980,8 @@
 8502,'8502','Willett St / Frederick Ave',44.650841,-63.644017
 8503,'8503','Willett St / Westridge Dr',44.658114,-63.654456
 8505,'8505','Damascus Rd @ Turning Loop',44.749063,-63.647399
-8506,'8506','Clarence St / Cain St',44.743781,-63.46672
-8507,'8507','Clarence St / Johnson Rd',44.743138,-63.468372
+8506,'8506','Clarence St / Cain St',44.743832,-63.466711
+8507,'8507','Clarence St / Johnson Rd',44.743214,-63.46836
 8508,'8508','Windmill Rd / Akerley Blvd',44.703711,-63.612394
 8509,'8509','Windmill Rd / Albro Lk Rd',44.676097,-63.590635
 8510,'8510','Windmill Rd / Dawson St',44.66889,-63.582913
