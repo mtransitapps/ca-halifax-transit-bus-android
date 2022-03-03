@@ -245,6 +245,7 @@
 2268,'2268','Collins Grv @ Civic 83',44.672207,-63.514515
 2269,'2269','Collins Grv / Collins Grv Rg',44.671034,-63.511704
 2270,'2270','Portland Hls Dr / Summer Field Way',44.66628,-63.508084
+2271,'2271','Hwy 7 / Hummingbird Dr',44.723934,-63.396804
 6000,'6000','Akerley Blvd / Burnside Dr',44.715166,-63.588997
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.711193,-63.601377
@@ -338,7 +339,7 @@
 6103,'6103','Barrington St / Prince St',44.646741,-63.573896
 6104,'6104','Barrington St / Cornwallis St',44.654351,-63.582049
 6105,'6105','Barrington St / Cogswell St B:4',44.650935,-63.576036
-6106,'6106','Barrington St / Duke St',44.648302,-63.575146
+6106,'6106','Barrington St / Duke St',44.648707,-63.574768
 6107,'6107','Barrington St / Duke St B:2',44.649617,-63.575343
 6108,'6108','Barrington St @ Scotia Sq B:3',44.650366,-63.575616
 6109,'6109','Barrington St / Hanover St',44.66672,-63.597116
@@ -2202,7 +2203,7 @@
 8806,'8806','Walter Havill Dr / Civic 201',44.63543,-63.63685
 8807,'8807','Ragged Lk Blvd / Prospect Rd',44.627592,-63.66557
 8809,'8809','Walter Havill Dr / Dunbrack St',44.635366,-63.637141
-8810,'8810','Walter Havill Dr @ Civic 50',44.63507,-63.635023
+8810,'8810','Walter Havill Dr @ Civic 150',44.63507,-63.635023
 8811,'8811','Walter Havill Dr / Civic 76',44.633601,-63.632825
 8812,'8812','Walter Havill Dr / Ridgestone Ct',44.632036,-63.631944
 8813,'8813','Walter Havill Dr / Osborne St',44.631959,-63.629724
