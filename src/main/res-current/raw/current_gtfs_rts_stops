@@ -16,7 +16,6 @@
 2015,'2015','Windsor St / Young St',44.657157,-63.60774
 2016,'2016','Windsor St / Bayers Rd',44.657226,-63.607932
 2017,'2017','Wright Ave / MacDonald Ave',44.70207,-63.600356
-2018,'2018','Roslyn Rd / Connolly St',44.654236,-63.613022
 2019,'2019','Hammonds Plains Rd / Lewis Dr',44.726625,-63.712455
 2020,'2020','Hammonds Plains Rd / Lewis Dr',44.726618,-63.713142
 2021,'2021','Barrington St / North St',44.65819,-63.586855
@@ -246,6 +245,12 @@
 2269,'2269','Collins Grv / Collins Grv Rg',44.671034,-63.511704
 2270,'2270','Portland Hls Dr / Summer Field Way',44.66628,-63.508084
 2271,'2271','Hwy 7 / Hummingbird Dr',44.723934,-63.396804
+2272,'2272','Spg Ave / Grandview Dr',44.675121,-63.516402
+2273,'2273','Barrington St / Hanover St',44.665901,-63.596141
+2274,'2274','Barrington St / Young St',44.665745,-63.595695
+2275,'2275','Sackville Dr @ Civic 622',44.768719,-63.687087
+2276,'2276','Hammonds Plains Rd @ Civic 1948',44.733826,-63.77777
+2277,'2277','Hammonds Plains Rd / Duck Rd',44.733952,-63.77798
 6000,'6000','Akerley Blvd / Burnside Dr',44.715166,-63.588997
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.711193,-63.601377
@@ -328,8 +333,6 @@
 6090,'6090','Barrington St / Devonshire Ave',44.663279,-63.592738
 6092,'6092','Barrington St / Grn St',44.637344,-63.569575
 6093,'6093','Barrington St / Grn St',44.637382,-63.569725
-6094,'6094','Barrington St / Young St',44.665191,-63.594958
-6095,'6095','Barrington St / Young St',44.665082,-63.595013
 6096,'6096','Barrington St / South St',44.640248,-63.570569
 6097,'6097','Barrington St / South St',44.640182,-63.570554
 6098,'6098','Barrington St / Vestry St',44.672289,-63.605105
@@ -342,8 +345,6 @@
 6106,'6106','Barrington St / Duke St',44.648707,-63.574768
 6107,'6107','Barrington St / Duke St B:2',44.649617,-63.575343
 6108,'6108','Barrington St @ Scotia Sq B:3',44.650366,-63.575616
-6109,'6109','Barrington St / Hanover St',44.66672,-63.597116
-6110,'6110','Barrington St / Hanover St',44.666633,-63.596704
 6111,'6111','Barrington St / Inglis St',44.636396,-63.569411
 6112,'6112','Barrington St / Kent St',44.638974,-63.569901
 6113,'6113','Barrington St / Morris St',44.641547,-63.571195
@@ -762,7 +763,6 @@
 6586,'6586','Duffus St / Albert St',44.669203,-63.603627
 6587,'6587','Duffus St / Barrington St',44.670486,-63.601893
 6588,'6588','Duffus St / Dartmouth Ave',44.669693,-63.603215
-6590,'6590','Duke St / Albemarle St',44.648944,-63.576546
 6591,'6591','Dunbarton Ave / Caledonia Rd',44.693093,-63.534285
 6592,'6592','Dunbarton Ave / Kincardine Dr',44.692456,-63.536747
 6593,'6593','Dunbrack St / Farnham Gt Rd',44.672931,-63.664146
@@ -1379,7 +1379,6 @@
 7306,'7306','Sackville Dr / Sharon Dr',44.781541,-63.700926
 7307,'7307','Sackville Dr / Stanley St',44.78035,-63.699359
 7308,'7308','Sackville Dr / Hamilton Dr',44.795635,-63.728219
-7309,'7309','Sackville Dr @ Civic 614',44.768581,-63.686632
 7310,'7310','Sackville Dr / Civic 614',44.768729,-63.686744
 7311,'7311','Sackville Dr / Sackville Cross Rd',44.767633,-63.684282
 7312,'7312','Sackville Dr @ Civic 475',44.765413,-63.679965
@@ -1842,7 +1841,6 @@
 8321,'8321','Spikenard St / Weyburn Rd',44.680508,-63.530544
 8322,'8322','Spg Gdn Rd / South Pk St',44.642104,-63.580617
 8323,'8323','Spikenard St / Louisburg Ln',44.680257,-63.531533
-8324,'8324','Spg Ave / Grandview Dr',44.675677,-63.516659
 8325,'8325','Spg Ave / Pembroke Ct',44.672206,-63.518036
 8326,'8326','Spg Ave / Dorothea Dr',44.676126,-63.516856
 8327,'8327','Spg Gdn Rd / Queen St',44.6435,-63.575384
@@ -2373,7 +2371,7 @@
 9053,'9053','Windmill Rd / Fernhill Dr',44.681934,-63.596603
 9056,'9056','Hammonds Plains Rd / Innovation Dr',44.725663,-63.693104
 9057,'9057','Hammonds Plains Rd / Killarney Dr',44.725592,-63.692496
-9061,'9061','Albemarle St / Duke St',44.649608,-63.577295
+9061,'9061','Albemarle St / Duke St',44.648943,-63.576546
 9066,'9066','Baker Dr / Lindenwood Terr',44.661089,-63.530258
 9067,'9067','Baker Dr / Lindenwood Terr',44.661681,-63.529971
 9073,'9073','Kelly St / Halef Ct',44.633469,-63.628987
