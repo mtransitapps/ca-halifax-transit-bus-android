@@ -1,2 +1,1 @@
-Halifax Transit buses for MonTransit.
-Schedule. News. Major Disruptions.
+Halifax Transit buses for MonTransit. Schedule. News. Major Disruptions.
