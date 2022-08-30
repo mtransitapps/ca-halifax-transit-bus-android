@@ -251,6 +251,7 @@
 2275,'2275','Sackville Dr @ Civic 622',44.768719,-63.687087
 2276,'2276','Hammonds Plains Rd @ Civic 1948',44.733826,-63.77777
 2277,'2277','Hammonds Plains Rd / Duck Rd',44.733952,-63.77798
+2278,'2278','Joseph Howe Dr / Mumford Rd',44.649193,-63.630355
 6000,'6000','Akerley Blvd / Burnside Dr',44.715166,-63.588997
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.711193,-63.601377
@@ -781,7 +782,6 @@
 6608,'6608','Old Sambro Rd / Schnare St',44.617168,-63.621687
 6609,'6609','Dutch Vlg Rd / Andrew St',44.656563,-63.631944
 6610,'6610','Joseph Howe Dr / Mumford Rd',44.649041,-63.62989
-6612,'6612','Joseph Howe Dr / Mumford Rd',44.649288,-63.630284
 6613,'6613','Dutch Vlg Rd / Rosedale Ave',44.656068,-63.632095
 6614,'6614','Dutch Vlg Rd / Rufus Ave',44.657638,-63.632415
 6615,'6615','Dutch Vlg Rd / Deal St',44.658635,-63.631877
@@ -1452,7 +1452,7 @@
 7393,'7393','Old Sambro Rd / Sussex St',44.610192,-63.624073
 7395,'7395','Osborne St / Kelly St',44.631753,-63.627797
 7396,'7396','Osborne St / Sunset Ave',44.631581,-63.627832
-7397,'7397','Osborne St @ Civic 7',44.633341,-63.625909
+7397,'7397','Osborne St / Marriott St',44.633341,-63.625909
 7398,'7398','Otago Dr / Poplar Dr',44.672554,-63.498783
 7399,'7399','Otago Dr / Poplar Dr',44.672616,-63.498861
 7401,'7401','Oxford St / Coburg Rd',44.638046,-63.596792
@@ -1507,7 +1507,7 @@
 7454,'7454','Pinecrest Dr @ Civic 122',44.68499,-63.587084
 7455,'7455','Pinecrest Dr @ Civic 123',44.684863,-63.587175
 7456,'7456','Pinecrest Dr @ Civic 63',44.684542,-63.581995
-7457,'7457','Pinecrest / Crystal',44.685581,-63.583795
+7457,'7457','Pinecrest Dr / Crystal Dr',44.685581,-63.583795
 7458,'7458','Pinecrest Dr @ Crystal Dr',44.685881,-63.584378
 7459,'7459','Pinecrest Dr / Primrose St',44.684885,-63.58257
 7460,'7460','Plz Dr / Eljay Dr',44.682079,-63.515728
@@ -2371,7 +2371,7 @@
 9053,'9053','Windmill Rd / Fernhill Dr',44.681934,-63.596603
 9056,'9056','Hammonds Plains Rd / Innovation Dr',44.725663,-63.693104
 9057,'9057','Hammonds Plains Rd / Killarney Dr',44.725592,-63.692496
-9061,'9061','Albemarle St / Duke St',44.648943,-63.576546
+9061,'9061','Duke St / Albemarle St',44.648943,-63.576546
 9066,'9066','Baker Dr / Lindenwood Terr',44.661089,-63.530258
 9067,'9067','Baker Dr / Lindenwood Terr',44.661681,-63.529971
 9073,'9073','Kelly St / Halef Ct',44.633469,-63.628987
