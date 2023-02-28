@@ -252,7 +252,7 @@
 2276,'2276','Hammonds Plains Rd @ Civic 1948',44.733826,-63.77777,0
 2277,'2277','Hammonds Plains Rd / Duck Rd',44.733952,-63.77798,0
 2278,'2278','Joseph Howe Dr / Mumford Rd',44.649193,-63.630355,0
-2299,'2299','Willett St / Frederick Ave',44.651276,-63.64434,0
+2304,'2304','Summer St / Veterans Memorial Ln',44.645386,-63.585374,0
 6000,'6000','Akerley Blvd / Burnside Dr',44.715166,-63.588997,0
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836,0
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.711193,-63.601377,0
@@ -331,8 +331,7 @@
 6085,'6085','Barrington St / Prince St',44.646958,-63.573947,0
 6087,'6087','Barrington St / Duke St B:1',44.650315,-63.575676,0
 6088,'6088','Barrington St / Artz St',44.656794,-63.585186,0
-6089,'6089','Barrington St / Upper Water St',44.654394,-63.581778,0
-6090,'6090','Barrington St / Devonshire Ave',44.663279,-63.592738,0
+6090,'6090','Barrington St / Devonshire Ave',44.662684,-63.592018,0
 6092,'6092','Barrington St / Grn St',44.637344,-63.569575,0
 6093,'6093','Barrington St / Grn St',44.637382,-63.569725,0
 6096,'6096','Barrington St / South St',44.640248,-63.570569,0
@@ -360,7 +359,6 @@
 6124,'6124','Barrington St / Spg Gdn Rd',44.643958,-63.572377,0
 6125,'6125','Barrington St / Cornwallis St',44.653472,-63.580814,0
 6127,'6127','Barrington St / Devonshire Ave',44.663858,-63.593243,0
-6128,'6128','Colby Dr / Avondale Rd',44.667529,-63.488708,0
 6129,'6129','Basinview Dr / Atlee Ct',44.723444,-63.681277,0
 6130,'6130','Basinview Dr / Gln Moir Terr',44.718514,-63.681039,0
 6131,'6131','Basinview Dr / Hammonds Plains Rd',44.717472,-63.682465,0
@@ -655,7 +653,7 @@
 6452,'6452','Coburg Rd / Robie St',44.64009,-63.587361,0
 6453,'6453','Coburg Rd / Oxford St',44.638006,-63.595912,0
 6454,'6454','Coburg Rd / Henry St',44.639512,-63.589156,0
-6455,'6455','Cogswell St / Gottingen St',44.650819,-63.580475,0
+6455,'6455','Cogswell St / Gottingen St',44.650634,-63.580442,0
 6463,'6463','Colby Dr / Becks Way',44.660948,-63.47807,0
 6464,'6464','Colby Dr @ Civic 239',44.66523,-63.478022,0
 6465,'6465','Colby Dr / Bellroyal Ct',44.663598,-63.477689,0
@@ -747,9 +745,9 @@
 6565,'6565','Desmond Ave / Scot St',44.656273,-63.627636,0
 6566,'6566','Inglis St / McLean St',44.634597,-63.575154,0
 6567,'6567','Innovation Dr / Gary Martin Dr',44.723804,-63.703303,0
-6569,'6569','Valour Way / Coxswain Ln',44.660104,-63.587708,0
-6571,'6571','Valour Way / Ctr Gt',44.657941,-63.584772,0
-6573,'6573','Valour Way / Rainbow Gt',44.656312,-63.582345,0
+6569,'6569','Valour Way / Coxswain Ln',44.660074,-63.587635,0
+6571,'6571','Valour Way / Ctr Gt',44.657898,-63.584723,0
+6573,'6573','Valour Way / Rainbow Gt',44.656241,-63.582363,0
 6574,'6574','Dorothea Dr / Topsail Blvd',44.678793,-63.512148,0
 6575,'6575','Dorothea Dr / Lucien Dr',44.678,-63.509029,0
 6576,'6576','Dorothea Dr / Regal Rd',44.677435,-63.514772,0
@@ -863,11 +861,8 @@
 6704,'6704','Flamingo Dr / Skylark St',44.674118,-63.649779,0
 6705,'6705','Flamingo Dr / Canary Cr',44.671197,-63.652383,0
 6706,'6706','Flamingo Dr / Meadowlark Cr',44.669454,-63.655897,0
-6707,'6707','Flying Cloud Dr / Havelock Cr',44.679923,-63.493067,0
-6708,'6708','Flying Cloud Dr / Havelock Cr',44.683877,-63.49371,0
 6709,'6709','Flying Cloud Dr / Nestor Cr',44.688327,-63.494718,0
 6710,'6710','Flying Cloud Dr / Forest Hls Pky',44.690321,-63.495083,0
-6711,'6711','Flying Cloud Dr / Tamerlane Ct',44.682389,-63.493916,0
 6712,'6712','Forestglen Dr / Fraser Rd',44.662137,-63.746687,0
 6713,'6713','Forestglen Dr / Richard St',44.660702,-63.745819,0
 6715,'6715','Washmill Lk Dr / Chain Lk Dr',44.647064,-63.672518,0
@@ -919,13 +914,13 @@
 6769,'6769','Gottingen St / North St',44.657548,-63.591319,0
 6770,'6770','Gottingen St / Young St',44.662292,-63.598409,0
 6771,'6771','Gottingen St / Cogswell St',44.650928,-63.581777,0
-6773,'6773','Gottingen St / Cogswell St',44.650866,-63.581669,0
+6773,'6773','Gottingen St / Cogswell St',44.651042,-63.581787,0
 6774,'6774','Gottingen St / Charles St',44.655709,-63.588748,0
-6775,'6775','Gottingen St / Prince William St',44.653993,-63.586354,0
+6775,'6775','Gottingen St / Prince William St',44.654043,-63.586223,0
 6776,'6776','Gottingen St / Almon St',44.660341,-63.595493,0
 6777,'6777','Gottingen St / Black St',44.658503,-63.592832,0
-6778,'6778','Gottingen St / Cornwallis St',44.652073,-63.583472,0
-6779,'6779','Gottingen St / Cunard St',44.653238,-63.585187,0
+6778,'6778','Gottingen St / Cornwallis St',44.65199,-63.583184,0
+6779,'6779','Gottingen St / Cunard St',44.653218,-63.585045,0
 6780,'6780','Gottingen St / Buddy Daye St',44.654931,-63.587685,0
 6781,'6781','Gottingen St / North St',44.657734,-63.591727,0
 6782,'6782','Gottingen St / Russell St',44.661185,-63.596618,0
@@ -933,7 +928,7 @@
 6784,'6784','Hammonds Plains Rd / Doyle St',44.716076,-63.681342,0
 6785,'6785','Gottingen St / Black St',44.658446,-63.592486,0
 6786,'6786','Gottingen St / Prince William St',44.653515,-63.585596,0
-6787,'6787','Gottingen St / Uniacke St',44.655624,-63.588716,0
+6787,'6787','Gottingen St / Uniacke St',44.655796,-63.588683,0
 6788,'6788','Dutch Vlg Rd / Central Ave',44.654173,-63.631701,0
 6789,'6789','Caldwell Rd / Kaleigh Dr',44.614553,-63.475851,0
 6790,'6790','Gottingen St / Cornwallis St',44.652132,-63.583591,0
@@ -1417,7 +1412,7 @@
 7348,'7348','North St / Lorne Terr',44.658305,-63.590248,0
 7349,'7349','North St / Agricola St',44.65521,-63.594145,0
 7350,'7350','North St / Fuller Terr',44.656133,-63.592824,0
-7351,'7351','North St / Brunswick St',44.65815,-63.589715,0
+7351,'7351','North St / Brunswick St',44.658203,-63.589686,0
 7352,'7352','North St / Clifton St',44.653637,-63.596326,0
 7353,'7353','North St / Clifton St',44.653862,-63.596147,0
 7354,'7354','North St / Maynard St',44.65613,-63.592764,0
@@ -1558,9 +1553,9 @@
 7604,'7604','Bridge Term B:4',44.670662,-63.57443,0
 7605,'7605','Bridge Term B:5',44.670554,-63.574202,0
 7606,'7606','Bridge Term B:6',44.670413,-63.573955,0
-7607,'7607','Bridge Term B:7',44.670333,-63.57367,0
+7607,'7607','Bridge Term B:7',44.670322,-63.573655,0
 7608,'7608','Bridge Term B:8',44.670242,-63.573631,0
-7609,'7609','Bridge Term B:9',44.67001,-63.573843,0
+7609,'7609','Bridge Term B:9',44.670049,-63.573777,0
 7610,'7610','Bridge Term Bay 10',44.670166,-63.57403,0
 7611,'7611','Bridge Term Bay 11',44.670282,-63.574279,0
 7612,'7612','Bridge Term Bay 12',44.670384,-63.574569,0
@@ -1879,8 +1874,6 @@
 8360,'8360','Stokil Dr / Saratoga Dr',44.783977,-63.681428,0
 8361,'8361','Stonehaven Rd / Glenmore Ave',44.635173,-63.629919,0
 8363,'8363','Summer St / Bell Rd',44.645065,-63.585439,0
-8364,'8364','Summer St / Bell Rd',44.646125,-63.585793,0
-8365,'8365','Summer St / Veterans Memorial Ln',44.644664,-63.585038,0
 8366,'8366','Susie Lk Cr / Chain Lk Dr',44.645864,-63.674374,0
 8367,'8367','Susie Lk Cr / Chain Lk Dr',44.646055,-63.674432,0
 8370,'8370','Tamarack Dr / Medina Ct',44.629964,-63.62874,0
@@ -1913,7 +1906,7 @@
 8409,'8409','Tower Rd @ Tower Rd Turning Loop',44.625848,-63.574319,0
 8410,'8410','University Ave / Summer St',44.639042,-63.58295,0
 8411,'8411','University Ave / Summer St',44.639085,-63.581909,0
-8413,'8413','Upper Water St / Valour Way',44.653519,-63.579449,0
+8413,'8413','Upper Water St / Valour Way',44.653586,-63.579411,0
 8414,'8414','Upper Water St / Valour Way',44.654298,-63.579958,0
 8416,'8416','Valleyfield Rd / Oakwood Ave',44.679362,-63.53459,0
 8418,'8418','Victoria Rd / Albro Lk Rd',44.679889,-63.584694,0
@@ -1974,7 +1967,9 @@
 8495,'8495','Willett St / Glenforest Dr',44.656289,-63.648942,0
 8496,'8496','Willett St / Chadwick Pl',44.659986,-63.656014,0
 8497,'8497','Willett St / Harlington Cr',44.65815,-63.654228,0
+8498,'8498','Willett St / Adelaide Ave',44.652622,-63.645473,0
 8499,'8499','Willett St / Apollo Ct',44.655208,-63.647804,0
+8500,'8500','Willett St / Frederick Ave',44.650768,-63.643876,0
 8502,'8502','Willett St / Frederick Ave',44.650841,-63.644017,0
 8503,'8503','Willett St / Westridge Dr',44.658114,-63.654456,0
 8505,'8505','Damascus Rd @ Turning Loop',44.749063,-63.647399,0
@@ -2072,7 +2067,6 @@
 8602,'8602','Woodlawn Rd / Bruce St',44.67291,-63.531121,0
 8603,'8603','Woodlawn Rd / Spikenard St',44.681711,-63.527665,0
 8604,'8604','Woodlawn Rd / Spikenard St',44.680631,-63.526841,0
-8606,'8606','Upper Water St / Cogswell St',44.652454,-63.577537,0
 8608,'8608','Wright Ave / Fielding Ave',44.703802,-63.597905,0
 8609,'8609','Wright Ave / Windmill Rd',44.698747,-63.603662,0
 8610,'8610','Wright Ave / Fielding Ave',44.704092,-63.597573,0
@@ -2094,7 +2088,6 @@
 8635,'8635','Kempt Rd / Young St',44.659711,-63.60438,0
 8637,'8637','Penhorn Term B:9',44.670316,-63.538762,0
 8638,'8638','Macdonald Bridge Exit Ramp',44.658438,-63.589942,0
-8639,'8639','Cogswell St / Albemarle St',44.651262,-63.577718,0
 8640,'8640','Mumford Term B:2',44.648008,-63.620622,0
 8641,'8641','Mumford Term B:3',44.648318,-63.621251,0
 8651,'8651','St Margarets Bay Rd @ Long Lk Pk',44.632306,-63.658185,0
@@ -2330,8 +2323,6 @@
 8961,'8961','Sackville Term B:5',44.767844,-63.699201,0
 8962,'8962','Woodside Ferry Term B:1',44.649076,-63.548192,0
 8964,'8964','Woodside Ferry Term B:2',44.648992,-63.547991,0
-8965,'8965','Woodside Ferry Term B:3',44.648913,-63.547803,0
-8966,'8966','Woodside Ferry Term B:4',44.648786,-63.547576,0
 8967,'8967','Sackville Term B:2',44.768001,-63.698449,0
 9000,'9000','Downsview Dr / Touchstone Ct',44.772293,-63.695697,0
 9001,'9001','Downsview Dr / Touchstone Ct',44.772683,-63.695086,0
@@ -2370,7 +2361,7 @@
 9053,'9053','Windmill Rd / Fernhill Dr',44.681934,-63.596603,0
 9056,'9056','Hammonds Plains Rd / Innovation Dr',44.725663,-63.693104,0
 9057,'9057','Hammonds Plains Rd / Killarney Dr',44.725592,-63.692496,0
-9061,'9061','Duke St / Albemarle St',44.648943,-63.576546,0
+9061,'9061','Duke St / Albemarle St',44.649004,-63.576447,0
 9066,'9066','Baker Dr / Lindenwood Terr',44.661089,-63.530258,0
 9067,'9067','Baker Dr / Lindenwood Terr',44.661681,-63.529971,0
 9073,'9073','Kelly St / Halef Ct',44.633469,-63.628987,0
@@ -2398,7 +2389,7 @@
 9106,'9106','Lacewood Term B:6',44.660576,-63.663455,0
 9109,'9109','Lacewood Term B:9',44.660718,-63.663797,0
 9110,'9110','Lacewood Term Bay 10',44.660783,-63.663592,0
-9111,'9111','Lacewood Term Bay 11',44.661037,-63.663204,0
+9111,'9111','Lacewood Term Bay 11',44.661041,-63.663163,0
 9112,'9112','Lacewood Term Bay 12',44.661096,-63.662924,0
 9113,'9113','Lacewood Term Bay 13',44.661257,-63.662714,0
 9114,'9114','Lacewood Term Bay 14',44.661389,-63.662514,0

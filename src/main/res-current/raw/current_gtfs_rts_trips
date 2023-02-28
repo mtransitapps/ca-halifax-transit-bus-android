@@ -28,8 +28,6 @@
 2900,0,'Pt Pleasant',29
 3900,0,'Bridge Term',39
 3901,0,'Lacewood Term',39
-4101,0,'Bridge Term',41
-4100,0,'Dalhousie',41
 5001,0,'Bridge Term',50
 5000,0,'Dockyard',50
 5100,0,'Bridge Term',51
@@ -104,10 +102,6 @@
 16100,0,'University Ave',161
 16501,0,'Caldwell',165
 16500,0,'University Ave',165
-17801,0,'Mt Edward',178
-17800,0,'Woodside Ferry',178
-17901,0,'Cole Harbour',179
-17900,0,'Woodside Ferry',179
 18201,0,'First Lk',182
 18200,0,'Summer St',182
 18301,0,'Springfield',183
