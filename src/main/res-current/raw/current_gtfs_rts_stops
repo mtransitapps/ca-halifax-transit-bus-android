@@ -252,6 +252,7 @@
 2276,'2276','Hammonds Plains Rd @ Civic 1948',44.733826,-63.77777,0
 2277,'2277','Hammonds Plains Rd / Duck Rd',44.733952,-63.77798,0
 2278,'2278','Joseph Howe Dr / Mumford Rd',44.649193,-63.630355,0
+2299,'2299','Willett St / Frederick Ave',44.651276,-63.644343,0
 2304,'2304','Summer St / Veterans Memorial Ln',44.645386,-63.585374,0
 6000,'6000','Akerley Blvd / Burnside Dr',44.715166,-63.588997,0
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836,0
@@ -1900,14 +1901,11 @@
 8403,'8403','Tower Rd @ Atlantic St',44.631508,-63.577861,0
 8404,'8404','Tower Rd @ Harbourview Dr',44.627885,-63.576117,0
 8405,'8405','Tower Rd @ Ogilvie St',44.626951,-63.575219,0
-8406,'8406','Tower Rd / Pt Pleasant Dr',44.62637,-63.574698,0
 8407,'8407','Tower Rd / Harbourview Dr',44.628038,-63.576323,0
 8408,'8408','Tower Rd / Inglis St',44.633229,-63.57811,0
 8409,'8409','Tower Rd @ Tower Rd Turning Loop',44.625848,-63.574319,0
 8410,'8410','University Ave / Summer St',44.639042,-63.58295,0
 8411,'8411','University Ave / Summer St',44.639085,-63.581909,0
-8413,'8413','Upper Water St / Valour Way',44.653586,-63.579411,0
-8414,'8414','Upper Water St / Valour Way',44.654298,-63.579958,0
 8416,'8416','Valleyfield Rd / Oakwood Ave',44.679362,-63.53459,0
 8418,'8418','Victoria Rd / Albro Lk Rd',44.679889,-63.584694,0
 8419,'8419','Victoria Rd / Boland Rd',44.675243,-63.577294,0
@@ -1967,9 +1965,7 @@
 8495,'8495','Willett St / Glenforest Dr',44.656289,-63.648942,0
 8496,'8496','Willett St / Chadwick Pl',44.659986,-63.656014,0
 8497,'8497','Willett St / Harlington Cr',44.65815,-63.654228,0
-8498,'8498','Willett St / Adelaide Ave',44.652622,-63.645473,0
 8499,'8499','Willett St / Apollo Ct',44.655208,-63.647804,0
-8500,'8500','Willett St / Frederick Ave',44.650768,-63.643876,0
 8502,'8502','Willett St / Frederick Ave',44.650841,-63.644017,0
 8503,'8503','Willett St / Westridge Dr',44.658114,-63.654456,0
 8505,'8505','Damascus Rd @ Turning Loop',44.749063,-63.647399,0
