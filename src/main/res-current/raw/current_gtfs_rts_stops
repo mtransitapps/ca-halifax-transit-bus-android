@@ -253,7 +253,9 @@
 2277,'2277','Hammonds Plains Rd / Duck Rd',44.733952,-63.77798,0
 2278,'2278','Joseph Howe Dr / Mumford Rd',44.649193,-63.630355,0
 2299,'2299','Willett St / Frederick Ave',44.651276,-63.644343,0
+2300,'2300','Kelly St / Halef Ct',44.633564,-63.628959,0
 2304,'2304','Summer St / Veterans Memorial Ln',44.645386,-63.585374,0
+2308,'2308','Oxford St / Jubilee Rd',44.641193,-63.598689,0
 6000,'6000','Akerley Blvd / Burnside Dr',44.715166,-63.588997,0
 6001,'6001','Akerley Blvd @ Civic 75',44.713067,-63.595836,0
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.711193,-63.601377,0
@@ -323,7 +325,7 @@
 6075,'6075','Auburn Dr @ Auburn Dr HS',44.687943,-63.483991,0
 6076,'6076','Auburn Dr @ Civic 200',44.691036,-63.48444,0
 6077,'6077','Auburn Dr / Civic 187',44.691445,-63.484757,0
-6078,'6078','Auburn Dr @ Civic 243',44.689984,-63.483848,0
+6078,'6078','Auburn Dr / Serocco Cr',44.689984,-63.483848,0
 6080,'6080','Auburn Dr / John Stewart Dr',44.686786,-63.485269,0
 6081,'6081','Auburn Dr / Leander Dr',44.692452,-63.485442,0
 6082,'6082','Madeline Pl / Ave Du Portage',44.701648,-63.535107,0
@@ -354,7 +356,7 @@
 6115,'6115','Barrington St / North St',44.659348,-63.588683,0
 6119,'6119','Barrington St / Richmond St',44.668023,-63.598417,0
 6120,'6120','Barrington St / Richmond St',44.667963,-63.598776,0
-6121,'6121','Barrington St / Sackville St',44.645788,-63.573495,0
+6121,'6121','Barrington St / Sackville St',44.645887,-63.573452,0
 6122,'6122','Barrington St / Spg Gdn Rd',44.644733,-63.572851,0
 6123,'6123','Barrington St / Spg Gdn Rd',44.64402,-63.572357,0
 6124,'6124','Barrington St / Spg Gdn Rd',44.643958,-63.572377,0
@@ -918,7 +920,7 @@
 6773,'6773','Gottingen St / Cogswell St',44.651042,-63.581787,0
 6774,'6774','Gottingen St / Charles St',44.655709,-63.588748,0
 6775,'6775','Gottingen St / Prince William St',44.654043,-63.586223,0
-6776,'6776','Gottingen St / Almon St',44.660341,-63.595493,0
+6776,'6776','Gottingen St / Almon St',44.659872,-63.594814,0
 6777,'6777','Gottingen St / Black St',44.658503,-63.592832,0
 6778,'6778','Gottingen St / Cornwallis St',44.65199,-63.583184,0
 6779,'6779','Gottingen St / Cunard St',44.653218,-63.585045,0
@@ -1460,7 +1462,6 @@
 7406,'7406','Oxford St / Norwood St',44.642595,-63.599151,0
 7407,'7407','Oxford St / Almon St',44.651987,-63.606562,0
 7408,'7408','Oxford St / Almon St',44.651461,-63.605921,0
-7409,'7409','Oxford St / Jubilee Rd',44.640458,-63.598145,0
 7410,'7410','Oxford St / Jubilee Rd',44.641168,-63.598432,0
 7411,'7411','Oxford St / North St',44.649338,-63.60292,0
 7412,'7412','Oxford St / Quinpool Rd',44.644185,-63.600146,0
@@ -1470,7 +1471,6 @@
 7416,'7416','Oxford St / Liverpool St',44.653399,-63.608401,0
 7417,'7417','Oxford St / Liverpool St',44.653103,-63.608063,0
 7418,'7418','Oxford St / North St',44.649321,-63.603066,0
-7419,'7419','Oxford St / Norwood St',44.64303,-63.59953,0
 7420,'7420','Oxford St / Oak St',44.646459,-63.601257,0
 7421,'7421','Oxford St / Quinpool Rd',44.644411,-63.600177,0
 7422,'7422','Oxford St / Summit St',44.650243,-63.604319,0
@@ -2194,7 +2194,6 @@
 8812,'8812','Walter Havill Dr / Ridgestone Ct',44.632036,-63.631944,0
 8813,'8813','Walter Havill Dr / Osborne St',44.631959,-63.629724,0
 8814,'8814','Brooks Dr / Lk Eagle Dr',44.724613,-63.430413,0
-8815,'8815','Alton Dr / Kelly St',44.634313,-63.629193,0
 8816,'8816','Edgehill Rd / Quarry Rd',44.635968,-63.630884,0
 8817,'8817','Hwy 7 / Hummingbird Dr',44.724459,-63.395791,0
 8818,'8818','Hwy 7 / Civic 4212',44.740833,-63.329153,0
@@ -2361,7 +2360,6 @@
 9066,'9066','Baker Dr / Lindenwood Terr',44.661089,-63.530258,0
 9067,'9067','Baker Dr / Lindenwood Terr',44.661681,-63.529971,0
 9073,'9073','Kelly St / Halef Ct',44.633469,-63.628987,0
-9074,'9074','Kelly St / Halef Ct',44.633181,-63.628684,0
 9076,'9076','Tacoma Dr / Hartlen St',44.680535,-63.536637,0
 9078,'9078','Hwy 7 / William Porter Connector',44.744656,-63.286438,0
 9079,'9079','Hwy 7 / William Porter Connector',44.744674,-63.285848,0
