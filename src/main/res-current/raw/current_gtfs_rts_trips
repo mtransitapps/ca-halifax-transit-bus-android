@@ -30,8 +30,6 @@
 3901,0,'Lacewood Term',39
 5001,0,'Bridge Term',50
 5000,0,'Dockyard',50
-5100,0,'Bridge Term',51
-5101,0,'Burnside',51
 5300,0,'Alderney',53
 5301,0,'Highfield Term',53
 5400,0,'Bridge Term',54
@@ -39,7 +37,7 @@
 5500,0,'Bridge Term',55
 5501,0,'Port Wallace',55
 5600,0,'Bridge Term',56
-5601,0,'Dartmouth Xing',56
+5601,0,'Wrights Cv',56
 5700,0,'Penhorn Term',57
 5701,0,'Portland Hls Term',57
 5800,0,'Penhorn Term',58
@@ -61,7 +59,7 @@
 6801,0,'Cherry Brk',68
 6800,0,'Portland Hls Term',68
 7200,0,'Dartmouth Xing',72
-7201,0,'Portland Hls',72
+7201,0,'Portland Hls Term',72
 8200,0,'Cobequid Term',82
 8201,0,'Sackville Term',82
 8300,0,'Sackville Term',83
@@ -134,6 +132,8 @@
 1000901,0,'Greystone- Fotherby',10009
 1003000,0,'Lacewood Term',10030
 1003001,0,'Parkland',10030
+1005100,0,'Bridge Term',10051
+1005101,0,'Ocean Breeze',10051
 1016801,0,'Auburn',10168
 1016800,0,'University Ave',10168
 2000600,0,'Bridge Term',20006
@@ -144,6 +144,8 @@
 2000901,0,'Herring Cv',20009
 2003001,0,'Dunbrack',20030
 2003000,0,'Lacewood Term',20030
+2005100,0,'Bridge Term',20051
+2005101,0,'Wrights Cv',20051
 2016801,0,'Cherry Brk',20168
 2016800,0,'University Ave',20168
 3000600,0,'Bridge Term',30006
