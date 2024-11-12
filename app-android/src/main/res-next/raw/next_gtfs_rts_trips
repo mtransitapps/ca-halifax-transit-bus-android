@@ -1,0 +1,156 @@
+100,0,'Bridge Term',1
+101,0,'Mumford Term',1
+200,0,'Lacewood Term',2
+201,0,'Water St Term',2
+301,0,'Burnside',3
+300,0,'Lacewood Term',3
+400,0,'Lacewood Term',4
+401,0,'St Marys & Dalhousie',4
+500,0,'Portland Hls Term',5
+501,0,'Scotia Sq',5
+801,0,'Downtown',8
+800,0,'Sackville Term',8
+2100,0,'Lacewood Term',21
+2101,0,'Timberlea',21
+2201,0,'Mumford Term',22
+2200,0,'Ragged Lk',22
+2401,0,'Leiblin Pk',24
+2400,0,'St Marys',24
+2500,0,'Governors Brk',25
+2501,0,'Mumford Term',25
+2600,0,'Mumford Term',26
+2601,0,'Springvale',26
+2800,0,'Lacewood Term',28
+2801,0,'Mumford Term',28
+2901,0,'Bayers Rd Ctr',29
+2900,0,'Pt Pleasant Pk',29
+3900,0,'Bridge Term',39
+3901,0,'Lacewood Term',39
+5000,0,'Bridge Term',50
+5001,0,'Dockyard',50
+5301,0,'Alderney',53
+5300,0,'Highfield Term',53
+5401,0,'Bridge Term',54
+5400,0,'Montebello',54
+5501,0,'Bridge Term',55
+5500,0,'Port Wallace',55
+5601,0,'Bridge Term',56
+5600,0,'Wrights Cv',56
+5801,0,'Penhorn Term',58
+5800,0,'Portland Hls Term',58
+5900,0,'Colby Vlg',59
+5901,0,'Portland Hls Term',59
+6100,0,'North Preston',61
+6101,0,'Portland Hls',61
+6201,0,'Bridge Term',62
+6200,0,'Gaston',62
+6301,0,'Penhorn Term',63
+6300,0,'Portland Hls',63
+6401,0,'Highfield Term',64
+6400,0,'Wrights Cv',64
+6500,0,'Astral Dr',65
+6501,0,'Portland Hls Term',65
+6701,0,'Micmac',67
+6700,0,'Woodside',67
+6800,0,'Cherry Brk',68
+6801,0,'Portland Hls',68
+7200,0,'Dartmouth Xing',72
+7201,0,'Portland Hls',72
+8201,0,'Cobequid Term',82
+8200,0,'Sackville Term',82
+8301,0,'Sackville Term',83
+8300,0,'Springfield',83
+8400,0,'Sackville Term',84
+8401,0,'Scotia Sq',84
+8500,0,'Millwood',85
+8501,0,'Sackville Term',85
+8600,0,'Beaver Bank',86
+8601,0,'Sackville Term',86
+8701,0,'Bridge Term',87
+8700,0,'Sackville Term',87
+8800,0,'Bedford Commons',88
+8801,0,'Sackville Term',88
+9001,0,'Water St Term',90
+9000,0,'West Bedford',90
+9101,0,'Mumford Term',91
+9100,0,'West Bedford',91
+9300,0,'Cobequid Term',93
+9301,0,'Downtown Halifax',93
+12300,0,'Scotia Sq',123
+12301,0,'Timberlea',123
+12701,0,'Cowie Hl',127
+12700,0,'Scotia Sq',127
+13501,0,'Flamingo',135
+13500,0,'University Ave',135
+13601,0,'Farnham Gt Exp',136
+13600,0,'University Ave',136
+13701,0,'Clayton Pk Exp',137
+13700,0,'University Ave',137
+13801,0,'Parkland',138
+13800,0,'University Ave',138
+15801,0,'University Ave',158
+15800,0,'Woodlawn',158
+15900,0,'Colby',159
+15901,0,'University Ave',159
+16101,0,'North Preston',161
+16100,0,'University Ave',161
+16500,0,'Caldwell',165
+16501,0,'University Ave',165
+18200,0,'First Lk',182
+18201,0,'Summer St',182
+18300,0,'Springfield',183
+18301,0,'Summer St',183
+18500,0,'Millwood',185
+18501,0,'Summer St',185
+18600,0,'Beaver Bank',186
+18601,0,'Summer St',186
+19200,0,'Hemlock Ravine',192
+19201,0,'Summer St',192
+19400,0,'Summer St',194
+19401,0,'West Bedford',194
+19601,0,'Summer St',196
+19600,0,'West Bedford',196
+32000,0,'Airport',320
+32001,0,'Downtown Hfx',320
+33001,0,'Albemarle St',330
+33000,0,'Sheldrake Lk & Tantallon',330
+37001,0,'Downtown Hfx',370
+37000,0,'Porters Lk',370
+40101,0,'Porters Lk',401
+40100,0,'Portland Hls Term',401
+41501,0,'Mumford Term',415
+41500,0,'Purcells Cv',415
+43300,0,'Lacewood Term',433
+43301,0,'Tantallon',433
+1000600,0,'Bridge Term',10006
+1000601,0,'Woodside',10006
+1000701,0,'Robie',10007
+1000700,0,'Scotia Sq',10007
+1000901,0,'Downtown',10009
+1000900,0,'Greystone- Fotherby',10009
+1001000,0,'Bridge Term',10010
+1001001,0,'Dalhousie',10010
+1003001,0,'Lacewood Term',10030
+1003000,0,'Parkland',10030
+1005101,0,'Bridge Term',10051
+1005100,0,'Ocean Breeze',10051
+1016800,0,'Auburn',10168
+1016801,0,'University Ave',10168
+2000600,0,'Bridge Term',20006
+2000601,0,'Eastern Passage',20006
+2000700,0,'Gottingen',20007
+2000701,0,'Scotia Sq',20007
+2000901,0,'Downtown',20009
+2000900,0,'Herring Cv',20009
+2001001,0,'Dalhousie',20010
+2001000,0,'Micmac Term',20010
+2003000,0,'Dunbrack',20030
+2003001,0,'Lacewood Term',20030
+2005101,0,'Bridge Term',20051
+2005100,0,'Wrights Cv',20051
+2016800,0,'Cherry Brk',20168
+2016801,0,'University Ave',20168
+3000600,0,'Bridge Term',30006
+3000601,0,'Heritage Hls',30006
+3001001,0,'Dalhousie',30010
+3001000,0,'Westphal',30010

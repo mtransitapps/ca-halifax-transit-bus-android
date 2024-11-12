@@ -1,0 +1,2365 @@
+2000,'2000','Wentworth Dr / Dunbrack St',44.67762,-63.66289,0,1537214
+2001,'2001','Wentworth Dr / Dunbrack St',44.67770,-63.66218,0,1537215
+2002,'2002','Wentworth Dr / Eliza Ritchie Cr',44.67587,-63.66001,0,1537216
+2003,'2003','Wentworth Dr / Eliza Ritchie Cr',44.67608,-63.66001,0,1537217
+2004,'2004','Booth St / Scotsburn Ave',44.68716,-63.52493,0,1537218
+2005,'2005','Knightsridge Dr / Flamingo Dr',44.67289,-63.66040,0,1537219
+2006,'2006','Knightsridge Dr / Flamingo Dr',44.67254,-63.66034,0,1537220
+2007,'2007','Ruth Goldbloom Dr / Dunbrack St',44.67334,-63.66232,0,1537221
+2008,'2008','Ruth Goldbloom Dr / Dunbrack St',44.67322,-63.66285,0,1537222
+2009,'2009','Main Ave / Dunbrack St',44.65318,-63.64889,0,1537223
+2010,'2010','Charles Rd @ Civic 119',44.65931,-63.75197,0,1537245
+2011,'2011','Charles Rd @ Civic 193',44.65725,-63.74996,0,1537246
+2012,'2012','Charles Rd / Dixon Ct',44.65560,-63.74771,0,1537247
+2013,'2013','Charles Rd @ Charles Rd Pk',44.65605,-63.74611,0,1537248
+2014,'2014','Knightsridge Dr / Dunbrack St',44.67065,-63.66164,0,1537249
+2015,'2015','Windsor St / Young St',44.65716,-63.60774,0,1537250
+2016,'2016','Windsor St / Bayers Rd',44.65723,-63.60793,0,1537251
+2017,'2017','Wright Ave / MacDonald Ave',44.70206,-63.60037,0,1537252
+2019,'2019','Hammonds Plains Rd / Lewis Dr',44.72665,-63.71238,0,1537254
+2020,'2020','Hammonds Plains Rd / Lewis Dr',44.72667,-63.71277,0,1537276
+2021,'2021','Barrington St / North St',44.65819,-63.58686,0,1537277
+2022,'2022','Main St / Gordon Ave',44.68141,-63.54330,0,1537278
+2023,'2023','Broad St / Gary Martin Dr',44.71611,-63.70568,0,1537279
+2024,'2024','Broad St / Samaa Ct',44.71410,-63.70232,0,1537280
+2025,'2025','Broad St / Rose Fortune Gt',44.71079,-63.70126,0,1537281
+2026,'2026','Broad St / Serontina Ln',44.70954,-63.70426,0,1537282
+2027,'2027','Broad St / Larry Uteck Blvd',44.70857,-63.70805,0,1537283
+2028,'2028','Broad St / Larry Uteck Blvd',44.70854,-63.70783,0,1537284
+2029,'2029','Broad St / Bramwell Ct',44.70965,-63.70314,0,1537285
+2030,'2030','Broad St / Tilbury Ave',44.71201,-63.70130,0,1537307
+2031,'2031','Broad St / Samaa Ct',44.71407,-63.70224,0,1537308
+2032,'2032','Broad St / Gary Martin Dr',44.71601,-63.70502,0,1537309
+2033,'2033','Starboard Dr / Peakview Way',44.69972,-63.68576,0,1537310
+2034,'2034','Marketplace Dr / Bancroft Ln B:3',44.69873,-63.60736,0,1537311
+2035,'2035','St Margarets Bay Rd / Cr Ave',44.63761,-63.62976,0,1537312
+2036,'2036','Old Sackville Rd / Twelve Mile House Ln',44.75318,-63.66632,0,1537313
+2037,'2037','Old Sackville Rd / Lynn Ct',44.75383,-63.67007,0,1537314
+2038,'2038','Old Sackville Rd @ Civic 167',44.75508,-63.67326,0,1537315
+2039,'2039','Old Sackville Rd / Walker Service Rd',44.75749,-63.67997,0,1537316
+2040,'2040','Old Sackville Rd / Hallmark Ave',44.76045,-63.68184,0,1537338
+2041,'2041','Old Sackville Rd / Madeline Ave',44.76264,-63.68332,0,1537339
+2042,'2042','Old Sackville Rd / Sackville Cross Rd',44.76375,-63.68845,0,1537340
+2043,'2043','Old Sackville Rd / Walker Ave',44.76572,-63.69037,0,1537341
+2044,'2044','Walker Ave @ Civic 130',44.76529,-63.69328,0,1537342
+2045,'2045','Walker Ave @ Civic 129',44.76518,-63.69329,0,1537343
+2046,'2046','Old Sackville Rd / Dresden Ct',44.76453,-63.68974,0,1537344
+2047,'2047','Old Sackville Rd / Sackville Cross Rd',44.76335,-63.68702,0,1537345
+2048,'2048','Old Sackville Rd / Madeline Ave',44.76251,-63.68337,0,1537346
+2049,'2049','Old Sackville Rd / Hallmark Ave',44.75971,-63.68174,0,1537347
+2050,'2050','Old Sackville Rd / Walker Service Rd',44.75740,-63.68006,0,1537369
+2051,'2051','Old Sackville Rd @ Civic 178',44.75502,-63.67372,0,1537370
+2052,'2052','Old Sackville Rd / Lynn Ct',44.75423,-63.67116,0,1537371
+2053,'2053','Old Sackville Rd / Sackville Dr',44.75309,-63.66633,0,1537372
+2054,'2054','Old Sackville Rd / Beaver Bank Conn',44.77059,-63.69835,0,1537373
+2055,'2055','Old Sackville Rd / Wynn Castle Dr',44.77292,-63.70053,0,1537374
+2056,'2056','Old Sackville Rd / Connolly Rd',44.77497,-63.70223,0,1537375
+2057,'2057','Old Sackville Rd / 1st St',44.77746,-63.70500,0,1537376
+2058,'2058','Old Sackville Rd @ Civic 1055',44.77858,-63.70846,0,1537377
+2059,'2059','Old Sackville Rd / Lucasville Rd',44.78109,-63.71479,0,1537378
+2060,'2060','Old Sackville Rd / Melham Dr',44.78381,-63.71550,0,1537400
+2061,'2061','Crossfield Rg / Melham Dr',44.78540,-63.71482,0,1537401
+2062,'2062','Crossfield Rg / Sackville Dr',44.78701,-63.71390,0,1537402
+2063,'2063','Sackville Dr / Beaconsfield Way',44.78894,-63.71423,0,1537403
+2064,'2064','Beaconsfield Way / Sackville Dr',44.78970,-63.71599,0,1537404
+2065,'2065','Beaconsfield Way / Darlington Dr',44.78843,-63.71740,0,1537405
+2066,'2066','Hanwell Dr / Darlington Dr',44.78952,-63.71890,0,1537406
+2067,'2067','Hanwell Dr / Barnsley Ct',44.78762,-63.72210,0,1537407
+2068,'2068','Hanwell Dr / Barnsley Ct',44.78747,-63.72215,0,1537408
+2069,'2069','Hanwell Dr / Darlington Dr',44.78951,-63.71873,0,1537409
+2070,'2070','Darlington Dr / Beaconsfield Way',44.78830,-63.71749,0,1537431
+2073,'2073','Crossfield Rg / Sackville Dr',44.78708,-63.71409,0,1537434
+2074,'2074','Crossfield Rg / Melham Dr',44.78516,-63.71487,0,1537435
+2075,'2075','Old Sackville Rd / Melham Dr',44.78301,-63.71510,0,1537436
+2076,'2076','Old Sackville Rd / Lucasville Rd',44.78063,-63.71387,0,1537437
+2077,'2077','Old Sackville Rd @ Civic 1048',44.77862,-63.70916,0,1537438
+2078,'2078','Old Sackville Rd @ Civic 984',44.77744,-63.70511,0,1537439
+2079,'2079','Old Sackville Rd / Connolly Rd',44.77503,-63.70250,0,1537440
+2080,'2080','Old Sackville Rd / Meadowlands Pk Dr',44.77320,-63.70092,0,1537462
+2081,'2081','Old Sackville Rd / Peter Buckley Dr',44.77085,-63.69902,0,1537463
+2082,'2082','Commodore Dr / Eileen Stubbs Ave',44.70049,-63.57855,0,1537464
+2083,'2083','John Savage Ave / Commodore Dr',44.70375,-63.57523,0,1537465
+2084,'2084','John Savage Ave / Garland Ave',44.70533,-63.57587,0,1537466
+2085,'2085','Garland Ave / John Savage Ave',44.70668,-63.57779,0,1537467
+2086,'2086','Garland Ave / Civic 110',44.70605,-63.58082,0,1537468
+2087,'2087','Garland Ave / Wright Ave',44.70748,-63.58290,0,1537469
+2088,'2088','Williams Ave / Dorey Ave',44.71005,-63.58391,0,1537470
+2089,'2089','Williams Ave / Frazee Ave',44.71240,-63.58490,0,1537471
+2090,'2090','Frazee Ave / Dorey Ave',44.71398,-63.58187,0,1537493
+2091,'2091','John Savage Ave / Frazee Ave',44.71550,-63.58001,0,1537494
+2092,'2092','John Savage Ave / Frazee Ave',44.71547,-63.58025,0,1537495
+2093,'2093','Frazee Ave / John Savage Ave',44.71381,-63.58278,0,1537496
+2094,'2094','Williams Ave @ Civic 46',44.71254,-63.58518,0,1537497
+2095,'2095','Williams Ave / Civic 109',44.71017,-63.58423,0,1537498
+2096,'2096','Garland Ave / Wright Ave',44.70767,-63.58315,0,1537499
+2097,'2097','Garland Ave @ Civic 110',44.70592,-63.58092,0,1537500
+2098,'2098','Garland Ave / John Savage Ave',44.70667,-63.57729,0,1537501
+2099,'2099','John Savage Ave / Garland Ave',44.70498,-63.57598,0,1537502
+2100,'2100','John Savage Ave / Commodore Dr',44.70342,-63.57535,0,1538175
+2101,'2101','Commodore Dr / Eileen Stubbs Ave',44.70138,-63.57714,0,1538176
+2102,'2102','Eileen Stubbs Ave / Commodore Dr',44.69914,-63.57912,0,1538177
+2103,'2103','Eileen Stubbs Ave / MacLean Ave',44.69711,-63.57769,0,1538178
+2104,'2104','Brownlow Ave / Eileen Stubbs Ave',44.69554,-63.57589,0,1538179
+2105,'2105','Brownlow Ave / MacLean Ave',44.69578,-63.57899,0,1538180
+2106,'2106','Brownlow Ave / Commodore Dr',44.69843,-63.58041,0,1538181
+2107,'2107','Colford Ave / Akerley Blvd',44.71716,-63.58694,0,1538182
+2108,'2108','Colford Ave / Gloria McCluskey Ave',44.71962,-63.58942,0,1538183
+2109,'2109','Gloria McCluskey Ave / Colford Ave',44.71996,-63.58664,0,1538184
+2110,'2110','Gloria McCluskey Ave / Akerley Blvd',44.71822,-63.58355,0,1538206
+2111,'2111','Millwood Dr / Jackladder Dr',44.79243,-63.70770,0,1538207
+2112,'2112','Jackladder Dr / Slicers Ln',44.79486,-63.70902,0,1538208
+2113,'2113','Jackladder Dr / Rossing Dr',44.79753,-63.70905,0,1538209
+2114,'2114','Rossing Dr @ Civic 270',44.79834,-63.70577,0,1538210
+2115,'2115','Rossing Dr / Larrigan Dr',44.79633,-63.70278,0,1538211
+2116,'2116','Rossing Dr @ Civic 72',44.79396,-63.70059,0,1538212
+2117,'2117','Rossing Dr / Millwood Dr',44.79293,-63.70386,0,1538213
+2118,'2118','Beaver Bank Cross Rd @ Civic 222',44.78958,-63.70545,0,1538214
+2119,'2119','Beaver Bank Cross Rd @ Civic 190',44.78760,-63.70321,0,1538215
+2120,'2120','Beaver Bank Cross Rd / Loggen Rd',44.78530,-63.70253,0,1538237
+2121,'2121','Sackville Dr / Jubilee Ln',44.78171,-63.70394,0,1538238
+2122,'2122','Mumford Rd / Mumford Term B:4',44.64809,-63.62012,0,1538239
+2123,'2123','Beaver Bank Rd / Kinsac Rd',44.84897,-63.68553,0,1538240
+2134,'2134','Starboard Dr @ Civic 530',44.69756,-63.68394,0,1538272
+2135,'2135','Starboard Dr / Friesian Ct',44.69593,-63.68158,0,1538273
+2136,'2136','Starboard Dr @ Civic 350',44.69489,-63.67848,0,1538274
+2137,'2137','Starboard Dr / Sentry Ct',44.69479,-63.67496,0,1538275
+2138,'2138','Starboard Dr / Helmsman Ct',44.69535,-63.67194,0,1538276
+2139,'2139','Starboard Dr / Amirault Ct',44.69651,-63.66864,0,1538277
+2140,'2140','Starboard Dr / Amirault Ct',44.69663,-63.66875,0,1538299
+2141,'2141','Starboard Dr / Cutter Dr',44.69549,-63.67207,0,1538300
+2142,'2142','Starboard Dr / Sentry Ct',44.69492,-63.67510,0,1538301
+2143,'2143','Starboard Dr @ Civic 357',44.69499,-63.67830,0,1538302
+2144,'2144','Starboard Dr / Friesian Ct',44.69606,-63.68150,0,1538303
+2145,'2145','Starboard Dr / Civic 530',44.69809,-63.68429,0,1538304
+2155,'2155','Hammonds Plains Rd / Bedford Hwy',44.71566,-63.67993,0,1538335
+2156,'2156','Williams Lk Rd / Purcells Cv Rd',44.62315,-63.60175,0,1538336
+2157,'2157','Williams Lk Rd / Wyndrock Dr',44.62048,-63.60490,0,1538337
+2158,'2158','Williams Lk Rd / Sagewood Ln',44.61985,-63.60812,0,1538338
+2159,'2159','Williams Lk Rd / Clovis Ave',44.61734,-63.61138,0,1538339
+2160,'2160','Pine Grv Dr @ Civic 29',44.61175,-63.61475,0,1538361
+2161,'2161','Pine Grv Dr / Theakston Ave',44.61021,-63.61229,0,1538362
+2162,'2162','Theakston Ave / Danforth Rd',44.61202,-63.60859,0,1538363
+2163,'2163','Alabaster Way / Drysdale Rd',44.61096,-63.60505,0,1538364
+2164,'2164','Alabaster Way / Quartz Dr',44.60920,-63.60284,0,1538365
+2165,'2165','Alabaster Way / Mica Cr',44.60723,-63.60012,0,1538366
+2166,'2166','Alabaster Way / Lier Rg',44.60574,-63.60175,0,1538367
+2167,'2167','Alabaster Way @ Civic 391',44.60330,-63.60038,0,1538368
+2168,'2168','Alabaster Way @ Civic 475',44.60191,-63.59781,0,1538369
+2169,'2169','Titanium Cr / Travertine Ct',44.60500,-63.59916,0,1538370
+2170,'2170','Alabaster Way / Lier Rg',44.60562,-63.60179,0,1538392
+2171,'2171','Alabaster Way / Mica Cr',44.60723,-63.59998,0,1538393
+2172,'2172','Alabaster Way / Quartz Dr',44.60926,-63.60273,0,1538394
+2173,'2173','Alabaster Way / Drysdale Rd',44.61114,-63.60530,0,1538395
+2174,'2174','Theakston Ave / Danforth Rd',44.61217,-63.60871,0,1538396
+2175,'2175','Pine Grv Dr / Theakston Way',44.61041,-63.61240,0,1538397
+2176,'2176','Pine Grv Dr @ Civic 24',44.61199,-63.61499,0,1538398
+2177,'2177','Williams Lk Rd / Herring Cv Rd',44.61590,-63.61312,0,1538399
+2178,'2178','Williams Lk Rd / Lyons Ave',44.61712,-63.61157,0,1538400
+2179,'2179','Williams Lk Rd / Rainforth Ave',44.61913,-63.60969,0,1538401
+2180,'2180','Williams Lk Rd / Birchview Dr',44.61999,-63.60595,0,1538423
+2181,'2181','Williams Lk Rd / Purcells Cv Rd',44.62172,-63.60216,0,1538424
+2182,'2182','Beaver Bank Rd @ Civic 141',44.78609,-63.69194,0,1538425
+2183,'2183','Beaver Bank Rd / Stokil Dr',44.78870,-63.69210,0,1538426
+2184,'2184','Beaver Bank Rd @ Civic 136',44.78644,-63.69200,0,1538427
+2185,'2185','Beaver Bank Rd / Civic 178',44.78874,-63.69238,0,1538428
+2186,'2186','Beaver Bank Rd / Woodbine Dr',44.79807,-63.68893,0,1538429
+2188,'2188','Parkland Dr / Bethany Way',44.66211,-63.67056,0,1538431
+2189,'2189','Titanium Cr / Alabaster Way',44.60450,-63.60163,0,1538432
+2190,'2190','Southgate Dr / Ravines Dr',44.70334,-63.67885,0,1538454
+2191,'2191','Southgate Dr @ Civic 204',44.70678,-63.67436,0,1538455
+2192,'2192','Southgate Dr / Bedford Hwy',44.71104,-63.67229,0,1538456
+2193,'2193','Southgate Dr / Bedford Hwy',44.71112,-63.67224,0,1538457
+2194,'2194','Southgate Dr / Windstone Cl',44.70897,-63.67516,0,1538458
+2195,'2195','Southgate Dr / Stockton Rg',44.70533,-63.68001,0,1538459
+2196,'2196','Southgate Dr / Windridge Ln',44.70359,-63.67909,0,1538460
+2197,'2197','Hammonds Plains Rd / Bedford Hwy',44.71547,-63.67964,0,1538461
+2198,'2198','Breeze Dr / Castleton Ct',44.70496,-63.54110,0,1538462
+2199,'2199','Breeze Dr / Pompano Ct',44.70331,-63.53946,0,1538463
+2200,'2200','Columbo Dr / Civic 33',44.70469,-63.54397,0,1539136
+2201,'2201','Appian Way / Colonna Pl',44.70253,-63.54168,0,1539137
+2202,'2202','Bedford Hwy @ Civic 656',44.70113,-63.66120,0,1539138
+2203,'2203','Charles Keating Dr / Waverley Rd',44.72645,-63.54244,0,1539139
+2204,'2204','Dorothea Dr / Topsail Blvd',44.67839,-63.51147,0,1539140
+2205,'2205','Astral Dr / Grenadier Dr',44.65776,-63.48346,0,1539141
+2206,'2206','Cowie Hl Rd / Peter Saulnier Dr',44.62730,-63.62526,0,1539142
+2207,'2207','Cowie Hl Rd / Peter Saulnier Dr',44.62716,-63.62537,0,1539143
+2208,'2208','Cowie Hl Rd / Civic 455',44.62474,-63.62300,0,1539144
+2209,'2209','Cowie Hl Rd / Hadley Cr',44.62273,-63.62278,0,1539145
+2210,'2210','Old Sambro Rd / Schnare Rd',44.61771,-63.62168,0,1539167
+2211,'2211','Novalea Dr / Glebe St',44.66978,-63.60937,0,1539168
+2212,'2212','Glebe St / Acadia St',44.67103,-63.60921,0,1539169
+2213,'2213','Kencrest Ave / Glebe St',44.67268,-63.60982,0,1539170
+2214,'2214','Kencrest Ave / Newbery St',44.67348,-63.61335,0,1539171
+2215,'2215','Novalea Dr / Normandy Dr',44.66903,-63.60850,0,1539172
+2216,'2216','Craigburn Dr / Hazelnut Ct',44.72528,-63.54517,0,1539173
+2217,'2217','Craigburn Dr / Civic 278',44.72365,-63.54434,0,1539174
+2218,'2218','Caldwell Rd / Birchill Dr',44.61340,-63.47490,0,1539175
+2219,'2219','Caldwell Rd / Kaleigh Dr',44.61489,-63.47604,0,1539176
+2224,'2224','North Rdg Rd / Novalea Dr',44.67319,-63.61540,0,1539202
+2225,'2225','Cowie Hl Rd / Dunbrack St',44.62245,-63.62313,0,1539203
+2226,'2226','Cowie Hl Rd / Civic 455',44.62493,-63.62310,0,1539204
+2227,'2227','Forest Hls Pky / 2nd Flying Cloud Dr',44.67931,-63.49175,0,1539205
+2228,'2228','Forest Hls Pky / Merrimac Dr',44.67619,-63.49168,0,1539206
+2229,'2229','Forest Hls Pky / 1st Chameau Cr',44.67838,-63.49174,0,1539207
+2230,'2230','Forest Hls Pky / Main St',44.69270,-63.49755,0,1539229
+2231,'2231','Forest Hls Pky / Flying Cloud Dr',44.69090,-63.49543,0,1539230
+2232,'2232','Forest Hls Pky / 2nd Taranaki Dr',44.69007,-63.49421,0,1539231
+2233,'2233','Forest Hls Pky / Main St',44.69298,-63.49756,0,1539232
+2234,'2234','West Bedford P&R B:1',44.72265,-63.69789,0,1539233
+2235,'2235','West Bedford P&R B:2',44.72278,-63.69779,0,1539234
+2236,'2236','West Bedford P&R B:3',44.72330,-63.69773,0,1539235
+2237,'2237','West Bedford P&R B:4',44.72346,-63.69795,0,1539236
+2238,'2238','Main St / Panavista Dr',44.69545,-63.49655,0,1539237
+2239,'2239','Main St / Hillsboro Dr',44.69743,-63.49424,0,1539238
+2240,'2240','Main St / Montague Dr',44.69751,-63.49457,0,1539260
+2241,'2241','Main St / Panavista Dr',44.69525,-63.49712,0,1539261
+2242,'2242','Flying Cloud Dr / Forest Hls Pky',44.69027,-63.49529,0,1539262
+2243,'2243','Flying Cloud Dr @ Civic 268',44.68820,-63.49486,0,1539263
+2244,'2244','Sherwood St / Astral Dr',44.64935,-63.47466,0,1539264
+2245,'2245','Sherwood St / Carlisle Dr',44.64817,-63.47631,0,1539265
+2246,'2246','Sherwood St / Woodbury Dr',44.64778,-63.47842,0,1539266
+2247,'2247','Sherwood St / Shrewsbury Rd',44.64823,-63.48131,0,1539267
+2248,'2248','Albro Lk Rd / Slayter St',44.68000,-63.58335,0,1539268
+2249,'2249','Albro Lk Rd / Sheridan St',44.68270,-63.58042,0,1539269
+2251,'2251','Leaman Dr / Ambercrest Pl',44.68668,-63.58008,0,1539292
+2252,'2252','Crystal Dr / Farthington Pl',44.68732,-63.58192,0,1539293
+2253,'2253','Crystal Dr / Pinecrest Dr',44.68631,-63.58382,0,1539294
+2254,'2254','Flamingo Dr / Oriole St',44.67336,-63.65198,0,1539295
+2255,'2255','Collins Grv / Regal Rd',44.67107,-63.51112,0,1539296
+2256,'2256','Collins Grv @ Civic 70',44.67149,-63.51351,0,1539297
+2257,'2257','Collins Grv / Spg Ave',44.67386,-63.51538,0,1539298
+2258,'2258','Dorothea Dr / Spg Ave',44.67592,-63.51630,0,1539299
+2259,'2259','Dorothea Dr / Donview Dr',44.67787,-63.51418,0,1539300
+2260,'2260','Lucien Dr / Dorothea Dr',44.67839,-63.50844,0,1539322
+2261,'2261','Lucien Dr / Whynette Pl',44.68104,-63.50879,0,1539323
+2262,'2262','Windward Ave / Lucien Dr',44.68205,-63.51074,0,1539324
+2263,'2263','Lea St / Topsail Blvd',44.68205,-63.51242,0,1539325
+2264,'2264','Plz Dr / Topsail Blvd',44.68270,-63.51492,0,1539326
+2265,'2265','Belle Vista Dr / Plz Dr',44.68081,-63.51587,0,1539327
+2266,'2266','Belle Vista Dr / Spg Ave',44.67893,-63.51748,0,1539328
+2267,'2267','Collins Grv / Spg Ave',44.67398,-63.51561,0,1539329
+2268,'2268','Collins Grv @ Civic 83',44.67189,-63.51441,0,1539330
+2269,'2269','Collins Grv / Collins Grv Rg',44.67103,-63.51162,0,1539331
+2271,'2271','Hwy 7 / Hummingbird Dr',44.72386,-63.39698,0,1539354
+2272,'2272','Spg Ave / Grandview Dr',44.67514,-63.51634,0,1539355
+2273,'2273','Barrington St / Hanover St',44.66583,-63.59594,0,1539356
+2274,'2274','Barrington St / Young St',44.66580,-63.59568,0,1539357
+2275,'2275','Sackville Dr @ Civic 622',44.76874,-63.68707,0,1539358
+2276,'2276','Hammonds Plains Rd @ Civic 1948',44.73383,-63.77773,0,1539359
+2277,'2277','Hammonds Plains Rd / Duck Rd',44.73397,-63.77827,0,1539360
+2278,'2278','Joseph Howe Dr / Mumford Rd',44.64954,-63.63053,0,1539361
+2280,'2280','Cutler Ave / Civic 645',44.71330,-63.55958,0,1539384
+2281,'2281','Cutler Ave / Jim Connors Ave',44.71743,-63.55925,0,1539385
+2282,'2282','Cutler Ave / Higney Ave',44.72209,-63.56042,0,1539386
+2283,'2283','Cutler Ave @ Civic 89',44.72198,-63.56579,0,1539387
+2284,'2284','Wilkinson Ave / Cutler Ave',44.71874,-63.56687,0,1539388
+2285,'2285','Wilkinson Ave / Civic 763',44.71628,-63.56740,0,1539389
+2286,'2286','Wilkinson Ave / Jennett Ave',44.71376,-63.56908,0,1539390
+2287,'2287','John Savage Ave / Wright Ave',44.70999,-63.57725,0,1539391
+2288,'2288','Jennett Ave / John Savage Ave',44.71352,-63.57853,0,1539392
+2289,'2289','Jennett Ave / Guildford Ave',44.71409,-63.57556,0,1539393
+2290,'2290','Jennett Ave / Wilkinson Ave',44.71421,-63.56944,0,1539415
+2291,'2291','Wilkinson Ave @ Civic 795',44.71551,-63.56759,0,1539416
+2292,'2292','Wilkinson Ave / Cutler Ave',44.71897,-63.56676,0,1539417
+2293,'2293','Cutler Ave @ Civic 90',44.72218,-63.56559,0,1539418
+2294,'2294','Cutler Ave / Higney Ave',44.72149,-63.56020,0,1539419
+2295,'2295','Cutler Ave / Jim Connors Ave',44.71840,-63.55948,0,1539420
+2296,'2296','Cutler Ave / Civic 680',44.71356,-63.55962,0,1539421
+2297,'2297','Hudson Way @ Civic 10',44.68359,-63.61014,0,1539422
+2298,'2298','Hudson Way / Princess Margaret Blvd',44.68673,-63.60981,0,1539423
+2299,'2299','Willett St / Frederick Ave',44.65114,-63.64420,0,1539424
+2300,'2300','Kelly St / Halef Ct',44.63383,-63.62915,0,1540097
+2302,'2302','Flamingo Dr / Dipper Cr',44.67050,-63.65790,0,1540099
+2303,'2303','Flamingo Dr / Dove St',44.67058,-63.65296,0,1540100
+2304,'2304','Summer St / Veterans Memorial Ln',44.64489,-63.58519,0,1540101
+2305,'2305','Woodland Ave / Slayter St',44.67831,-63.57884,0,1540102
+2306,'2306','Woodland Ave / Slayter St',44.67820,-63.57879,0,1540103
+2307,'2307','Circassion Dr / Ellerslie Cr',44.67832,-63.49397,0,1540104
+2308,'2308','Oxford St / Jubilee Rd',44.64173,-63.59889,0,1540105
+2309,'2309','Larry Uteck Blvd / Broad St',44.71294,-63.71350,0,1540106
+2310,'2310','Larry Uteck Blvd / Brookline Dr',44.71278,-63.71369,0,1540128
+2311,'2311','Susie Lk Cr / Hobsons Lk Dr',44.64596,-63.67942,0,1540129
+2312,'2312','Susie Lk Cr / Civic 420',44.64768,-63.68196,0,1540130
+2313,'2313','Susie Lk Cr / Julius Blvd',44.64906,-63.68510,0,1540131
+2314,'2314','Julius Blvd / Susie Lk Cr',44.65041,-63.68398,0,1540132
+2315,'2315','Julius Blvd / Dugger McNeil Dr',44.65077,-63.68132,0,1540133
+2316,'2316','Julius Blvd / Chain Lk Dr',44.65085,-63.67654,0,1540134
+2317,'2317','Julius Blvd / Dugger McNeil Dr',44.65081,-63.68019,0,1540135
+2318,'2318','Julius Blvd / Susie Lk Cr',44.65054,-63.68419,0,1540136
+2319,'2319','Susie Lk Cr / Julius Blvd',44.64884,-63.68493,0,1540137
+2320,'2320','Susie Lk Cr @ Civic 300',44.64753,-63.68202,0,1540159
+2321,'2321','Susie Lk Cr / Hobsons Lk Dr',44.64584,-63.67959,0,1540160
+2322,'2322','Inglis St / Robie St',44.63301,-63.58192,0,1540161
+2323,'2323','Lancaster Dr / Sea King Dr',44.68721,-63.57163,0,1540162
+2324,'2324','Flying Cloud Dr / Gregory Dr',44.68628,-63.49462,0,1540163
+2327,'2327','Gottingen St / Charles St',44.65651,-63.59006,0,1540166
+2328,'2328','St Margarets Bay Rd / Raines Mill Rd',44.63784,-63.69448,0,1540167
+2329,'2329','Pinecrest Dr @ Civic 112',44.68552,-63.58652,0,1540168
+2330,'2330','St Margarets Bay Rd @ Civic 1917',44.64749,-63.71592,0,1540190
+2332,'2332','Princess Margaret Blvd / Hudson Way',44.68620,-63.60340,0,1540192
+2333,'2333','Barrington St / Artz St',44.65836,-63.58739,0,1540193
+2340,'2340','Hwy 7 / Glasgow Rd',44.71272,-63.43882,0,1540221
+2341,'2341','Hwy 7 / Glasgow Rd',44.71375,-63.43818,0,1540222
+2342,'2342','Cole Harbour Rd / To Pacific Ave',44.67912,-63.46020,0,1540223
+2343,'2343','Cole Harbour Rd @ Civic 1722',44.67965,-63.45883,0,1540224
+6000,'6000','Akerley Blvd / Burnside Dr',44.71512,-63.58903,0,1656378
+6001,'6001','Akerley Blvd @ Civic 75',44.71311,-63.59529,0,1656379
+6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.71119,-63.60138,0,1656380
+6003,'6003','Akerley Blvd / Joseph Zatzman Dr',44.71212,-63.59813,0,1656381
+6005,'6005','Akerley Blvd / Windmill Rd',44.70416,-63.61109,0,1656383
+6006,'6006','Akerley Blvd / Morris Dr',44.70538,-63.60992,0,1656384
+6007,'6007','Akerley Blvd / Isnor Dr',44.70999,-63.60487,0,1656385
+6008,'6008','Akerley Blvd / Burnside Dr',44.71492,-63.59035,0,1656386
+6009,'6009','Akerley Blvd / Fielding Ave',44.70778,-63.60740,0,1656387
+6010,'6010','Akerley Blvd / Isnor Dr',44.71017,-63.60384,0,1656409
+6011,'6011','Akerley Blvd / Joseph Zatzman Dr',44.71119,-63.60093,0,1656410
+6012,'6012','Akerley Blvd / Morris Dr',44.70574,-63.60970,0,1656411
+6013,'6013','Akerley Blvd / Mosher Dr',44.70725,-63.60815,0,1656412
+6014,'6014','Marketplace Dr / Bancroft Ln B:4',44.69850,-63.60722,0,1656413
+6015,'6015','Akerley Blvd / Civic 30',44.70898,-63.60621,0,1656414
+6016,'6016','Akerley Blvd / Burnside Dr',44.71327,-63.59477,0,1656415
+6017,'6017','Albro Lk Rd / Cedar Ct',44.68419,-63.57882,0,1656416
+6018,'6018','Albro Lk Rd / Chapman St',44.67878,-63.58496,0,1656417
+6019,'6019','Albro Lk Rd / Richmond St',44.67771,-63.58626,0,1656418
+6020,'6020','Albro Lk Rd / Chapman St',44.67891,-63.58489,0,1656440
+6021,'6021','Albro Lk Rd / Slayter St',44.68089,-63.58257,0,1656441
+6022,'6022','Albro Lk Rd / Richmond St',44.67792,-63.58617,0,1656442
+6023,'6023','Albro Lk Rd / Cedar Ct',44.68396,-63.57900,0,1656443
+6024,'6024','Albro Lk Rd / Sheridan St',44.68228,-63.58105,0,1656444
+6025,'6025','Alderney Dr / Church St',44.66641,-63.57146,0,1656445
+6026,'6026','Alderney Dr / Church St',44.66632,-63.57147,0,1656446
+6027,'6027','Larry Uteck Blvd / Amesbury Gt',44.70248,-63.70281,0,1656447
+6028,'6028','Alderney Dr / Prince St',44.66383,-63.56620,0,1656448
+6029,'6029','Alderney Dr / Prince St',44.66411,-63.56585,0,1656449
+6030,'6030','/ Alderney Gt Ferry Term B:1',44.66516,-63.56942,0,1656471
+6032,'6032','Alma Cr / Titus St',44.65899,-63.63266,0,1656473
+6033,'6033','Arklow Dr / Ashley Dr',44.67802,-63.48333,0,1656474
+6035,'6035','Arklow Dr / John Stewart Dr',44.67661,-63.48007,0,1656476
+6036,'6036','Arklow Dr / Lanarkshire Ct',44.68142,-63.48685,0,1656477
+6037,'6037','Arklow Dr @ Civic 177',44.67814,-63.48726,0,1656478
+6038,'6038','Arklow Dr / Lanarkshire Ct',44.68144,-63.48699,0,1656479
+6039,'6039','Arklow Dr @ Civic 371',44.68043,-63.48474,0,1656480
+6040,'6040','Arklow Dr / Civic 354',44.68042,-63.48480,0,1656502
+6041,'6041','Arklow Dr @ Civic 253',44.68088,-63.48905,0,1656503
+6042,'6042','Arklow Dr / Ashley Dr',44.67806,-63.48339,0,1656504
+6043,'6043','Arklow Dr / Civic 238',44.68015,-63.48870,0,1656505
+6044,'6044','Arklow Dr / John Stewart Dr',44.67647,-63.48020,0,1656506
+6045,'6045','Arklow Dr / Dalkeith Dr',44.67828,-63.48727,0,1656507
+6046,'6046','Ashgrove Ave / Ancaster Ct',44.66745,-63.48492,0,1656508
+6047,'6047','Ashgrove Ave / Avondale Rd',44.67042,-63.48246,0,1656509
+6048,'6048','Ashgrove Ave / Cole Harbour Rd',44.67197,-63.48314,0,1656510
+6049,'6049','Ashgrove Ave / Addison Pl',44.66847,-63.48312,0,1656511
+6050,'6050','Astral Dr / Caldwell Rd',44.65677,-63.48883,0,1656533
+6051,'6051','Astral Dr / Stratford Dr',44.65314,-63.47897,0,1656534
+6053,'6053','Astral Dr / Brookfield Ave',44.65521,-63.48102,0,1656536
+6054,'6054','Astral Dr / Brookfield Ave',44.65530,-63.48123,0,1656537
+6055,'6055','Astral Dr / Carisbrooke Ln',44.65095,-63.47542,0,1656538
+6056,'6056','Astral Dr / Willowdale Dr',44.65725,-63.48734,0,1656539
+6057,'6057','Astral Dr / Grenadier Dr',44.65713,-63.48260,0,1656540
+6058,'6058','Astral Dr / Shrewsbury Rd',44.65175,-63.47674,0,1656541
+6059,'6059','Astral Dr / Spence Dr',44.65780,-63.48579,0,1656542
+6060,'6060','Astral Dr / Spence Dr',44.65803,-63.48542,0,1656564
+6063,'6063','Alderney Gt Ferry Term B:2',44.66448,-63.56866,0,1656567
+6064,'6064','Alderney Gt Ferry Term B:3',44.66481,-63.56932,0,1656568
+6066,'6066','Atlantic St / Pleasant St',44.64937,-63.54656,0,1656570
+6067,'6067','Bluewater Rd / Larry Uteck Blvd',44.71587,-63.71598,0,1656571
+6069,'6069','Auburn Dr / Auburn Ct',44.69317,-63.48918,0,1656573
+6071,'6071','Auburn Dr / Leander Dr',44.69223,-63.48521,0,1656596
+6072,'6072','Auburn Dr / Bradorian Dr',44.69363,-63.48751,0,1656597
+6073,'6073','Auburn Dr @ Auburn Dr HS',44.68826,-63.48365,0,1656598
+6074,'6074','Auburn Dr / Auburn Ct',44.69333,-63.48839,0,1656599
+6075,'6075','Auburn Dr @ Auburn Dr HS',44.68794,-63.48399,0,1656600
+6076,'6076','Auburn Dr @ Civic 200',44.69104,-63.48444,0,1656601
+6077,'6077','Auburn Dr / Civic 187',44.69145,-63.48476,0,1656602
+6078,'6078','Auburn Dr / Serocco Cr',44.68998,-63.48385,0,1656603
+6080,'6080','Auburn Dr / John Stewart Dr',44.68679,-63.48527,0,1656626
+6081,'6081','Auburn Dr / Leander Dr',44.69245,-63.48544,0,1656627
+6082,'6082','Madeline Pl / Ave Du Portage',44.70165,-63.53511,0,1656628
+6083,'6083','Hudson Way / Baffin Blvd',44.68292,-63.60633,0,1656629
+6085,'6085','Barrington St / Prince St',44.64696,-63.57395,0,1656631
+6087,'6087','Granville St / Duke St B:1',44.64926,-63.57426,0,1656633
+6088,'6088','Barrington St / Artz St',44.65679,-63.58519,0,1656634
+6090,'6090','Barrington St / Devonshire Ave',44.66328,-63.59274,0,1656657
+6092,'6092','Barrington St / Grn St',44.63734,-63.56958,0,1656659
+6093,'6093','Barrington St / Grn St',44.63738,-63.56973,0,1656660
+6096,'6096','Barrington St / South St',44.64025,-63.57057,0,1656663
+6097,'6097','Barrington St / South St',44.64018,-63.57055,0,1656664
+6098,'6098','Barrington St / Vestry St',44.67229,-63.60511,0,1656665
+6099,'6099','Barrington St / Glebe St',44.67243,-63.60529,0,1656666
+6100,'6100','Barrington St @ Civic 3356',44.66863,-63.59999,0,1657339
+6102,'6102','Barrington St / Blowers St',44.64582,-63.57340,0,1657341
+6103,'6103','Barrington St / Prince St',44.64674,-63.57390,0,1657342
+6104,'6104','Barrington St / Nora Bernard St',44.65435,-63.58205,0,1657343
+6105,'6105','Barrington St / Prince St B:4',44.64753,-63.57434,0,1657344
+6107,'6107','Barrington St / George St B:2',44.64828,-63.57472,0,1657346
+6108,'6108','Albemarle St / Duke St B:3',44.64968,-63.57761,0,1657347
+6111,'6111','Barrington St / Inglis St',44.63640,-63.56941,0,1657371
+6112,'6112','Barrington St / Kent St',44.63864,-63.56998,0,1657372
+6113,'6113','Barrington St / Morris St',44.64155,-63.57120,0,1657373
+6114,'6114','Barrington St / Morris St',44.64185,-63.57146,0,1657374
+6115,'6115','Barrington St / North St',44.65935,-63.58868,0,1657375
+6119,'6119','Barrington St / Richmond St',44.66802,-63.59842,0,1657379
+6120,'6120','Barrington St / Richmond St',44.66796,-63.59878,0,1657401
+6121,'6121','Barrington St / Sackville St',44.64563,-63.57322,0,1657402
+6122,'6122','Barrington St / Spg Gdn Rd',44.64473,-63.57285,0,1657403
+6123,'6123','Barrington St / Spg Gdn Rd',44.64326,-63.57195,0,1657404
+6124,'6124','Barrington St / Spg Gdn Rd',44.64400,-63.57246,0,1657405
+6127,'6127','Barrington St / Devonshire Ave',44.66386,-63.59324,0,1657408
+6129,'6129','Basinview Dr / Atlee Ct',44.72344,-63.68128,0,1657410
+6130,'6130','Basinview Dr / Gln Moir Terr',44.71851,-63.68104,0,1657432
+6131,'6131','Basinview Dr / Hammonds Plains Rd',44.71747,-63.68247,0,1657433
+6132,'6132','Basinview Dr / Wimbledon Rd',44.72343,-63.67896,0,1657434
+6133,'6133','Basinview Dr / Meadowbrook Dr',44.72804,-63.68068,0,1657435
+6134,'6134','Basinview Dr / Carriageway Ct',44.72352,-63.68124,0,1657436
+6135,'6135','Basinview Dr @ Civic 142',44.72008,-63.67958,0,1657437
+6136,'6136','Basinview Dr / Wimbledon Rd',44.72337,-63.67939,0,1657438
+6137,'6137','Basinview Dr / Granville Rd',44.72508,-63.68280,0,1657439
+6138,'6138','Basinview Dr / Civic 222',44.72200,-63.67839,0,1657440
+6139,'6139','Basinview Dr / Roy Cr',44.71996,-63.67960,0,1657441
+6140,'6140','Basinview Dr / Gln Moir Terr',44.71835,-63.68123,0,1657463
+6141,'6141','Basinview Dr / Granville Rd',44.72488,-63.68274,0,1657464
+6142,'6142','Basinview Dr / Roy Cr',44.72169,-63.67853,0,1657465
+6143,'6143','St Margarets Bay Rd / Civic 1982',44.64943,-63.71948,0,1657466
+6144,'6144','St Margarets Bay Rd / Beech Tree Run',44.63643,-63.68049,0,1657467
+6145,'6145','St Margarets Bay Rd @ Civic 1817',44.64534,-63.71187,0,1657468
+6147,'6147','St Margarets Bay Rd / North Grn Rd',44.63716,-63.70031,0,1657470
+6148,'6148','St Margarets Bay Rd / Wilbert Devoe Cr',44.64413,-63.70832,0,1657471
+6150,'6150','St Margarets Bay Rd @ Klefenz Ln',44.65361,-63.72822,0,1657494
+6151,'6151','St Margarets Bay Rd / Halfmile Ln',44.65867,-63.73805,0,1657495
+6152,'6152','St Margarets Bay Rd / Halfmile Ln',44.65887,-63.73856,0,1657496
+6153,'6153','St Margarets Bay Rd @ Beechville Pk Dr',44.63810,-63.68996,0,1657497
+6154,'6154','St Margarets Bay Rd / Beech Tree Run',44.63647,-63.68093,0,1657498
+6155,'6155','Horseshoe Lk Dr @ Civic 100',44.64272,-63.67419,0,1657499
+6156,'6156','St Margarets Bay Rd / Greenhead Rd',44.63715,-63.70013,0,1657500
+6157,'6157','St Margarets Bay Rd / Sheppards Run',44.63578,-63.67708,0,1657501
+6158,'6158','St Margarets Bay Rd / Crown Dr',44.64092,-63.62408,0,1657502
+6159,'6159','St Margarets Bay Rd / Fairmount Rd',44.64024,-63.62471,0,1657503
+6160,'6160','St Margarets Bay Rd / Lakelands Blvd',44.63459,-63.67028,0,1657525
+6161,'6161','St Margarets Bay Rd @ Civic 1820',44.64546,-63.71227,0,1657526
+6162,'6162','St Margarets Bay Rd / Beech Tree Run',44.63626,-63.68327,0,1657527
+6163,'6163','St Margarets Bay Rd @ Civic 1445',44.63787,-63.69714,0,1657528
+6164,'6164','St Margarets Bay Rd / Boylan Ln',44.63807,-63.69315,0,1657529
+6165,'6165','St Margarets Bay Rd / Power Terr',44.63793,-63.70364,0,1657530
+6166,'6166','St Margarets Bay Rd / Power Terr',44.63810,-63.70394,0,1657531
+6167,'6167','St Margarets Bay Rd / Donovon Dr',44.63953,-63.70539,0,1657532
+6168,'6168','Bluewater Rd / Civic 223',44.71966,-63.71439,0,1657533
+6169,'6169','St Margarets Bay Rd / Ferndale Dr',44.63972,-63.62696,0,1657534
+6170,'6170','St Margarets Bay Rd @ Civic 1922',44.64783,-63.71681,0,1657556
+6171,'6171','St Margarets Bay Rd / Alderwood Dr',44.63908,-63.62851,0,1657557
+6172,'6172','St Margarets Bay Rd @ Civic 1980',44.64936,-63.71943,0,1657558
+6173,'6173','St Margarets Bay Rd / Klefenz Ln',44.65357,-63.72814,0,1657559
+6174,'6174','St Margarets Bay Rd / Maplewood Dr',44.65733,-63.73622,0,1657560
+6175,'6175','St Margarets Bay Rd / Clearwater Dr',44.65123,-63.72328,0,1657561
+6176,'6176','St Margarets Bay Rd / Devonshire Dr',44.65124,-63.72337,0,1657562
+6177,'6177','St Margarets Bay Rd @ Donovon Dr',44.63969,-63.70544,0,1657563
+6178,'6178','St Margarets Bay Rd @ Civic 1697',44.64240,-63.70718,0,1657564
+6179,'6179','St Margarets Bay Rd / Sheppards Run',44.63547,-63.67614,0,1657565
+6181,'6181','St Margarets Bay Rd / Raines Mill Rd',44.63774,-63.69686,0,1657588
+6182,'6182','St Margarets Bay Rd @ Wilbert Devoe Cr',44.64426,-63.70873,0,1657589
+6183,'6183','St Margarets Bay Rd / Bakers Dr',44.63876,-63.62913,0,1657590
+6184,'6184','St Margarets Bay Rd / Civic 1264',44.63773,-63.68711,0,1657591
+6185,'6185','St Margarets Bay Rd @ Civic 1262',44.63758,-63.68680,0,1657592
+6186,'6186','St Margarets Bay Rd / Governors Lk Dr',44.64229,-63.70718,0,1657593
+6187,'6187','St Margarets Bay Rd / Ferndale Dr',44.63966,-63.62685,0,1657594
+6188,'6188','St Margarets Bay Rd @ Beechville Pk Dr',44.63796,-63.68856,0,1657595
+6189,'6189','St Margarets Bay Rd / Sheppards Run',44.63485,-63.67500,0,1657596
+6191,'6191','Bayers Rd / Windsor St',44.65648,-63.60798,0,1657619
+6192,'6192','Bayers Rd / Windsor St',44.65627,-63.60848,0,1657620
+6193,'6193','Bayers Rd / Coleman Ct',44.65169,-63.61785,0,1657621
+6194,'6194','Bayers Rd @ Bayers Rd Ctr',44.65377,-63.62661,0,1657622
+6195,'6195','Bayers Rd / Oxford St',44.65503,-63.61002,0,1657623
+6196,'6196','Bayers Rd / Oxford St',44.65502,-63.61015,0,1657624
+6197,'6197','Bayers Rd / Romans Ave',44.65256,-63.62130,0,1657625
+6198,'6198','Bayers Rd / Barnstead Ln',44.65316,-63.62292,0,1657626
+6199,'6199','Bayers Rd / Vaughan Ave',44.65201,-63.61856,0,1657627
+6201,'6201','Bayers Rd / Connolly St',44.65369,-63.61237,0,1658301
+6202,'6202','Robie St / Oakland Rd',44.63450,-63.58385,0,1658302
+6203,'6203','Bayers Rd / Connolly St',44.65332,-63.61284,0,1658303
+6204,'6204','Beacon St / Harris Rd',44.67899,-63.54249,0,1658304
+6205,'6205','Beacon St / Harris Rd',44.67901,-63.54245,0,1658305
+6212,'6212','Beaver Bank Rd / Judy Ave',44.77741,-63.69532,0,1658333
+6213,'6213','Beaver Bank Rd / Gloria Ave',44.78044,-63.69300,0,1658334
+6214,'6214','Beaver Bank Rd / Gloria Ave',44.78054,-63.69287,0,1658335
+6215,'6215','Beaver Bank Rd / Douglas Ave',44.77735,-63.69521,0,1658336
+6216,'6216','Bedford Hwy @ MSVU',44.67263,-63.64416,0,1658337
+6217,'6217','Bedford Hwy / Seton Rd',44.67024,-63.64144,0,1658338
+6218,'6218','Bluewater Rd / Command Ct',44.72182,-63.71141,0,1658339
+6219,'6219','Bedford Hwy / MSVU',44.67303,-63.64438,0,1658340
+6220,'6220','Bedford Hwy / Larry Uteck Blvd',44.69981,-63.66097,0,1658362
+6221,'6221','Bedford Hwy / Fern Ave',44.70481,-63.66308,0,1658363
+6222,'6222','Bedford Hwy / Kent Ave',44.69045,-63.65979,0,1658364
+6223,'6223','Bedford Hwy / Lodge Dr',44.69234,-63.66033,0,1658365
+6224,'6224','Bedford Hwy / Welch Ln',44.70621,-63.66419,0,1658366
+6226,'6226','Bedford Hwy / Rocky Lk Dr',44.73527,-63.65521,0,1658368
+6227,'6227','Bedford Hwy / Spg St',44.72656,-63.66614,0,1658369
+6228,'6228','Bedford Hwy / Union St',44.73123,-63.65999,0,1658370
+6229,'6229','Bedford Hwy / Lindsay Hl',44.72119,-63.67149,0,1658371
+6230,'6230','Bedford Hwy / Southgate Dr',44.71091,-63.67121,0,1658393
+6231,'6231','Bluewater Rd / Topsail Ct',44.72296,-63.70971,0,1658394
+6232,'6232','Bedford Hwy / Millview Ave',44.70810,-63.66622,0,1658395
+6233,'6233','Bedford Hwy @ Lodge Dr',44.69250,-63.66047,0,1658396
+6234,'6234','Bedford Hwy / Shaunslieve Dr',44.69605,-63.66085,0,1658397
+6235,'6235','Bedford Hwy / Convoy Run',44.71845,-63.67443,0,1658398
+6236,'6236','Bedford Hwy / Dartmouth Rd',44.73264,-63.65650,0,1658399
+6237,'6237','Bedford Hwy / Dartmouth Rd',44.73131,-63.65917,0,1658400
+6238,'6238','Bedford Hwy / Dartmouth Rd',44.73265,-63.65615,0,1658401
+6239,'6239','Bedford Hwy / Larry Uteck Blvd',44.69816,-63.66092,0,1658402
+6240,'6240','Bedford Hwy / Holland Ave',44.71876,-63.67421,0,1658424
+6241,'6241','Bedford Hwy / Nelsons Lndg Blvd',44.71288,-63.67536,0,1658425
+6242,'6242','Bedford Hwy @ Tall Trees Ln',44.68828,-63.65923,0,1658426
+6243,'6243','Bedford Hwy @ Civic 1743',44.74067,-63.65480,0,1658427
+6244,'6244','Bedford Hwy / Sullivans Hl',44.72254,-63.67068,0,1658428
+6245,'6245','Bedford Hwy / River Ln',44.73762,-63.65440,0,1658429
+6246,'6246','Bedford Hwy / Kearney Lk Rd',44.68119,-63.65847,0,1658430
+6247,'6247','Bedford Hwy / Cresthaven Dr',44.68729,-63.65905,0,1658431
+6248,'6248','Bedford Hwy @ Dakin Dr',44.68628,-63.65934,0,1658432
+6249,'6249','Bedford Hwy / Spg St',44.72706,-63.66582,0,1658433
+6250,'6250','Bedford Hwy / Flamingo Dr',44.67496,-63.64721,0,1658455
+6251,'6251','Bedford Hwy / Flamingo Dr',44.67458,-63.64701,0,1658456
+6252,'6252','Bedford Hwy / Forest Hl Dr',44.67669,-63.64878,0,1658457
+6253,'6253','Bedford Hwy / Moirs Mill Rd',44.71362,-63.67729,0,1658458
+6254,'6254','Bedford Hwy / Hammonds Plains Rd',44.71579,-63.67799,0,1658459
+6255,'6255','Bedford Hwy / Hammonds Plains Rd',44.71610,-63.67826,0,1658460
+6256,'6256','Bedford Hwy / Kearney Lk Rd',44.68311,-63.66093,0,1658461
+6257,'6257','Bedford Hwy / Meadowbrook Dr',44.72482,-63.66914,0,1658462
+6258,'6258','Bedford Hwy @ Millview Ave',44.70847,-63.66695,0,1658463
+6259,'6259','Bedford Hwy / Nelsons Lndg Blvd',44.71293,-63.67515,0,1658464
+6260,'6260','Bedford Hwy / Oakmount Dr',44.73958,-63.65440,0,1658486
+6261,'6261','Bedford Hwy / Meadowbrook Dr',44.72515,-63.66845,0,1658487
+6262,'6262','Bedford Hwy / Torrington Dr',44.68027,-63.65542,0,1658488
+6263,'6263','Bedford Hwy / River Ln',44.73766,-63.65419,0,1658489
+6264,'6264','Bedford Hwy / Watervista Ln',44.67884,-63.65067,0,1658490
+6265,'6265','Bedford Hwy / Vly Rd',44.71726,-63.67680,0,1658491
+6266,'6266','Bedford Hwy / Oakmount Dr',44.74032,-63.65480,0,1658492
+6267,'6267','Cobequid Rd / Nelson Dr',44.76083,-63.65681,0,1658493
+6268,'6268','Bedford Hwy / Kearney Lk Rd',44.68174,-63.65964,0,1658494
+6269,'6269','Bedford Hwy / Bayview Rd',44.66579,-63.63628,0,1658495
+6270,'6270','Bedford Hwy / Dartmouth Rd',44.73326,-63.65598,0,1658517
+6271,'6271','Bedford Hwy / Civic 741',44.70683,-63.66449,0,1658518
+6272,'6272','Bedford Hwy / Larry Uteck Blvd',44.69819,-63.66109,0,1658519
+6273,'6273','Bedford Hwy @ Fern Ave',44.70491,-63.66331,0,1658520
+6274,'6274','Bedford Hwy / Glenmont Ave',44.70949,-63.66873,0,1658521
+6275,'6275','Bedford Hwy / Kearney Lk Rd',44.68273,-63.66082,0,1658522
+6276,'6276','Bedford Hwy @ Kent Ave',44.69078,-63.65996,0,1658523
+6277,'6277','Bedford Hwy / Lindsay Hl',44.72169,-63.67131,0,1658524
+6278,'6278','Bedford Hwy / Sullivans Hl',44.72316,-63.67036,0,1658525
+6279,'6279','Bedford Hwy / Torrington Dr',44.68000,-63.65381,0,1658526
+6280,'6280','Bedford Hwy / Vly Rd',44.71718,-63.67723,0,1658548
+6281,'6281','Bedford Hwy / Rocky Lk Dr',44.73535,-63.65493,0,1658549
+6282,'6282','Bedford Hwy / Hatchery Ln',44.72884,-63.66330,0,1658550
+6283,'6283','Bedford Hwy / 4th St',44.72396,-63.66981,0,1658551
+6284,'6284','Bedford Hwy / Glenmont Ave',44.70952,-63.66863,0,1658552
+6285,'6285','Bedford Hwy / Hatchery Ln',44.72885,-63.66352,0,1658553
+6286,'6286','Bedford Hwy / Seton Rd',44.67035,-63.64134,0,1658554
+6287,'6287','Bedford Hwy / Charlotte Ln',44.69657,-63.66066,0,1658555
+6288,'6288','Bedford Hwy / Watervista Ln',44.67905,-63.65076,0,1658556
+6289,'6289','Bedford Hwy / Bayview Rd',44.66542,-63.63554,0,1658557
+6290,'6290','Bedford Hwy / Southgate Dr',44.71075,-63.67079,0,1658579
+6291,'6291','Bell Rd / Robie St',44.64700,-63.58869,0,1658580
+6292,'6292','Belle Vista Dr / Woodlawn Rd',44.67739,-63.52715,0,1658581
+6293,'6293','Belle Vista Dr @ Civic 35',44.68031,-63.51509,0,1658582
+6294,'6294','Belle Vista Dr / Spg Ave',44.67872,-63.51784,0,1658583
+6297,'6297','Cobequid Term B:1',44.75445,-63.66306,0,1658586
+6298,'6298','Larry Uteck Blvd / Kearney Lk Rd',44.69955,-63.69840,0,1658587
+6299,'6299','Cobequid Term B:2',44.75407,-63.66309,0,1658588
+6302,'6302','Boland Rd / Ranya Ln',44.67279,-63.58074,0,1659263
+6303,'6303','Boland Rd / Victoria Rd',44.67512,-63.57799,0,1659264
+6304,'6304','Boland Rd / Cairn St',44.67363,-63.57969,0,1659265
+6306,'6306','Booth St / Main St',44.68594,-63.52414,0,1659267
+6311,'6311','Prince Albert Rd / Bartlin Rd',44.67986,-63.54909,0,1659293
+6312,'6312','Braemar Dr / Creelman Dr',44.69125,-63.54626,0,1659294
+6313,'6313','Braemar Dr / Braeside Ct',44.68610,-63.54732,0,1659295
+6314,'6314','Braemar Dr / Maple Dr',44.68822,-63.54686,0,1659296
+6315,'6315','Brentwood Ave / Greenwood Ave',44.65496,-63.73344,0,1659297
+6316,'6316','Brentwood Ave / Eisener St',44.65305,-63.73629,0,1659298
+6317,'6317','Brentwood Ave / Rosewood Ave',44.65481,-63.73352,0,1659299
+6318,'6318','Brentwood Ave / Eisener St',44.65342,-63.73558,0,1659300
+6321,'6321','Brookfield Ave / Caldwell Rd',44.65153,-63.48516,0,1659324
+6322,'6322','Brookfield Ave / Willowdale Dr',44.65254,-63.48369,0,1659325
+6323,'6323','Brownlow Ave / Commodore Dr',44.69862,-63.58057,0,1659326
+6325,'6325','Brownlow Ave @ Civic 250',44.69511,-63.57762,0,1659328
+6326,'6326','Brownlow Ave @ Civic 260',44.69547,-63.57563,0,1659329
+6327,'6327','Gary Martin Dr / Utopia Ln',44.72044,-63.70720,0,1659330
+6328,'6328','Brownlow Ave @ Civic 236',44.69560,-63.57892,0,1659331
+6329,'6329','Gary Martin Dr / Larkview Terr',44.71793,-63.70624,0,1659332
+6330,'6330','Gary Martin Dr / Lasalle Ct',44.72291,-63.70551,0,1659354
+6331,'6331','Cain St / Churchill Terr',44.74348,-63.46565,0,1659355
+6332,'6332','Caldwell Rd / Cherrywood Dr',44.66259,-63.49458,0,1659356
+6333,'6333','Caldwell Rd / Cow Bay Rd',44.61124,-63.47312,0,1659357
+6334,'6334','Caldwell Rd / Himmelman Dr',44.60264,-63.46656,0,1659358
+6335,'6335','Caldwell Rd / Lodge Ct',44.67033,-63.50184,0,1659359
+6336,'6336','Caldwell Rd / Sherwood St',44.64836,-63.48280,0,1659360
+6337,'6337','Caldwell Rd / Thorncrest Ct',44.60866,-63.47114,0,1659361
+6338,'6338','Caldwell Rd / Wexford Rd',44.66741,-63.49941,0,1659362
+6339,'6339','Caldwell Rd / Hillside Ln',44.60413,-63.46710,0,1659363
+6340,'6340','Caldwell Rd / Seabreeze Dr',44.60707,-63.46959,0,1659385
+6341,'6341','Caldwell Rd / Nova Terr',44.65759,-63.49027,0,1659386
+6342,'6342','Caldwell Rd / Millbrook Ave',44.65080,-63.48498,0,1659387
+6343,'6343','Caldwell Rd / Delta Dr',44.66517,-63.49684,0,1659388
+6344,'6344','Caldwell Rd / Hampton Grn',44.66845,-63.50055,0,1659389
+6345,'6345','Caldwell Rd / Nova Terr',44.65747,-63.49002,0,1659390
+6346,'6346','Caldwell Rd / Shr Rd',44.60116,-63.46637,0,1659391
+6347,'6347','Caldwell Rd / Wexford Rd',44.66724,-63.49912,0,1659392
+6348,'6348','Caldwell Rd @ Civic 280',44.66044,-63.49254,0,1659393
+6349,'6349','Caldwell Rd / Delta Dr',44.66494,-63.49674,0,1659394
+6350,'6350','Caldwell Rd / Deerbrooke Dr',44.66267,-63.49449,0,1659416
+6351,'6351','Caldwell Rd / Cole Harbour Rd',44.67033,-63.50177,0,1659417
+6352,'6352','Caldwell Rd @ Civic 307',44.66015,-63.49245,0,1659418
+6353,'6353','Caldwell Rd / Hampton Grn',44.66847,-63.50068,0,1659419
+6355,'6355','Caledonia Rd / Roleika Dr',44.68737,-63.53059,0,1659421
+6356,'6356','Caledonia Rd / Stanfield Ave',44.69834,-63.53651,0,1659422
+6357,'6357','Caledonia Rd / Dumbarton Ave',44.69348,-63.53368,0,1659423
+6358,'6358','Caledonia Rd / Gourok Ave',44.69581,-63.53519,0,1659424
+6359,'6359','Caledonia Rd / Main St',44.68511,-63.52956,0,1659425
+6360,'6360','Caledonia Rd / Westwood Dr',44.68893,-63.53127,0,1659447
+6361,'6361','Caledonia Rd / Montebello Dr',44.69989,-63.53780,0,1659448
+6362,'6362','Caledonia Rd / Gourok Ave',44.69595,-63.53538,0,1659449
+6363,'6363','Caledonia Rd / Strath Ln',44.69070,-63.53237,0,1659450
+6364,'6364','Caledonia Rd / Stanfield Ave',44.69814,-63.53666,0,1659451
+6365,'6365','Larry Uteck Blvd / Kearney Lk Rd',44.69968,-63.69744,0,1659452
+6366,'6366','Caledonia Rd / Roleika Dr',44.68752,-63.53079,0,1659453
+6367,'6367','Caledonia Rd / Dumbarton Ave',44.69357,-63.53387,0,1659454
+6368,'6368','Caledonia Rd / Main St',44.68536,-63.52985,0,1659455
+6369,'6369','Caledonia Rd / Paul David Ct',44.69196,-63.53286,0,1659456
+6370,'6370','Caledonia Rd / Westwood Dr',44.68920,-63.53157,0,1659478
+6371,'6371','Caledonia Rd / Kennedy Dr',44.69067,-63.53223,0,1659479
+6372,'6372','Caledonia Rd / Montebello Dr',44.70000,-63.53766,0,1659480
+6375,'6375','Chain Lk Dr / Lakelands Blvd',44.63774,-63.66967,0,1659483
+6376,'6376','Horseshoe Lk Dr / Chain Lk Dr',44.63904,-63.67150,0,1659484
+6378,'6378','Horseshoe Lk Dr / Susie Lk Cr',44.64499,-63.67534,0,1659486
+6379,'6379','Chain Lk Dr / Lakelands Blvd',44.63761,-63.66989,0,1659487
+6381,'6381','Horseshoe Lk Dr / Hobsons Lk Dr',44.63868,-63.67173,0,1659510
+6382,'6382','Chain Lk Dr @ Civic 225',44.65479,-63.67801,0,1659511
+6383,'6383','Larry Uteck Blvd / Civic 1181',44.70179,-63.70211,0,1659512
+6384,'6384','Horseshoe Lk Dr / Civic 174',44.64091,-63.67219,0,1659513
+6386,'6386','Chain Lk Dr / Oland Cr',44.64854,-63.67489,0,1659515
+6387,'6387','Chain Lk Dr / Civic 209',44.65280,-63.67676,0,1659516
+6389,'6389','Chain Lk Dr / Civic 209',44.65136,-63.67610,0,1659518
+6391,'6391','Chain Lk Dr / Civic 201',44.65010,-63.67541,0,1659541
+6392,'6392','Chain Lk Dr @ Civic 230',44.65609,-63.67778,0,1659542
+6393,'6393','Chain Lk Dr @ Civic 201',44.64905,-63.67532,0,1659543
+6394,'6394','Chain Lk Dr @ Civic 209',44.65281,-63.67703,0,1659544
+6395,'6395','Horseshoe Lk Dr / Civic 211',44.64168,-63.67270,0,1659545
+6396,'6396','Chebucto Rd / Oxford St',44.64868,-63.60272,0,1659546
+6398,'6398','Chebucto Rd / Phillip St',44.64453,-63.61757,0,1659548
+6399,'6399','Chebucto Rd / Armdale Rotary',44.64207,-63.61986,0,1659549
+6403,'6403','Chebucto Rd / Benjamin Grn Dr',44.64608,-63.61069,0,1660225
+6404,'6404','Chebucto Rd / Connaught Ave',44.64757,-63.60730,0,1660226
+6405,'6405','Chebucto Rd / Connolly St',44.64816,-63.60491,0,1660227
+6406,'6406','Chebucto Rd / Elm St',44.64791,-63.60566,0,1660228
+6407,'6407','Chebucto Rd / Newton Ave',44.64666,-63.60849,0,1660229
+6408,'6408','Chebucto Rd / Philip St',44.64450,-63.61744,0,1660230
+6409,'6409','Chebucto Rd / Quinn St',44.64577,-63.61277,0,1660231
+6410,'6410','Chebucto Rd / Armdale Rotary',44.64258,-63.61980,0,1660253
+6411,'6411','Chebucto Rd / Roosevelt Dr',44.64353,-63.61880,0,1660254
+6413,'6413','Chebucto Rd / Benjamin Grn Dr',44.64624,-63.61081,0,1660256
+6414,'6414','Chebucto Rd / Quinn St',44.64600,-63.61225,0,1660257
+6415,'6415','Chebucto Rd / Joseph St',44.64360,-63.61859,0,1660258
+6416,'6416','Cherry Brk Rd @ Civic 126',44.70741,-63.47508,0,1660259
+6417,'6417','Cherry Brk Rd / Bundy Ln',44.70957,-63.47997,0,1660260
+6418,'6418','Cherry Brk Rd / Civic 72',44.70461,-63.47213,0,1660261
+6419,'6419','Cherry Brk Rd / Main St',44.70359,-63.47114,0,1660262
+6420,'6420','Cherry Brk Rd / Bundy Ln',44.70846,-63.47833,0,1660284
+6421,'6421','Circassion Dr / Poplar Dr',44.67900,-63.49951,0,1660285
+6422,'6422','Circassion Dr / Poplar Dr',44.67898,-63.49943,0,1660286
+6423,'6423','Circassion Dr / Glenalva Ct',44.67954,-63.49603,0,1660287
+6424,'6424','Circassion Dr / Savona Ct',44.67706,-63.49299,0,1660288
+6426,'6426','Circassion Dr / Ellerslie Cr',44.67907,-63.49443,0,1660290
+6427,'6427','Circassion Dr / Kirtland Ct',44.67945,-63.49712,0,1660291
+6428,'6428','Circassion Dr / Savona Ct',44.67701,-63.49302,0,1660292
+6429,'6429','Cobequid Rd / Nelson Dr',44.76049,-63.65857,0,1660293
+6430,'6430','Cobequid Rd / McIntyre Ln',44.76703,-63.64656,0,1660315
+6431,'6431','Cobequid Rd / Maple Grv Dr',44.76490,-63.64928,0,1660316
+6433,'6433','Cobequid Rd / Pk Ave',44.75482,-63.66209,0,1660318
+6434,'6434','Cobequid Rd / Freer Ln',44.75854,-63.66073,0,1660319
+6435,'6435','Cobequid Rd / Hillside Ave',44.75625,-63.66203,0,1660320
+6436,'6436','Cobequid Rd / Zinck Ave',44.75815,-63.66124,0,1660321
+6438,'6438','Cobequid Rd / Glendale Dr',44.76020,-63.65933,0,1660323
+6439,'6439','Cobequid Rd / Judy Anne Ct',44.76180,-63.65243,0,1660324
+6440,'6440','Cobequid Rd / McVeigh Ct',44.76694,-63.64666,0,1660346
+6441,'6441','Cobequid Rd / Maple Grv Dr',44.76477,-63.64931,0,1660347
+6442,'6442','Cobequid Rd / Hillside Ave',44.75624,-63.66184,0,1660348
+6443,'6443','Cobequid Rd / Judy Anne Ct',44.76147,-63.65342,0,1660349
+6444,'6444','Cobequid Rd / Nelson Dr',44.76080,-63.65672,0,1660350
+6445,'6445','Innovation Dr / Hammonds Plains Rd',44.72539,-63.69581,0,1660351
+6447,'6447','Coburg Rd / Lord Dalhousie Dr',44.63849,-63.59382,0,1660353
+6448,'6448','Coburg Rd / Henry St',44.63962,-63.58864,0,1660354
+6449,'6449','Coburg Rd / Lemarchant St',44.63897,-63.59154,0,1660355
+6450,'6450','Coburg Rd / Lemarchant St',44.63912,-63.59083,0,1660377
+6451,'6451','Coburg Rd / Lilac St',44.63823,-63.59447,0,1660378
+6452,'6452','Coburg Rd / Robie St',44.64009,-63.58736,0,1660379
+6453,'6453','Coburg Rd / Oxford St',44.63801,-63.59591,0,1660380
+6454,'6454','Coburg Rd / Henry St',44.63951,-63.58916,0,1660381
+6455,'6455','Cogswell St / Gottingen St',44.65074,-63.58065,0,1660382
+6463,'6463','Colby Dr / Becks Way',44.66095,-63.47807,0,1660411
+6464,'6464','Colby Dr @ Civic 239',44.66523,-63.47802,0,1660412
+6465,'6465','Colby Dr / Bellroyal Ct',44.66360,-63.47769,0,1660413
+6466,'6466','Colby Dr / Delta Dr',44.66641,-63.49135,0,1660414
+6467,'6467','Colby Dr / Autumn Pl',44.66652,-63.48553,0,1660415
+6468,'6468','Colby Dr / Balsam Pl',44.66543,-63.48345,0,1660416
+6469,'6469','Colby Dr / Boling Grn Cr',44.66615,-63.48009,0,1660417
+6470,'6470','Colby Dr / Castlewood Dr',44.66319,-63.48694,0,1660439
+6471,'6471','Colby Dr / Crestwood Dr',44.66195,-63.48309,0,1660440
+6472,'6472','Colby Dr / Deerbrooke Dr',44.66403,-63.49010,0,1660441
+6473,'6473','Colby Dr / Grenadier Dr',44.66051,-63.48120,0,1660442
+6474,'6474','Cole Harbour Rd / Caldwell Rd',44.67115,-63.50023,0,1660443
+6475,'6475','Cole Harbour Rd / Armbro Ln',44.67206,-63.48581,0,1660444
+6476,'6476','Cole Harbour Rd / Hugh Allen Dr',44.67131,-63.49574,0,1660445
+6477,'6477','Cole Harbour Rd / Cumberland Dr',44.67170,-63.48901,0,1660446
+6478,'6478','Cole Harbour Rd / Otago Dr',44.67136,-63.49949,0,1660447
+6479,'6479','Cole Harbour Rd / Hugh Allen Dr',44.67149,-63.49530,0,1660448
+6480,'6480','Cole Harbour Rd / Hugh Allen Dr',44.67166,-63.49196,0,1660470
+6481,'6481','Cole Harbour Rd / Dorothea Dr',44.67121,-63.50157,0,1660471
+6482,'6482','Cole Harbour Rd / Cumberland Dr',44.67150,-63.49263,0,1660472
+6483,'6483','Colford Ave / Akerley Blvd',44.71684,-63.58692,0,1660473
+6484,'6484','Colonna Pl / Montebello Dr',44.69960,-63.53986,0,1660474
+6487,'6487','Gary Martin Dr / Utopia Ln',44.72048,-63.70709,0,1660477
+6488,'6488','Commodore Dr / Brownlow Ave',44.69998,-63.58178,0,1660478
+6489,'6489','Gary Martin Dr / Lasalle Ct',44.72284,-63.70553,0,1660479
+6490,'6490','Commodore Dr / Brownlow Ave',44.69979,-63.58192,0,1660501
+6491,'6491','Gary Martin Dr / Capstone Cr',44.71807,-63.70621,0,1660502
+6492,'6492','Connaught Ave / Chisholm Ave',44.65801,-63.61891,0,1660503
+6493,'6493','Connaught Ave / Regent Rd',44.65592,-63.61749,0,1660504
+6494,'6494','Connaught Ave / 3rd St',44.64481,-63.60610,0,1660505
+6495,'6495','Connaught Ave / Oak St',44.64571,-63.60625,0,1660506
+6496,'6496','Connaught Ave / Chester Ave',44.65483,-63.61715,0,1660507
+6497,'6497','Connaught Ave / Chester Ave',44.65480,-63.61687,0,1660508
+6498,'6498','Connaught Ave / Roslyn Rd',44.65262,-63.61533,0,1660509
+6499,'6499','Connaught Ave / Chisholm Ave',44.65852,-63.61891,0,1660510
+6500,'6500','Connaught Ave / Bayers Rd',44.65267,-63.61574,0,1661183
+6505,'6505','Horseshoe Lk Dr @ Civic 59',44.64395,-63.67464,0,1661188
+6509,'6509','Cow Bay Rd / Disciples Way',44.61215,-63.49166,0,1661192
+6510,'6510','Cow Bay Rd / Oceanlea Dr',44.61168,-63.47609,0,1661214
+6511,'6511','Cow Bay Rd / Briarwood Dr',44.61185,-63.48746,0,1661215
+6512,'6512','Cow Bay Rd / Garrison Dr',44.61124,-63.48018,0,1661216
+6513,'6513','Cow Bay Rd / Yorks Ln',44.61086,-63.48475,0,1661217
+6514,'6514','Cowie Hl Rd / Margate Dr',44.63217,-63.61944,0,1661218
+6515,'6515','Cowie Hl Rd / Limerick Rd',44.63158,-63.62166,0,1661219
+6516,'6516','Cowie Hl Rd / Margate Dr',44.63208,-63.61996,0,1661220
+6517,'6517','Cowie Hl Rd / Limerick Rd',44.63171,-63.62155,0,1661221
+6518,'6518','Cranberry Cr @ Civic 71',44.68199,-63.50190,0,1661222
+6519,'6519','Cranberry Cr / Orquel Cr',44.68658,-63.50365,0,1661223
+6520,'6520','Cranberry Cr / Meridian Ct',44.68482,-63.50266,0,1661245
+6521,'6521','Cranberry Cr / Valkyrie Cr',44.68119,-63.50014,0,1661246
+6522,'6522','Cranberry Cr / Orquel Cr',44.68710,-63.50386,0,1661247
+6523,'6523','Cranberry Cr / Meridian Ct',44.68505,-63.50293,0,1661248
+6524,'6524','Cranberry Cr @ Civic 100',44.68260,-63.50233,0,1661249
+6525,'6525','Cranberry Cr / Valkyrie Cr',44.68128,-63.50002,0,1661250
+6526,'6526','Crichton Ave / Oak St',44.67429,-63.56456,0,1661251
+6527,'6527','Crichton Ave / Dahlia St',44.67271,-63.56453,0,1661252
+6528,'6528','Crichton Ave / Boathouse Ln',44.67613,-63.56374,0,1661253
+6529,'6529','Crichton Ave / Lakeside Terr',44.68120,-63.56186,0,1661254
+6530,'6530','Crichton Ave / Oakdale Cr',44.67802,-63.56396,0,1661276
+6531,'6531','Crichton Ave / Lakeview Ave',44.67863,-63.56420,0,1661277
+6532,'6532','Crichton Ave / Hillside Ave',44.68118,-63.56193,0,1661278
+6533,'6533','Bluewater Rd / Topsail Ct',44.72473,-63.70828,0,1661279
+6534,'6534','Crichton Ave / Boathouse Ln',44.67628,-63.56368,0,1661280
+6535,'6535','Crichton Ave / Dahlia St',44.67290,-63.56464,0,1661281
+6536,'6536','Crichton Ave / Hawthorne St',44.67433,-63.56449,0,1661282
+6537,'6537','Crichton Ave / Ochterloney St',44.67142,-63.56425,0,1661283
+6538,'6538','Crichton Ave / Ochterloney St',44.67137,-63.56411,0,1661284
+6539,'6539','Crystal Dr / Franklyn Ct',44.68641,-63.58361,0,1661285
+6540,'6540','Crystal Dr / Primrose St',44.68722,-63.58180,0,1661307
+6541,'6541','Cumberland Dr / Colby Dr',44.66848,-63.49053,0,1661308
+6542,'6542','Cumberland Dr / Cole Harbour Rd',44.67070,-63.48970,0,1661309
+6544,'6544','Cunard St / Windsor St',44.65034,-63.59468,0,1661311
+6545,'6545','Cunard St / Hunter St',44.65037,-63.59435,0,1661312
+6549,'6549','Innovation Dr / Gary Martin Dr',44.72378,-63.70344,0,1661316
+6550,'6550','Dartmouth Rd / Eaglewood Dr',44.72692,-63.64398,0,1661338
+6551,'6551','Dartmouth Rd / Brentwood Dr',44.72833,-63.64660,0,1661339
+6552,'6552','Dartmouth Rd / Eaglewood Dr',44.72650,-63.64351,0,1661340
+6553,'6553','Dartmouth Rd / North St',44.73051,-63.65574,0,1661341
+6554,'6554','Dartmouth Rd / OBrine St',44.72831,-63.64939,0,1661342
+6555,'6555','Dartmouth Rd / Dartmoor Cr',44.72824,-63.64635,0,1661343
+6556,'6556','Dartmouth Rd / Ridgevale Dr',44.72837,-63.64957,0,1661344
+6557,'6557','Dartmouth Rd / Wardour St',44.72959,-63.65523,0,1661345
+6559,'6559','Dentith Rd / Herring Cv Rd',44.61319,-63.61840,0,1661347
+6560,'6560','Dentith Rd @ Lanark St',44.61328,-63.61815,0,1661369
+6561,'6561','Dentith Rd @ Lewis St',44.61485,-63.62046,0,1661370
+6562,'6562','Dentith Rd / Lewis St',44.61485,-63.62076,0,1661371
+6563,'6563','Desmond Ave / Bayers Rd',44.65458,-63.62796,0,1661372
+6564,'6564','Desmond Ave / Bayers Rd',44.65468,-63.62797,0,1661373
+6565,'6565','Desmond Ave / Scot St',44.65627,-63.62764,0,1661374
+6566,'6566','Inglis St / McLean St',44.63460,-63.57515,0,1661375
+6567,'6567','Innovation Dr / Gary Martin Dr',44.72380,-63.70330,0,1661376
+6569,'6569','Valour Way / Coxswain Ln',44.66010,-63.58771,0,1661378
+6571,'6571','Valour Way / Ctr Gt',44.65794,-63.58477,0,1661401
+6573,'6573','Valour Way / Rainbow Gt',44.65631,-63.58235,0,1661403
+6574,'6574','Dorothea Dr / Topsail Blvd',44.67879,-63.51215,0,1661404
+6575,'6575','Dorothea Dr / Lucien Dr',44.67800,-63.50903,0,1661405
+6576,'6576','Dorothea Dr / Regal Rd',44.67744,-63.51477,0,1661406
+6577,'6577','Downs Ave / Winter St',44.64298,-63.63395,0,1661407
+6578,'6578','Downs Ave / Milsom St',44.64181,-63.63650,0,1661408
+6579,'6579','Downsview Plz / Sackville Dr',44.77163,-63.69332,0,1661409
+6580,'6580','Duffus St / Barrington St',44.67060,-63.60200,0,1661431
+6581,'6581','Duffus St / Isleville St',44.66666,-63.60705,0,1661432
+6582,'6582','Duffus St / Novalea Dr',44.66772,-63.60567,0,1661433
+6583,'6583','Duffus St / Novalea Dr',44.66725,-63.60648,0,1661434
+6584,'6584','Duffus St / Acadia St',44.66848,-63.60484,0,1661435
+6585,'6585','Duffus St @ Agricola St',44.66582,-63.60850,0,1661436
+6586,'6586','Duffus St / Albert St',44.66920,-63.60363,0,1661437
+6587,'6587','Duffus St / Barrington St',44.67049,-63.60189,0,1661438
+6588,'6588','Duffus St / Dartmouth Ave',44.66969,-63.60322,0,1661439
+6591,'6591','Dunbarton Ave / Caledonia Rd',44.69309,-63.53429,0,1661463
+6592,'6592','Dunbarton Ave / Kincardine Dr',44.69246,-63.53675,0,1661464
+6593,'6593','Dunbrack St / Farnham Gt Rd',44.67293,-63.66415,0,1661465
+6594,'6594','Dunbrack St / Knightsridge Dr',44.67050,-63.66280,0,1661466
+6595,'6595','Dunbrack St / Lacewood Dr',44.66355,-63.65494,0,1661467
+6596,'6596','Dunbrack St / Langbrae Dr',44.66976,-63.66252,0,1661468
+6597,'6597','Dunbrack St / Main Ave',44.65313,-63.64996,0,1661469
+6598,'6598','Dunbrack St / Lincoln Cross',44.66641,-63.65880,0,1661470
+6599,'6599','Dunbrack St / Radcliffe Dr',44.66576,-63.65821,0,1661471
+6600,'6600','Dunbrack St / Wentworth Dr',44.67761,-63.66367,0,1662144
+6601,'6601','Dunbrack St / Ross St',44.67692,-63.66335,0,1662145
+6602,'6602','Dunbrack St / Willett St',44.65674,-63.65093,0,1662146
+6604,'6604','Dunbrack St / Main Ave',44.65319,-63.65030,0,1662148
+6605,'6605','Dunbrack St / Birkdale Cr',44.65555,-63.65135,0,1662149
+6607,'6607','Dunbrack St / Farnham Gt Rd',44.67368,-63.66381,0,1662151
+6608,'6608','Old Sambro Rd / Schnare St',44.61717,-63.62169,0,1662152
+6609,'6609','Dutch Vlg Rd / Andrew St',44.65656,-63.63194,0,1662153
+6610,'6610','Joseph Howe Dr / Mumford Rd',44.64904,-63.62989,0,1662175
+6613,'6613','Dutch Vlg Rd / Rosedale Ave',44.65607,-63.63210,0,1662178
+6614,'6614','Dutch Vlg Rd / Rufus Ave',44.65764,-63.63242,0,1662179
+6615,'6615','Dutch Vlg Rd / Deal St',44.65864,-63.63188,0,1662180
+6616,'6616','Dutch Vlg Rd / Percy St',44.65979,-63.63006,0,1662181
+6617,'6617','East Perimeter Rd / Mumford Rd',44.64787,-63.61885,0,1662182
+6618,'6618','East Perimeter Rd 2nd Stop',44.64948,-63.61648,0,1662183
+6619,'6619','East Perimeter Rd / Bayers Rd',44.65119,-63.61637,0,1662184
+6620,'6620','East Perimeter Rd / Parkade',44.65001,-63.61648,0,1662206
+6621,'6621','East Perimeter Rd / Mumford Rd',44.64819,-63.61841,0,1662207
+6622,'6622','Bluewater Rd / Hammonds Plains Rd',44.72654,-63.70744,0,1662208
+6623,'6623','Eileen Stubbs Ave / MacLean Ave',44.69812,-63.57819,0,1662209
+6624,'6624','Eisener St / Wedgewood Ave',44.65334,-63.73790,0,1662210
+6628,'6628','Eisener St / Wedgewood Ave',44.65359,-63.73814,0,1662214
+6629,'6629','Ellenvale Ave / Anderson St',44.67750,-63.52017,0,1662215
+6630,'6630','Ellenvale Ave / Anderson St',44.67746,-63.51989,0,1662237
+6631,'6631','Ellenvale Ave / Alberta St',44.67683,-63.52246,0,1662238
+6632,'6632','Ellenvale Ave / Spg Ave',44.67788,-63.51830,0,1662239
+6633,'6633','Ellenvale Ave / Clifford Dr',44.67629,-63.52577,0,1662240
+6634,'6634','Ellenvale Ave / Waltdale Dr',44.67628,-63.52569,0,1662241
+6635,'6635','Ellenvale Ave / Alberta St',44.67657,-63.52296,0,1662242
+6636,'6636','Ellenvale Ave / Spg Ave',44.67771,-63.51847,0,1662243
+6638,'6638','Dutch Vlg Rd / Sunnybrae Ave',44.65442,-63.63206,0,1662245
+6641,'6641','Eileen Stubbs Ave / MacLean Ave',44.69675,-63.57647,0,1662269
+6642,'6642','1st Lk Dr @ Sackville Lks Pk',44.76893,-63.65153,0,1662270
+6643,'6643','Bedford Windsor Ramp / Windsor St',44.66236,-63.62256,0,1662271
+6644,'6644','Fairview Overpass / Main Ave',44.66203,-63.62857,0,1662272
+6645,'6645','Farnham Gt Rd / Dunbrack St',44.67336,-63.66482,0,1662273
+6647,'6647','Farnham Gt Rd / Ross St',44.67269,-63.66625,0,1662275
+6648,'6648','Farnham Gt Rd / Chelton Woods Ln',44.67201,-63.66823,0,1662276
+6649,'6649','Farnham Gt Rd / Montgomery Ct',44.67230,-63.66991,0,1662277
+6650,'6650','Farnham Gt / Glenbourne Ct',44.67160,-63.67219,0,1662299
+6651,'6651','1st Lk Dr / Sackville Lks Pk',44.76920,-63.65036,0,1662300
+6652,'6652','Farnham Gt Rd / Ross St',44.67301,-63.66609,0,1662301
+6653,'6653','Farnham Gt Rd / Red Fern Terr',44.67137,-63.67418,0,1662302
+6654,'6654','Farnham Gt Rd / Montgomery Ct',44.67212,-63.66833,0,1662303
+6655,'6655','Farnham Gt Rd / Scotch Pine Terr',44.67233,-63.67039,0,1662304
+6656,'6656','Farnham Gt Rd / Parkland Dr',44.67140,-63.67487,0,1662305
+6657,'6657','Radcliffe Dr / Dunbrack St',44.66578,-63.66069,0,1662306
+6658,'6658','Radcliffe Dr / Raleigh Ct',44.66477,-63.66488,0,1662307
+6659,'6659','Radcliffe Dr / Stratford Way',44.66236,-63.66501,0,1662308
+6660,'6660','Lacewood Dr / Willett St',44.66240,-63.65684,0,1662330
+6664,'6664','Forest Hls Pky / Cole Harbour Rd',44.67332,-63.49059,0,1662334
+6666,'6666','Forest Hls Pky / 2nd Chameau Cr',44.68108,-63.49131,0,1662336
+6667,'6667','Forest Hls Pky / Cole Harbour Rd',44.67330,-63.49079,0,1662337
+6668,'6668','Forest Hls Pky / Taranaki Dr',44.68816,-63.49223,0,1662338
+6669,'6669','Forest Hls Pky @ Cole Harbour Pl',44.68360,-63.49090,0,1662339
+6671,'6671','Forest Hls Pky / Cole Harbour Pl',44.68276,-63.49119,0,1662362
+6679,'6679','1st Lk Dr / Cabot Cr',44.77308,-63.65902,0,1662370
+6680,'6680','1st Lk Dr / Crimson Dr',44.77121,-63.65769,0,1662392
+6681,'6681','1st Lk Dr / Cobequid Rd',44.76891,-63.64462,0,1662393
+6682,'6682','1st Lk Dr / Lakehead Ct',44.77753,-63.67321,0,1662394
+6683,'6683','1st Lk Dr / Civic 192',44.77659,-63.66418,0,1662395
+6684,'6684','1st Lk Dr / Quaker Cr',44.77695,-63.66549,0,1662396
+6685,'6685','1st Lk Dr / Cabot Cr',44.77290,-63.65893,0,1662397
+6686,'6686','1st Lk Dr / Cavendish Dr',44.77408,-63.66037,0,1662398
+6687,'6687','1st Lk Dr / Cavendish Dr',44.77408,-63.66054,0,1662399
+6688,'6688','1st Lk Dr / Cobequid Rd',44.76882,-63.64454,0,1662400
+6689,'6689','1st Lk Dr / Crimson Dr',44.77118,-63.65762,0,1662401
+6690,'6690','1st Lk Dr / Lakehead Ct',44.77743,-63.67331,0,1662423
+6691,'6691','1st Lk Dr / Quaker Cr',44.77705,-63.66533,0,1662424
+6692,'6692','1st Lk Dr / Civic 133',44.77755,-63.66808,0,1662425
+6693,'6693','1st Lk Dr / Civic 200',44.77643,-63.66411,0,1662426
+6694,'6694','1st Lk Dr / Civic 133',44.77749,-63.66765,0,1662427
+6695,'6695','1st Lk Dr / Lakehead Ct',44.77733,-63.67136,0,1662428
+6696,'6696','1st Lk Dr / Lakehead Ct',44.77738,-63.67149,0,1662429
+6697,'6697','Flamingo Dr / Bedford Hwy',44.67519,-63.64840,0,1662430
+6698,'6698','Flamingo Dr / Nightingale Dr',44.67051,-63.65772,0,1662431
+6700,'6700','Flamingo Dr / Bedford Hwy',44.67508,-63.64844,0,1663105
+6702,'6702','Flamingo Dr / Meadowlark Cr',44.66941,-63.65606,0,1663107
+6703,'6703','Flamingo Dr / Starling St',44.67445,-63.64988,0,1663108
+6704,'6704','Flamingo Dr / Skylark St',44.67412,-63.64978,0,1663109
+6705,'6705','Flamingo Dr / Canary Cr',44.67120,-63.65238,0,1663110
+6706,'6706','Flamingo Dr / Meadowlark Cr',44.66945,-63.65590,0,1663111
+6709,'6709','Flying Cloud Dr / Nestor Cr',44.68833,-63.49472,0,1663114
+6710,'6710','Flying Cloud Dr / Forest Hls Pky',44.69032,-63.49508,0,1663136
+6712,'6712','Forestglen Dr / Fraser Rd',44.66214,-63.74669,0,1663138
+6713,'6713','Forestglen Dr / Richard St',44.66070,-63.74582,0,1663139
+6715,'6715','Washmill Lk Dr / Chain Lk Dr',44.64706,-63.67252,0,1663141
+6716,'6716','Forestglen Dr / Meadowdale Cr',44.65887,-63.74520,0,1663142
+6717,'6717','Washmill Lk Dr @ Civic 303',44.64812,-63.66439,0,1663143
+6718,'6718','Hammonds Plains Rd / Doyle St',44.71633,-63.68189,0,1663144
+6719,'6719','Washmill Lk Dr / Bently Dr',44.64976,-63.65614,0,1663145
+6722,'6722','Washmill Lk Dr / Abercrombie Ln',44.64984,-63.65255,0,1663169
+6723,'6723','Gaston Rd / Macrae Ave',44.66636,-63.54196,0,1663170
+6724,'6724','Gaston Rd / Regency Dr',44.66636,-63.54208,0,1663171
+6725,'6725','Gaston Rd / Lacomb Dr',44.66445,-63.53362,0,1663172
+6726,'6726','Gaston Rd / Dominion Ct',44.66491,-63.53709,0,1663173
+6727,'6727','Gaston Rd / Marilyn Dr',44.66483,-63.53521,0,1663174
+6728,'6728','Gaston Rd / Dominion Ct',44.66491,-63.53699,0,1663175
+6729,'6729','Gaston Rd / Galaxy Ave',44.66578,-63.54000,0,1663176
+6730,'6730','Gaston Rd / Marilyn Dr',44.66485,-63.53529,0,1663198
+6731,'6731','Gaston Rd / Cleary Dr',44.66552,-63.53917,0,1663199
+6732,'6732','Gaston Rd / Portland St',44.66694,-63.54431,0,1663200
+6733,'6733','George St / Hollis St',44.64836,-63.57359,0,1663201
+6734,'6734','Glebe St / Acadia St',44.67133,-63.60930,0,1663202
+6735,'6735','Gln Mnr Dr / Crichton Ave',44.68323,-63.56092,0,1663203
+6736,'6736','Gln Mnr Dr / Brookdale Cr',44.68340,-63.56038,0,1663204
+6737,'6737','Glendale Dr / Smokey Dr',44.78129,-63.68919,0,1663205
+6738,'6738','Glendale Dr / Chandler Dr',44.76821,-63.66729,0,1663206
+6739,'6739','Glendale Dr / Cobequid Rd',44.76036,-63.66045,0,1663207
+6740,'6740','Glendale Dr / McDougall Ave',44.77293,-63.67537,0,1663229
+6741,'6741','Glendale Dr / McGee Dr',44.76500,-63.66351,0,1663230
+6742,'6742','Glendale Dr / Metropolitan Ave',44.77599,-63.67719,0,1663231
+6743,'6743','Glendale Dr / Metropolitan Ave',44.77749,-63.67926,0,1663232
+6744,'6744','Glendale Dr / Pinehill Dr',44.76992,-63.67208,0,1663233
+6745,'6745','Glendale Dr / Rankin Dr',44.77971,-63.68471,0,1663234
+6746,'6746','Glendale Dr / Riverside Dr',44.77853,-63.68130,0,1663235
+6747,'6747','Glendale Dr / Smokey Dr',44.78140,-63.68922,0,1663236
+6748,'6748','Glendale Dr / Beaver Bank Rd',44.78223,-63.69092,0,1663237
+6749,'6749','Glendale Dr / Chandler Dr',44.76805,-63.66721,0,1663238
+6750,'6750','Glendale Dr / Cobequid Rd',44.76014,-63.66040,0,1663260
+6751,'6751','Glendale Dr / McDougall Ave',44.77309,-63.67555,0,1663261
+6752,'6752','Glendale Dr / McGee Dr',44.76599,-63.66426,0,1663262
+6753,'6753','Glendale Dr / Metropolitan Ave',44.77731,-63.67903,0,1663263
+6754,'6754','Glendale Dr / Metropolitan Ave',44.77598,-63.67698,0,1663264
+6755,'6755','Glendale Dr / Old Beaver Bank Rd',44.78215,-63.69084,0,1663265
+6756,'6756','Glendale Dr / Pinehill Dr',44.77003,-63.67198,0,1663266
+6757,'6757','Glendale Dr / Riverside Dr',44.77828,-63.68085,0,1663267
+6758,'6758','Glendale Dr @ Rankin Dr',44.77957,-63.68414,0,1663268
+6765,'6765','Gloria McCluskey Ave / Akerley Blvd',44.71810,-63.58294,0,1663296
+6766,'6766','Gloria McCluskey Ave / Civic 80',44.72002,-63.58683,0,1663297
+6767,'6767','Colford Ave / Gloria McCluskey Ave',44.71959,-63.58964,0,1663298
+6768,'6768','Gottingen St / Almon St',44.65972,-63.59455,0,1663299
+6769,'6769','Gottingen St / North St',44.65755,-63.59132,0,1663300
+6770,'6770','Gottingen St / Young St',44.66229,-63.59841,0,1663322
+6773,'6773','Gottingen St / Cogswell St',44.65087,-63.58167,0,1663325
+6774,'6774','Gottingen St / Charles St',44.65571,-63.58875,0,1663326
+6775,'6775','Gottingen St / Prince William St',44.65399,-63.58635,0,1663327
+6776,'6776','Gottingen St / Almon St',44.66034,-63.59549,0,1663328
+6777,'6777','Gottingen St / Black St',44.65850,-63.59283,0,1663329
+6778,'6778','Gottingen St / Nora Bernard St',44.65207,-63.58347,0,1663330
+6779,'6779','Gottingen St / Cunard St',44.65324,-63.58519,0,1663331
+6780,'6780','Gottingen St / Buddy Daye St',44.65493,-63.58769,0,1663353
+6781,'6781','Gottingen St / North St',44.65773,-63.59173,0,1663354
+6782,'6782','Gottingen St / Russell St',44.66119,-63.59662,0,1663355
+6783,'6783','Gottingen St / Russell St',44.66186,-63.59770,0,1663356
+6784,'6784','Hammonds Plains Rd / Doyle St',44.71608,-63.68134,0,1663357
+6785,'6785','Gottingen St / Black St',44.65845,-63.59249,0,1663358
+6786,'6786','Gottingen St / Prince William St',44.65352,-63.58560,0,1663359
+6787,'6787','Gottingen St / Uniacke St',44.65562,-63.58872,0,1663360
+6788,'6788','Dutch Vlg Rd / Central Ave',44.65417,-63.63170,0,1663361
+6789,'6789','Caldwell Rd / Kaleigh Dr',44.61462,-63.47607,0,1663362
+6790,'6790','Gottingen St / Nora Bernard St',44.65213,-63.58359,0,1663384
+6793,'6793','Gregory Dr / Flying Cloud Dr',44.68573,-63.49511,0,1663387
+6794,'6794','Gregory Dr / Wildwood Blvd',44.68486,-63.49784,0,1663388
+6795,'6795','Greystone Dr / Cranberry Ct',44.59974,-63.61266,0,1663389
+6796,'6796','Countryview Dr / Shubie Dr',44.70944,-63.56232,0,1663390
+6797,'6797','Countryview Dr / Shubie Dr',44.70602,-63.56357,0,1663391
+6798,'6798','Greystone Dr / Cobalt Walk',44.59943,-63.61458,0,1663392
+6799,'6799','Greystone Dr @ Cranberry Ct',44.59996,-63.61247,0,1663393
+6800,'6800','Herring Cv Rd / Bronson Ave',44.59094,-63.59558,0,1664066
+6801,'6801','Hammonds Plains Rd / 2nd Yankeetown Rd',44.73395,-63.80561,0,1664067
+6802,'6802','Hammonds Plains Rd / Yankeetown Rd',44.72771,-63.81695,0,1664068
+6803,'6803','Hammonds Plains Rd / Brookshire Ct',44.72083,-63.68778,0,1664069
+6804,'6804','Hammonds Plains Rd / Basinview Dr',44.71728,-63.68333,0,1664070
+6805,'6805','Hammonds Plains Rd / Bedford Hls Rd',44.71894,-63.68560,0,1664071
+6806,'6806','Hammonds Plains Rd / Pockwock Rd',44.73554,-63.79197,0,1664072
+6807,'6807','Hammonds Plains Rd / Lucasville Rd',44.73302,-63.76198,0,1664073
+6808,'6808','Hammonds Plains Rd / Gln Arbour Way',44.73377,-63.78342,0,1664074
+6809,'6809','Hammonds Plains Rd / Gln Arbour Way',44.73386,-63.78391,0,1664075
+6810,'6810','Hammonds Plains Rd / Pockwock Rd',44.73492,-63.79085,0,1664097
+6811,'6811','Hammonds Plains Rd / Lucasville Rd',44.73281,-63.76101,0,1664098
+6812,'6812','Hammonds Plains Rd / Crestfield Dr',44.72473,-63.73757,0,1664099
+6813,'6813','Hammonds Plains Rd / Northwood Rd',44.72206,-63.82323,0,1664100
+6814,'6814','Hammonds Plains Rd / Rockcliffe Cr',44.71414,-63.83413,0,1664101
+6815,'6815','Hammonds Plains Rd / Stillwater Lk Dr',44.70754,-63.84885,0,1664102
+6816,'6816','Hammonds Plains Rd / St George Blvd',44.72614,-63.74116,0,1664103
+6817,'6817','Hammonds Plains Rd / St George Blvd',44.72707,-63.74435,0,1664104
+6818,'6818','Hammonds Plains Rd / Brookshire Ct',44.72056,-63.68748,0,1664105
+6819,'6819','Hammonds Plains Rd @ Civic 1541',44.73076,-63.75406,0,1664106
+6820,'6820','Hammonds Plains Rd / Civic 1881',44.73388,-63.77235,0,1664128
+6821,'6821','Hammonds Plains Rd / Civic 2465',44.73406,-63.80566,0,1664129
+6822,'6822','Hammonds Plains Rd / Nottingham Dr',44.71010,-63.84264,0,1664130
+6823,'6823','Hammonds Plains Rd / Ellard Ln',44.73092,-63.75475,0,1664131
+6824,'6824','Hammonds Plains Rd / Winslow Dr',44.70742,-63.84896,0,1664132
+6825,'6825','Hammonds Plains Rd / Lk Dr',44.71890,-63.68569,0,1664133
+6826,'6826','Hammonds Plains Rd / Northwood Rd',44.72214,-63.82331,0,1664134
+6827,'6827','Hammonds Plains Rd / Nottingham Dr',44.70964,-63.84403,0,1664135
+6828,'6828','Hammonds Plains Rd @ Civic 1858',44.73379,-63.77179,0,1664136
+6829,'6829','Hammonds Plains Rd / 1st Yankeetown Rd',44.72769,-63.81683,0,1664137
+6830,'6830','Hammonds Plains Rd / Gatehouse Run',44.72464,-63.73707,0,1664159
+6831,'6831','Hammonds Plains Rd / Rockcliffe Cr',44.71414,-63.83424,0,1664160
+6832,'6832','Harris Rd / Curley Dr',44.68049,-63.54502,0,1664161
+6833,'6833','Harris Rd / Curley Dr',44.68034,-63.54475,0,1664162
+6834,'6834','Hartlen St / Main St',44.68175,-63.53730,0,1664163
+6835,'6835','Hartlen St / Tacoma Dr',44.68123,-63.53731,0,1664164
+6836,'6836','Hawthorne St / Prince Albert Rd',44.67290,-63.56123,0,1664165
+6837,'6837','Hawthorne St / Prince Albert Rd',44.67395,-63.56297,0,1664166
+6838,'6838','Hawthorne St / Prince Albert Rd',44.67306,-63.56136,0,1664167
+6839,'6839','Hawthorne St / Prince Albert Rd',44.67411,-63.56331,0,1664168
+6840,'6840','Bluewater Rd / Hammonds Plains Rd',44.72598,-63.70753,0,1664190
+6841,'6841','Countryview Dr / McClure Cl',44.70269,-63.56539,0,1664191
+6842,'6842','Countryview Dr / Ferindonald Cl',44.70499,-63.56422,0,1664192
+6843,'6843','Hebridean Dr / Brackett Ct',44.57095,-63.56411,0,1664193
+6844,'6844','Herring Cv Rd / Winchester Ave',44.63412,-63.61992,0,1664194
+6845,'6845','Herring Cv Rd / Spry Ave',44.61868,-63.61542,0,1664195
+6846,'6846','Herring Cv Rd / Grn Acres Rd',44.59581,-63.60080,0,1664196
+6847,'6847','Herring Cv Rd / Fotherby Ave',44.58875,-63.59336,0,1664197
+6848,'6848','Herring Cv Rd / Highfield St',44.62564,-63.61699,0,1664198
+6849,'6849','Herring Cv Rd / Lynnett Rd',44.60253,-63.61000,0,1664199
+6850,'6850','Herring Cv Rd / Brighton Ave',44.63028,-63.61814,0,1664221
+6852,'6852','Herring Cv Rd / Catamaran Rd',44.62003,-63.61656,0,1664223
+6853,'6853','Herring Cv Rd / Dentith Rd',44.61359,-63.61689,0,1664224
+6854,'6854','Herring Cv Rd / Civic 600',44.59647,-63.60171,0,1664225
+6855,'6855','Herring Cv Rd / Princeton Ave',44.59271,-63.59715,0,1664226
+6856,'6856','Herring Cv Rd / Cowie Hl Rd',44.63198,-63.61859,0,1664227
+6857,'6857','Herring Cv Rd / Dentith Rd',44.61201,-63.61789,0,1664228
+6858,'6858','Herring Cv Rd / Drysdale Rd',44.60680,-63.61421,0,1664229
+6859,'6859','Herring Cv Rd / Fotherby Ave',44.58904,-63.59353,0,1664230
+6860,'6860','Herring Cv Rd / Glenora Ave',44.62823,-63.61650,0,1664252
+6861,'6861','Herring Cv Rd / Grn Acres Rd',44.59535,-63.59988,0,1664253
+6862,'6862','Herring Cv Rd / Grn Acres Rd',44.59477,-63.59929,0,1664254
+6863,'6863','Herring Cv Rd / Hartlen Ave',44.61370,-63.61650,0,1664255
+6864,'6864','Herring Cv Rd / Levis St',44.61032,-63.61697,0,1664256
+6865,'6865','Herring Cv Rd / Sarah Dr',44.58532,-63.58887,0,1664257
+6866,'6866','Herring Cv Rd / Dentith Rd',44.61248,-63.61752,0,1664258
+6867,'6867','Herring Cv Rd / Williams Lk Rd',44.61611,-63.61444,0,1664259
+6868,'6868','Herring Cv Rd / Osborne St',44.63578,-63.62197,0,1664260
+6869,'6869','Herring Cv Rd / Shoreham Ln',44.62882,-63.61703,0,1664261
+6870,'6870','Herring Cv Rd / McMullen Rd',44.62317,-63.61764,0,1664283
+6871,'6871','Herring Cv Rd / Mont St',44.62305,-63.61785,0,1664284
+6872,'6872','Herring Cv Rd @ Civic 236',44.62048,-63.61682,0,1664285
+6873,'6873','Herring Cv Rd @ Civic 412',44.60837,-63.61556,0,1664286
+6874,'6874','Herring Cv Rd / Drysdale Rd',44.60614,-63.61394,0,1664287
+6875,'6875','Herring Cv Rd / Auburn Ave',44.60475,-63.61253,0,1664288
+6876,'6876','Herring Cv Rd @ Civic 540',44.59969,-63.60614,0,1664289
+6877,'6877','Herring Cv Rd @ Civic 554',44.59871,-63.60482,0,1664290
+6878,'6878','Herring Cv Rd / Barclay Ave',44.58693,-63.59105,0,1664291
+6879,'6879','Herring Cv Rd / Esso Rd',44.58512,-63.58873,0,1664292
+6880,'6880','Herring Cv Rd / Arbutus Ave',44.58222,-63.58425,0,1664314
+6881,'6881','Herring Cv Rd / Dale Ave',44.57990,-63.58017,0,1664315
+6882,'6882','Herring Cv Rd / Civic 862',44.57988,-63.58005,0,1664316
+6883,'6883','Herring Cv Rd @ Civic 865',44.57906,-63.57881,0,1664317
+6884,'6884','Herring Cv Rd @ Civic 872',44.57896,-63.57856,0,1664318
+6885,'6885','Herring Cv Rd / Birch Tree Ln',44.57383,-63.57329,0,1664319
+6886,'6886','Herring Cv Rd / Birch Tree Ln',44.57398,-63.57333,0,1664320
+6887,'6887','Herring Cv Rd / Norawarren Dr',44.57299,-63.57247,0,1664321
+6888,'6888','Herring Cv Rd / Tanglewood Ln',44.57284,-63.57220,0,1664322
+6889,'6889','Herring Cv Rd / Hebridean Dr',44.57081,-63.56913,0,1664323
+6890,'6890','Herring Cv Rd / Cir Dr',44.61870,-63.61515,0,1664345
+6891,'6891','Herring Cv Rd / Highfield St',44.62570,-63.61683,0,1664346
+6892,'6892','Herring Cv Rd / Civic 427',44.60824,-63.61570,0,1664347
+6893,'6893','Herring Cv Rd / Civic 565',44.59892,-63.60525,0,1664348
+6894,'6894','Herring Cv Rd / Barclay Ave',44.58683,-63.59081,0,1664349
+6895,'6895','Herring Cv Rd / Arbutus Ave',44.58189,-63.58371,0,1664350
+6896,'6896','Herring Cv Rd / Gln Baker Dr',44.57699,-63.57624,0,1664351
+6897,'6897','Herring Cv Rd / Greystone Dr',44.60340,-63.61148,0,1664352
+6898,'6898','Herring Cv Rd / Lynnett Rd',44.60202,-63.60938,0,1664353
+6899,'6899','Herring Cv Rd / McIntosh St',44.60087,-63.60769,0,1664354
+6900,'6900','Herring Cv Rd / Melwood Ave',44.63673,-63.62085,0,1665027
+6901,'6901','Herring Cv Rd / Melwood Ave',44.63722,-63.62055,0,1665028
+6902,'6902','Herring Cv Rd / Oceanbreeze Ave',44.57054,-63.56874,0,1665029
+6903,'6903','Herring Cv Rd / Purcells Cv Rd',44.63791,-63.62000,0,1665030
+6904,'6904','Herring Cv Rd / Sylvia Ave',44.60341,-63.61125,0,1665031
+6905,'6905','Herring Cv Rd / Williams Lk Rd',44.61565,-63.61504,0,1665032
+6906,'6906','Herring Cv Rd @ Winchester Ave',44.63265,-63.61842,0,1665033
+6907,'6907','Herring Cv Rd / Levis St',44.61012,-63.61712,0,1665034
+6908,'6908','Herring Cv Rd / Bronson Ave',44.59119,-63.59567,0,1665035
+6909,'6909','Herring Cv Rd / Shoreham Ln',44.62954,-63.61751,0,1665036
+6910,'6910','Herring Cv Rd / Maplewood Dr',44.63489,-63.62107,0,1665058
+6911,'6911','Herring Cv Rd / Woodcrest Ave',44.59263,-63.59718,0,1665059
+6912,'6912','Herring Cv Rd / Gln Baker Dr',44.57719,-63.57658,0,1665060
+6913,'6913','Herring Cv Rd / Barry Cr',44.58352,-63.58656,0,1665061
+6914,'6914','Herring Cv Rd / Barry Cr',44.58351,-63.58665,0,1665062
+6915,'6915','Herring Cv Rd / McIntosh St',44.60050,-63.60737,0,1665063
+6916,'6916','Highfield St / Punch Bowl Dr',44.62674,-63.61756,0,1665064
+6917,'6917','Highfield Pk Dr @ Civic 90',44.68605,-63.59024,0,1665065
+6919,'6919','Highfield Pk Dr / Civic 72',44.68728,-63.59058,0,1665067
+6920,'6920','Highfield Pk Dr @ Civic 60',44.68820,-63.58896,0,1665089
+6921,'6921','Highfield Pk Dr / Civic 65',44.68604,-63.59015,0,1665090
+6922,'6922','Highfield Pk Dr @ Civic 35',44.68864,-63.58777,0,1665091
+6924,'6924','Highfield Pk Dr / True North Cr',44.68961,-63.58580,0,1665093
+6925,'6925','Highfield Pk Dr @ Civic 10',44.69118,-63.58392,0,1665094
+6926,'6926','Highfield Pk Dr @ Civic 68',44.68747,-63.59056,0,1665095
+6927,'6927','Highfield Pk Dr / True North Cr',44.68969,-63.58586,0,1665096
+6928,'6928','Highfield Pk Dr @ Civic 15',44.69068,-63.58441,0,1665097
+6929,'6929','Duffus St / Robie St',44.66528,-63.60976,0,1665098
+6930,'6930','Hammonds Plains Rd / St George Blvd',44.72707,-63.74465,0,1665120
+6931,'6931','Highfield St / Punch Bowl Dr',44.62685,-63.61764,0,1665121
+6932,'6932','Hillsboro Dr / Auburn Dr',44.69374,-63.49188,0,1665122
+6933,'6933','Hillsboro Dr / Auburn Dr',44.69352,-63.49180,0,1665123
+6934,'6934','Hillsboro Dr / Main St',44.69665,-63.49302,0,1665124
+6935,'6935','Hillsboro Dr / Barbara Dr',44.69619,-63.49286,0,1665125
+6937,'6937','Hillsboro Dr / Karen Dr',44.69506,-63.49246,0,1665127
+6938,'6938','Hollis St / Barrington St',44.63909,-63.56936,0,1665128
+6940,'6940','Hubley Ctr',44.70285,-63.85824,0,1665151
+6941,'6941','Main St @ Civic 802',44.69827,-63.49003,0,1665152
+6942,'6942','Main St / Cherry Brk Rd',44.70275,-63.47203,0,1665153
+6943,'6943','Main St / Cherry Brk Rd',44.70278,-63.47109,0,1665154
+6944,'6944','Main St / Maclaughlin Rd',44.69838,-63.48933,0,1665155
+6945,'6945','Main St / Westphal Way',44.70164,-63.47802,0,1665156
+6946,'6946','Main St / Riley Rd',44.70002,-63.48375,0,1665157
+6947,'6947','Main St / Riley Rd',44.69981,-63.48361,0,1665158
+6948,'6948','Main St / Westphal Way',44.70150,-63.47783,0,1665159
+6949,'6949','Ilsley Ave / Halifax Transit',44.69426,-63.58304,0,1665160
+6950,'6950','Ilsley Ave @ Civic 50',44.70255,-63.59151,0,1665182
+6951,'6951','Ilsley Ave / Wright Ave',44.70434,-63.59486,0,1665183
+6952,'6952','Ilsley Ave / Raddall Ave',44.70014,-63.58714,0,1665184
+6953,'6953','Ilsley Ave @ Civic 81',44.70169,-63.58994,0,1665185
+6954,'6954','Ilsley Ave / Civic 81',44.70166,-63.58989,0,1665186
+6955,'6955','Ilsley Ave @ Civic 41',44.70272,-63.59180,0,1665187
+6956,'6956','Ilsley Ave @ Civic 101',44.70012,-63.58712,0,1665188
+6957,'6957','Ilsley Ave / Wright Ave',44.70456,-63.59508,0,1665189
+6958,'6958','Ilsley Ave @ Civic 121',44.69773,-63.58496,0,1665190
+6959,'6959','Ilsley Ave / MacDonald Ave',44.69543,-63.58371,0,1665191
+6962,'6962','Inglis St / Robie St',44.63273,-63.58270,0,1665215
+6963,'6963','Inglis St / Barrington St',44.63599,-63.56994,0,1665216
+6965,'6965','Inglis St @ SMU',44.63317,-63.58098,0,1665218
+6967,'6967','Inglis St / South Bland St',44.63506,-63.57339,0,1665220
+6968,'6968','Inglis St / South Pk St',44.63454,-63.57538,0,1665221
+6969,'6969','Inglis St / Tower Rd',44.63366,-63.57885,0,1665222
+6970,'6970','Inglis St / Tower Rd',44.63413,-63.57728,0,1665244
+6971,'6971','Innovation Dr / Hammonds Plains Rd',44.72501,-63.69603,0,1665245
+6972,'6972','Inglis St / South Bland St',44.63527,-63.57242,0,1665246
+6974,'6974','Inverary Dr / Strath Ln',44.68852,-63.53602,0,1665248
+6976,'6976','James St @ Civic 30',44.65862,-63.74317,0,1665250
+6977,'6977','James St @ Civic 27',44.65864,-63.74321,0,1665251
+6979,'6979','Joseph Howe Dr / Abbott Dr',44.65149,-63.63055,0,1665253
+6980,'6980','Joseph Howe Dr / Abbott Dr',44.65150,-63.63048,0,1665275
+6981,'6981','Joseph Howe Dr / Bayers Rd',44.65265,-63.63027,0,1665276
+6982,'6982','Joseph Howe Dr / Dutch Vlg Rd',44.65844,-63.62913,0,1665277
+6984,'6984','Joseph Howe Dr / Dutch Vlg Rd',44.65830,-63.62906,0,1665279
+6985,'6985','Joseph Howe Dr / Scot St',44.65695,-63.62957,0,1665280
+6986,'6986','Joseph Howe Dr / Scot St',44.65570,-63.62975,0,1665281
+6990,'6990','John Stewart Dr / Inglewood Cr',44.68045,-63.48260,0,1665306
+6991,'6991','John Stewart Dr / Auburn Dr',44.68597,-63.48583,0,1665307
+6992,'6992','John Stewart Dr / Tamara Dr',44.68178,-63.48345,0,1665308
+6993,'6993','John Stewart Dr / Tamara Dr',44.68209,-63.48353,0,1665309
+6994,'6994','John Stewart Dr / Halo Ln',44.67817,-63.48035,0,1665310
+6995,'6995','John Stewart Dr / Gammon Cr',44.68468,-63.48467,0,1665311
+6996,'6996','John Stewart Dr / Roseway Ct',44.68455,-63.48476,0,1665312
+6997,'6997','John Stewart Dr @ Civic 153',44.67912,-63.48124,0,1665313
+6998,'6998','John Stewart Dr / Auburn Dr',44.68605,-63.48589,0,1665314
+6999,'6999','John Stewart Dr / Civic 153',44.67910,-63.48140,0,1665315
+7000,'7000','Johnson Rd / North Preston Rd',44.73929,-63.46498,0,1686169
+7001,'7001','Johnson Rd / Clarence St',44.74254,-63.46816,0,1686170
+7002,'7002','Johnson Rd @ Civic 80',44.74144,-63.46733,0,1686171
+7003,'7003','Johnson Rd @ Civic 60',44.74052,-63.46641,0,1686172
+7004,'7004','Joseph Howe Dr / Craigmore Dr',44.64365,-63.62384,0,1686173
+7005,'7005','Joseph Howe Dr / Ascot Ave',44.64549,-63.62734,0,1686174
+7006,'7006','Joseph Howe Dr / Clinton Ave',44.64259,-63.62127,0,1686175
+7007,'7007','Joseph Howe Dr / Lexington Ave',44.64356,-63.62345,0,1686176
+7008,'7008','Joseph Howe Dr @ Civic 2668',44.64273,-63.62179,0,1686177
+7009,'7009','Joseph Howe Dr / Springvale Ave',44.64788,-63.62963,0,1686178
+7010,'7010','Joseph Howe Dr / Walton Dr',44.64537,-63.62710,0,1686200
+7011,'7011','Joseph Howe Dr / Murdoch Ave',44.64787,-63.62947,0,1686201
+7014,'7014','Larry Uteck Blvd / Bluewater Rd',44.71413,-63.71577,0,1686204
+7015,'7015','Kearney Lk Rd / Broadholme Ln',44.68380,-63.67304,0,1686205
+7016,'7016','Kearney Lk Rd / Castle Hl Dr',44.68411,-63.67369,0,1686206
+7017,'7017','Kearney Lk Rd / Civic 377',44.69701,-63.69637,0,1686207
+7019,'7019','Kearney Lk Rd / Grosvenor Rd',44.68202,-63.66824,0,1686209
+7020,'7020','Kearney Lk Rd / Hamshaw Dr',44.68696,-63.68089,0,1686231
+7021,'7021','Kearney Lk Rd / Hamshaw Dr',44.68851,-63.68404,0,1686232
+7022,'7022','Larry Uteck Blvd / Abbington Ave',44.70475,-63.70597,0,1686233
+7023,'7023','Kearney Lk Rd / Wedgewood Ave',44.68130,-63.66742,0,1686234
+7024,'7024','Kearney Lk Rd / Castle Hl Dr',44.68310,-63.67062,0,1686235
+7025,'7025','Kearney Lk Rd / Dunbrack St',44.68141,-63.66605,0,1686236
+7026,'7026','Larry Uteck Blvd / Bluewater Rd',44.71408,-63.71594,0,1686237
+7027,'7027','Larry Uteck Blvd / Belle St',44.70558,-63.70714,0,1686238
+7028,'7028','Kearney Lk Rd / Civic 83',44.68302,-63.67082,0,1686239
+7030,'7030','Kearney Lk Rd / Hamshaw Dr',44.68806,-63.68294,0,1686262
+7031,'7031','Kearney Lk Rd / Civic 387',44.69696,-63.69647,0,1686263
+7045,'7045','Kempt Rd / Lady Hammond Rd',44.66307,-63.62015,0,1686298
+7047,'7047','Kencrest Ave / Newbery St',44.67290,-63.61112,0,1686300
+7048,'7048','Kencrest Ave @ Newbery St',44.67332,-63.61309,0,1686301
+7049,'7049','Kencrest Ave / Novalea Dr',44.67342,-63.61454,0,1686302
+7050,'7050','Kencrest Ave / Glebe St',44.67253,-63.60964,0,1686324
+7051,'7051','Kennedy Dr / Roleika Dr',44.69149,-63.53068,0,1686325
+7052,'7052','Kennedy Dr @ Civic 37',44.69092,-63.52844,0,1686326
+7053,'7053','Kennedy Dr / David St',44.68931,-63.52702,0,1686327
+7054,'7054','Ketch Harbour Rd / St Pauls Ave',44.56958,-63.56736,0,1686328
+7055,'7055','Ketch Harbour Rd / Vw Royal Dr',44.56776,-63.56654,0,1686329
+7056,'7056','Ketch Harbour Rd / Latter Pond Ln',44.56558,-63.56623,0,1686330
+7057,'7057','Kincardine Dr / Greenoch Dr',44.68993,-63.53613,0,1686331
+7058,'7058','King St / Portland St',44.66582,-63.56704,0,1686332
+7059,'7059','King St / Ochterloney St',44.66643,-63.56813,0,1686333
+7060,'7060','Knightsridge Dr / Dunbrack St',44.67038,-63.66195,0,1686355
+7061,'7061','Knightsridge Dr / Flamingo Dr',44.67180,-63.66019,0,1686356
+7062,'7062','Knightsridge Dr / Flamingo Dr',44.67133,-63.66025,0,1686357
+7063,'7063','Lacewood Dr / Vimy Ave',44.66136,-63.63657,0,1686358
+7064,'7064','Lacewood Dr / Stratford Way',44.65951,-63.66682,0,1686359
+7065,'7065','Lacewood Dr / Braeside Ln',44.66201,-63.64106,0,1686360
+7066,'7066','Lacewood Dr / Clayton Pk Dr',44.66388,-63.64518,0,1686361
+7067,'7067','Lacewood Dr / Dunbrack St',44.66336,-63.65376,0,1686362
+7068,'7068','Lacewood Dr / Glenforest Dr',44.66115,-63.63833,0,1686363
+7069,'7069','Lacewood Dr / Gateway Rd',44.66302,-63.64274,0,1686364
+7072,'7072','Lacewood Dr / Willett St',44.66230,-63.66041,0,1686388
+7073,'7073','Lacewood Dr / Thomas Raddall Dr',44.65988,-63.66570,0,1686389
+7074,'7074','Lacewood Dr / Gateway Rd',44.66338,-63.64354,0,1686390
+7075,'7075','Lacewood Dr / Bayview Rd',44.66392,-63.64533,0,1686391
+7076,'7076','Lacewood Dr / Cedarbrae Ln',44.66414,-63.64874,0,1686392
+7077,'7077','Lacewood Dr / Dunbrack St',44.66346,-63.65382,0,1686393
+7078,'7078','Lacewood Dr / Dunbrack St',44.66236,-63.65616,0,1686394
+7079,'7079','Titus St / Evans Ave',44.66060,-63.63546,0,1686395
+7080,'7080','Lacewood Dr / Parkland Dr',44.65904,-63.66879,0,1686417
+7081,'7081','Lacewood Dr / Parkland Dr',44.65891,-63.66866,0,1686418
+7082,'7082','Lacewood Dr / Willett St',44.66204,-63.65866,0,1686419
+7083,'7083','Lacewood Dr / Glenforest Dr',44.66124,-63.63833,0,1686420
+7084,'7084','Lacewood Dr / Braeside Ln',44.66149,-63.64056,0,1686421
+7085,'7085','Lacewood Dr / Briarwood Cr',44.66429,-63.64842,0,1686422
+7086,'7086','Willett St / Lacewood Dr',44.66166,-63.65734,0,1686423
+7088,'7088','Lady Hammond Rd / Basinview Dr',44.66514,-63.61527,0,1686425
+7089,'7089','Lady Hammond Rd / MacKintosh St',44.66413,-63.61922,0,1686426
+7091,'7091','Lady Hammond Rd / High St',44.66534,-63.61337,0,1686449
+7093,'7093','Lady Hammond Rd / MacKintosh St',44.66413,-63.61971,0,1686451
+7095,'7095','Lady Hammond Rd / Basinview Dr',44.66529,-63.61521,0,1686453
+7096,'7096','Duffus St / Robie St',44.66535,-63.61011,0,1686454
+7097,'7097','Lady Hammond Rd / Robie St',44.66519,-63.61160,0,1686455
+7098,'7098','Lk Loon Rd @ Civic 151',44.70974,-63.49244,0,1686456
+7099,'7099','Lk Loon Rd / Montague Rd',44.70876,-63.50002,0,1686457
+7100,'7100','Lk Loon Rd / Maclaughlin Rd',44.70759,-63.48883,0,1687130
+7101,'7101','Lk Loon Rd / Sparks Rd',44.71049,-63.49591,0,1687131
+7102,'7102','North Preston Rd / Upper Governor St',44.74281,-63.46465,0,1687132
+7103,'7103','Lk Major Rd / Chamberlain Dr',44.70518,-63.46728,0,1687133
+7104,'7104','Lk Major Rd @ Civic 148',44.70986,-63.46783,0,1687134
+7105,'7105','Lk Major Rd / Old German Rd',44.71407,-63.46742,0,1687135
+7106,'7106','Lk Major Rd / Main St',44.70416,-63.46685,0,1687136
+7107,'7107','North Preston Rd / Beals Cr',44.74488,-63.46437,0,1687137
+7108,'7108','Lk Major Rd @ Civic 137',44.70985,-63.46777,0,1687138
+7109,'7109','Lk Major Rd / Old German Rd',44.71158,-63.46757,0,1687139
+7110,'7110','Lk Major Rd / Old German Rd',44.71437,-63.46721,0,1687161
+7111,'7111','Lk Major Rd / Reddy Dr',44.71662,-63.46727,0,1687162
+7112,'7112','Lk Major Rd / Crane Hl Rd',44.70557,-63.46733,0,1687163
+7113,'7113','North Preston Rd / Beals Cr',44.74476,-63.46433,0,1687164
+7114,'7114','Lk Major Rd / Old German Rd',44.71153,-63.46755,0,1687165
+7115,'7115','Lk Major Rd / Reddy Dr',44.71673,-63.46724,0,1687166
+7116,'7116','North Preston Rd / Smith Ln',44.74126,-63.46473,0,1687167
+7117,'7117','North Preston Rd / Johnson Rd',44.73816,-63.46395,0,1687168
+7118,'7118','North Preston Rd / Ernie Ln',44.73831,-63.46414,0,1687169
+7119,'7119','Lakelands Blvd / St Margarets Bay Rd',44.63645,-63.66909,0,1687170
+7120,'7120','Lakelands Blvd / St Margarets Bay Rd',44.63630,-63.66938,0,1687192
+7121,'7121','Lancaster Dr / Dragonfly Ln',44.56596,-63.56192,0,1687193
+7122,'7122','Lancaster Dr / Ketch Harbour Rd',44.56510,-63.56364,0,1687194
+7124,'7124','Larry Uteck Blvd @ Civic 54',44.69859,-63.66422,0,1687196
+7125,'7125','Larry Uteck Blvd / Bedros Ln',44.69847,-63.66531,0,1687197
+7126,'7126','Leaman Dr / Ambercrest Pl',44.68644,-63.58015,0,1687198
+7127,'7127','Leaman Dr / Albro Lk Rd',44.68521,-63.57824,0,1687199
+7128,'7128','Windmill Rd / Wyse Rd',44.66758,-63.57570,0,1687200
+7129,'7129','Windmill Rd / Mott St',44.66753,-63.57843,0,1687201
+7130,'7130','Leeds St / Novalea Dr',44.67021,-63.61078,0,1687223
+7131,'7131','Leeds St / Rosemeade Ave',44.66819,-63.61375,0,1687224
+7133,'7133','Leeds St / Rosemeade Ave',44.66856,-63.61343,0,1687226
+7134,'7134','Leiblin Dr @ 2nd Carnation Cr',44.60406,-63.62614,0,1687227
+7135,'7135','Leiblin Dr @ 2nd Elmdale Cr',44.60192,-63.62880,0,1687228
+7136,'7136','Leiblin Dr / Guildwood Cr',44.59861,-63.63283,0,1687229
+7137,'7137','Leiblin Dr / Avon Cr',44.60630,-63.62364,0,1687230
+7138,'7138','Leiblin Dr / Ivylea Cr',44.59576,-63.63610,0,1687231
+7139,'7139','Leiblin Dr / Avon Cr',44.60607,-63.62390,0,1687232
+7140,'7140','Leiblin Dr / Carnation Cr',44.60351,-63.62700,0,1687254
+7141,'7141','Leiblin Dr / Elmdale Cr',44.60188,-63.62897,0,1687255
+7142,'7142','Leiblin Dr / Guildwood Cr',44.59873,-63.63276,0,1687256
+7143,'7143','Leiblin Dr / Juniper Cr',44.59532,-63.63666,0,1687257
+7144,'7144','Lemarchant St / University Ave',44.63665,-63.58978,0,1687258
+7145,'7145','Windmill Rd / Mott St',44.66752,-63.57839,0,1687259
+7146,'7146','Lexington Ave @ Walnut Hall',44.70154,-63.53743,0,1687260
+7147,'7147','Hornes Rd / Cow Bay Rd',44.61269,-63.48798,0,1687261
+7148,'7148','Lucien Dr / Whynette Pl',44.68058,-63.50842,0,1687262
+7156,'7156','Cherry Brk Rd / Riley Rd',44.70852,-63.48545,0,1687291
+7157,'7157','Cherry Brk Rd @ Civic 292',44.70891,-63.48271,0,1687292
+7158,'7158','Main Ave / Willett St',44.65450,-63.64571,0,1687293
+7162,'7162','Main Ave / Dunbrack St',44.65322,-63.64863,0,1687318
+7163,'7163','Main Ave / Ford St',44.66055,-63.63190,0,1687319
+7164,'7164','Main Ave / Hillcrest St',44.65574,-63.64288,0,1687320
+7165,'7165','Main Ave / Maple St',44.65895,-63.63566,0,1687321
+7166,'7166','Main Ave / Titus St',44.65984,-63.63339,0,1687322
+7167,'7167','Main Ave @ Flint St',44.65805,-63.63787,0,1687323
+7168,'7168','Main Ave / Borden St',44.65743,-63.63906,0,1687324
+7169,'7169','Main Ave / Fairview Overpass',44.66199,-63.62897,0,1687325
+7170,'7170','Main Ave / Gebhardt St',44.65717,-63.63987,0,1687347
+7171,'7171','Main Ave / Homeward Ave',44.65591,-63.64276,0,1687348
+7172,'7172','Main Ave / Willett St',44.65435,-63.64629,0,1687349
+7173,'7173','Main St / Gordon Ave',44.68173,-63.54028,0,1687350
+7175,'7175','Main St / Major St',44.68192,-63.53999,0,1687352
+7176,'7176','Flamingo Dr / Swallow St',44.67231,-63.65233,0,1687353
+7177,'7177','Mnr Dr / Peddars Way',44.66946,-63.54381,0,1687354
+7178,'7178','Maplewood Dr / Eisener St',44.65507,-63.73928,0,1687355
+7179,'7179','Maplewood Dr / Eisener St',44.65497,-63.73934,0,1687356
+7180,'7180','Maplewood Dr / St Margarets Bay Rd',44.65650,-63.73662,0,1687378
+7181,'7181','Maplewood Dr / Norway Maple Dr',44.65639,-63.73696,0,1687379
+7182,'7182','Margaret Rd / Mtn Rd',44.63314,-63.62160,0,1687380
+7183,'7183','Margaret Rd / Civic 43',44.63327,-63.61995,0,1687381
+7184,'7184','Margaret Rd / Knob Hl Cr',44.63327,-63.62134,0,1687382
+7186,'7186','Osborne St / Marriott St',44.63331,-63.62590,0,1687384
+7187,'7187','Osborne St / Withrod Dr',44.63439,-63.62471,0,1687385
+7188,'7188','Osborne St / Withrod Dr',44.63428,-63.62478,0,1687386
+7189,'7189','Meadowbrook Dr / Basinview Dr',44.72817,-63.68016,0,1687387
+7190,'7190','Meadowbrook Dr / Beech St',44.72699,-63.67710,0,1687409
+7191,'7191','Meadowbrook Dr / Beech St',44.72723,-63.67754,0,1687410
+7192,'7192','Meadowbrook Dr / Douglas Dr',44.72682,-63.67305,0,1687411
+7193,'7193','Meadowbrook Dr / Pleasant St',44.72580,-63.66979,0,1687412
+7194,'7194','Meadowbrook Dr / Pleasant St',44.72591,-63.67027,0,1687413
+7195,'7195','Meadowbrook Dr / Douglas Dr',44.72692,-63.67271,0,1687414
+7196,'7196','Windmill Rd / Wyse Rd',44.66755,-63.57571,0,1687415
+7197,'7197','Victoria Rd / Gdn Dr',44.67407,-63.57531,0,1687416
+7198,'7198','Merrimac Dr / Forest Hls Pkwy',44.67695,-63.49089,0,1687417
+7199,'7199','Merrimac Dr / Silistria Dr',44.67606,-63.48971,0,1687418
+7200,'7200','Forest Hls Pky / Circassion Dr',44.67612,-63.49183,0,1688091
+7201,'7201','Merrimac Dr / Arklow Dr',44.67545,-63.48654,0,1688092
+7202,'7202','Merrimac Dr / Silistria Dr',44.67595,-63.48958,0,1688093
+7203,'7203','Merrimac Dr / Arklow Dr',44.67548,-63.48650,0,1688094
+7204,'7204','Metropolitan Ave / Polara Dr',44.78168,-63.67306,0,1688095
+7205,'7205','Ilsley Ave @ Halifax Transit',44.69407,-63.58310,0,1688096
+7206,'7206','Metropolitan Ave / Polara Dr',44.78147,-63.67304,0,1688097
+7207,'7207','Metropolitan Ave / 1st Lk Dr',44.77939,-63.67356,0,1688098
+7208,'7208','Metropolitan Ave / 1st Lk Dr',44.77946,-63.67343,0,1688099
+7209,'7209','Micmac Blvd / Brookdale Cr',44.68462,-63.55727,0,1688100
+7210,'7210','Micmac Blvd @ Civic 10',44.68457,-63.55681,0,1688122
+7211,'7211','Micmac Blvd / Horizon Ct',44.68676,-63.56363,0,1688123
+7212,'7212','Bluewater Rd / Topsail Ct',44.72310,-63.70966,0,1688124
+7213,'7213','Micmac Blvd / Horizon Ct',44.68669,-63.56355,0,1688125
+7214,'7214','Micmac Blvd / Woodland Ave',44.68483,-63.56745,0,1688126
+7215,'7215','Micmac Blvd / Woodland Ave',44.68528,-63.56827,0,1688127
+7216,'7216','Bluewater Rd / Command Ct',44.72169,-63.71204,0,1688128
+7217,'7217','Bluewater Rd @ Civic 217',44.72003,-63.71424,0,1688129
+7225,'7225','Millwood Dr @ Civic 65',44.78736,-63.70942,0,1688158
+7226,'7226','Millwood Dr / Kindling Cr',44.78440,-63.70939,0,1688159
+7228,'7228','Millwood Dr / Beaver Bank Cross Rd',44.79145,-63.70309,0,1688161
+7233,'7233','Millwood Dr / Sackville Dr',44.78200,-63.70834,0,1688187
+7237,'7237','Millwood Dr / Rafting Dr',44.79128,-63.70872,0,1688191
+7241,'7241','Milsom Ave / Arlington Ave',44.64316,-63.63856,0,1688216
+7242,'7242','Montague Rd / Main St',44.69872,-63.49325,0,1688217
+7243,'7243','Montague Rd / Serpentine Ave',44.70556,-63.49902,0,1688218
+7244,'7244','Montague Rd / Lk Loon Cr',44.69995,-63.49472,0,1688219
+7245,'7245','Montague Rd / Gander Ave',44.70259,-63.49773,0,1688220
+7246,'7246','Morris St / Birmingham St',44.64067,-63.57551,0,1688221
+7247,'7247','Morris St / Birmingham St',44.64071,-63.57552,0,1688222
+7251,'7251','Mtn Rd / Knob Hl Cr',44.63220,-63.62217,0,1688247
+7252,'7252','Mtn Rd / Sunset Ave',44.63081,-63.62385,0,1688248
+7253,'7253','Mtn Rd / Civic 17',44.63159,-63.62304,0,1688249
+7254,'7254','Mtn Rd / Wildwood Ave',44.63035,-63.62446,0,1688250
+7255,'7255','Mtn Rd / Withrod Dr',44.62904,-63.62594,0,1688251
+7256,'7256','Mt Edward Rd / Belle Vista Dr',44.68328,-63.51847,0,1688252
+7257,'7257','Mt Edward Rd / Lucien Dr',44.68522,-63.51409,0,1688253
+7258,'7258','Mt Edward Rd / Brigadoon Ave',44.68377,-63.51736,0,1688254
+7259,'7259','Mt Edward Rd / Cranberry Cr',44.68897,-63.50552,0,1688255
+7260,'7260','Mt Edward Rd / John Cross Dr',44.68039,-63.52416,0,1688277
+7261,'7261','Mt Edward Rd / John Cross Dr',44.68076,-63.52381,0,1688278
+7262,'7262','Mt Edward Rd / Gerald St',44.68829,-63.50742,0,1688279
+7263,'7263','Mt Edward Rd / Spg Ave',44.68200,-63.52117,0,1688280
+7264,'7264','Mt Edward Rd / Cranberry Cr',44.68904,-63.50516,0,1688281
+7265,'7265','Mt Edward Rd / Stuart Harris Dr',44.68752,-63.50994,0,1688282
+7266,'7266','Mt Edward Rd / Lucien Dr',44.68538,-63.51388,0,1688283
+7267,'7267','Mt Edward Rd / Gerald St',44.68837,-63.50727,0,1688284
+7268,'7268','Mt Edward Rd / Spg Ave',44.68192,-63.52116,0,1688285
+7269,'7269','Mt Edward Rd / Stuart Harris Dr',44.68749,-63.51007,0,1688286
+7270,'7270','Acadia St / Ragus Rd',44.65676,-63.54586,0,1688308
+7271,'7271','Acadia St / Pleasant St',44.65595,-63.54837,0,1688309
+7272,'7272','Mt Hope Ave / Acadia St',44.65544,-63.54347,0,1688310
+7274,'7274','Mumford Rd / Leppert St',44.64632,-63.61676,0,1688312
+7275,'7275','Mumford Rd / Chebucto Rd',44.64591,-63.61568,0,1688313
+7277,'7277','Mumford Rd / Olivet St',44.64949,-63.62414,0,1688315
+7278,'7278','Kearney Lk Rd @ Civic 327',44.69402,-63.69118,0,1688316
+7279,'7279','Mumford Rd / Hemlock St',44.64909,-63.62674,0,1688317
+7280,'7280','Mumford Rd / Ashburn Ave',44.64911,-63.62751,0,1688339
+7281,'7281','Mumford Rd / Ralston Ave',44.64964,-63.62439,0,1688340
+7283,'7283','Mumford Rd / St Agnes S',44.64685,-63.61841,0,1688342
+7285,'7285','Mumford Term B:1',44.64847,-63.62132,0,1688344
+7286,'7286','Nappan Dr / Newcombe Dr',44.78257,-63.67537,0,1688345
+7287,'7287','Nappan Dr / Nictaux Dr',44.78481,-63.67706,0,1688346
+7288,'7288','Nappan Dr / Newcombe Dr',44.78227,-63.67500,0,1688347
+7289,'7289','Nappan Dr / Nictaux Dr',44.78475,-63.67693,0,1688348
+7292,'7292','Sackville Dr / Beaconsfield Way',44.78959,-63.71486,0,1688372
+7294,'7294','Sackville Dr @ Civic 745',44.77301,-63.69210,0,1688374
+7295,'7295','Sackville Dr / Beaver Bank Rd',44.77699,-63.69654,0,1688375
+7296,'7296','Sackville Dr / Hillcrest Ave',44.75753,-63.66793,0,1688376
+7297,'7297','Sackville Dr / Beaver Bank Rd',44.77565,-63.69496,0,1688377
+7299,'7299','Sackville Dr / Leaside Dr',44.76624,-63.68191,0,1688379
+7302,'7302','Sackville Dr / Wilson Lk Dr',44.79475,-63.72200,0,1689054
+7303,'7303','Sackville Dr / Hillcrest Ave',44.75674,-63.66790,0,1689055
+7304,'7304','Sackville Dr / Oakdale Dr',44.76312,-63.67474,0,1689056
+7305,'7305','Sackville Dr / Sackville Cross Rd',44.76742,-63.68416,0,1689057
+7306,'7306','Sackville Dr / Sharon Dr',44.78154,-63.70093,0,1689058
+7307,'7307','Sackville Dr / Stanley St',44.78035,-63.69936,0,1689059
+7308,'7308','Sackville Dr / Hamilton Dr',44.79564,-63.72822,0,1689060
+7310,'7310','Sackville Dr / Civic 614',44.76873,-63.68674,0,1689083
+7311,'7311','Sackville Dr / Sackville Cross Rd',44.76763,-63.68428,0,1689084
+7312,'7312','Sackville Dr @ Civic 475',44.76541,-63.67997,0,1689085
+7313,'7313','Sackville Dr / Armoyan Dr',44.76081,-63.67249,0,1689086
+7314,'7314','Sackville Dr / Beaver Bank Cross Rd',44.78173,-63.70399,0,1689087
+7315,'7315','Sackville Dr / Beaver Bank Connector',44.77720,-63.69694,0,1689088
+7316,'7316','Sackville Dr / Lively Rd',44.79531,-63.72612,0,1689089
+7317,'7317','Sackville Dr / Hamilton Dr',44.79571,-63.72822,0,1689090
+7318,'7318','Sackville Dr @ Civic 791',44.77388,-63.69308,0,1689091
+7319,'7319','Sackville Dr / Lively Rd',44.79526,-63.72547,0,1689092
+7322,'7322','Sackville Dr / Millwood Dr',44.78147,-63.70775,0,1689116
+7323,'7323','Sackville Dr / Oakdale Dr',44.76314,-63.67476,0,1689117
+7324,'7324','Sackville Dr / Wilson Lk Dr',44.79469,-63.72191,0,1689118
+7325,'7325','Sackville Dr / Leaside Dr',44.76689,-63.68297,0,1689119
+7326,'7326','Sackville Dr / Orchard Dr',44.79651,-63.73168,0,1689120
+7327,'7327','Sackville Dr / Pinehill Dr',44.76422,-63.67649,0,1689121
+7328,'7328','Sackville Dr / Pinehill Dr',44.76447,-63.67710,0,1689122
+7329,'7329','Sackville Dr / Riverside Dr',44.76987,-63.68909,0,1689123
+7330,'7330','Sackville Dr / Civic 222',44.75927,-63.66984,0,1689145
+7331,'7331','Sackville Dr / Skyridge Ave',44.76040,-63.67165,0,1689146
+7332,'7332','Sackville Dr @ Civic 1000',44.78091,-63.70005,0,1689147
+7333,'7333','Sackville Dr @ Twelve Mile House Ln',44.75352,-63.66531,0,1689148
+7334,'7334','Sackville Dr / Rosemary Dr',44.79604,-63.73040,0,1689149
+7335,'7335','Sackville Dr @ Civic 1800',44.79851,-63.73447,0,1689150
+7337,'7337','Sackville Dr / Riverside Dr',44.77018,-63.68970,0,1689152
+7338,'7338','Sackville Dr / Twelve Mile House Ln',44.75371,-63.66537,0,1689153
+7339,'7339','Nordic Cr / Stokil Dr',44.78434,-63.67931,0,1689154
+7340,'7340','Nordic Cr / Stokil Dr',44.78440,-63.67929,0,1689176
+7341,'7341','North St / Robie St',44.65502,-63.59445,0,1689177
+7344,'7344','North St / Dublin St',44.65061,-63.60068,0,1689180
+7345,'7345','North St / Dublin St',44.65019,-63.60115,0,1689181
+7346,'7346','North St / Gottingen St',44.65710,-63.59150,0,1689182
+7347,'7347','North St / Gottingen St',44.65706,-63.59142,0,1689183
+7348,'7348','North St / Lorne Terr',44.65831,-63.59025,0,1689184
+7349,'7349','North St / Agricola St',44.65521,-63.59415,0,1689185
+7350,'7350','North St / Fuller Terr',44.65613,-63.59282,0,1689207
+7351,'7351','North St / Brunswick St',44.65819,-63.58973,0,1689208
+7352,'7352','North St / Clifton St',44.65363,-63.59631,0,1689209
+7353,'7353','North St / Clifton St',44.65386,-63.59615,0,1689210
+7354,'7354','North St / Maynard St',44.65613,-63.59276,0,1689211
+7355,'7355','North St / Oxford St',44.64895,-63.60287,0,1689212
+7356,'7356','North St / Oxford St',44.64931,-63.60248,0,1689213
+7357,'7357','North St / Windsor St',44.65209,-63.59852,0,1689214
+7358,'7358','North St / Windsor St',44.65236,-63.59823,0,1689215
+7359,'7359','Sackville Dr @ Civic 1775',44.79699,-63.73222,0,1689216
+7360,'7360','North Rdg Rd / Novalea Dr',44.67321,-63.61543,0,1689238
+7362,'7362','Novalea Dr @ Cabot Pl',44.66655,-63.60492,0,1689240
+7364,'7364','Novalea Dr / Livingstone Pl',44.66409,-63.60114,0,1689242
+7365,'7365','Novalea Dr / Stanley Pl',44.66499,-63.60258,0,1689243
+7366,'7366','Novalea Dr / Young St',44.66264,-63.59881,0,1689244
+7368,'7368','Novalea Dr @ Samuel Prince Mnr',44.67165,-63.61227,0,1689246
+7369,'7369','Novalea Dr / Devonshire Ave',44.66712,-63.60564,0,1689247
+7370,'7370','Novalea Dr / Duffus St',44.66761,-63.60651,0,1689269
+7371,'7371','Novalea Dr / Leeds St',44.67082,-63.61096,0,1689270
+7372,'7372','Kearney Lk Rd / Civic 327',44.69391,-63.69114,0,1689271
+7373,'7373','Novalea Dr / Vestry St',44.66869,-63.60780,0,1689272
+7374,'7374','Novalea Dr / Cabot Pl',44.66620,-63.60418,0,1689273
+7377,'7377','Novalea Dr / Livingstone Pl',44.66376,-63.60046,0,1689276
+7378,'7378','Novalea Dr / Samuel Prince Mnr',44.67168,-63.61232,0,1689277
+7381,'7381','Novalea Dr / Kenny St',44.66474,-63.60187,0,1689301
+7383,'7383','Oathill Cr / Peddars Way',44.67342,-63.54605,0,1689303
+7384,'7384','Oathill Cr / Colburn Walk',44.67353,-63.54583,0,1689304
+7385,'7385','Ochterloney St / Pine St',44.66951,-63.56500,0,1689305
+7386,'7386','Ochterloney St / Irishtown Rd',44.66941,-63.56530,0,1689306
+7388,'7388','Ochterloney St / King St',44.66671,-63.56824,0,1689308
+7389,'7389','Ochterloney St / Wentworth St',44.66762,-63.56722,0,1689309
+7390,'7390','Old Sambro Rd / Sussex St',44.61049,-63.62394,0,1689331
+7391,'7391','Old Sambro Rd / Civic 120',44.61378,-63.62293,0,1689332
+7392,'7392','Old Sambro Rd @ Civic 143',44.61286,-63.62404,0,1689333
+7393,'7393','Old Sambro Rd / Sussex St',44.61019,-63.62407,0,1689334
+7395,'7395','Osborne St / Kelly St',44.63175,-63.62780,0,1689336
+7396,'7396','Osborne St / Sunset Ave',44.63158,-63.62783,0,1689337
+7397,'7397','Osborne St / Marriott St',44.63334,-63.62591,0,1689338
+7398,'7398','Otago Dr / Poplar Dr',44.67255,-63.49878,0,1689339
+7399,'7399','Otago Dr / Poplar Dr',44.67262,-63.49886,0,1689340
+7401,'7401','Oxford St / Coburg Rd',44.63805,-63.59679,0,1690014
+7402,'7402','Oxford St / Waegwoltic Ave',44.63904,-63.59740,0,1690015
+7403,'7403','Oxford St / Jennings St',44.63937,-63.59749,0,1690016
+7404,'7404','Oxford St / Allan St',44.64699,-63.60142,0,1690017
+7405,'7405','Oxford St / Berlin St',44.65101,-63.60525,0,1690018
+7406,'7406','Oxford St / Norwood St',44.64260,-63.59915,0,1690019
+7407,'7407','Oxford St / Almon St',44.65199,-63.60656,0,1690020
+7408,'7408','Oxford St / Almon St',44.65146,-63.60592,0,1690021
+7410,'7410','Oxford St / Jubilee Rd',44.64117,-63.59843,0,1690044
+7411,'7411','Oxford St / North St',44.64934,-63.60292,0,1690045
+7412,'7412','Oxford St / Quinpool Rd',44.64419,-63.60015,0,1690046
+7413,'7413','Oxford St / Bayers Rd',44.65457,-63.60997,0,1690047
+7414,'7414','Oxford St @ Civic 1350',44.63594,-63.59596,0,1690048
+7415,'7415','Oxford St / Edzell Castle Cir',44.63571,-63.59571,0,1690049
+7416,'7416','Oxford St / Liverpool St',44.65340,-63.60840,0,1690050
+7417,'7417','Oxford St / Liverpool St',44.65310,-63.60806,0,1690051
+7418,'7418','Oxford St / North St',44.64932,-63.60307,0,1690052
+7420,'7420','Oxford St / Oak St',44.64646,-63.60126,0,1690075
+7421,'7421','Oxford St / Quinpool Rd',44.64441,-63.60018,0,1690076
+7422,'7422','Oxford St / Summit St',44.65024,-63.60432,0,1690077
+7423,'7423','Oxford St / Young St',44.65440,-63.60977,0,1690078
+7424,'7424','Parkland Dr / Farnham Gt Rd',44.67175,-63.67613,0,1690079
+7425,'7425','Parkland Dr / Carlina Ct',44.67424,-63.67607,0,1690080
+7427,'7427','Parkland Dr / Lacewood Dr',44.66033,-63.66997,0,1690082
+7428,'7428','Parkland Dr / Farnham Gt Rd',44.67044,-63.67593,0,1690083
+7429,'7429','Parkland Dr / Langbrae Dr',44.66553,-63.67197,0,1690084
+7430,'7430','Parkland Dr / Carrington Pl',44.66653,-63.67392,0,1690106
+7431,'7431','Parkland Dr / Carrington Pl',44.66707,-63.67489,0,1690107
+7433,'7433','Parkland Dr / Farnham Gt Rd',44.67076,-63.67586,0,1690109
+7434,'7434','Parkland Dr / Lancaster Dr',44.66431,-63.67083,0,1690110
+7435,'7435','Parkland Dr / Langbrae Dr',44.66602,-63.67258,0,1690111
+7436,'7436','Parkland Dr / Civic 429',44.66831,-63.67528,0,1690112
+7437,'7437','Parkland Dr / Bethany Way',44.66280,-63.67072,0,1690113
+7438,'7438','Parkland Dr / Lacewood Dr',44.66029,-63.67006,0,1690114
+7441,'7441','Peddars Way / Civic 29',44.67028,-63.54405,0,1690138
+7442,'7442','Peddars Way / Bow St',44.67051,-63.54391,0,1690139
+7443,'7443','Peddars Way / Bow St',44.67202,-63.54472,0,1690140
+7444,'7444','Peddars Way / Civic 45',44.67185,-63.54441,0,1690141
+7445,'7445','Washmill Lk / Abercrombie Ln',44.64967,-63.65198,0,1690142
+7446,'7446','Washmill Lk Dr / Bently Dr',44.64983,-63.65636,0,1690143
+7449,'7449','Pinecrest Dr / Albro Lk Rd',44.68344,-63.58002,0,1690146
+7450,'7450','Pinecrest Dr / Albro Lk Rd',44.68346,-63.58008,0,1690168
+7451,'7451','Pinecrest Dr / Brule St',44.68364,-63.58723,0,1690169
+7452,'7452','Pinecrest Dr @ Civic 103',44.68607,-63.58574,0,1690170
+7455,'7455','Pinecrest Dr @ Civic 123',44.68486,-63.58718,0,1690173
+7456,'7456','Pinecrest Dr @ Civic 63',44.68454,-63.58200,0,1690174
+7457,'7457','Pinecrest Dr / Crystal Dr',44.68558,-63.58380,0,1690175
+7458,'7458','Pinecrest Dr @ Crystal Dr',44.68588,-63.58438,0,1690176
+7459,'7459','Pinecrest Dr / Primrose St',44.68489,-63.58257,0,1690177
+7460,'7460','Plz Dr / Eljay Dr',44.68208,-63.51573,0,1690199
+7461,'7461','Main Rd / Morris Ave',44.62154,-63.50781,0,1690200
+7462,'7462','Main Rd / Bonaventure St',44.62683,-63.51543,0,1690201
+7463,'7463','Main Rd / Silvers Ln',44.61216,-63.49497,0,1690202
+7464,'7464','Pleasant St / Acadia St',44.65567,-63.54978,0,1690203
+7465,'7465','Pleasant St / Arthur St',44.65936,-63.55152,0,1690204
+7466,'7466','Pleasant St / Atlantic St',44.65019,-63.54630,0,1690205
+7467,'7467','Pleasant St / Atlantic St',44.64897,-63.54583,0,1690206
+7468,'7468','Pleasant St / St Georges Ln',44.66785,-63.55875,0,1690207
+7469,'7469','Pleasant St / Civic 600',44.64107,-63.53405,0,1690208
+7470,'7470','Pleasant St / Mawiomi Pl',44.65571,-63.54985,0,1690230
+7471,'7471','Main Rd / Harvard Dr',44.62998,-63.51965,0,1690231
+7472,'7472','Pleasant St / Hwy 111',44.64870,-63.54558,0,1690232
+7473,'7473','Main Rd / Civic 1350',44.61839,-63.50231,0,1690233
+7474,'7474','Main Rd / Hines Rd',44.62513,-63.51315,0,1690234
+7475,'7475','Main Rd / Avenger Pl',44.62802,-63.51706,0,1690235
+7476,'7476','Pleasant St / Old Ferry Rd',44.66548,-63.55457,0,1690236
+7477,'7477','Main Rd @ Civic 1341',44.61691,-63.50056,0,1690237
+7478,'7478','Washmill Lk Dr / Grandhaven Blvd',44.64826,-63.66445,0,1690238
+7479,'7479','Pleasant St / Cuisack St',44.65875,-63.55109,0,1690239
+7480,'7480','Pleasant St / Linden Lea',44.66679,-63.55698,0,1690261
+7481,'7481','Pleasant St @ Dartmouth General',44.65357,-63.54861,0,1690262
+7482,'7482','Pleasant St / Mt Hope Ctr',44.65173,-63.54747,0,1690263
+7483,'7483','Main Rd / Monster Ln',44.62015,-63.50479,0,1690264
+7484,'7484','Pleasant St / Belmont Ave',44.63582,-63.52677,0,1690265
+7485,'7485','Pleasant St / Southdale St',44.66124,-63.55288,0,1690266
+7486,'7486','Main Rd / Bonaventure St',44.62649,-63.51480,0,1690267
+7487,'7487','Main Rd / Monster Ln',44.62003,-63.50469,0,1690268
+7488,'7488','Pleasant St / Everette St',44.64445,-63.54053,0,1690269
+7489,'7489','Washmill Lk Dr / Chain Lk Dr',44.64841,-63.67180,0,1690270
+7490,'7490','Main Rd / Hines Rd',44.62542,-63.51340,0,1690292
+7491,'7491','Main Rd / Howard Ave',44.62329,-63.50983,0,1690293
+7492,'7492','Pleasant St / Irving St',44.64598,-63.54337,0,1690294
+7493,'7493','Pleasant St / Linden Lea',44.66673,-63.55677,0,1690295
+7494,'7494','Main Rd / Morris Ave',44.62165,-63.50776,0,1690296
+7495,'7495','Main Rd / Myers Ln',44.61434,-63.49728,0,1690297
+7496,'7496','Pleasant St / Newcastle St',44.66290,-63.55367,0,1690298
+7497,'7497','Main Rd @ Civic 1491',44.61203,-63.49494,0,1690299
+7498,'7498','Pleasant St / Shirley St',44.64575,-63.54334,0,1690300
+7499,'7499','Pleasant St / Hwy 111',44.64724,-63.54475,0,1690301
+7500,'7500','Main Rd @ Civic 1350',44.61847,-63.50224,0,1690974
+7601,'7601','Bridge Term B:1',44.67105,-63.57511,0,1691936
+7602,'7602','Bridge Term B:2',44.67094,-63.57492,0,1691937
+7603,'7603','Bridge Term B:3',44.67083,-63.57473,0,1691938
+7604,'7604','Bridge Term B:4',44.67066,-63.57443,0,1691939
+7605,'7605','Bridge Term B:5',44.67055,-63.57420,0,1691940
+7606,'7606','Bridge Term B:6',44.67041,-63.57396,0,1691941
+7607,'7607','Bridge Term B:7',44.67032,-63.57378,0,1691942
+7608,'7608','Bridge Term B:8',44.67024,-63.57363,0,1691943
+7609,'7609','Bridge Term B:9',44.67001,-63.57384,0,1691944
+7610,'7610','Bridge Term Bay 10',44.67017,-63.57403,0,1691966
+7611,'7611','Bridge Term Bay 11',44.67028,-63.57428,0,1691967
+7612,'7612','Bridge Term Bay 12',44.67038,-63.57457,0,1691968
+7613,'7613','Bridge Term Bay 13',44.67056,-63.57480,0,1691969
+7614,'7614','Bridge Term Bay 14',44.67068,-63.57498,0,1691970
+7615,'7615','Bridge Term Bay 15',44.67077,-63.57516,0,1691971
+7616,'7616','Bridge Term Bay 16',44.67087,-63.57532,0,1691972
+7618,'7618','Sheldrake Lk P&R',44.67280,-63.78267,0,1691974
+8001,'8001','Main Rd / Corsair Dr',44.63223,-63.52190,0,1715961
+8002,'8002','Main Rd / Labrador Ave',44.62824,-63.51720,0,1715962
+8003,'8003','Pleasant St / Cameron St',44.66154,-63.55313,0,1715963
+8004,'8004','Pleasant St / Carleton St',44.63622,-63.52749,0,1715964
+8005,'8005','Main Rd / Howard Ave',44.62413,-63.51136,0,1715965
+8006,'8006','Pleasant St / Old Ferry Rd',44.66546,-63.55457,0,1715966
+8008,'8008','Pleasant St @ Civic 153',44.66392,-63.55369,0,1715968
+8009,'8009','Pleasant St / Marvin St',44.65794,-63.55069,0,1715969
+8010,'8010','Pleasant St / Dartmouth General',44.65349,-63.54854,0,1715991
+8011,'8011','Pleasant St / Everette St',44.64445,-63.54122,0,1715992
+8012,'8012','Main Rd / Howard Ave',44.62333,-63.51010,0,1715993
+8013,'8013','Pleasant St / Civic 600',44.64123,-63.53412,0,1715994
+8014,'8014','Main Rd / Alex Ln',44.61427,-63.49738,0,1715995
+8015,'8015','Main Rd / Civic 1341',44.61699,-63.50042,0,1715996
+8016,'8016','Pleasant St / Portland St',44.66788,-63.55864,0,1715997
+8017,'8017','Pleasant St / Mt Hope Ave',44.65222,-63.54764,0,1715998
+8018,'8018','Main Rd / Harvard Dr',44.62972,-63.51947,0,1715999
+8019,'8019','Main Rd / Albacore Pl',44.63178,-63.52163,0,1716000
+8024,'8024','Poplar Dr @ Civic 118',44.67673,-63.49830,0,1716026
+8025,'8025','Poplar Dr / Evergreen Dr',44.67444,-63.49736,0,1716027
+8026,'8026','Poplar Dr @ Civic 113',44.67659,-63.49811,0,1716028
+8027,'8027','Poplar Dr / Evergreen Dr',44.67451,-63.49727,0,1716029
+8028,'8028','Portland St / Joffre St',44.66854,-63.54381,0,1716030
+8030,'8030','Fall River P&R',44.80272,-63.59747,0,1716053
+8035,'8035','Portland St / Canal St',44.66773,-63.56301,0,1716058
+8036,'8036','Portland St / Chestnut Ln',44.66939,-63.54268,0,1716059
+8037,'8037','Portland St / Eisener Blvd',44.67186,-63.52482,0,1716060
+8038,'8038','Portland St / Gaston Rd',44.66759,-63.54427,0,1716061
+8039,'8039','Portland St / Pleasant St',44.66884,-63.55917,0,1716062
+8040,'8040','Portland St / Jersey Dr',44.67203,-63.52189,0,1716084
+8041,'8041','Portland St / Jersey Dr',44.67213,-63.52384,0,1716085
+8042,'8042','Portland St / Lakefront Rd',44.66742,-63.54875,0,1716086
+8043,'8043','Portland St / Maynard St',44.66804,-63.55366,0,1716087
+8044,'8044','Portland St / Prince Arthur Ave',44.66717,-63.54634,0,1716088
+8045,'8045','Portland St / Settle St',44.67108,-63.52931,0,1716089
+8046,'8046','Portland St / Portland Ests Blvd',44.67151,-63.51750,0,1716090
+8047,'8047','Portland St / Spg Ave',44.67201,-63.51905,0,1716091
+8048,'8048','Upper Partridge River Rd / Brooks Dr',44.72743,-63.41912,0,1716092
+8049,'8049','Upper Partridge River Rd / Brooks Dr',44.72743,-63.41898,0,1716093
+8050,'8050','Portland St / Baker Dr',44.67076,-63.53104,0,1716115
+8051,'8051','Portland St / Pleasant St',44.66863,-63.55954,0,1716116
+8052,'8052','Portland St / Old Ferry Rd',44.66821,-63.55415,0,1716117
+8053,'8053','Portland St / Rodney Rd',44.66772,-63.55064,0,1716118
+8054,'8054','Lamont Ter / Lemlair Row',44.69815,-63.56706,0,1716119
+8055,'8055','Portland St / Settle St',44.67109,-63.52843,0,1716120
+8056,'8056','Bluewater Rd / Larry Uteck Blvd',44.71635,-63.71610,0,1716121
+8057,'8057','Portland St / Canal St',44.66784,-63.56259,0,1716122
+8058,'8058','Portland St / James St',44.66909,-63.55762,0,1716123
+8059,'8059','Portland St / Lakefront Rd',44.66745,-63.54884,0,1716124
+8060,'8060','Portland St / St Georges Ln',44.66919,-63.55756,0,1716146
+8062,'8062','Portland St / Rodney Rd',44.66775,-63.55057,0,1716148
+8065,'8065','Primrose St / Victoria Rd',44.68233,-63.58579,0,1716151
+8066,'8066','Prince Albert Rd / Bartlin Rd',44.68038,-63.54790,0,1716152
+8067,'8067','Sinclair St / Prince Albert Rd',44.67781,-63.55521,0,1716153
+8068,'8068','Prince Albert Rd / Celtic Dr',44.67880,-63.55222,0,1716154
+8069,'8069','Prince Albert Rd / Celtic Dr',44.67894,-63.55223,0,1716155
+8070,'8070','Princess Margaret Blvd / Hudson Way',44.68607,-63.60310,0,1716177
+8071,'8071','Princess Margaret Blvd @ Civic 40',44.68681,-63.60650,0,1716178
+8072,'8072','Princess Margaret Blvd @ Civic 55',44.68827,-63.60704,0,1716179
+8074,'8074','Princess Margaret Blvd / Killkee Gt',44.68924,-63.61024,0,1716181
+8075,'8075','Princess Margaret Blvd / Windmill Rd',44.68636,-63.59943,0,1716182
+8078,'8078','Princess Margaret Blvd / Windmill Rd',44.68623,-63.59964,0,1716185
+8080,'8080','Purcells Cv Rd / Civic 2310',44.62238,-63.58490,0,1716208
+8081,'8081','Purcells Cv Rd / Colindale St',44.63033,-63.60892,0,1716209
+8082,'8082','Purcells Cv Rd / Civic 2310',44.62206,-63.58446,0,1716210
+8083,'8083','Purcells Cv Rd @ Braeburn Rd',44.63618,-63.61993,0,1716211
+8084,'8084','Purcells Cv Rd @ Ferguson Cv Rd',44.60673,-63.56354,0,1716212
+8086,'8086','Purcells Cv Rd / Anchor Dr',44.63724,-63.61970,0,1716214
+8087,'8087','Purcells Cv Rd / Halls Rd',44.62272,-63.58933,0,1716215
+8088,'8088','Purcells Cv Rd / Halls Rd',44.62302,-63.58994,0,1716216
+8089,'8089','Purcells Cv Rd / Herring Cv Rd',44.63753,-63.61965,0,1716217
+8090,'8090','Purcells Cv Rd / Inverness Ave',44.62841,-63.60762,0,1716239
+8091,'8091','Purcells Cv Rd / Litchfield Cr',44.62317,-63.59796,0,1716240
+8092,'8092','Purcells Cv Rd / Wenlock Grv',44.62365,-63.59497,0,1716241
+8093,'8093','Purcells Cv Rd / Williams Lk Rd',44.62336,-63.60099,0,1716242
+8094,'8094','Purcells Cv Rd / Aarons Way',44.59723,-63.55713,0,1716243
+8095,'8095','Purcells Cv Rd @ St Cecelia Dr',44.61297,-63.57515,0,1716244
+8096,'8096','Purcells Cv Rd @ Melvin Rd',44.61825,-63.57793,0,1716245
+8097,'8097','Purcells Cv Rd / Colindale St',44.63029,-63.60879,0,1716246
+8098,'8098','Purcells Cv Rd @ Civic 1162',44.63419,-63.61836,0,1716247
+8099,'8099','Purcells Cv Rd / Ramsgate Ln',44.63318,-63.61061,0,1716248
+8100,'8100','Purcells Cv Rd / Pinehaven Dr',44.63255,-63.60966,0,1716921
+8101,'8101','Purcells Cv Rd @ Rosborough Loop',44.63425,-63.61867,0,1716922
+8102,'8102','Purcells Cv Rd @ Civic 2903',44.60973,-63.57247,0,1716923
+8103,'8103','Purcells Cv Rd @ Civic 2907',44.60951,-63.57216,0,1716924
+8104,'8104','Purcells Cv Rd / Battery Dr',44.60884,-63.56856,0,1716925
+8105,'8105','Purcells Cv Rd / Civic 3101',44.60764,-63.56618,0,1716926
+8106,'8106','Purcells Cv Rd @ Civic 3081',44.60771,-63.56706,0,1716927
+8107,'8107','Purcells Cv Rd / Sailboat Ln',44.63377,-63.61498,0,1716928
+8108,'8108','Purcells Cv Rd @ Civic 2372',44.62086,-63.58265,0,1716929
+8109,'8109','Purcells Cv Rd / Battery Dr',44.60870,-63.56855,0,1716930
+8110,'8110','Purcells Cv Rd / Country Cr',44.60037,-63.56025,0,1716952
+8111,'8111','Purcells Cv Rd / Homestead Rd',44.60033,-63.56019,0,1716953
+8112,'8112','Purcells Cv Rd / Keefe Dr',44.61280,-63.57514,0,1716954
+8113,'8113','Purcells Cv Rd / Melvin Rd',44.61843,-63.57805,0,1716955
+8114,'8114','Purcells Cv Rd / Oceanview Dr',44.61524,-63.57768,0,1716956
+8115,'8115','Purcells Cv Rd / Rocklyn Rd',44.61594,-63.57750,0,1716957
+8116,'8116','Purcells Cv Rd / Westgate Dr',44.62834,-63.60747,0,1716958
+8117,'8117','Purcells Cv Rd / Aarons Way',44.59727,-63.55725,0,1716959
+8118,'8118','Purcells Cv Rd / Dingle Rd',44.63155,-63.60868,0,1716960
+8119,'8119','Purcells Cv Rd / Williams Lk Rd',44.62397,-63.60208,0,1716961
+8120,'8120','Purcells Cv Rd / Albion Rd',44.62322,-63.59939,0,1716983
+8121,'8121','Purcells Cv Rd / Wenlock Grv',44.62380,-63.59478,0,1716984
+8122,'8122','Purcells Cv Rd / Sailboat Ln',44.63385,-63.61522,0,1716985
+8123,'8123','Purcells Cv Rd / Devils Hl Rd',44.60154,-63.56158,0,1716986
+8124,'8124','Purcells Cv Rd / Ferguson Cv Rd',44.60681,-63.56360,0,1716987
+8125,'8125','Purcells Cv Rd / Civic 2372',44.62073,-63.58262,0,1716988
+8126,'8126','Quarry Rd / St Margarets Bay Rd',44.63644,-63.63136,0,1716989
+8127,'8127','Windmill Rd / Lyle St',44.66759,-63.58103,0,1716990
+8133,'8133','Quinpool Rd / Beech St',44.64386,-63.60240,0,1717017
+8134,'8134','Quinpool Rd / Beech St',44.64417,-63.60192,0,1717018
+8135,'8135','Quinpool Rd / Connaught Ave',44.64341,-63.60398,0,1717019
+8136,'8136','Quinpool Rd / Oxford St',44.64461,-63.59997,0,1717020
+8137,'8137','Quinpool Rd / Oxford St',44.64448,-63.60069,0,1717021
+8138,'8138','Quinpool Rd / Quingate Pl',44.64624,-63.59460,0,1717022
+8140,'8140','Highfield Term B:1',44.68446,-63.58904,0,1717045
+8141,'8141','Highfield Term B:2',44.68435,-63.58935,0,1717046
+8146,'8146','Quinpool Rd / Poplar St',44.64357,-63.60382,0,1717051
+8147,'8147','Quinpool Rd / Preston St',44.64531,-63.59757,0,1717052
+8148,'8148','Quinpool Rd @ Preston St',44.64538,-63.59771,0,1717053
+8149,'8149','Quinpool Rd / Vernon St',44.64622,-63.59423,0,1717054
+8150,'8150','Quinpool Rd / Windsor St',44.64693,-63.59171,0,1717076
+8156,'8156','Radcliffe Dr / Dunbrack St',44.66549,-63.65943,0,1717082
+8157,'8157','Radcliffe Dr / Stockleigh Pl',44.66493,-63.66458,0,1717083
+8159,'8159','Radcliffe Dr / Barkton Ln',44.66580,-63.66122,0,1717085
+8160,'8160','Raymoor Dr / Strath Ln',44.68722,-63.53595,0,1717107
+8161,'8161','Raymoor Dr @ Civic 22',44.68560,-63.53332,0,1717108
+8162,'8162','Raymoor Dr / Main St',44.68433,-63.53160,0,1717109
+8165,'8165','North Rdg Rd Turning Loop',44.67193,-63.61619,0,1717112
+8166,'8166','Ridgevalley Rd / Cavendish Rd',44.62884,-63.61989,0,1717113
+8167,'8167','Ridgevalley Rd / Limerick Rd',44.63004,-63.62134,0,1717114
+8168,'8168','Ridgevalley Rd / Bromley Rd',44.62988,-63.62113,0,1717115
+8169,'8169','Ridgevalley Rd / Highfield St',44.62798,-63.61903,0,1717116
+8170,'8170','Riverview Cr @ Civic 46',44.74165,-63.65104,0,1717138
+8171,'8171','Micmac Term B:1',44.68539,-63.56082,0,1717139
+8172,'8172','Micmac Term B:2',44.68568,-63.56125,0,1717140
+8173,'8173','Riverview Cr / Rockmanor Dr',44.74341,-63.65072,0,1717141
+8174,'8174','Riverview Cr / Rockmanor Dr',44.74025,-63.65041,0,1717142
+8176,'8176','Robert Burns Dr / Brule St',44.68309,-63.58647,0,1717144
+8177,'8177','Robert Burns Dr / Primrose St',44.68281,-63.58582,0,1717145
+8178,'8178','Robie St / Charles St',44.65316,-63.59369,0,1717146
+8179,'8179','Robie St / Veterans Memorial Ln',44.64432,-63.58879,0,1717147
+8181,'8181','Robie St / North St',44.65488,-63.59507,0,1717170
+8182,'8182','Robie St / May St',44.65604,-63.59683,0,1717171
+8183,'8183','Robie St / Pepperell St',44.64622,-63.58996,0,1717172
+8184,'8184','Robie St / Quinpool Rd',44.64802,-63.59072,0,1717173
+8185,'8185','Robie St / Spg Gdn Rd',44.64072,-63.58691,0,1717174
+8186,'8186','Robie St / Coburg Rd',44.63973,-63.58666,0,1717175
+8187,'8187','Robie St / University Ave',44.63864,-63.58584,0,1717176
+8188,'8188','Robie St / University Ave',44.63777,-63.58556,0,1717177
+8190,'8190','Robie St / Welsford St',44.64860,-63.59124,0,1717200
+8191,'8191','Robie St / Duffus St',44.66548,-63.61090,0,1717201
+8192,'8192','Robie St / Young St',44.66002,-63.60274,0,1717202
+8193,'8193','Robie St / Young St',44.65897,-63.60133,0,1717203
+8194,'8194','Robie St / Bliss St',44.64160,-63.58759,0,1717204
+8195,'8195','Robie St / Jubilee Rd',44.64317,-63.58838,0,1717205
+8196,'8196','Robie St / Cedar St',44.64471,-63.58920,0,1717206
+8197,'8197','Robie St / Stairs St',44.66168,-63.60523,0,1717207
+8199,'8199','Damascus Rd / Verdi Dr',44.75000,-63.64081,0,1717209
+8200,'8200','Damascus Rd / Verdi Dr',44.75013,-63.64038,0,1717882
+8201,'8201','Robie St / Almon St',44.65717,-63.59844,0,1717883
+8202,'8202','Robie St / Almon St',44.65755,-63.59926,0,1717884
+8203,'8203','Robie St / Cabot St',44.66376,-63.60835,0,1717885
+8204,'8204','Robie St / Cabot St',44.66316,-63.60787,0,1717886
+8205,'8205','Robie St / Cunard St',44.65040,-63.59224,0,1717887
+8206,'8206','Robie St / Cunard St',44.65012,-63.59178,0,1717888
+8207,'8207','Robie St / Wells St',44.66441,-63.60941,0,1717889
+8208,'8208','Robie St / Lady Hammond Rd',44.66556,-63.61103,0,1717890
+8209,'8209','Robie St / Livingstone St',44.66095,-63.60435,0,1717891
+8210,'8210','Robie St / May St',44.65609,-63.59676,0,1717913
+8211,'8211','Robie St / Normandy Dr',44.66663,-63.61257,0,1717914
+8212,'8212','Robie St / Normandy Dr',44.66705,-63.61308,0,1717915
+8213,'8213','Robie St / North St',44.65498,-63.59545,0,1717916
+8214,'8214','Robie St / Quinpool Rd',44.64765,-63.59073,0,1717917
+8215,'8215','Robie St / Russell St',44.65875,-63.60084,0,1717918
+8217,'8217','Robie St / Stanley St',44.66196,-63.60568,0,1717920
+8218,'8218','Robie St / Young St',44.66008,-63.60299,0,1717921
+8219,'8219','Robie St / Binney St',44.64236,-63.58784,0,1717922
+8220,'8220','Robie St / South St',44.63689,-63.58496,0,1717944
+8221,'8221','Robie St / West St',44.65179,-63.59281,0,1717945
+8222,'8222','Robie St / Charles St',44.65359,-63.59402,0,1717946
+8223,'8223','Robie St / Quinpool Rd',44.64628,-63.58980,0,1717947
+8225,'8225','Robie St / South St',44.63617,-63.58483,0,1717949
+8226,'8226','Rockmanor Dr / Redbank Rd',44.73885,-63.65136,0,1717950
+8227,'8227','Rockmanor Dr / Rocky Lk Dr',44.73794,-63.65181,0,1717951
+8228,'8228','Rockmanor Dr / Rocky Lk Dr',44.73790,-63.65186,0,1717952
+8229,'8229','Rockmanor Dr @ Civic 125',44.74148,-63.64893,0,1717953
+8230,'8230','Rockmanor Dr / Riverview Cr',44.73990,-63.65015,0,1717975
+8231,'8231','Rockingstone Rd @ Civic 25',44.60826,-63.62330,0,1717976
+8232,'8232','Rockingstone Rd @ Civic 26',44.60800,-63.62310,0,1717977
+8238,'8238','James St / St Margarets Bay Rd',44.65971,-63.74077,0,1717983
+8239,'8239','James St / St Margarets Bay Rd',44.65968,-63.74069,0,1717984
+8241,'8241','Ronald Smith Ave / Ilsley Ave',44.69908,-63.58475,0,1718007
+8242,'8242','Rosedale Ave @ Civic 34',44.65418,-63.63508,0,1718008
+8243,'8243','Rosedale Ave / Dutch Vlg Rd',44.65516,-63.63299,0,1718009
+8244,'8244','Rosedale Ave @ Civic 23',44.65460,-63.63438,0,1718010
+8245,'8245','Rosedale Ave / Dutch Vlg Rd',44.65531,-63.63292,0,1718011
+8246,'8246','Rosedale Ave / Hillcrest St',44.65170,-63.64089,0,1718012
+8247,'8247','Rosedale Ave / Hillcrest St',44.65242,-63.63918,0,1718013
+8248,'8248','Rosedale Ave / Alex St',44.65306,-63.63751,0,1718014
+8249,'8249','Rosedale Ave / Alex St',44.65315,-63.63759,0,1718015
+8250,'8250','Rosedale Ave @ Hillcrest St',44.65175,-63.64049,0,1718037
+8259,'8259','Sackville Dr / Civic 745',44.77214,-63.69165,0,1718046
+8261,'8261','Quinpool Rd / Windsor St',44.64683,-63.59239,0,1718069
+8262,'8262','Scot St / Desmond Ave',44.65643,-63.62811,0,1718070
+8263,'8263','Sea King Dr / Lancaster Dr',44.68719,-63.57221,0,1718071
+8264,'8264','Sea King Dr / Ernest Ave',44.68575,-63.57641,0,1718072
+8266,'8266','Sea King Dr / Ernest Ave',44.68591,-63.57557,0,1718074
+8269,'8269','Shr Rd / Shoreview Dr',44.60451,-63.47786,0,1718077
+8270,'8270','Shr Rd / Oceanlea Dr',44.60635,-63.48295,0,1718099
+8271,'8271','Shr Rd / Romkey Dr',44.60370,-63.47403,0,1718100
+8273,'8273','Shr Rd / Romkey Dr',44.60262,-63.47155,0,1718102
+8274,'8274','Shr Rd / Himmelman Dr',44.60126,-63.46916,0,1718103
+8275,'8275','Shr Rd / Francis Dr',44.60994,-63.49258,0,1718104
+8276,'8276','Shr Rd / Normans Ln',44.60719,-63.48986,0,1718105
+8277,'8277','Shr Rd / Normans Ln',44.60619,-63.48811,0,1718106
+8280,'8280','Simmonds Rd / North Preston Rd',44.74622,-63.46512,0,1718130
+8281,'8281','Simmonds Rd / North Preston Rd',44.74622,-63.46500,0,1718131
+8282,'8282','Simmonds Rd @ Community Ctr',44.74572,-63.46707,0,1718132
+8284,'8284','Sinclair St / Highwood St',44.67447,-63.55884,0,1718134
+8285,'8285','Sinclair St / Prince Albert Rd',44.67798,-63.55534,0,1718135
+8286,'8286','Sinclair St / Highwood St',44.67451,-63.55886,0,1718136
+8287,'8287','Somerset St / Ctr St',44.67704,-63.54271,0,1718137
+8288,'8288','Somerset St / Glenwood Ave',44.67526,-63.54461,0,1718138
+8289,'8289','Somerset St / Berkley Brae',44.67503,-63.54484,0,1718139
+8290,'8290','Somerset St / Penhorn Dr',44.67698,-63.54267,0,1718161
+8291,'8291','South St / Studley Ave',44.63477,-63.59248,0,1718162
+8292,'8292','South St / Queen St',44.63898,-63.57453,0,1718163
+8293,'8293','South St / Barrington St',44.63975,-63.57171,0,1718164
+8294,'8294','South St / Church St',44.63952,-63.57241,0,1718165
+8295,'8295','South St / South Pk St',44.63857,-63.57640,0,1718166
+8296,'8296','South St / Robie St',44.63667,-63.58415,0,1718167
+8297,'8297','South St / Robie St',44.63691,-63.58358,0,1718168
+8298,'8298','South St / IWK Hosp',44.63727,-63.58177,0,1718169
+8299,'8299','South St / Queen St',44.63911,-63.57442,0,1718170
+8300,'8300','South St / South Pk St',44.63838,-63.57710,0,1718843
+8301,'8301','South St / Tower Rd',44.63797,-63.57857,0,1718844
+8302,'8302','South St / Cartaret St',44.63570,-63.58864,0,1718845
+8303,'8303','South St / IWK Hosp',44.63729,-63.58196,0,1718846
+8304,'8304','South St / Studley Ave',44.63484,-63.59253,0,1718847
+8305,'8305','South St / Tower Rd',44.63789,-63.57956,0,1718848
+8306,'8306','South Pk St / Fenwick St',44.63732,-63.57737,0,1718849
+8307,'8307','South Pk St / South St',44.63842,-63.57781,0,1718850
+8308,'8308','South Pk St / Spg Gdn Rd',44.64207,-63.57974,0,1718851
+8309,'8309','South Pk St / Morris St',44.64014,-63.57873,0,1718852
+8310,'8310','South Pk St / Inglis St',44.63490,-63.57627,0,1718874
+8311,'8311','South Pk St / South St',44.63830,-63.57796,0,1718875
+8312,'8312','South Pk St / Spg Gdn Rd',44.64213,-63.57988,0,1718876
+8313,'8313','South Pk St / University Ave',44.64021,-63.57895,0,1718877
+8314,'8314','South Pk St / Victoria Rd',44.63567,-63.57659,0,1718878
+8315,'8315','South Pk St / Fenwick St',44.63689,-63.57725,0,1718879
+8316,'8316','South St / Cartaret St',44.63576,-63.58839,0,1718880
+8317,'8317','South St / Edward St',44.63632,-63.58585,0,1718881
+8318,'8318','Spikenard St / Farquharson St',44.68089,-63.52850,0,1718882
+8319,'8319','Spikenard St / Valleyfield Rd',44.67966,-63.53360,0,1718883
+8320,'8320','Spikenard St / Farquharson St',44.68091,-63.52843,0,1718905
+8321,'8321','Spikenard St / Weyburn Rd',44.68051,-63.53054,0,1718906
+8322,'8322','Spg Gdn Rd / South Pk St',44.64210,-63.58062,0,1718907
+8323,'8323','Spikenard St / Louisburg Ln',44.68026,-63.53153,0,1718908
+8326,'8326','Spg Ave / Dorothea Dr',44.67613,-63.51686,0,1718911
+8327,'8327','Spg Gdn Rd / Queen St',44.64350,-63.57538,0,1718912
+8328,'8328','Spg Gdn Rd / Carlton St',44.64069,-63.58558,0,1718913
+8329,'8329','Spg Gdn Rd / Carlton St',44.64098,-63.58483,0,1718914
+8330,'8330','Spg Gdn Rd / Dresden Row',44.64300,-63.57755,0,1718936
+8331,'8331','Spg Gdn Rd / Queen St',44.64342,-63.57567,0,1718937
+8332,'8332','Spg Gdn Rd / Robie St',44.64053,-63.58648,0,1718938
+8333,'8333','Spg Gdn Rd / South Pk St',44.64214,-63.58001,0,1718939
+8334,'8334','Spg Gdn Rd / South Pk St',44.64249,-63.57935,0,1718940
+8335,'8335','Spg Gdn Rd / Summer St',44.64145,-63.58313,0,1718941
+8336,'8336','Spg Gdn Rd / Dresden Row',44.64299,-63.57737,0,1718942
+8337,'8337','Spg Gdn Rd / Summer St',44.64138,-63.58289,0,1718943
+8338,'8338','Spg Gdn Rd / Barrington St',44.64413,-63.57321,0,1718944
+8339,'8339','Spg Ave / Ellenvale Ave',44.67716,-63.51748,0,1718945
+8340,'8340','Springfield Ave / Sackville Dr',44.79954,-63.73747,0,1718967
+8341,'8341','Springfield Ave / Sackville Dr',44.79941,-63.73742,0,1718968
+8342,'8342','Springfield Ave / Elcona Ave',44.79698,-63.73972,0,1718969
+8343,'8343','Springvale Ave / Winter St',44.64475,-63.63729,0,1718970
+8344,'8344','Springvale Ave / Joseph Howe Dr',44.64677,-63.63072,0,1718971
+8345,'8345','Springvale Ave / Joseph Howe Dr',44.64689,-63.63035,0,1718972
+8346,'8346','Springvale Ave / Arlington Ave',44.64651,-63.63250,0,1718973
+8347,'8347','Springvale Ave / Winter St',44.64574,-63.63519,0,1718974
+8348,'8348','Springvale Ave / Winter St',44.64572,-63.63518,0,1718975
+8349,'8349','St Pauls Ave / Hebridean Dr',44.57104,-63.56197,0,1718976
+8351,'8351','Starboard Dr / Brigadier Ct',44.69753,-63.66699,0,1718999
+8352,'8352','Starboard Dr / Larry Uteck Blvd',44.69752,-63.66678,0,1719000
+8353,'8353','Stokil Dr / Beaver Bank Rd',44.78981,-63.69065,0,1719001
+8354,'8354','Stokil Dr / Grennan Dr',44.78770,-63.68783,0,1719002
+8355,'8355','Stokil Dr / Sampson Dr',44.78569,-63.68579,0,1719003
+8356,'8356','Stokil Dr / Grennan Dr',44.78821,-63.68814,0,1719004
+8357,'8357','Stokil Dr / Beaver Bank Rd',44.78958,-63.69008,0,1719005
+8358,'8358','Stokil Dr / Smokey Dr',44.78611,-63.68643,0,1719006
+8359,'8359','Stokil Dr / Spinner Cr',44.78399,-63.68202,0,1719007
+8360,'8360','Stokil Dr / Saratoga Dr',44.78398,-63.68143,0,1719029
+8361,'8361','Stonehaven Rd / Glenmore Ave',44.63517,-63.62992,0,1719030
+8363,'8363','Summer St / Bell Rd',44.64581,-63.58577,0,1719032
+8366,'8366','Susie Lk Cr / Chain Lk Dr',44.64586,-63.67437,0,1719035
+8367,'8367','Susie Lk Cr / Chain Lk Dr',44.64606,-63.67443,0,1719036
+8370,'8370','Tamarack Dr / Medina Ct',44.62996,-63.62874,0,1719060
+8371,'8371','Tamarack Dr / Mtn Rd',44.62847,-63.62747,0,1719061
+8372,'8372','Tamarack Dr / Medina Ct',44.62965,-63.62854,0,1719062
+8373,'8373','Tamarack Dr / Mtn Rd',44.62840,-63.62749,0,1719063
+8383,'8383','Thistle St / Beech St',44.67464,-63.56783,0,1719094
+8384,'8384','Thistle St / Crichton Pk Rd',44.67764,-63.56526,0,1719095
+8385,'8385','Thistle St / Maple St',44.67357,-63.56901,0,1719096
+8386,'8386','Thistle St / Mayflower St',44.67571,-63.56667,0,1719097
+8387,'8387','Thistle St / Slayter St',44.67280,-63.56990,0,1719098
+8388,'8388','Thistle St / Mayflower St',44.67555,-63.56686,0,1719099
+8389,'8389','Thistle St / Victoria Rd',44.67107,-63.57186,0,1719100
+8390,'8390','Thistle St / Beech St',44.67456,-63.56795,0,1719122
+8391,'8391','Thistle St / Crichton Pk Rd',44.67767,-63.56507,0,1719123
+8393,'8393','Thistle St / Victoria Rd',44.67098,-63.57192,0,1719125
+8394,'8394','Porters Lk P&R',44.73508,-63.28659,0,1719126
+8396,'8396','Titus St / Evans Ave',44.65999,-63.63473,0,1719128
+8400,'8400','Topsail Blvd / Plz Dr',44.68267,-63.51402,0,1719804
+8401,'8401','Tower Rd / Rogers Dr',44.62954,-63.57735,0,1719805
+8402,'8402','Tower Rd / Atlantic St',44.63157,-63.57793,0,1719806
+8403,'8403','Tower Rd @ Atlantic St',44.63151,-63.57786,0,1719807
+8404,'8404','Tower Rd @ Harbourview Dr',44.62789,-63.57612,0,1719808
+8405,'8405','Tower Rd @ Ogilvie St',44.62695,-63.57522,0,1719809
+8407,'8407','Tower Rd / Harbourview Dr',44.62804,-63.57632,0,1719811
+8408,'8408','Tower Rd / Inglis St',44.63323,-63.57811,0,1719812
+8409,'8409','Tower Rd @ Tower Rd Turning Loop',44.62585,-63.57432,0,1719813
+8410,'8410','University Ave / Summer St',44.63923,-63.58194,0,1719835
+8411,'8411','University Ave / Summer St',44.63909,-63.58191,0,1719836
+8416,'8416','Valleyfield Rd / Oakwood Ave',44.67936,-63.53459,0,1719841
+8418,'8418','Victoria Rd / Albro Lk Rd',44.67989,-63.58469,0,1719843
+8419,'8419','Victoria Rd / Boland Rd',44.67524,-63.57729,0,1719844
+8420,'8420','Victoria Rd / Chappell St',44.67879,-63.58301,0,1719866
+8421,'8421','Victoria Rd / Chappell St',44.67870,-63.58302,0,1719867
+8422,'8422','Victoria Rd / Farrell St',44.68050,-63.58622,0,1719868
+8424,'8424','Victoria Rd / Frances St',44.67626,-63.57889,0,1719870
+8425,'8425','Victoria Rd / Symonds St',44.67766,-63.58124,0,1719871
+8426,'8426','Victoria Rd / Primrose St',44.68086,-63.58651,0,1719872
+8428,'8428','Victoria Rd / Vanessa Dr',44.67640,-63.57894,0,1719874
+8429,'8429','Victoria Rd / Nantucket Ave',44.67302,-63.57367,0,1719875
+8431,'8431','Downsview Dr / Quinella Ct',44.77017,-63.69655,0,1719898
+8432,'8432','Downsview Dr / Old Sackville Rd',44.77038,-63.69678,0,1719899
+8433,'8433','Downsview Plz / Sackville Dr',44.77138,-63.69277,0,1719900
+8435,'8435','Water St Term',44.64940,-63.57286,0,1719902
+8436,'8436','Braemar Dr @ Sutherland Terr',44.68861,-63.54671,0,1719903
+8440,'8440','Waverley Rd / Lethbridge Ave',44.70508,-63.54930,0,1719928
+8441,'8441','Waverley Rd / Montebello Dr',44.69869,-63.54768,0,1719929
+8442,'8442','Waverley Rd / Micmac Dr',44.69396,-63.54681,0,1719930
+8444,'8444','Waverley Rd / Lakewood Ct',44.71752,-63.54529,0,1719932
+8446,'8446','Waverley Rd / Breeze Dr',44.70897,-63.54830,0,1719934
+8447,'8447','Waverley Rd / Mountbatten Ave',44.70125,-63.54823,0,1719935
+8448,'8448','Waverley Rd / Micmac Dr',44.69412,-63.54705,0,1719936
+8450,'8450','Waverley Rd / Boutiliers Ln',44.69557,-63.54747,0,1719959
+8451,'8451','Waverley Rd / Crest Dr',44.70509,-63.54921,0,1719960
+8452,'8452','Waverley Rd / Breeze Dr',44.70899,-63.54831,0,1719961
+8453,'8453','Waverley Rd / Hemlock St',44.71149,-63.54742,0,1719962
+8454,'8454','Waverley Rd / Civic 409',44.71496,-63.54547,0,1719963
+8455,'8455','Waverley Rd / Twilight Ln',44.71990,-63.54515,0,1719964
+8456,'8456','Waverley Rd @ Civic 730',44.72446,-63.54210,0,1719965
+8457,'8457','Waverley Rd / Montague Rd',44.72613,-63.54164,0,1719966
+8460,'8460','Braemar Dr / Braeside Ct',44.68632,-63.54723,0,1719990
+8462,'8462','Waverley Rd / Mountbatten Ave',44.70167,-63.54828,0,1719992
+8463,'8463','Waverley Rd / Applewood Ln',44.71915,-63.54546,0,1719993
+8465,'8465','Waverley Rd / Montebello Dr',44.69821,-63.54768,0,1719995
+8466,'8466','Waverley Rd / Creelman Dr',44.69141,-63.54613,0,1719996
+8468,'8468','Waverley Rd / Ellis Ct',44.69600,-63.54747,0,1719998
+8471,'8471','Waverley Rd / Hemlock St',44.71072,-63.54733,0,1720022
+8472,'8472','Waverley Rd / Gdn Ct',44.71800,-63.54523,0,1720023
+8473,'8473','Waverley Rd / Craigburn Dr',44.72207,-63.54376,0,1720024
+8474,'8474','Waverley Rd / Craigburn Dr',44.72319,-63.54282,0,1720025
+8476,'8476','Waverley Rd @ Civic 408',44.71490,-63.54548,0,1720027
+8477,'8477','Waverley Rd / Rocklin Dr',44.72154,-63.54398,0,1720028
+8482,'8482','Weyburn Rd / Spikenard St',44.68080,-63.53114,0,1720054
+8483,'8483','Weyburn Rd / Main St',44.68361,-63.53236,0,1720055
+8484,'8484','Weyburn Rd / Athabaskan Ln',44.68220,-63.53173,0,1720056
+8485,'8485','Wildwood Blvd / Roslyn Dr',44.68272,-63.49774,0,1720057
+8486,'8486','Wildwood Blvd / Roslyn Dr',44.68234,-63.49774,0,1720058
+8487,'8487','Wildwood Blvd / Gregory Dr',44.68442,-63.49842,0,1720059
+8488,'8488','Willett St / Chadwick Pl',44.66027,-63.65638,0,1720060
+8489,'8489','Willett St / Chelsea Ln',44.65735,-63.65208,0,1720061
+8490,'8490','Willett St / Coronation Ave',44.65199,-63.64502,0,1720083
+8491,'8491','Willett St / Dunbrack St',44.65763,-63.65257,0,1720084
+8492,'8492','Willett St / Glenforest Dr',44.65667,-63.64945,0,1720085
+8493,'8493','Willett St / Main Ave',44.65385,-63.64662,0,1720086
+8494,'8494','Willett St / Main Ave',44.65464,-63.64722,0,1720087
+8495,'8495','Willett St / Glenforest Dr',44.65629,-63.64894,0,1720088
+8496,'8496','Willett St / Chadwick Pl',44.65999,-63.65601,0,1720089
+8497,'8497','Willett St / Harlington Cr',44.65815,-63.65423,0,1720090
+8499,'8499','Willett St / Apollo Ct',44.65521,-63.64780,0,1720092
+8502,'8502','Willett St / Frederick Ave',44.65084,-63.64402,0,1720767
+8503,'8503','Willett St / Westridge Dr',44.65811,-63.65446,0,1720768
+8505,'8505','Damascus Rd @ Turning Loop',44.74906,-63.64740,0,1720770
+8506,'8506','Clarence St / Cain St',44.74376,-63.46666,0,1720771
+8507,'8507','Clarence St / Johnson Rd',44.74314,-63.46837,0,1720772
+8508,'8508','Windmill Rd / Akerley Blvd',44.70371,-63.61239,0,1720773
+8509,'8509','Windmill Rd / Albro Lk Rd',44.67610,-63.59064,0,1720774
+8510,'8510','Windmill Rd / Dawson St',44.66889,-63.58291,0,1720796
+8511,'8511','Windmill Rd / Waddell Ave',44.68731,-63.59901,0,1720797
+8512,'8512','Windmill Rd / Nootka Ave',44.68460,-63.59856,0,1720798
+8513,'8513','Windmill Rd / Trinity Ave',44.67957,-63.59459,0,1720799
+8514,'8514','Windmill Rd / Victoria Rd',44.69504,-63.60059,0,1720800
+8515,'8515','Windmill Rd / Wright Ave B:1',44.69872,-63.60524,0,1720801
+8516,'8516','Windmill Rd / Parkstone Rd',44.68065,-63.59543,0,1720802
+8517,'8517','Windmill Rd / Wright Ave',44.69774,-63.60415,0,1720803
+8518,'8518','Windmill Rd @ Civic 520',44.69115,-63.59990,0,1720804
+8519,'8519','Windmill Rd / Victoria Rd',44.69342,-63.60041,0,1720805
+8520,'8520','Windmill Rd / Wright Ave',44.69763,-63.60366,0,1720827
+8521,'8521','Windmill Rd / Fernhill Dr',44.68235,-63.59709,0,1720828
+8522,'8522','Windmill Rd / Dawn Dr',44.70224,-63.60821,0,1720829
+8523,'8523','Windmill Rd / Elmwood Ave',44.67261,-63.58885,0,1720830
+8524,'8524','Windmill Rd / Henry St',44.67166,-63.58697,0,1720831
+8525,'8525','Windmill Rd / Jamieson St',44.67076,-63.58412,0,1720832
+8526,'8526','Windmill Rd / Nivens Ave',44.67644,-63.59092,0,1720833
+8527,'8527','Windmill Rd / Waddell Ave',44.68718,-63.59911,0,1720834
+8528,'8528','Windmill Rd / Ralston Ave',44.70051,-63.60673,0,1720835
+8529,'8529','Windmill Rd / Sunnydale Ave',44.67819,-63.59272,0,1720836
+8530,'8530','Windmill Rd / Victoria Rd',44.69482,-63.60065,0,1720858
+8531,'8531','Windmill Rd / Wallace St',44.67454,-63.59017,0,1720859
+8532,'8532','Windmill Rd / Wright Ave B:2',44.69857,-63.60541,0,1720860
+8533,'8533','Windmill Rd / Akerley Blvd',44.70319,-63.61154,0,1720861
+8534,'8534','Windmill Rd / Nootka Ave',44.68298,-63.59740,0,1720862
+8535,'8535','Windmill Rd / Civic 520',44.69068,-63.59994,0,1720863
+8536,'8536','Windmill Rd / Wrights Cv Rd',44.69339,-63.60060,0,1720864
+8537,'8537','Windmill Rd / Dawn Dr',44.70212,-63.60835,0,1720865
+8538,'8538','Windmill Rd / Dawson St',44.66860,-63.58290,0,1720866
+8539,'8539','Windmill Rd / Elmwood Ave',44.67320,-63.58924,0,1720867
+8540,'8540','Windmill Rd / Jamieson St',44.67096,-63.58456,0,1720889
+8541,'8541','Windmill Rd / Parkstone Rd',44.68046,-63.59536,0,1720890
+8542,'8542','Windmill Rd / Pelzant St',44.66986,-63.58350,0,1720891
+8543,'8543','Windmill Rd / Seapoint Rd',44.70093,-63.60727,0,1720892
+8544,'8544','Windmill Rd / Yorkshire Ave Ext',44.68522,-63.59852,0,1720893
+8545,'8545','Windmill Rd / Bethel Ave',44.67800,-63.59231,0,1720894
+8546,'8546','Windmill Rd / Wallace St',44.67494,-63.59032,0,1720895
+8549,'8549','Windsor St / Maxwell St',44.66011,-63.61271,0,1720898
+8550,'8550','Windsor St / Engineers Way',44.65826,-63.60940,0,1720920
+8551,'8551','Windsor St / Connaught Ave',44.66031,-63.61911,0,1720921
+8552,'8552','Windsor St / Connaught Ave',44.66065,-63.62025,0,1720922
+8553,'8553','Windsor St / Lady Hammond Rd',44.66238,-63.62231,0,1720923
+8554,'8554','Windsor St / North St',44.65253,-63.59896,0,1720924
+8556,'8556','Windsor St / Almon St',44.65418,-63.60245,0,1720926
+8557,'8557','Windsor St / Almon St',44.65439,-63.60308,0,1720927
+8558,'8558','Windsor St / Charles St',44.65123,-63.59662,0,1720928
+8559,'8559','Windsor St / Charles St',44.65150,-63.59703,0,1720929
+8560,'8560','Windsor St / Connaught Ave',44.66043,-63.62014,0,1720951
+8561,'8561','Windsor St / Cork St',44.65611,-63.60634,0,1720952
+8562,'8562','Windsor St / Hood St',44.66080,-63.61579,0,1720953
+8563,'8563','Windsor St / Lady Hammond Rd',44.66188,-63.62177,0,1720954
+8564,'8564','Windsor St / London St',44.65510,-63.60469,0,1720955
+8565,'8565','Windsor St / Maxwell St',44.66011,-63.61284,0,1720956
+8566,'8566','Windsor St @ North St',44.65232,-63.59859,0,1720957
+8567,'8567','Windsor St / Strawberry Hl St',44.66085,-63.61579,0,1720958
+8569,'8569','Windsor St / Summit St',44.65325,-63.60059,0,1720960
+8570,'8570','Windsor St / Connolly St',44.66040,-63.61870,0,1720982
+8571,'8571','Windsor St / Cork St',44.65577,-63.60579,0,1720983
+8572,'8572','Windsor St / London St',44.65503,-63.60440,0,1720984
+8573,'8573','Windsor St / Hawk Terr',44.65857,-63.60997,0,1720985
+8575,'8575','Windward Ave / Lea St',44.68219,-63.51160,0,1720987
+8576,'8576','Windward Ave / Lucien Dr',44.68211,-63.51042,0,1720988
+8577,'8577','Winter St / Piers Ave',44.64445,-63.63481,0,1720989
+8578,'8578','Osborne St / Sullivan Terr',44.63579,-63.62253,0,1720990
+8579,'8579','Osborne St / Sullivan Terr',44.63584,-63.62240,0,1720991
+8580,'8580','Woodland Ave / Clarke St',44.67973,-63.57701,0,1721013
+8581,'8581','Woodland Ave / Laurier St',44.68174,-63.57455,0,1721014
+8582,'8582','Woodland Ave / Laurier St',44.68206,-63.57409,0,1721015
+8583,'8583','Woodland Ave / Pine Hl Rd',44.68071,-63.57583,0,1721016
+8584,'8584','Woodland Ave / Sheridan St',44.67976,-63.57701,0,1721017
+8586,'8586','Woodland Ave / Frederick St',44.68061,-63.57588,0,1721019
+8588,'8588','Woodlawn Rd / Guysborough Ave',44.67701,-63.52809,0,1721021
+8589,'8589','Woodlawn Rd / Portland St',44.67160,-63.53183,0,1721022
+8590,'8590','Woodlawn Rd / Mt Edward Rd',44.67875,-63.52599,0,1721044
+8591,'8591','Woodlawn Rd / Day Ave',44.67410,-63.52891,0,1721045
+8592,'8592','Woodlawn Rd / Mt Edward Rd',44.67846,-63.52614,0,1721046
+8593,'8593','Woodlawn Rd / Ellenvale Ave',44.67549,-63.52887,0,1721047
+8594,'8594','Woodlawn Rd / Main St',44.68329,-63.52885,0,1721048
+8595,'8595','Woodlawn Rd / Belle Vista Dr',44.67697,-63.52799,0,1721049
+8596,'8596','Woodlawn Rd / Bruce St',44.67267,-63.53139,0,1721050
+8597,'8597','Woodlawn Rd / Ellenvale Ave',44.67567,-63.52879,0,1721051
+8598,'8598','Woodlawn Rd / Main St',44.68353,-63.52883,0,1721052
+8599,'8599','Woodlawn Rd / Shawinigan Rd',44.68004,-63.52640,0,1721053
+8600,'8600','Woodlawn Rd / Portland St',44.67173,-63.53216,0,1721726
+8601,'8601','Woodlawn Rd / Saguenay Pl',44.67394,-63.52907,0,1721727
+8602,'8602','Woodlawn Rd / Bruce St',44.67290,-63.53105,0,1721728
+8603,'8603','Woodlawn Rd / Spikenard St',44.68171,-63.52767,0,1721729
+8604,'8604','Woodlawn Rd / Spikenard St',44.68063,-63.52684,0,1721730
+8608,'8608','Wright Ave / Fielding Ave',44.70380,-63.59791,0,1721734
+8609,'8609','Wright Ave / Windmill Rd',44.69875,-63.60366,0,1721735
+8610,'8610','Wright Ave / Fielding Ave',44.70409,-63.59757,0,1721757
+8611,'8611','Wright Ave / McCurdy Ave',44.70019,-63.60180,0,1721758
+8612,'8612','Wyse Rd / Boland Rd',44.67248,-63.58190,0,1721759
+8615,'8615','Wyse Rd / Russell St',44.67525,-63.58570,0,1721762
+8616,'8616','Wyse Rd / Boland Rd',44.67160,-63.58012,0,1721763
+8617,'8617','Wyse Rd / Jamieson St',44.67329,-63.58319,0,1721764
+8618,'8618','Wyse Rd / Jamieson St',44.67383,-63.58386,0,1721765
+8619,'8619','Wyse Rd / Albro Lk Rd',44.67628,-63.58714,0,1721766
+8620,'8620','Wyse Rd / Elmwood Ave',44.67529,-63.58581,0,1721788
+8621,'8621','Wyse Rd / Boland Rd',44.67233,-63.58185,0,1721789
+8622,'8622','Wyse Rd / Howe St',44.67615,-63.58703,0,1721790
+8627,'8627','York Redoubt Turning Loop',44.59713,-63.55457,0,1721795
+8629,'8629','Young St / Monaghan Dr',44.65816,-63.60446,0,1721797
+8631,'8631','Young St / Agricola St',44.66094,-63.60074,0,1721820
+8633,'8633','Young St / Monaghan Dr',44.65810,-63.60442,0,1721822
+8634,'8634','Young St / Windsor St',44.65686,-63.60656,0,1721823
+8635,'8635','Kempt Rd / Young St',44.65971,-63.60438,0,1721824
+8637,'8637','Penhorn Term B:9',44.67032,-63.53876,0,1721826
+8638,'8638','Macdonald Bridge Exit Ramp',44.65848,-63.58985,0,1721827
+8640,'8640','Mumford Term B:2',44.64801,-63.62062,0,1721850
+8641,'8641','Mumford Term B:3',44.64832,-63.62125,0,1721851
+8651,'8651','St Margarets Bay Rd @ Long Lk Pk',44.63230,-63.65820,0,1721882
+8653,'8653','St Margarets Bay Rd / Long Lk Pk',44.63233,-63.65855,0,1721884
+8654,'8654','Countryview Dr / Ferindonald Cl',44.70607,-63.56379,0,1721885
+8655,'8655','Countryview Dr / McClure Cl',44.70275,-63.56564,0,1721886
+8656,'8656','Gale Terr / Commodore Dr',44.69913,-63.56487,0,1721887
+8657,'8657','Finnian Row / Lamont Terr',44.69689,-63.56630,0,1721888
+8659,'8659','Commodore Dr / Lamont Terr',44.70025,-63.56636,0,1721890
+8660,'8660','Hornes Rd @ Civic 65',44.61428,-63.48592,0,1721912
+8661,'8661','Hornes Rd @ Civic 41',44.61621,-63.48364,0,1721913
+8662,'8662','Hornes Rd / Scott Dr',44.61800,-63.48151,0,1721914
+8663,'8663','Caldwell Rd / Hornes Rd',44.61885,-63.47993,0,1721915
+8664,'8664','Caldwell Rd / Briarwood Dr',44.61662,-63.47815,0,1721916
+8665,'8665','Caldwell Rd / Aubrey Terr',44.61285,-63.47456,0,1721917
+8666,'8666','Cow Bay Rd / Caldwell Rd',44.61230,-63.47252,0,1721918
+8667,'8667','Cow Bay Rd / Heritage Hls Dr',44.61363,-63.47021,0,1721919
+8668,'8668','Cow Bay Rd / Forestgate Dr',44.61643,-63.46589,0,1721920
+8669,'8669','Samuel Danial Dr / Cow Bay Rd',44.61717,-63.46378,0,1721921
+8670,'8670','Samuel Danial Dr / Melrose Cr',44.61562,-63.46195,0,1721943
+8671,'8671','Melrose Cr @ Civic 180',44.61330,-63.46425,0,1721944
+8672,'8672','Heritage Hls Dr / Serop Cr',44.61190,-63.46847,0,1721945
+8673,'8673','Heritage Hls Dr / Cow Bay Rd',44.61331,-63.47000,0,1721946
+8674,'8674','Cow Bay Rd / Caldwell Rd',44.61243,-63.47235,0,1721947
+8679,'8679','Cow Bay Rd / Disciples Way',44.61210,-63.49244,0,1721952
+8681,'8681','Glendale Ave @ Civic 21',44.75899,-63.65841,0,1721975
+8682,'8682','Glendale Ave / Ests Rd',44.75856,-63.65362,0,1721976
+8687,'8687','Hwy 7 / Civic 4225',44.74093,-63.32974,0,1721981
+8688,'8688','Hwy 7 / 2nd Parker Ln',44.73989,-63.34720,0,1721982
+8692,'8692','Parkland Dr / Castlepark Grv',44.68119,-63.67820,0,1722007
+8693,'8693','Hwy 7 / Civic 2491',44.72183,-63.41083,0,1722008
+8695,'8695','Silver Dart Dr @ Halifax Airport',44.88625,-63.51571,0,1722010
+8696,'8696','Barnes Dr @ Civic 573',44.88144,-63.51954,0,1722011
+8697,'8697','Barnes Dr / Red Wing Dr',44.87926,-63.52173,0,1722012
+8698,'8698','Pratt & Whitney Dr @ Civic 200',44.86184,-63.54367,0,1722013
+8699,'8699','Pratt & Whitney Dr / Civic 189',44.86091,-63.54338,0,1722014
+8701,'8701','Sackville Dr @ Civic 1823',44.79851,-63.73438,0,1722688
+8704,'8704','Pratt & Whitney Dr @ Civic 645',44.87172,-63.53420,0,1722691
+8705,'8705','Pratt & Whitney Dr / Civic 645',44.87175,-63.53451,0,1722692
+8709,'8709','Beaver Bank Rd / Glendale Dr',44.78304,-63.69161,0,1722696
+8710,'8710','Beaver Bank Rd / Stokil Dr',44.79109,-63.69229,0,1722718
+8711,'8711','Beaver Bank Rd / Windgate Dr',44.79684,-63.68980,0,1722719
+8712,'8712','Beaver Bank Rd / Woodbine Dr',44.79908,-63.68834,0,1722720
+8713,'8713','Beaver Bank Rd / Welkin Dr',44.80189,-63.68821,0,1722721
+8714,'8714','Beaver Bank Rd / Majestic Ave',44.80687,-63.68813,0,1722722
+8715,'8715','Beaver Bank Rd @ Civic 619',44.81389,-63.68615,0,1722723
+8716,'8716','Beaver Bank Rd / Pinehaven Dr',44.81756,-63.68444,0,1722724
+8717,'8717','Beaver Bank Rd / Grv Ave',44.82162,-63.68123,0,1722725
+8718,'8718','Beaver Bank Rd / Mayflower Ave',44.82461,-63.68072,0,1722726
+8719,'8719','Beaver Bank Rd / Mdw Dr',44.83065,-63.68098,0,1722727
+8720,'8720','Beaver Bank Rd / Trinity Ln',44.83328,-63.68143,0,1722749
+8721,'8721','Beaver Bank Rd / Pinehurst Way',44.83721,-63.67922,0,1722750
+8722,'8722','Beaver Bank Rd / Rosley Rd',44.84465,-63.68483,0,1722751
+8746,'8746','Beaver Bank Rd / Rosley Rd',44.84482,-63.68477,0,1722817
+8747,'8747','Beaver Bank Rd / Pinehurst Way',44.83825,-63.67924,0,1722818
+8748,'8748','Beaver Bank Rd / Guptill Cl',44.83591,-63.68021,0,1722819
+8749,'8749','Beaver Bank Rd / Mdw Dr',44.83036,-63.68092,0,1722820
+8750,'8750','Beaver Bank Rd / Danny Dr',44.82443,-63.68071,0,1722842
+8751,'8751','Beaver Bank Rd / Grv Ave',44.82185,-63.68120,0,1722843
+8752,'8752','Beaver Bank Rd / Pinehaven Dr',44.81779,-63.68449,0,1722844
+8753,'8753','Beaver Bank Rd / Civic 632',44.81334,-63.68621,0,1722845
+8754,'8754','Beaver Bank Rd / Majestic Ave',44.80755,-63.68824,0,1722846
+8755,'8755','Beaver Bank Rd / Welkin Dr',44.80172,-63.68823,0,1722847
+8757,'8757','Beaver Bank Rd / Millwood Dr',44.79136,-63.69233,0,1722849
+8758,'8758','Beaver Bank Rd @ Civic 82',44.78420,-63.69219,0,1722850
+8759,'8759','Cole Harbour Rd / Bisset Rd',44.67245,-63.47719,0,1722851
+8760,'8760','Cole Harbour Rd / Ross Rd',44.68244,-63.45417,0,1722873
+8761,'8761','Ross Rd / Greenvale Cr',44.68469,-63.45361,0,1722874
+8762,'8762','Ross Rd / Brookside Ave',44.68756,-63.45362,0,1722875
+8763,'8763','Ross Rd / Glendale Dr',44.69137,-63.45576,0,1722876
+8764,'8764','Ross Rd @ Civic 156',44.69611,-63.45881,0,1722877
+8765,'8765','Ross Rd / Salmon River Dr',44.70074,-63.46136,0,1722878
+8766,'8766','Ross Rd / Hwy 7',44.70387,-63.46520,0,1722879
+8768,'8768','Hwy 7 / Lower Governor St',44.71531,-63.43459,0,1722881
+8769,'8769','Brooks Dr / East Preston Rec Ctr',44.71974,-63.43339,0,1722882
+8770,'8770','Brooks Dr @ Civic 253',44.72678,-63.42673,0,1722904
+8771,'8771','Brooks Dr @ Civic 344',44.72792,-63.41953,0,1722905
+8772,'8772','Upper Partridge River Rd @ Civic 52',44.72497,-63.41867,0,1722906
+8773,'8773','Hwy 7 / Lower Partridge River Rd',44.72230,-63.41633,0,1722907
+8774,'8774','Hwy 7 / 2nd Diggs Dr',44.72100,-63.40770,0,1722908
+8775,'8775','Hwy 7 / Mineville Rd',44.72183,-63.40047,0,1722909
+8776,'8776','Hwy 7 / Canopy Ln',44.73002,-63.39370,0,1722910
+8777,'8777','Hwy 7 / Robina Dr',44.73429,-63.39087,0,1722911
+8778,'8778','Hwy 7 / Linda Ln',44.73650,-63.38822,0,1722912
+8779,'8779','Hwy 7 / Kings Way',44.73946,-63.38636,0,1722913
+8780,'8780','Hwy 7 / Cir Dr',44.73899,-63.38147,0,1722935
+8781,'8781','Hwy 7 @ Civic 3372',44.73735,-63.37712,0,1722936
+8782,'8782','Hwy 7 / Sandy Ln',44.74060,-63.32482,0,1722937
+8783,'8783','Hwy 7 / Davidsons Rd',44.73988,-63.31942,0,1722938
+8784,'8784','Hwy 7 / West Porters Lk Rd',44.73760,-63.31021,0,1722939
+8785,'8785','Hwy 7 / This St',44.73878,-63.30538,0,1722940
+8786,'8786','Hwy 7 / Post Office Rd',44.74299,-63.30075,0,1722941
+8787,'8787','Hwy 7 / Cv Rd',44.74698,-63.30027,0,1722942
+8788,'8788','Hwy 7 / Millside Dr',44.74665,-63.29216,0,1722943
+8800,'8800','Stonehaven Rd / Alton Dr',44.63519,-63.62963,0,1723648
+8801,'8801','Alton Dr / Kelly St',44.63446,-63.62926,0,1723649
+8802,'8802','Walter Havill Dr / Osborne St',44.63193,-63.62961,0,1723650
+8803,'8803','Walter Havill Dr / Ridgestone Ct',44.63209,-63.63103,0,1723651
+8804,'8804','Walter Havill Dr / Ridgepark Ln',44.63361,-63.63267,0,1723652
+8805,'8805','Walter Havill Dr / Civic 129',44.63497,-63.63408,0,1723653
+8806,'8806','Walter Havill Dr / Civic 201',44.63543,-63.63685,0,1723654
+8807,'8807','Ragged Lk Blvd / Prospect Rd',44.62759,-63.66557,0,1723655
+8809,'8809','Walter Havill Dr / Dunbrack St',44.63537,-63.63714,0,1723657
+8810,'8810','Walter Havill Dr @ Civic 150',44.63507,-63.63502,0,1723679
+8811,'8811','Walter Havill Dr / Civic 76',44.63360,-63.63283,0,1723680
+8812,'8812','Walter Havill Dr / Ridgestone Ct',44.63204,-63.63194,0,1723681
+8813,'8813','Walter Havill Dr / Osborne St',44.63196,-63.62972,0,1723682
+8814,'8814','Brooks Dr / Lk Eagle Dr',44.72461,-63.43041,0,1723683
+8816,'8816','Edgehill Rd / Quarry Rd',44.63597,-63.63088,0,1723685
+8817,'8817','Hwy 7 / Hummingbird Dr',44.72446,-63.39579,0,1723686
+8818,'8818','Hwy 7 / Civic 4212',44.74083,-63.32915,0,1723687
+8819,'8819','Lower Water St / Bishop St',44.64313,-63.56926,0,1723688
+8821,'8821','Lower Water St / Sackville St',44.64650,-63.57109,0,1723711
+8822,'8822','Hollis St / Prince St',44.64763,-63.57292,0,1723712
+8823,'8823','Hollis St / Sackville St',44.64626,-63.57222,0,1723713
+8824,'8824','Hollis St / Bishop St',44.64393,-63.57108,0,1723714
+8825,'8825','Hollis St / Morris St',44.64257,-63.57031,0,1723715
+8826,'8826','Hollis St / Term Rd',44.64082,-63.56944,0,1723716
+8827,'8827','Brooks Dr @ Lk Eagle Dr',44.72471,-63.43039,0,1723717
+8841,'8841','Baker Dr / Norm Newman Dr',44.66746,-63.53110,0,1723773
+8842,'8842','Baker Dr / Coldstream Run',44.66545,-63.52992,0,1723774
+8843,'8843','Baker Dr / Freshwater Tr',44.66316,-63.52992,0,1723775
+8844,'8844','Hwy 7 / Parker Ln',44.73982,-63.34713,0,1723776
+8845,'8845','Baker Dr @ Civic 220',44.65854,-63.53005,0,1723777
+8846,'8846','Baker Dr / Basswood Run',44.65578,-63.52927,0,1723778
+8847,'8847','Baker Dr / Basswood Run',44.65556,-63.52926,0,1723779
+8848,'8848','Baker Dr / Civic 220',44.65827,-63.52954,0,1723780
+8849,'8849','Larry Uteck Blvd / Bedford Hwy',44.69913,-63.66351,0,1723781
+8850,'8850','Baker Dr / Freshwater Tr',44.66351,-63.52976,0,1723803
+8851,'8851','Baker Dr / Coldstream Run',44.66617,-63.53022,0,1723804
+8852,'8852','Baker Dr / Norm Newman Dr',44.66830,-63.53132,0,1723805
+8853,'8853','Commodore Dr / Countryview Dr',44.70050,-63.56572,0,1723806
+8855,'8855','Finlay Dr / Shubie Dr',44.70778,-63.56627,0,1723808
+8856,'8856','Wright Ave / Wilkinson Ave',44.71042,-63.57072,0,1723809
+8857,'8857','Wright Ave / Burbridge Ave',44.71020,-63.57458,0,1723810
+8858,'8858','Wright Ave / John Savage Ave',44.70899,-63.57884,0,1723811
+8859,'8859','Wright Ave / Williams Ave',44.70832,-63.58424,0,1723812
+8860,'8860','Wright Ave / Raddall Ave',44.70573,-63.59340,0,1723834
+8861,'8861','Wright Ave / Venture Run',44.70700,-63.58969,0,1723835
+8862,'8862','Wright Ave @ Civic 340',44.70796,-63.58500,0,1723836
+8863,'8863','Wright Ave / Mellor Ave',44.70878,-63.57940,0,1723837
+8864,'8864','Wright Ave / Burbridge Ave',44.71000,-63.57448,0,1723838
+8865,'8865','Wright Ave / Wilkinson Ave',44.71000,-63.57002,0,1723839
+8866,'8866','Lower Water St / Morris St',44.64194,-63.56851,0,1723840
+8867,'8867','Wright Ave / Joseph Zatzman Dr',44.70587,-63.59329,0,1723841
+8868,'8868','Cranberry Cr / Mt Edward Rd',44.68886,-63.50455,0,1723842
+8869,'8869','Larry Uteck Blvd / Bedford Hwy',44.69921,-63.66217,0,1723843
+8873,'8873','Larry Uteck Blvd / Jacob Ln',44.69978,-63.66825,0,1723868
+8874,'8874','Larry Uteck Blvd @ Civic 357',44.70196,-63.67232,0,1723869
+8875,'8875','Larry Uteck Blvd @ Civic 461',44.70185,-63.67586,0,1723870
+8876,'8876','Larry Uteck Blvd / Southgate Dr',44.70085,-63.67930,0,1723871
+8877,'8877','Larry Uteck Blvd / Nine Mile Dr',44.70082,-63.68433,0,1723872
+8878,'8878','Larry Uteck Blvd @ Civic 630',44.70061,-63.68287,0,1723873
+8879,'8879','Larry Uteck Blvd / Southgate Dr',44.70080,-63.67922,0,1723874
+8880,'8880','Larry Uteck Blvd @ Civic 420',44.70193,-63.67528,0,1723896
+8881,'8881','Larry Uteck Blvd @ Civic 290',44.70159,-63.67115,0,1723897
+8882,'8882','Larry Uteck Blvd / Jacob Ln',44.69943,-63.66789,0,1723898
+8883,'8883','University Ave / Robie St',44.63821,-63.58502,0,1723899
+8884,'8884','Morris St / Barrington St',44.64151,-63.57236,0,1723900
+8885,'8885','Morris St / Barrington St',44.64171,-63.57176,0,1723901
+8886,'8886','Gary Martin Dr / Hammonds Plains Rd',44.72590,-63.70322,0,1723902
+8889,'8889','Acadia St / Ragus Rd',44.65697,-63.54600,0,1723905
+8890,'8890','Acadia St / Pleasant St',44.65625,-63.54820,0,1723927
+8891,'8891','Mt Hope Ave / Ests Rd',44.65572,-63.54312,0,1723928
+8892,'8892','Mt Hope Ave / Neptune Cr',44.65666,-63.54155,0,1723929
+8893,'8893','Mt Hope Ave / Neptune Cr',44.65668,-63.54113,0,1723930
+8894,'8894','Shubie Dr / Kiltearn Row',44.70697,-63.56501,0,1723931
+8909,'8909','Lakeview Shopping Ctr',44.74402,-63.28321,0,1724618
+8910,'8910','Hwy 7 / Loriann Dr',44.74690,-63.29261,0,1724640
+8911,'8911','Hwy 7 / Cv Rd',44.74707,-63.30031,0,1724641
+8912,'8912','Hwy 7 / Post Office Rd',44.74368,-63.30111,0,1724642
+8913,'8913','Hwy 7 / Laurie Ln',44.73880,-63.30557,0,1724643
+8914,'8914','Hwy 7 / Narrows Ln',44.73790,-63.30905,0,1724644
+8915,'8915','Hwy 7 / Davidsons Rd',44.73987,-63.31929,0,1724645
+8916,'8916','Hwy 7 / Sandy Ln',44.74067,-63.32455,0,1724646
+8917,'8917','Hwy 7 @ Civic 3351',44.73768,-63.37791,0,1724647
+8918,'8918','Hwy 7 / Cir Dr',44.73916,-63.38170,0,1724648
+8919,'8919','Hwy 7 / Kings Way',44.73875,-63.38721,0,1724649
+8920,'8920','Hwy 7 / Martin Lk Dr',44.73663,-63.38825,0,1724671
+8921,'8921','Hwy 7 / Robina Dr',44.73422,-63.39111,0,1724672
+8922,'8922','Hwy 7 / Canopy Ln',44.72985,-63.39384,0,1724673
+8923,'8923','Hwy 7 / Bell St',44.72182,-63.40071,0,1724674
+8924,'8924','Hwy 7 / O''Hearn Ln',44.72119,-63.40829,0,1724675
+8925,'8925','Hwy 7 @ Civic 2403',44.72235,-63.41537,0,1724676
+8926,'8926','Upper Partridge River Rd / Civic 103',44.72599,-63.41936,0,1724677
+8927,'8927','Brooks Dr / Civic 362',44.72838,-63.42115,0,1724678
+8928,'8928','Brooks Dr @ Civic 254',44.72681,-63.42679,0,1724679
+8929,'8929','Brooks Dr @ East Preston Rec Ctr',44.71920,-63.43362,0,1724680
+8930,'8930','Hwy 7 / Upper Governor St',44.71549,-63.43450,0,1724702
+8931,'8931','Hwy 7 @ Civic 1799',44.70980,-63.43939,0,1724703
+8932,'8932','Ross Rd / Hwy 7',44.70297,-63.46447,0,1724704
+8933,'8933','Ross Rd / Salmon River Dr',44.70060,-63.46127,0,1724705
+8934,'8934','Ross Rd @ Civic 163',44.69596,-63.45874,0,1724706
+8935,'8935','Ross Rd / Glendale Dr',44.69119,-63.45571,0,1724707
+8936,'8936','Ross Rd / Brookside Ave',44.68737,-63.45361,0,1724708
+8937,'8937','Ross Rd / Greenvale Cr',44.68474,-63.45362,0,1724709
+8938,'8938','Cole Harbour Rd @ Old Lawrencetown Rd',44.68243,-63.45435,0,1724710
+8939,'8939','Cole Harbour Rd / Bisset Rd',44.67254,-63.47672,0,1724711
+8940,'8940','Penhorn Term B:1',44.67085,-63.53870,0,1724733
+8941,'8941','Penhorn Term B:2',44.67081,-63.53859,0,1724734
+8943,'8943','Penhorn Term B:3',44.67076,-63.53837,0,1724736
+8944,'8944','Penhorn Term B:4',44.67084,-63.53824,0,1724737
+8946,'8946','Penhorn Term B:6',44.67069,-63.53821,0,1724739
+8947,'8947','Penhorn Term B:7',44.67056,-63.53866,0,1724740
+8948,'8948','Penhorn Term B:8',44.67070,-63.53827,0,1724741
+8949,'8949','Portland Hls Term B:1',44.67000,-63.50551,0,1724742
+8950,'8950','Portland Hls Term B:2',44.66981,-63.50561,0,1724764
+8951,'8951','Portland Hls Term B:3',44.66986,-63.50544,0,1724765
+8952,'8952','Portland Hls Term B:4',44.66973,-63.50539,0,1724766
+8953,'8953','Portland Hls Term B:5',44.66967,-63.50576,0,1724767
+8954,'8954','Portland Hls Term B:6',44.66980,-63.50581,0,1724768
+8955,'8955','Portland Hls Term B:7',44.66989,-63.50586,0,1724769
+8958,'8958','Sackville Term B:1',44.76797,-63.69869,0,1724772
+8959,'8959','Sackville Term B:3',44.76794,-63.69885,0,1724773
+8960,'8960','Sackville Term B:4',44.76792,-63.69894,0,1724795
+8961,'8961','Sackville Term B:5',44.76790,-63.69906,0,1724796
+8962,'8962','Woodside Ferry Term B:1',44.64917,-63.54842,0,1724797
+8964,'8964','Woodside Ferry Term B:2',44.64910,-63.54834,0,1724799
+8967,'8967','Sackville Term B:2',44.76795,-63.69878,0,1724802
+9000,'9000','Downsview Dr / Touchstone Ct',44.77229,-63.69570,0,1745751
+9001,'9001','Downsview Dr / Touchstone Ct',44.77268,-63.69509,0,1745752
+9002,'9002','Glendale Ave / Civic 21',44.75906,-63.65780,0,1745753
+9003,'9003','Aerotech Dr / Pratt & Whitney Dr',44.85636,-63.54374,0,1745754
+9004,'9004','Aerotech Dr / Pratt & Whitney Dr',44.85641,-63.54385,0,1745755
+9005,'9005','Millwood Dr @ Millwood HS',44.79013,-63.70942,0,1745756
+9006,'9006','Lower Water St / Salter St',44.64490,-63.57026,0,1745757
+9007,'9007','Pleasant St / Prince Arthur Ave',44.66020,-63.55211,0,1745758
+9009,'9009','Cole Harbour Rd / Perron Dr',44.67268,-63.48069,0,1745760
+9010,'9010','Cole Harbour Rd / Perron Dr',44.67256,-63.48158,0,1745782
+9011,'9011','Barnes Dr / Baldwin Dr',44.87369,-63.52715,0,1745783
+9012,'9012','Barnes Dr / Baldwin Dr',44.87344,-63.52747,0,1745784
+9013,'9013','Barnes Dr @ Civic 677',44.87569,-63.52519,0,1745785
+9014,'9014','Barnes Dr @ Civic 619',44.87854,-63.52236,0,1745786
+9015,'9015','Barnes Dr / Civic 675',44.87563,-63.52531,0,1745787
+9020,'9020','Lancaster Dr / St Pauls Ave',44.56919,-63.56240,0,1745813
+9021,'9021','Leiblin Dr @ Sportsfield',44.59984,-63.63146,0,1745814
+9023,'9023','Bedford Hwy / Moirs Mill Rd',44.71378,-63.67729,0,1745816
+9024,'9024','Bedford Hwy / Meadowbrook Dr',44.72515,-63.66825,0,1745817
+9025,'9025','Parkland Dr / Heathside Cr',44.67288,-63.67590,0,1745818
+9026,'9026','Parkland Dr @ Civic 634',44.67515,-63.67639,0,1745819
+9027,'9027','Parkland Dr / Civic 680',44.67674,-63.67772,0,1745820
+9028,'9028','Parkland Dr / Civic 767',44.68002,-63.67826,0,1745821
+9029,'9029','Parkland Dr / Castlepark Grv',44.68163,-63.67791,0,1745822
+9030,'9030','Parkland Dr / Kearney Lk Rd',44.68302,-63.67617,0,1745844
+9035,'9035','Parkland Dr / Civic 767',44.67939,-63.67843,0,1745849
+9036,'9036','Parkland Dr / Civic 680',44.67686,-63.67800,0,1745850
+9037,'9037','Sackville Dr / Beaver Bank Rd',44.77554,-63.69514,0,1745851
+9039,'9039','Charles Rd / Birchdale Ave',44.66259,-63.74879,0,1745853
+9040,'9040','Damascus Rd @ Civic 141',44.75106,-63.64361,0,1745875
+9041,'9041','Damascus Rd @ Civic 150',44.75052,-63.64485,0,1745876
+9042,'9042','Dutch Vlg Rd / Alma Cr',44.65920,-63.63132,0,1745877
+9043,'9043','Parkland Dr / Kearney Lk Rd',44.68309,-63.67628,0,1745878
+9051,'9051','Grassy Lk Dr / Transit Ctr',44.63017,-63.66920,0,1745907
+9053,'9053','Windmill Rd / Fernhill Dr',44.68193,-63.59660,0,1745909
+9056,'9056','Hammonds Plains Rd / Innovation Dr',44.72566,-63.69310,0,1745912
+9057,'9057','Hammonds Plains Rd / Killarney Dr',44.72559,-63.69250,0,1745913
+9061,'9061','Duke St / Albemarle St',44.64879,-63.57681,0,1745938
+9066,'9066','Baker Dr / Lindenwood Terr',44.66109,-63.53026,0,1745943
+9067,'9067','Baker Dr / Lindenwood Terr',44.66168,-63.52997,0,1745944
+9073,'9073','Kelly St / Halef Ct',44.63347,-63.62899,0,1745971
+9076,'9076','Tacoma Dr / Hartlen St',44.68054,-63.53664,0,1745974
+9078,'9078','Hwy 7 / William Porter Connector',44.74466,-63.28644,0,1745976
+9079,'9079','Hwy 7 / William Porter Connector',44.74467,-63.28585,0,1745977
+9080,'9080','Regency Pk Dr / Lacewood Dr',44.65765,-63.66941,0,1745999
+9081,'9081','Regency Pk Dr / Solutions Dr',44.65584,-63.66787,0,1746000
+9082,'9082','Regency Pk Dr / Greenpark Cl',44.65503,-63.66570,0,1746001
+9083,'9083','Thomas Raddall Dr / Regency Pk Dr',44.65505,-63.66429,0,1746002
+9084,'9084','Thomas Raddall Dr @ Civic 210',44.65709,-63.66131,0,1746003
+9085,'9085','Thomas Raddall Dr @ Canada Games Ctr',44.65879,-63.66493,0,1746004
+9086,'9086','Thomas Raddall Dr / Lacewood Dr',44.65904,-63.66556,0,1746005
+9087,'9087','Thomas Raddall Dr / Civic 210',44.65716,-63.66139,0,1746006
+9088,'9088','Thomas Raddall Dr / Regency Pk Dr',44.65502,-63.66436,0,1746007
+9089,'9089','Regency Pk Dr / Greenpark Cl',44.65505,-63.66551,0,1746008
+9090,'9090','Regency Pk Dr / Solutions Dr',44.65677,-63.66890,0,1746030
+9091,'9091','Regency Pk Dr / Lacewood Dr',44.65840,-63.66928,0,1746031
+9092,'9092','Starboard Dr / Peakview Way',44.69949,-63.68582,0,1746032
+9102,'9102','Lacewood Term B:2',44.66107,-63.66259,0,1746714
+9103,'9103','Lacewood Term B:3',44.66091,-63.66285,0,1746715
+9104,'9104','Lacewood Term B:4',44.66079,-63.66307,0,1746716
+9105,'9105','Lacewood Term B:5',44.66066,-63.66331,0,1746717
+9106,'9106','Lacewood Term B:6',44.66058,-63.66346,0,1746718
+9109,'9109','Lacewood Term B:9',44.66072,-63.66380,0,1746721
+9110,'9110','Lacewood Term Bay 10',44.66078,-63.66359,0,1746743
+9111,'9111','Lacewood Term Bay 11',44.66104,-63.66320,0,1746744
+9112,'9112','Lacewood Term Bay 12',44.66110,-63.66292,0,1746745
+9113,'9113','Lacewood Term Bay 13',44.66126,-63.66271,0,1746746
+9114,'9114','Lacewood Term Bay 14',44.66139,-63.66251,0,1746747
+9115,'9115','Wright Ave / Finlay Dr',44.70977,-63.56691,0,1746748
+9116,'9116','Finlay Dr / Wright Ave',44.70873,-63.56624,0,1746749
