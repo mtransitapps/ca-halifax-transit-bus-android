@@ -10,8 +10,6 @@
 501,0,'Scotia Sq',5
 801,0,'Downtown',8
 800,0,'Sackville Term',8
-1001,0,'Dalhousie',10
-1000,0,'Westphal',10
 2100,0,'Lacewood Term',21
 2101,0,'Timberlea',21
 2201,0,'Mumford Term',22
@@ -32,13 +30,13 @@
 5001,0,'Dockyard',50
 5301,0,'Alderney',53
 5300,0,'Highfield Term',53
-5401,0,'Bridge Temrinal',54
+5401,0,'Bridge Term',54
 5400,0,'Montebello',54
 5501,0,'Bridge Term',55
 5500,0,'Port Wallace',55
 5601,0,'Bridge Term',56
 5600,0,'Wrights Cv',56
-5801,0,'Penhorn Temrinal',58
+5801,0,'Penhorn Term',58
 5800,0,'Portland Hls Term',58
 5900,0,'Colby Vlg',59
 5901,0,'Portland Hls Term',59
@@ -106,6 +104,8 @@
 18501,0,'Summer St',185
 18600,0,'Beaver Bank',186
 18601,0,'Summer St',186
+19200,0,'Hemlock Ravine',192
+19201,0,'Summer St',192
 19400,0,'Summer St',194
 19401,0,'West Bedford',194
 19601,0,'Summer St',196
@@ -128,6 +128,8 @@
 1000700,0,'Scotia Sq',10007
 1000901,0,'Downtown',10009
 1000900,0,'Greystone- Fotherby',10009
+1001000,0,'Bridge Term',10010
+1001001,0,'Dalhousie',10010
 1003001,0,'Lacewood Term',10030
 1003000,0,'Parkland',10030
 1005101,0,'Bridge Term',10051
@@ -140,6 +142,8 @@
 2000701,0,'Scotia Sq',20007
 2000901,0,'Downtown',20009
 2000900,0,'Herring Cv',20009
+2001001,0,'Dalhousie',20010
+2001000,0,'Micmac Term',20010
 2003000,0,'Dunbrack',20030
 2003001,0,'Lacewood Term',20030
 2005101,0,'Bridge Term',20051
@@ -148,3 +152,5 @@
 2016801,0,'University Ave',20168
 3000600,0,'Bridge Term',30006
 3000601,0,'Heritage Hls',30006
+3001001,0,'Dalhousie',30010
+3001000,0,'Westphal',30010
