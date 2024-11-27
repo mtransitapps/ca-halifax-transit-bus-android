@@ -4,7 +4,6 @@
 4,'4','Universities','',52,3
 5,'5','Portland','',53,3
 8,'8','Sackville Corridor','',56,3
-10,'10','Dalhousie','',1567,3
 21,'21','Lakeside - Timberlea','',1599,3
 22,'22','Armdale','',1600,3
 24,'24','Leiblin Park','',1602,3
@@ -52,10 +51,11 @@
 183,'183','Springfield Express','00B300',48876,3
 185,'185','Millwood Express','00B300',48878,3
 186,'186','Beaver Bank Express','00B300',48879,3
+192,'192','Hemlock Ravine Express','00B300',48906,3
 194,'194','West Bedford Express','00B300',48908,3
 196,'196','Basinview Express','00B300',48910,3
-320,'320','Airport - Fall River MetroX','F7C007',50609,3
-330,'330','Tantallon - Sheldrake Lake MetroX','F7C007',50640,3
+320,'320','Airport - Fall River Regional Exp','',50609,3
+330,'330','Tantallon - Sheldrake Lake Reg Exp','',50640,3
 370,'370','Porters Lake Regional Express','CD1F36',50764,3
 401,'401','Preston-Porters Lake-Grand Desert','',51509,3
 415,'415','Purcells Cove','',51544,3
@@ -63,13 +63,16 @@
 10006,'6A','Woodside','',1739,3
 10007,'7A','Peninsula','',1770,3
 10009,'9A','Greystone','',1832,3
+10010,'10A','Dalhousie - Bridge Terminal','',48642,3
 10030,'30A','Parkland','',50564,3
 10051,'51A','Windmill','',52517,3
 10168,'168A','Auburn Express','00B300',1513454,3
 20006,'6B','Eastern Passage','',1740,3
 20007,'7B','Peninsula','',1771,3
 20009,'9B','Herring Cove','',1833,3
+20010,'10B','Dalhousie - Micmac Terminal','',48643,3
 20030,'30B','Dunbrack','',50565,3
 20051,'51B','Windmill','',52518,3
 20168,'168B','Cherry Brook Express','00B300',1513455,3
 30006,'6C','Heritage Hills','',1741,3
+30010,'10C','Dalhousie','',48644,3

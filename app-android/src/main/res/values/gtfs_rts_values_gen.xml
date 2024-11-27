@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="gtfs_rts_source_label">halifax.ca</string>
+    <string name="gtfs_rts_agency_id">Halifax</string>
     <integer name="gtfs_rts_agency_type">3</integer>
     <string name="gtfs_rts_timezone">America/Halifax</string>
     <string name="gtfs_rts_color">0000FF</string>
