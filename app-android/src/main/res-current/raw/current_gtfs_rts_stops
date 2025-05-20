@@ -198,7 +198,6 @@
 2221,'2221','Hornes Rd @ Civic 12',44.61828,-63.48128,0,1539199
 2222,'2222','Hornes Rd @ Civic 42',44.61623,-63.48374,0,1539200
 2223,'2223','Hornes Rd @ Civic 74',44.61359,-63.48698,0,1539201
-2224,'2224','North Rdg Rd / Novalea Dr',44.67319,-63.61540,0,1539202
 2225,'2225','Cowie Hl Rd / Dunbrack St',44.62245,-63.62313,0,1539203
 2226,'2226','Cowie Hl Rd / Civic 455',44.62493,-63.62310,0,1539204
 2227,'2227','Forest Hls Pky / 2nd Flying Cloud Dr',44.67931,-63.49175,0,1539205
@@ -303,10 +302,13 @@
 2343,'2343','Cole Harbour Rd @ Civic 1722',44.67965,-63.45883,0,1540224
 2344,'2344','Barrington St / Roundabout',44.65472,-63.58222,0,1540225
 2345,'2345','Barrington St / Roundabout',44.65444,-63.58083,0,1540226
+2346,'2346','Barrington St / Upper Water St',44.65278,-63.57833,0,1540227
 2347,'2347','Barrington St / Upper Water St',44.65306,-63.57861,0,1540228
 2348,'2348','Barrington St / Cogswell St B:2',44.65101,-63.57582,0,1540229
 2349,'2349','Cobequid Rd / Maple Grv Dr',44.76544,-63.64870,0,1540230
-6000,'6000','Akerley Blvd / Burnside Dr',44.71512,-63.58903,0,1656378
+2350,'2350','Barrington St / Smith St',44.63698,-63.56971,0,1540252
+2353,'2353','Prospect Rd / Carpool Pkng Lot',44.63165,-63.66302,0,1540255
+2354,'2354','Young St / Isleville St',44.66142,-63.59986,0,1540256
 6001,'6001','Akerley Blvd @ Civic 75',44.71311,-63.59529,0,1656379
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.71119,-63.60138,0,1656380
 6003,'6003','Akerley Blvd / Joseph Zatzman Dr',44.71212,-63.59813,0,1656381
@@ -954,7 +956,6 @@
 6780,'6780','Gottingen St / Buddy Daye St',44.65493,-63.58769,0,1663353
 6781,'6781','Gottingen St / North St',44.65773,-63.59173,0,1663354
 6782,'6782','Gottingen St / Russell St',44.66119,-63.59662,0,1663355
-6783,'6783','Gottingen St / Russell St',44.66186,-63.59770,0,1663356
 6784,'6784','Hammonds Plains Rd / Doyle St',44.71608,-63.68134,0,1663357
 6785,'6785','Gottingen St / Black St',44.65845,-63.59249,0,1663358
 6786,'6786','Gottingen St / Prince William St',44.65352,-63.58560,0,1663359
@@ -1634,6 +1635,7 @@
 8072,'8072','Princess Margaret Blvd @ Civic 55',44.68827,-63.60704,0,1716179
 8074,'8074','Princess Margaret Blvd / Killkee Gt',44.68924,-63.61024,0,1716181
 8075,'8075','Princess Margaret Blvd / Windmill Rd',44.68636,-63.59943,0,1716182
+8076,'8076','Princess Margaret Blvd / Hudson Way',44.68620,-63.60335,0,1716183
 8078,'8078','Princess Margaret Blvd / Windmill Rd',44.68623,-63.59964,0,1716185
 8080,'8080','Purcells Cv Rd / Civic 2310',44.62238,-63.58490,0,1716208
 8081,'8081','Purcells Cv Rd / Colindale St',44.63033,-63.60892,0,1716209
@@ -2329,7 +2331,6 @@
 9053,'9053','Windmill Rd / Fernhill Dr',44.68193,-63.59660,0,1745909
 9056,'9056','Hammonds Plains Rd / Innovation Dr',44.72566,-63.69310,0,1745912
 9057,'9057','Hammonds Plains Rd / Killarney Dr',44.72559,-63.69250,0,1745913
-9061,'9061','Duke St / Albemarle St',44.64879,-63.57681,0,1745938
 9066,'9066','Baker Dr / Lindenwood Terr',44.66109,-63.53026,0,1745943
 9067,'9067','Baker Dr / Lindenwood Terr',44.66168,-63.52997,0,1745944
 9073,'9073','Kelly St / Halef Ct',44.63347,-63.62899,0,1745971
