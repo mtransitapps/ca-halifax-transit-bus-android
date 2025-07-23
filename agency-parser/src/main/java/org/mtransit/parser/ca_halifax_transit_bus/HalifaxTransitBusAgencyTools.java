@@ -18,9 +18,8 @@ import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-// http://www.halifax.ca/opendata/
-// http://www.halifax.ca/opendata/transit.php
-// http://gtfs.halifax.ca/static/google_transit.zip
+// https://www.halifax.ca/home/open-data
+// https://data-hrm.hub.arcgis.com/pages/open-data-downloads#section-3
 public class HalifaxTransitBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
