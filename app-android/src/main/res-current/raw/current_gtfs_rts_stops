@@ -295,13 +295,13 @@
 2328,'2328','St Margarets Bay Rd / Raines Mill Rd',44.63784,-63.69448,0,1540167
 2329,'2329','Pinecrest Dr @ Civic 112',44.68552,-63.58652,0,1540168
 2330,'2330','St Margarets Bay Rd @ Civic 1917',44.64749,-63.71592,0,1540190
-2332,'2332','Pinecrest Dr / Crystal Dr',44.68558,-63.58395,0,1540192
+2331,'2331','Hillsboro Dr / Karen Dr',44.69617,-63.49291,0,1540191
 2333,'2333','Barrington St / Artz St',44.65836,-63.58739,0,1540193
 2340,'2340','Hwy 7 / Glasgow Rd',44.71366,-63.43810,0,1540221
 2341,'2341','Hwy 7 / Glasgow Rd',44.71375,-63.43818,0,1540222
 2342,'2342','Cole Harbour Rd / To Pacific Ave',44.67912,-63.46020,0,1540223
 2343,'2343','Cole Harbour Rd @ Civic 1722',44.67965,-63.45883,0,1540224
-2344,'2344','Barrington St / Roundabout',44.65472,-63.58222,0,1540225
+2344,'2344','Barrington St / Roundabout',44.65492,-63.58235,0,1540225
 2345,'2345','Barrington St / Roundabout',44.65444,-63.58083,0,1540226
 2346,'2346','Barrington St / Upper Water St',44.65278,-63.57833,0,1540227
 2347,'2347','Barrington St / Upper Water St',44.65306,-63.57861,0,1540228
@@ -325,6 +325,11 @@
 2366,'2366','Commodore Dr / John Savage',44.70229,-63.57530,0,1540289
 2367,'2367','Larry Uteck Blvd / Brookline Dr',44.70867,-63.70936,0,1540290
 2368,'2368','Larry Uteck Blvd / Broad St',44.70882,-63.70918,0,1540291
+2369,'2369','Pinecrest Dr / Primrose St',44.68473,-63.58240,0,1540292
+2370,'2370','Larry Uteck / Abbington Ave',44.70758,-63.70840,0,1540314
+2371,'2371','Larry Uteck / Brookline Dr',44.70773,-63.70884,0,1540315
+2372,'2372','Barrington St / Devonshire Ave',44.66311,-63.59239,0,1540316
+2373,'2373','1st Lk Dr / Cavendish Dr',44.77465,-63.66144,0,1540317
 6001,'6001','Akerley Blvd @ Civic 75',44.71311,-63.59529,0,1656379
 6002,'6002','Akerley Blvd / Joseph Zatzman Dr',44.71119,-63.60138,0,1656380
 6003,'6003','Akerley Blvd / Joseph Zatzman Dr',44.71212,-63.59813,0,1656381
@@ -400,7 +405,7 @@
 6085,'6085','Barrington St / Prince St',44.64696,-63.57395,0,1656631
 6087,'6087','Barrington St / Duke St B:1',44.65068,-63.57569,0,1656633
 6088,'6088','Barrington St / Artz St',44.65679,-63.58519,0,1656634
-6090,'6090','Barrington St / Devonshire Ave',44.66328,-63.59274,0,1656657
+6090,'6090','Barrington St / Devonshire Ave',44.66267,-63.59206,0,1656657
 6093,'6093','Barrington St / Grn St',44.63723,-63.56948,0,1656660
 6096,'6096','Barrington St / South St',44.64025,-63.57057,0,1656663
 6097,'6097','Barrington St / South St',44.64018,-63.57055,0,1656664
@@ -408,7 +413,7 @@
 6099,'6099','Barrington St / Glebe St',44.67243,-63.60529,0,1656666
 6100,'6100','Barrington St @ Civic 3356',44.66863,-63.59999,0,1657339
 6102,'6102','Barrington St / Blowers St',44.64582,-63.57340,0,1657341
-6104,'6104','Barrington St / Nora Bernard St',44.65434,-63.58209,0,1657343
+6104,'6104','Barrington St / Nora Bernard St',44.65477,-63.58241,0,1657343
 6105,'6105','Barrington St / Cogswell St B:3',44.65126,-63.57624,0,1657344
 6106,'6106','Barrington St / Duke St',44.64871,-63.57477,0,1657345
 6107,'6107','Barrington St / Duke St B:5',44.64966,-63.57535,0,1657346
@@ -423,7 +428,6 @@
 6122,'6122','Barrington St / Spg Gdn Rd',44.64473,-63.57285,0,1657403
 6123,'6123','Barrington St / Spg Gdn Rd',44.64326,-63.57195,0,1657404
 6124,'6124','Barrington St / Spg Gdn Rd',44.64400,-63.57246,0,1657405
-6127,'6127','Barrington St / Devonshire Ave',44.66386,-63.59324,0,1657408
 6129,'6129','Basinview Dr / Atlee Ct',44.72344,-63.68128,0,1657410
 6130,'6130','Basinview Dr / Gln Moir Terr',44.71851,-63.68104,0,1657432
 6131,'6131','Basinview Dr / Hammonds Plains Rd',44.71747,-63.68247,0,1657433
@@ -887,7 +891,6 @@
 6684,'6684','1st Lk Dr / Quaker Cr',44.77695,-63.66549,0,1662396
 6685,'6685','1st Lk Dr / Cabot Cr',44.77290,-63.65893,0,1662397
 6686,'6686','1st Lk Dr / Cavendish Dr',44.77408,-63.66037,0,1662398
-6687,'6687','1st Lk Dr / Cavendish Dr',44.77408,-63.66054,0,1662399
 6688,'6688','1st Lk Dr / Cobequid Rd',44.76882,-63.64454,0,1662400
 6689,'6689','1st Lk Dr / Crimson Dr',44.77118,-63.65762,0,1662401
 6690,'6690','1st Lk Dr / Lakehead Ct',44.77743,-63.67331,0,1662423
@@ -957,6 +960,7 @@
 6768,'6768','Gottingen St / Almon St',44.65972,-63.59455,0,1663299
 6769,'6769','Gottingen St / North St',44.65755,-63.59132,0,1663300
 6770,'6770','Gottingen St / Young St',44.66229,-63.59841,0,1663322
+6771,'6771','Gottingen St / Cogswell St',44.65093,-63.58178,0,1663323
 6773,'6773','Gottingen St / Cogswell St',44.65087,-63.58167,0,1663325
 6774,'6774','Gottingen St / Charles St',44.65571,-63.58875,0,1663326
 6775,'6775','Gottingen St / Prince William St',44.65399,-63.58635,0,1663327
@@ -964,7 +968,6 @@
 6777,'6777','Gottingen St / Black St',44.65868,-63.59317,0,1663329
 6778,'6778','Gottingen St / Nora Bernard St',44.65207,-63.58347,0,1663330
 6779,'6779','Gottingen St / Cunard St',44.65324,-63.58519,0,1663331
-6780,'6780','Gottingen St / Buddy Daye St',44.65493,-63.58769,0,1663353
 6781,'6781','Gottingen St / North St',44.65773,-63.59173,0,1663354
 6782,'6782','Gottingen St / Russell St',44.66119,-63.59662,0,1663355
 6784,'6784','Hammonds Plains Rd / Doyle St',44.71608,-63.68134,0,1663357
@@ -1112,7 +1115,6 @@
 6931,'6931','Highfield St / Punch Bowl Dr',44.62685,-63.61764,0,1665121
 6932,'6932','Hillsboro Dr / Auburn Dr',44.69374,-63.49188,0,1665122
 6933,'6933','Hillsboro Dr / Auburn Dr',44.69352,-63.49180,0,1665123
-6934,'6934','Hillsboro Dr / Main St',44.69665,-63.49302,0,1665124
 6935,'6935','Hillsboro Dr / Barbara Dr',44.69619,-63.49286,0,1665125
 6938,'6938','Hollis St / Barrington St',44.63909,-63.56936,0,1665128
 6940,'6940','Hubley Ctr',44.70285,-63.85824,0,1665151
@@ -1411,7 +1413,6 @@
 7317,'7317','Sackville Dr / Hamilton Dr',44.79571,-63.72822,0,1689090
 7318,'7318','Sackville Dr @ Civic 791',44.77388,-63.69308,0,1689091
 7319,'7319','Sackville Dr / Lively Rd',44.79526,-63.72547,0,1689092
-7322,'7322','Sackville Dr / Millwood Dr',44.78147,-63.70775,0,1689116
 7323,'7323','Sackville Dr / Oakdale Dr',44.76314,-63.67476,0,1689117
 7324,'7324','Sackville Dr / Wilson Lk Dr',44.79469,-63.72191,0,1689118
 7325,'7325','Sackville Dr / Leaside Dr',44.76689,-63.68297,0,1689119
