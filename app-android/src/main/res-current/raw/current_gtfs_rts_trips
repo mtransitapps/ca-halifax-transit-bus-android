@@ -42,7 +42,7 @@
 5901,0,'Portland Hls Term',59
 6100,0,'North Preston',61
 6101,0,'Portland Hls',61
-6201,0,'Bridge Term',62
+6201,0,'Bridge Term / Penhorn Term',62
 6200,0,'Gaston',62
 6301,0,'Penhorn Term',63
 6300,0,'Portland Hls',63
@@ -140,7 +140,7 @@
 2000601,0,'Eastern Passage',20006
 2000700,0,'Gottingen',20007
 2000701,0,'Scotia Sq',20007
-2000901,0,'Downtown',20009
+2000901,0,'Dentith / Downtown',20009
 2000900,0,'Herring Cv',20009
 2001001,0,'Dalhousie',20010
 2001000,0,'Micmac Term',20010
@@ -152,5 +152,5 @@
 2016801,0,'University Ave',20168
 3000600,0,'Bridge Term',30006
 3000601,0,'Heritage Hls',30006
-3001001,0,'Dalhousie',30010
-3001000,0,'Westphal',30010
+3001001,0,'Dalhousie / Micmac Term / Tacoma Ctr',30010
+3001000,0,'Dalhousie / Westphal',30010
