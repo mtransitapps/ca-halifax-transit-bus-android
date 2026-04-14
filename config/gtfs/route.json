@@ -82,12 +82,12 @@
             "route_id": 100003
         },
         {
-            "route_short_name": "HWST",
-            "route_id": 100004
-        },
-        {
             "route_short_name": "FV01",
             "route_id": 100101
+        },
+        {
+            "route_short_name": "HWST",
+            "route_id": 100004
         },
         {
             "route_short_name": "MACK",
