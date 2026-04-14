@@ -27,7 +27,7 @@
 67,'67','Baker','',1729,3
 68,'68','Cherry Brook','',1730,3
 72,'72','Portland Hills','',1755,3
-82,'82','First Lake','',1786,3
+82,'82','1st Lake','',1786,3
 83,'83','Springfield','',1787,3
 84,'84','Glendale Express','',1788,3
 85,'85','Millwood','',1789,3
@@ -47,7 +47,7 @@
 159,'159','Colby Express','00B300',48789,3
 161,'161','North Preston Express','00B300',48812,3
 165,'165','Caldwell Express','00B300',48816,3
-182,'182','First Lake Express','00B300',48875,3
+182,'182','1st Lake Express','00B300',48875,3
 183,'183','Springfield Express','00B300',48876,3
 185,'185','Millwood Express','00B300',48878,3
 186,'186','Beaver Bank Express','00B300',48879,3
@@ -55,7 +55,7 @@
 194,'194','West Bedford Express','00B300',48908,3
 196,'196','Basinview Express','00B300',48910,3
 320,'320','Airport - Fall River Regional Exp','',50609,3
-330,'330','Tantallon - Sheldrake Lake Reg Exp','',50640,3
+330,'330','Tantallon - Sheldrake Lk Reg Exp','',50640,3
 370,'370','Porters Lake Regional Express','',50764,3
 401,'401','Preston-Porters Lake-Grand Desert','',51509,3
 415,'415','Purcells Cove','',51544,3

@@ -1,73 +1,6 @@
 {
     "default_route_id_enabled": true,
     "use_route_short_name_for_route_id": true,
-    "route_short_name_cleaners": [
-        {
-            "regex": "cp1",
-            "ignore_case": true,
-            "replacement": "CP1"
-        },
-        {
-            "regex": "ecrl",
-            "ignore_case": true,
-            "replacement": "ECRL"
-        },
-        {
-            "regex": "ecs",
-            "ignore_case": true,
-            "replacement": "ECS"
-        },
-        {
-            "regex": "fv01",
-            "ignore_case": true,
-            "replacement": "FV01"
-        },
-        {
-            "regex": "hwst",
-            "ignore_case": true,
-            "replacement": "HWST"
-        },
-        {
-            "regex": "mack",
-            "ignore_case": true,
-            "replacement": "MACK"
-        },
-        {
-            "regex": "macd",
-            "ignore_case": true,
-            "replacement": "MACD"
-        },
-        {
-            "regex": "s14",
-            "ignore_case": true,
-            "replacement": "S14"
-        },
-        {
-            "regex": "sp6",
-            "ignore_case": true,
-            "replacement": "SP6"
-        },
-        {
-            "regex": "sp14",
-            "ignore_case": true,
-            "replacement": "SP14"
-        },
-        {
-            "regex": "sp53",
-            "ignore_case": true,
-            "replacement": "SP53"
-        },
-        {
-            "regex": "sp58",
-            "ignore_case": true,
-            "replacement": "SP58"
-        },
-        {
-            "regex": "sp65",
-            "ignore_case": true,
-            "replacement": "SP65"
-        }
-    ],
     "route_short_name_to_route_id_configs": [
         {
             "route_short_name": "CP1",
@@ -130,18 +63,18 @@
         }
     ],
     "route_colors_ignored": [
-        "7476D9"
+        "7476D9",
+        "0000FF"
     ],
     "direction_finder_enabled": true,
-    "stop_id_clean_merged": true,
-    "use_stop_id_for_stop_code": true,
+    "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [
         {
             "regex": "(^)(\\d+)(\\w?)(\\s)",
             "ignore_case": true
         },
         {
-            "regex": "([\\s]*only[\\s]*$)",
+            "regex": "([\\s]+only[\\s]*$)",
             "ignore_case": true
         },
         {
@@ -152,9 +85,12 @@
         {
             "regex": "express",
             "ignore_case": true,
-            "is_word": true
+            "is_word": true,
+            "replacement": " "
         }
     ],
+    "stop_id_clean_merged": true,
+    "use_stop_id_for_stop_code": true,
     "stop_name_cleaners": [
         {
             "regex": "(\\[[^]]*])",
