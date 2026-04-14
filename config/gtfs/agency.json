@@ -1,0 +1,12 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "00558C",
+    "default_color_comment": "BLUE (web site CSS)",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true,
+    "to_lower_upper_case_words": true,
+    "ignore_upper_case_words": [
+        "SMU",
+        "MSVU"
+    ]
+}

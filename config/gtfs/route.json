@@ -1,0 +1,114 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "CP1",
+            "route_id": 100001
+        },
+        {
+            "route_short_name": "ECRL",
+            "route_id": 100002
+        },
+        {
+            "route_short_name": "ECS",
+            "route_id": 100003
+        },
+        {
+            "route_short_name": "FV01",
+            "route_id": 100101
+        },
+        {
+            "route_short_name": "HWST",
+            "route_id": 100004
+        },
+        {
+            "route_short_name": "MACK",
+            "route_id": 100005
+        },
+        {
+            "route_short_name": "MACD",
+            "route_id": 100006
+        },
+        {
+            "route_short_name": "S14",
+            "route_id": 100114
+        },
+        {
+            "route_short_name": "SP6",
+            "route_id": 100106
+        },
+        {
+            "route_short_name": "SP14",
+            "route_id": 100014
+        },
+        {
+            "route_short_name": "SP53",
+            "route_id": 100053
+        },
+        {
+            "route_short_name": "SP58",
+            "route_id": 100058
+        },
+        {
+            "route_short_name": "SP65",
+            "route_id": 100065
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "(\\* )",
+            "ignore_case": true
+        }
+    ],
+    "route_colors_ignored": [
+        "7476D9",
+        "0000FF"
+    ],
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(^)(\\d+)(\\w?)(\\s)",
+            "ignore_case": true
+        },
+        {
+            "regex": "([\\s]+only[\\s]*$)",
+            "ignore_case": true
+        },
+        {
+            "regex": "metrolink",
+            "ignore_case": true,
+            "is_word": true
+        },
+        {
+            "regex": "express",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": " "
+        }
+    ],
+    "stop_id_clean_merged": true,
+    "use_stop_id_for_stop_code": true,
+    "stop_name_cleaners": [
+        {
+            "regex": "(\\[[^]]*])",
+            "ignore_case": true
+        },
+        {
+            "regex": "(([^<]+)(<)([^>]+)(>))",
+            "ignore_case": true,
+            "replacement": "$2$4"
+        },
+        {
+            "regex": "((\\s)*(after and opposite|afteropposite|after|before and opposite|beforeopposite|before|in front of|opposite and after|opposite and before|oppositeafter|oppositebefore|opposite)(\\s)*)",
+            "ignore_case": true,
+            "replacement": " / "
+        },
+        {
+            "regex": "([ ]*\\([\\d]+\\)$)",
+            "ignore_case": true
+        }
+    ]
+}
