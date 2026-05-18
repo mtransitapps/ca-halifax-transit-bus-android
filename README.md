@@ -5,7 +5,7 @@
 
 ## Download on the Play Store
 
-<a href="https://play.google.com/store/apps/details?id=org.mtransit.android.ca_halifax_transit_bus"><img width="25%" height="25%" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
+<a href="https://play.google.com/store/apps/details?id=org.mtransit.android.ca_halifax_transit_bus"><img width="25%" height="25%" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
 
 ## Screenshots
 
@@ -19,10 +19,6 @@
 
 [Facebook](https://www.facebook.com/MonTransit) | [Twitter/X](https://twitter.com/montransit) | [Instagram](https://www.instagram.com/mtransit.apps) | [Threads](https://www.threads.com/@mtransit.apps)
 
-## BETA program
-
-Learn more about the BETA program [here](https://github.com/mtransitapps/mtransit-for-android/wiki/BETA)
-
 ## License
 
-* [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+* [Apache Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
