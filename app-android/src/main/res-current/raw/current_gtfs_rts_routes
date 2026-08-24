@@ -55,7 +55,6 @@
 194,'194','West Bedford Express','00B300',48908,3
 196,'196','Basinview Express','00B300',48910,3
 320,'320','Airport - Fall River Regional Exp','',50609,3
-330,'330','Tantallon - Sheldrake Lk Reg Exp','',50640,3
 370,'370','Porters Lake Regional Express','',50764,3
 401,'401','Preston-Porters Lake-Grand Desert','',51509,3
 415,'415','Purcells Cove','',51544,3
@@ -67,6 +66,7 @@
 10030,'30A','Parkland','',50564,3
 10051,'51A','Windmill','',52517,3
 10168,'168A','Auburn Express','00B300',1513454,3
+10330,'330A','Tantallon','',1569905,3
 20006,'6B','Eastern Passage','',1740,3
 20007,'7B','Peninsula','',1771,3
 20009,'9B','Herring Cove','',1833,3
@@ -74,5 +74,6 @@
 20030,'30B','Dunbrack','',50565,3
 20051,'51B','Windmill','',52518,3
 20168,'168B','Cherry Brook Express','00B300',1513455,3
+20330,'330B','Tantallon - Sheldrake Lk Reg Exp','',1569906,3
 30006,'6C','Heritage Hills','',1741,3
 30010,'10C','Dalhousie','',48644,3

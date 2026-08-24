@@ -112,8 +112,6 @@
 19601,0,'Summer St',196
 32000,0,'Airport',320
 32001,0,'Downtown Hfx',320
-33001,0,'Scotia Sq',330
-33000,0,'Sheldrake Lk & Tantallon',330
 37001,0,'Downtown Hfx',370
 37000,0,'Porters Lake',370
 40101,0,'Porters Lake',401
@@ -136,6 +134,8 @@
 1005100,0,'Ocean Breeze',10051
 1016800,0,'Auburn',10168
 1016801,0,'University Ave',10168
+1033001,0,'Scotia Square',10330
+1033000,0,'Tantallon',10330
 2000600,0,'Bridge Term',20006
 2000601,0,'Eastern Passage',20006
 2000700,0,'Gottingen',20007
@@ -150,6 +150,8 @@
 2005100,0,'Wrights Cove',20051
 2016800,0,'Cherry Brk',20168
 2016801,0,'University Ave',20168
+2033001,0,'Scotia Sq',20330
+2033000,0,'Sheldrake Lk & Tantallon',20330
 3000600,0,'Bridge Term',30006
 3000601,0,'Heritage Hls',30006
 3001001,0,'Dalhousie',30010
